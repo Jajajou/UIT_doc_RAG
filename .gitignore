@@ -1,0 +1,5 @@
+﻿.venv/
+logs/
+__pycache__/
+playwright/.cache/
+*.pyc

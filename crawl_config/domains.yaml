@@ -1,0 +1,37 @@
+seeds:
+  - https://daa.uit.edu.vn/thong-bao
+  - https://daa.uit.edu.vn/van-ban
+  - https://daa.uit.edu.vn/van-ban/quy-dinh
+  - https://daa.uit.edu.vn/van-ban/quy-che
+  - https://oep.uit.edu.vn/thong-bao
+  - https://www.uit.edu.vn/tin-tuc
+  - https://fit.uit.edu.vn
+
+allowed_domains:
+  - uit.edu.vn
+  - www.uit.edu.vn
+  - fit.uit.edu.vn
+  - oep.uit.edu.vn
+  - daa.uit.edu.vn
+  - link.uit.edu.vn
+
+include_patterns:
+  - '^https?://(www\.)?uit\.edu\.vn(/(tin-tuc|thong-bao|news).*)?$'
+  - '^https?://fit\.uit\.edu\.vn(/.*)?$'
+  - '^https?://oep\.uit\.edu\.vn(/.*)?$'
+  - '^https?://daa\.uit\.edu\.vn(/(thong-bao|van-ban|vanban|quy-dinh|quy-che|tin-tuc).*)?$'
+  - '^https?://daa\.uit\.edu\.vn/sites/daa/files/uploads/.*$'
+  - '^https?://link\.uit\.edu\.vn/.*$'
+
+exclude_patterns:
+  - '\.(jpg|jpeg|png|gif|svg|webp|ico)$'
+
+file_extensions:
+  - .pdf
+  - .doc
+  - .docx
+  - .xls
+  - .xlsx
+  - .ppt
+  - .pptx
+  - .zip

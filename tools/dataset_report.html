@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UIT Crawler Dataset Report</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .header {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            color: #667eea;
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #666;
+            font-size: 1.1em;
+        }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .stat-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        .stat-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+        }
+        .stat-card h3 {
+            color: #667eea;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 10px;
+        }
+        .stat-card .value {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #333;
+        }
+        .stat-card .label {
+            color: #999;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        .chart-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .chart-card {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+        }
+        .chart-card h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+        .chart-container {
+            position: relative;
+            height: 300px;
+        }
+        .url-list {
+            background: white;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            margin-bottom: 30px;
+        }
+        .url-list h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+        }
+        .url-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.9em;
+        }
+        .url-table th {
+            background: #667eea;
+            color: white;
+            padding: 12px;
+            text-align: left;
+            font-weight: 600;
+        }
+        .url-table td {
+            padding: 10px 12px;
+            border-bottom: 1px solid #eee;
+        }
+        .url-table tr:hover {
+            background: #f8f9ff;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: 600;
+        }
+        .status-200 { background: #d4edda; color: #155724; }
+        .status-other { background: #fff3cd; color: #856404; }
+        .status-none { background: #f8d7da; color: #721c24; }
+        .type-badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 0.85em;
+            font-weight: 600;
+            background: #e7f3ff;
+            color: #004085;
+        }
+        .footer {
+            background: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            text-align: center;
+            color: #666;
+            margin-top: 30px;
+        }
+        .alert {
+            background: #fff3cd;
+            border-left: 4px solid #ffc107;
+            padding: 15px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        .alert h3 {
+            color: #856404;
+            margin-bottom: 10px;
+        }
+        .alert ul {
+            margin-left: 20px;
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="header">
+            <h1>🎓 UIT Crawler Dataset Report</h1>
+            <p>Generated on 2025-10-07 11:12:02</p>
+        </div>
+
+        <!-- Statistics Cards -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <h3>Total Items</h3>
+                <div class="value">19</div>
+                <div class="label">URLs Crawled</div>
+            </div>
+            <div class="stat-card">
+                <h3>HTML Pages</h3>
+                <div class="value">11</div>
+                <div class="label">Saved Pages</div>
+            </div>
+            <div class="stat-card">
+                <h3>Files</h3>
+                <div class="value">7</div>
+                <div class="label">Downloaded Files</div>
+            </div>
+            <div class="stat-card">
+                <h3>Total Links</h3>
+                <div class="value">11053</div>
+                <div class="label">Extracted Links</div>
+            </div>
+            <div class="stat-card">
+                <h3>Total Storage</h3>
+                <div class="value">27.1 MB</div>
+                <div class="label">
+                    Files: 22.6 MB<br>
+                    HTML: 3.5 MB<br>
+                    Meta: 1.0 MB
+                </div>
+            </div>
+            <div class="stat-card">
+                <h3>Domains</h3>
+                <div class="value">1</div>
+                <div class="label">Unique Domains</div>
+            </div>
+        </div>
+
+        
+
+        <!-- Charts -->
+        <div class="chart-grid">
+            <div class="chart-card">
+                <h2>📊 Status Codes</h2>
+                <div class="chart-container">
+                    <canvas id="statusChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <h2>📁 Content Types</h2>
+                <div class="chart-container">
+                    <canvas id="ctypeChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <h2>🌐 By Domain</h2>
+                <div class="chart-container">
+                    <canvas id="domainChart"></canvas>
+                </div>
+            </div>
+            <div class="chart-card">
+                <h2>📄 File Extensions</h2>
+                <div class="chart-container">
+                    <canvas id="extChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <div class="chart-grid">
+            <div class="chart-card" style="grid-column: 1 / -1;">
+                <h2>📅 Crawl Timeline</h2>
+                <div class="chart-container">
+                    <canvas id="timelineChart"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- URL List -->
+        <div class="url-list">
+            <h2>🔗 Crawled URLs (19)</h2>
+            <div style="overflow-x: auto;">
+                <table class="url-table">
+                    <thead>
+                        <tr>
+                            <th>URL</th>
+                            <th>Status</th>
+                            <th>Type</th>
+                            <th>Domain</th>
+                            <th>Links</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn/van-ban/quy-che">https://daa.uit.edu.vn/van-ban/quy-che</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>28</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="http://www.uit.edu.vn/sites/vi/files/uploads/files/201607/bctdg_dhcntt_2016.pdf">http://www.uit.edu.vn/sites/vi/files/uploads/files/201607/bctdg_dhcntt_2016.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sites/vi/files/images/ThongTin/2012/NOI%20QUY%20CO%20QUAN%20DHCNTT-QD241.pdf">https://www.uit.edu.vn/sites/vi/files/images/ThongTin/2012/NOI%20QUY%20CO%20QUAN%20DHCNTT-QD241.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn/van-ban/quy-dinh">https://daa.uit.edu.vn/van-ban/quy-dinh</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>28</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://fit.uit.edu.vn">https://fit.uit.edu.vn</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>210</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn">https://daa.uit.edu.vn</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>138</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn/sites/daa/files/uploads/53_qd_dhcntt_19_2_2019scan.pdf">https://daa.uit.edu.vn/sites/daa/files/uploads/53_qd_dhcntt_19_2_2019scan.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sitemap.xml?page=1">https://www.uit.edu.vn/sitemap.xml?page=1</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>10007</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sites/vi/files/uploads/files/202507/quy_che_attt_uit_final.pdf">https://www.uit.edu.vn/sites/vi/files/uploads/files/202507/quy_che_attt_uit_final.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://oep.uit.edu.vn">https://oep.uit.edu.vn</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>27</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sitemap.xml?page=2">https://www.uit.edu.vn/sitemap.xml?page=2</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn/thong-bao">https://daa.uit.edu.vn/thong-bao</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>28</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sites/vi/files/uploads/files/202509/929_qd_dhqg.pdf">https://www.uit.edu.vn/sites/vi/files/uploads/files/202509/929_qd_dhqg.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/sites/vi/files/uploads/files/202409/07_nq_hdtdhcntt_09_9_2024.pdf">https://www.uit.edu.vn/sites/vi/files/uploads/files/202409/07_nq_hdtdhcntt_09_9_2024.pdf</td>
+                            <td><span class="status-badge status-200">200</span></td>
+                            <td><span class="type-badge">file</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://daa.uit.edu.vn/van-ban">https://daa.uit.edu.vn/van-ban</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>28</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://fit.uit.edu.vn/vi/thong-bao">https://fit.uit.edu.vn/vi/thong-bao</td>
+                            <td><span class="status-badge status-other">500</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>0</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn">https://www.uit.edu.vn</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>232</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://oep.uit.edu.vn/thong-bao">https://oep.uit.edu.vn/thong-bao</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>128</td>
+                        </tr>
+                        
+                        <tr>
+                            <td style="max-width: 500px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;" title="https://www.uit.edu.vn/tin-tuc">https://www.uit.edu.vn/tin-tuc</td>
+                            <td><span class="status-badge status-none">N/A</span></td>
+                            <td><span class="type-badge">html</span></td>
+                            <td>unknown</td>
+                            <td>199</td>
+                        </tr>
+                        
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="footer">
+            <p>🚀 Generated by UIT Crawler Visualization Tool</p>
+            <p style="margin-top: 10px; font-size: 0.9em;">Data source: output_raw/</p>
+        </div>
+    </div>
+
+    <script>
+        const chartConfig = {
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        padding: 15,
+                        font: { size: 12 }
+                    }
+                }
+            },
+            responsive: true,
+            maintainAspectRatio: false
+        };
+
+        const colors = [
+            '#667eea', '#764ba2', '#f093fb', '#4facfe',
+            '#43e97b', '#fa709a', '#fee140', '#30cfd0'
+        ];
+
+        // Status Chart
+        new Chart(document.getElementById('statusChart'), {
+            type: 'doughnut',
+            data: {
+                labels: ["None", 200, 500],
+                datasets: [{
+                    data: [11, 7, 1],
+                    backgroundColor: colors,
+                    borderWidth: 2,
+                    borderColor: '#fff'
+                }]
+            },
+            options: chartConfig
+        });
+
+        // Content Type Chart
+        new Chart(document.getElementById('ctypeChart'), {
+            type: 'pie',
+            data: {
+                labels: ["unknown", "application/pdf", "text/xml", "text/html"],
+                datasets: [{
+                    data: [11, 6, 1, 1],
+                    backgroundColor: colors,
+                    borderWidth: 2,
+                    borderColor: '#fff'
+                }]
+            },
+            options: chartConfig
+        });
+
+        // Domain Chart
+        new Chart(document.getElementById('domainChart'), {
+            type: 'bar',
+            data: {
+                labels: [null],
+                datasets: [{
+                    label: 'Items per Domain',
+                    data: [19],
+                    backgroundColor: '#667eea',
+                    borderRadius: 8
+                }]
+            },
+            options: {
+                ...chartConfig,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+
+        // Extension Chart
+        new Chart(document.getElementById('extChart'), {
+            type: 'bar',
+            data: {
+                labels: [".pdf", ".bin"],
+                datasets: [{
+                    label: 'Files by Extension',
+                    data: [6, 1],
+                    backgroundColor: '#764ba2',
+                    borderRadius: 8
+                }]
+            },
+            options: {
+                ...chartConfig,
+                plugins: {
+                    legend: { display: false }
+                },
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+
+        // Timeline Chart
+        new Chart(document.getElementById('timelineChart'), {
+            type: 'line',
+            data: {
+                labels: ["2025-10-04", "2025-10-06"],
+                datasets: [{
+                    label: 'Items Crawled',
+                    data: [6, 13],
+                    backgroundColor: 'rgba(102, 126, 234, 0.1)',
+                    borderColor: '#667eea',
+                    borderWidth: 3,
+                    fill: true,
+                    tension: 0.4,
+                    pointRadius: 5,
+                    pointHoverRadius: 7,
+                    pointBackgroundColor: '#667eea'
+                }]
+            },
+            options: {
+                ...chartConfig,
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+    </script>
+</body>
+</html>

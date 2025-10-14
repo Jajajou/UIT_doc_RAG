@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-Universal Document OCR Processor
-Xử lý TẤT CẢ file: PDF, DOCX, DOC, XLSX, XLS -> Text
-Lưu vào OCR/data_ocr/
-"""
 import json
 from pathlib import Path
 from typing import Dict, List, Optional

@@ -1,0 +1,57 @@
+ĐỀ CƯƠNG DẠY ÔN TẬP THI CAO HỌC
+PHẦN B: ĐỒ THỊ
+I.- Khái niệm và các tính chất cơ bản
+1. Định nghĩa đồ thị
+ Đồ thị là gì?
+ Y nghĩa (vai trò)
+2. Biểu diễn đồ thị
+3. Các thuật ngữ cơ bản và tính chất:
++ bậc của đỉnh
++ đường đi, chu trình
+4. Đồ thị con, và các phép toán cơ bản trên các đồ thị
+5. Sự liên thông, các thành phần liên thông
+6. Một số dạng đồ thị đặc biệt
+7. Các thuật toán (algorithm) duyệt đồ thị cơ bản: DFS, BFS
+8. Sự đẳng cấu (đẳng hình) giữa 2 đồ thị
+II.- Bài toán đường đi ngắn nhất
+1. Các dạng bài toán tìm đường đi ngắn nhất
+2. Thuật toán Dijkstra
+3. Một số thuật toán khác
+MỘT SỐ DẠNG BÀI TẬP:
+ Tìm đường đi ngắn nhất từ a tới z.
+KQ: một đường đi ngắn nhất từ a tới z.
+ Tìm (các) đường đi ngắn nhất từ a tới tất cả các đỉnh khác a.
+KQ: Sơ đồ cây đường đi ngắn nhất xuất phát từ a.
+ Tìm (các) đường đi ngắn nhất từ a tới các đỉnh trong một tập các đỉnh mục tiêu
+được yêu cầu.
+ Tìm đường đi ngắn nhất từ a tới z thỏa điều kiện ràng buộc.
+III.- Bài toán chu trình
+1. Chu trình Euler, đường Euler
+- Định nghĩa
+- Các định lý Euler
+- Thuật toán
+2. Chu trình Hamilton
+- Định nghĩa, tính chất
+- Một số định lý
+- Thuật toán
+MỘT SỐ DẠNG BÀI TẬP:
+
+ Sự tồn tại chu trình Euler hay đường Euler?
+ Tìm chu trình Euler.
+ Tìm đường Euler.
+ Sự tồn tại chu trình Hamilton?
+ Tìm chu trình hamilton.
+IV.- Cây
+1. Khái niệm cây và các tính chất
+2. Cây bao trùm (hay cây khung), cây bao trùm tối tiểu
+3. Các thuật toán: PRIM, KRUSKAL
+MỘT SỐ DẠNG BÀI TẬP:
+ Tính chất của đồ thị dạng cây.
+ Tìm cây bao trùm (cây khung) nhỏ nhất dùng PRIM hoặc KRUSKAL.
+ Tìm cây bao trùm (cây khung) lớn nhất.
+ Tìm cây bao trùm (cây khung) nhỏ nhất thỏa đk ràng buộc.
+TÀI LIỆU THAM KHẢO:
+1. N.Đ. Nghĩa & N.T. Hùng, Lý thuyết đồ thị, NXB ĐHQG TPHCM, 2004
+2. Nguyêñ Cam & Chu Đức Khánh , Lý thuyết đồ thi,̣ NXB Trẻ , 1998
+3. Kenneth H. Rosen. Discrete Mathematics and its Applications, sixth Edition.
+McGraw-Hill, 2007.

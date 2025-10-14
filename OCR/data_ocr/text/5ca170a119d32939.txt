@@ -1,0 +1,207 @@
+MỘT SỐ QUI ĐỊNH VỀ HÌNH THỨC TRÌNH BÀY 
+KHÓA LUẬN TỐT NGHIỆP
+
+1. CẤU TRÚC CỦA KHOÁ LUẬN 
+
+Bìa chính khóa luận
+
+Bìa phụ khóa luận.
+
+Gáy khóa luận
+
+Trang nhận xét của GVHD (sử dụng bản sao nhận xét của GVHD sau khi đã bảo vệ).
+
+Trang nhận xét GVPB (sử dụng bản sao nhận xét của GVPB sau khi đã bảo vệ).
+
+Lời cám ơn.
+
+Đề cương chi tiết có chữ kí của giáo viên hướng dẫn
+
+Mục lục.
+
+Bảng các hình vẽ, ký hiệu, chữ viết tắt (nếu có) xếp theo thứ tự bảng chữ cái. Không viết tắt những cụm từ dài hoặc cụm từ ít xuất hiện trong khóa luận/ đồ án.
+
+Tóm tắt của khóa luận .
+
+Nội dung của khóa luận (xem phần Bố cục)
+
+2. BỐ CỤC CỦA KHÓA LUẬN 
+
+Tóm tắt khóa luận (Abstract): trình bày tóm tắt vấn đề nghiên cứu, các hướng tiếp cận, cách giải quyết vấn đề và một số kết quả đạt được.
+
+Nội dung khoá luận trình bày tối thiểu 50 trang khổ A4 và không nên vượt quá 100 trang (không kể các trang bìa, lời cám ơn, mục lục, tài liệu tham khảo…)
+
+Theo trình tự như sau:
+
+MỞ ĐẦU (Problem Statement): Trình bày lí do chọn đề tài, mục đích, đối tượng và phạm vi nghiên cứu.
+
+TỔNG QUAN (Overview/Literature review/Related work/Backgrounds): Phân tích đánh giá các hướng nghiên cứu đã có của các tác giả trong và ngoài nước liên quan đến đề tài; nêu những vấn đề còn tồn tại; chỉ ra những vấn đề mà đề tài cần tập trung, nghiên cứu giải quyết.
+
+NGHIÊN CỨU THỰC NGHIỆM HOẶC LÍ THUYẾT (Model/Method/Solutions): Trình bày cơ sở lí thuyết, lí luận, giả thiết khoa học và phương pháp nghiên cứu đã được sử dụng trong khoá luận .
+
+TRÌNH BÀY, ĐÁNH GIÁ BÀN LUẬN VỀ CÁC KẾT QUẢ (Evaluation/Experimental Results/Validation): Mô tả ngắn gọn công việc nghiên cứu khoa học đã tiến hành, các kết quả nghiên cứu khoa học hoặc kết quả thực nghiệm. 
+
+KẾT LUẬN (Summary/Conclusion): Trình bày những kết quả đạt được, những đóng góp mới và những đề xuất mới. Phần kết luận cần ngắn gọn, không có lời bàn và bình luận thêm.
+
+HƯỚNG PHÁT TRIỂN (Future work): Kiến nghị về những hướng nghiên cứu tiếp theo
+
+DANH MỤC TÀI LIỆU THAM KHẢO (References): Chỉ bao gồm các tài liệu được trích dẫn, sử dụng và đề cập tới để bàn luận trong khoá luận . 
+
+PHỤ LỤC (Appendices).
+
+3. HÌNH THỨC TRÌNH BÀY
+
+Khóa luận phải được trình bày ngắn gọn, rõ ràng, mạch lạc, sạch sẽ, không được tẩy xóa, có đánh số trang, đánh số bảng biểu, hình vẽ, đồ thị. Nội dung phân thành các chương.
+
+Font chữ Unicode: Times New Roman, kích thước(size) 13pt.
+
+Dãn dòng (line spacing) đặt ở chế độ 1.5 lines.
+
+Lề trên 3 cm, lề dưới 3.5 cm, lề trái 3.5 cm, lề phải 2 cm.
+
+Đánh số trang:
+
+Các trang Lời cảm ơn, nhận xét của CBHD, CBPB, Đề cương chi tiết, Các mục lục không đánh số trang.
+
+Bắt đầu đánh số trang từ phần Tóm tắt của Khóa luận: đánh số trang ở giữa bên dưới, theo hệ thống số Ả-rập.
+
+Các bảng biểu trình bày theo chiều ngang khổ giấy thì đầu bảng là lề trái của trang. 
+
+Cách đánh danh mục bảng, hình vẽ:
+
+Chữ số thứ nhất chỉ tên chương
+
+Chữ số thứ hai chỉ thứ tự bảng biểu, sơ đồ, hình,…trong mỗi chương
+
+Ở cuối mỗi bảng biểu, sơ đồ, hình,…trong mỗi chương phải có ghi chú, giải thích, nêu rõ nguồn trích hoặc sao chụp,…
+
+Các chú thích phải đánh số và viết ghi chú ở cuối mỗi trang.
+
+Số thứ tự của các chương, mục được đánh số bằng hệ thống số Ả-rập, không dùng số La mã. Các mục và tiểu mục được đánh số bằng các nhóm hai hoặc ba chữ số, cách nhau một dấu chấm: số thứ nhất chỉ số chương, chỉ số thứ hai chỉ số mục, số thứ ba chỉ số tiểu mục. Ví dụ:
+
+Chương 3 …(bold, font 14)
+
+		3.1. …(bold, font 13)
+
+			3.1.1. …(bold, font 13)
+
+			3.1.2. …(bold, font 13)
+
+		3.2. …(bold, font 13)
+
+Qui ước ghi tài liệu tham khảo:
+
+Theo chuẩn của IEEE
+
+Danh mục tài liệu tham khảo xếp theo thứ tự alphabet tên tác giả, tài liệu, nơi và năm phát hành.
+
+4. NỘP KHOÁ LUẬN
+
+Lần 1: Nộp cuốn khoá luận:
+
+Mỗi khoá luận sẽ nộp 04 cuốn báo cáo bìa mềm, mỗi cuốn bao gồm:
+
+01 đĩa CD ROM hoặc DVD (phải dán vào bìa sau của cuốn khóa luận), nội dung đĩa theo qui định bên dưới.
+
+Đề cương chi tiết phải có chữ ký của GVHD (theo mẫu, có thể là bản photocopy) và được đóng trực tiếp vào cuốn khóa luận.
+
+Khoá luận được trình bày theo qui định như trên.
+
+Đơn xin bảo vệ khóa luận, có chữ ký của GVHD ( không đóng vào cuốn)
+
+Lần 2: Nộp cuốn khoá luận chính thức:
+
+Một cuốn khoá luận cuối cùng (nộp sau khi bảo vệ ) phải đóng bìa cứng, in chữ nhũ vàng đủ dấu tiếng Việt trên bìa xanh nước biển (theo mẫu).
+
+Sinh viên tự liên hệ và nộp lại cuốn báo cáo đã hiệu chỉnh cho GVPB xem.
+
+Trong cuốn báo cáo, sau trang bìa phụ phải có trang “Nhận xét của GVHD” và trang "Nhận xét của GVPB" (có chữ ký của GVPB xác nhận sinh viên đã chỉnh sửa báo cáo lại theo đúng yêu cầu của Hội đồng). Nếu không có yêu cầu chỉnh sửa vẫn phải có chữ ký của GVPB xác nhận Khóa luận đã đạt yêu cầu. 
+
+Sau trang Lời cám ơn, phải có trang “Đề cương chi tiết của khoá luận” có chữ ký của GVHD (chấp nhận bản Đề cương chi tiết photo).
+
+Đĩa CD phải để trong bìa CD mềm, nộp riêng với Khóa luận.
+
+Sinh viên nộp theo thời gian thông báo của Bộ phận điều hành Chương trình Tiên tiến.
+
+Nội dung và cấu trúc của đĩa CD nộp được qui định như sau: 
+
+Đĩa CD ghi nhãn gồm các thông tin: Tên đề tài, tên SV thực hiện, tên GV hướng dẫn, năm thực hiện, … 
+
+Tổ chức tập tin trên đĩa theo hướng dẫn ở mục tiếp theo.
+
+Hướng dẫn tổ chức cây thư mục trên đĩa:
+
+Thư mục <Tên phần mềm>: gồm hai thư mục 
+
+SETUP: chứa các tập tin dùng để install chương trình thi hành, các tập tin chứa dữ liệu thử tương ứng với kết quả đã báo cáo trong khóa luận trước Hội đồng. Trong trường hợp vì lý do chính đáng, không thể lưu tất cả các thành phần cần thiết để có thể cài đặt, sinh viên cần có hướng dẫn cụ thể, có sơ đồ triển khai, để có thể setup được hệ thống khi cần thiết
+
+SOURCE: chứa các tập tin nguồn, các tập tin dữ liệu thử
+
+Thư mục THESIS: chứa các tập tin tài liệu văn bản của khóa luận /đồ án, với các thư mục con được tổ chức như sau:
+
+DOC: chứa tài liệu dạng .DOC.
+
+PDF: chứa tài liệu dạng .PDF.
+
+ABS: chứa báo cáo khóa luận gồm báo cáo dạng .PPT, .AVI, ... (phải cập nhật phiên bản cuối cùng khi bảo vệ)
+
+Thư mục REF: chứa các tài liệu, văn bản dùng để tham khảo khi thực hiện khóa luận. Tên các tập tin tài liệu tham khảo được đặt theo qui ước ghi tài liệu tham khảo hoặc tên gợi nhớ.
+
+Thư mục SOFT: chứa các phần mềm liên quan trong quá trình thực hiện khóa luận.
+
+Ngoài thư mục gốc phải có tập tin hướng dẫn sử dụng cho việc sử dụng đĩa CD, có đầy đủ thông tin liên lạc với nhóm tác giả (email, điện thoại).
+
+Kết quả bảo vệ của Sinh viên chỉ  được công nhận khi sinh viên thực hiện đầy đủ các yêu cầu và nộp đúng hạn quy định. Sau thời hạn nộp, Bộ phận điều hành Chương trình Tiên tiến sẽ tiến hành kiểm tra và ra quyết định hủy kết quả bảo vệ, đề nghị Trường không công nhận tốt nghiệp đối với các sinh viên vi phạm những qui định này.
+
+[MẪU TRANG NHẬN XÉT CỦA CÁN BỘ HƯỚNG DẪN/PHẢN BIỆN]
+
+COMMENTS OF THESIS’S REVIEWER/ADVISOR
+
+[MẪU ĐỀ CƯƠNG CHI TIẾT]
+
+THESIS PROPOSAL
+UNIVERSITY OF INFORMATION TECHNOLOGY
+ADVANCED PROGRAM
+IN INFORMATION SYSTEMS | 
+ | 
+Thesis title: | Thesis title: | Thesis title:
+< TITLE in UPPERCASE > | < TITLE in UPPERCASE > | < TITLE in UPPERCASE >
+Students: | Students: | Advisor:
+<Fullname of student 1> - <ID 1> |  | <Fullname of Advisor>
+< Fullname of student 2> - <ID 2> |  | 
+Comments
+……….
+Overall assessment: (please choose one of the following categories: Fair/Good/Excellent/Outstanding)
+Mark:
+<Student 1>:………../10
+<Student 2>:………../10 | Comments
+……….
+Overall assessment: (please choose one of the following categories: Fair/Good/Excellent/Outstanding)
+Mark:
+<Student 1>:………../10
+<Student 2>:………../10 | Comments
+……….
+Overall assessment: (please choose one of the following categories: Fair/Good/Excellent/Outstanding)
+Mark:
+<Student 1>:………../10
+<Student 2>:………../10
+ | Ho Chi Minh city, <Date>
+Reviewer
+(Ký tên và ghi rõ họ tên)
+
+
+
+
+UNIVERSITY OF INFORMATION TECHNOLOGY
+ADVANCED PROGRAM
+IN INFORMATION SYSTEMS | 
+ | 
+THESIS TITLE: | THESIS TITLE:
+Advisor: | Advisor:
+Duration: (From date to date) | Duration: (From date to date)
+Students: (Fullnames and student IDs) | Students: (Fullnames and student IDs)
+Contents: (Describe the details of what to be done, scope, objectives, methodologies, expected results) | Contents: (Describe the details of what to be done, scope, objectives, methodologies, expected results)
+Research time lines: (Plan of action: describe the planning and the assigned tasks for each students) | Research time lines: (Plan of action: describe the planning and the assigned tasks for each students)
+Approved by the advisor(s)
+Signature(s) of advisor(s) | Ho Chi Minh city, …/…/…
+Signature(s) of student(s)

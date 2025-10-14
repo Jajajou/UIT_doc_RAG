@@ -1,0 +1,25 @@
+Kế hoạch giảng dạy Ngành Khoa học máy tính - Chương trình liên kết BCU
+Giai đoạn | Học kỳ | Tên môn học | Ghi chú
+1 | 1 | Lập trình | 
+1 | 1 | Mạng máy tính | 
+1 | 1 | Thực hành nghề nghiệp | 
+1 | 1 | Toán cho Tin học | 
+1 | 2 | An toàn máy tính | 
+1 | 2 | Quản lý dự án máy tính thành công | 
+1 | 2 | Thiết kế và phát triển cơ sở dữ liệu | 
+1 | 2 | Kiến trúc máy tính | 
+1 | 3 | Dự án nghiên cứu | 
+1 | 3 | Lập trình nâng cao | 
+1 | 3 | Toán rời rạc | 
+1 | 3 | Cấu trúc dữ liệu và giải thuật | 
+1 | 4 | Công nghệ kinh doanh thông minh | 
+1 | 4 | Máy học | 
+1 | 4 | Điện toán đám mây | 
+ | 5 | Thực tập | 
+2 | 6 | Lập trình hàm | 
+2 | 6 | Trí tuệ nhân tạo và máy học | 
+2 | 6 | Công nghệ di động và web I | 
+2 | 6 | Kỹ thuật khả dụng | 
+2 | 7 | Bảo đảm và an ninh thông tin | 
+2 | 7 | Công nghệ di động và web II | 
+2 | 7 | Dự án cá nhân |

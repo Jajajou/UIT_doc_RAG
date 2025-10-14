@@ -1,0 +1,24 @@
+Kế hoạch giảng dạy Ngành Mạng máy tính và An toàn thông tin BCU
+
+Phân phối các môn học theo từng học kỳ
+Học kỳ | Tên môn học | Ghi chú
+1 | Lập trình | 
+1 | Mạng máy tính | 
+1 | Thực hành nghề nghiệp | 
+1 | Thiết kế và phát triển cơ sở dữ liệu | 
+2 | Bảo mật | 
+2 | Quản lý dự án máy tính thành công | 
+2 | Thiết kế và phát triển website | 
+2 | Kiến trúc máy tính | 
+3 | Dự án nghiên cứu | 
+3 | Công nghệ kinh doanh thông minh | 
+3 | Cấu trúc dữ liệu và giải thuật | 
+4 | Internet of Things | 
+4 | An toàn mạng máy tính | 
+4 | Pháp chứng kỹ thuật số | 
+4 | Quản lý an toàn thông tin | 
+5 | Thực tập | 
+6 | Hoạt động an ninh mạng | 
+6 | Công nghệ mạng nâng cao | 
+7 | Thiết kế và quản lý mạng | 
+7 | Dự án cá nhân |

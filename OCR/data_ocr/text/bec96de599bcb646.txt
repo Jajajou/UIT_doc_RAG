@@ -1,0 +1,195 @@
+FlexAI-1D: A Configurable, Low-Power, and High-Speed AI Accelerator for
+Multi-Model 1-D CNN Processing in Urban Time-Series Monitoring SoC on FPGA
+Nguyen Ngoc Du, Pham Dinh Bao Hoang, Pham Van Hai Phuoc, Ha Trong Nghia
+I. GIỚI THIỆU
+1
+BỐI CẢNH
+v
+Đô thị hóa nhanh chóng và thách thức về phát
+triển bền vững đã cho thấy được tầm quan trọng
+của việc xây dựng “Thành phố Xanh và Thông
+minh” trong việc nâng cao chất lượng cuộc sống.
+Trí tuệ Nhân tạo (AI), đóng vai trò quan trọng
+trong việc phân tích dữ liệu chuỗi thời gian thu
+thập từ mạng lưới cảm biến dày đặc trong thành
+phố (ô nhiễm tiếng ồn, chất lượng không khí,
+mực nước, tiêu thụ năng lượng ...). Việc xử lý
+lượng dữ liệu khổng lồ này đòi hỏi các giải pháp
+tính toán hiệu năng cao, tiêu thụ năng lượng
+thấp và có khả năng triển khai tại biên giúp giảm
+Fig 2. 1D-CNN trong SoC
+độ trễ, giảm tải cho hệ thống máy chủ, tiết kiệm
+băng thông, tăng cường tính riêng tư, bảo mật.
+2
+MỤC TIÊU
+Đề tài này nhằm phát triển FlexAI-1D, một bộ tăng
+tốc AI trên FPGA, với các mục tiêu cụ thể đóng góp
+vào việc xây dựng Thành phố Xanh và Thông minh:
+- Khả năng cấu hình & Hỗ trợ đa dạng Kiến trúc
+- Tiêu thụ năng lượng thấp
+- Tốc độ xử lý cao
+- Tối ưu cho 1D-CNN trong giám sát đô thị
+- Tích hợp SoC
+- Hiệu quả chi phí
+II. KIẾN TRÚC ĐỀ XUẤT
+Fig 3. Kiến trúc tổng quan khối SBA
+Kiến trúc 1D-CNN phức tạp như mạng dựa trên khối Inception
+320 x 1
+Conv1D
+(J=7, stride=2)
+ReLU
+160 x 8
+Inception
+Block
+Inception
+Block
+160 x 8 Inception
+Conv1D
+(J=5, stride=2) Block
+MaxPool Convi1D
+ReLU
+(J=3, stride=1) (J=1,stride=1)
+80 x16
+Inception
+Block
+Inception Convi1D Convi1D Convi1D Convi1D
+Block (J=1,stride=1) (J=1,stride=1) (J=1,stride=1) (J=1,stride=1)
+80 x 16
+Conv1D
+(J=3, stride=2)
+Concatenate
+ReLU
+40 x 32
+ReLU
+Inception
+Block
+Inception
+Block
+40 x 32
+Fig 4. Kiến trúc tổng quan khối PE
+Global Pooling
+1 x 32
+Linear
+Fig 4. Kiến trúc tham khảo Inception
+Fig 4. Kiến trúc tổng quan khối ALU
+AXI
+Mapper
+FlexAI-1D Program in C
+GCC
+Main CPU
+DMA
+Controller
+DDRAM
+Memory
+Processing System
+Interconnect
+Central
+GP
+HP
+FlexAI-1D Accelerator
+Context
+PC
+Control signals
+Weight/ PEA Context
+Bias Mem. Controller Memory
+Sharing Buffer Allocator (SBA)
+PE PE PE
+0 1 2 PEM-1
+Processing Element Array (PEA)
+AXI
+Mapper
+Software
+FlexAI-1D Program in C
+GCC
+Main CPU
+DMA
+Controller
+DDRAM
+Memory
+Processing System
+Interconnect
+Central
+GP
+HP
+FlexAI-1D Accelerator
+Context
+PC
+Control signals
+Weight/ PEA Context
+Bias Mem. Controller Memory
+Sharing Buffer Allocator (SBA)
+PE PE PE
+0 1 2 PEM-1
+Processing Element Array (PEA)
+MUX MUX MUX MUX
+SBA
+PE PE1 PE2 PEM-2
+0
+0
+lexiP
+1
+lexiP
+MUX
+PEM-1
+Mux Mux
+MUX MUX MUX
+Load/Store Unit
+Processing Element (PE) Local Data Memories (LDMs)
+Internal Data Bus
+ULA_GFC
+USL_GFC
+Weight Pixel 0 Pixel 1 Bias Pixel 2
+ALU
+N/0821
+Pixel 0 Pixel 1
+LDM LDM LDM LDM
+0 1 2 3
+16-bit 16-bit 16-bit 16-bit
+Weight/Pixel 0 Pixel 0/Pixel 1 Bias/Pixel 2
+1
+MUX
+>
+XUM
+>
+Acc. 0
+Unified Max
+Pooling
+MAC/ADD
+ReLU
+MUX
+ALU
+Pixel out
+ULA_GFC
+III. ĐẶC TÍNH VÀ ƯU ĐIỂM
+Kiến trúc FlexAI-1D khi tích hợp vào SoC
+với các thành phần được liệt kê bên trên
+1. Đặc tính
+2. Ưu điểm
+Để cung cấp dữ liệu cho các Khối Xử lý
+song song, khối Phân bổ Bộ đệm Chia sẻ
+(SBA) được sử dụng để định tuyến các
+sample dữ liệu đầu vào từ bộ đệm chung
+đến các PE cụ thể, giảm thiểu truy cập bộ
+nhớ ngoài.
+Khả năng tính toán dựa trên Mảng các Khối
+IV. PHẠM VI ỨNG DỤNG
+Xử lý (PEA), trong đó mỗi Khối Xử lý (PE) có
+kiến trúc như 4. Mỗi PE chứa các bộ nhớ cục
+bộ để lưu trữ một phần dữ liệu, giảm thiểu
+việc truy cập vào bộ nhớ đệm chung.
+Bên trong mỗi PE sử dụng ALU chuyên biệt
+cho 1D-CNN
+Bên cạnh khối chính, có các khối phụ trợ sau:
+- Khối giao tiếp: giao tiếp với PS và bộ nhớ
+ngoài, truyền dữ liệu và nhận lệnh điều kh-
+iển/cấu hình từ CPU.
+- Khối Điều khiển Trung tâm: giải mã Tập
+lệnh Cấu hình chuyên dụng, quản lí các luồng
+dữ liệu phức tạp cho các cấu trúc liên kết
+mạng đa dạng
+- Bộ nhớ Ngữ cảnh (Context Memory): lưu trữ
+chuỗi các lệnh cấu hình đã được biên dịch
+- Bộ nhớ Trọng số/Độ lệch (Weights/Bias
+Memory) SRAM/BRAM trên chip dùng để lưu
+trữ trọng số và các giá trị độ lệch của mô hình
+CNN đang được thực thi

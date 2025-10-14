@@ -1,0 +1,73 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2023 - 2024 - Thời gian bảo vệ: 25/01/2024
+Thời
+CB HƯỚNG CÁN BỘ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Phòng Thứ tự gian
+DẪN PHẢN BIỆN
+bảo vệ
+Phòng E6.1
+Tào Viễn Hoàng Thiết kế một EDA Tool để thực hiện Design an EDA tool to do the TS. Nguyễn CLC-
+1 19521211 TS. Đoàn Duy E6.1 S1 8h00
+Anh chèn Scan trong bước DFT Scan insertion in DFT step Minh Sơn VN
+Phan Công Duy Hệ thống nhận diện biển báo giao Traffic sign recognition system TS. Nguyễn TS. Trịnh Lê CLC-
+2 19520627 E6.1 S2 8h30
+Khiêm thông ứng dụng công nghệ SoC applying SoC technology Minh Sơn Huy VN
+Huỳnh Quang Thái, Nghiên cứu thiết kế hệ thống giám sát Research and design of the
+18521380, TS. Nguyễn ThS. Phan
+3 Nguyễn Văn Thiện chất lượng công việc của thợ sửa chữa monitoring system based on IoT CQĐT E6.1 S3 9h00
+18521369 Minh Sơn Đình Duy
+Tâm điện dựa trên nền tảng IoT flatform for electrician
+Research, design and
+Nghiên cứu, thiết kế, hiện thực giải
+19520369, Nguyễn Lê Hoài Ân, implementing Deep Q-Network TS. Nguyễn TS. Trịnh Lê CLC-
+4 thuật Deep Q-Network (DQN) sử dụng E6.1 S4 9h30
+19522022 Nguyễn Đình Phú (DQN) algorithm using SoC Minh Sơn Huy VN
+công nghệ SoC
+technology
+System for monitoring, TS. Phạm Quốc
+Hệ thống giám sát, quản lý, kiểm soát
+managing, and controlling Hùng, CLC-
+5 20521349 Phan Nhật Hoàng các thiết bị điện, hướng tới phân tích TS. Đoàn Duy E6.1 S5 10h00
+electrical devices; analyze data ThS. Phan Đình VN
+dữ liệu và hành vi người dùng
+and user behavior Duy
+Page 1 of 2
+
+Thời
+CB HƯỚNG CÁN BỘ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Phòng Thứ tự gian
+DẪN PHẢN BIỆN
+bảo vệ
+Phòng E6.3
+ThS. Trần
+Thiết kế và xây dựng cánh tay robot 3 Design and build 3 DOF robotic
+Quang Nguyên, ThS. Phạm CLC-
+1 19521249 Nguyễn Mạnh Bảo trục - Ứng dụng trong dây chuyền công arm – Application in production E6.3 S1 8h00
+TS. Phạm Quốc Minh Quân VN
+nghiệp line
+Hùng
+Design lane detector system for
+Nguyễn Nguyễn Thiết kế hệ thống phát hiện làn đường TS. Lâm Đức ThS. Phạm
+2 19521200 autonomous vehicles based on CQĐT E6.3 S2 8h30
+Nhật Anh cho xe tự hành dựa trên phần cứng Khải Minh Quân
+hardware
+ThS Trương Văn
+Hệ thống quản lý nhân viên bằng mã Employee Management System Cương, TS. Trần Thị CLC-
+3 19521333 Ngô Mẫn Đạt E6.3 S3 9h00
+QR by QR Code ThS. Hồ Ngọc Điểm VN
+Diễm
+Design, fabrication and
+Lê Chu Khánh Toàn
+Thiết kế, chế tạo và đo đạc rectenna tái measurement of a reconfigurable
+20522023, (CLC), TS. Trần Thị CLC-
+4 cấu hình và đề xuất cấu trúc vi mạch rectenna and a proposal of TS. Trịnh Lê Huy E6.3 S4 9h30
+20520882 Phạm Ngọc Lan Điểm VN
+của mạch chỉnh lưu tái cấu hình. reconfigurable rectifier IC
+Anh (CQĐT)
+structure
+19521831, Vũ Văn Mạnh, Xác định chất lượng trứng dùng cảm Determination of eggs quality TS. Phạm Quốc ThS. Phan CLC-
+5 E6.3 S5 10h00
+19522152 Nguyễn Duy Tài biến quang và AI using optical sensor and AI Hùng Đình Duy VN
+Page 2 of 2

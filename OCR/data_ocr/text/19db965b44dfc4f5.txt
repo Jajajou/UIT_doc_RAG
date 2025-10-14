@@ -1,0 +1,45 @@
+ĐẠI HỌC QUỐC GIA TPHCM
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+ĐỀ CƯƠNG CHI TIẾT ÔN THI
+TOÁN RỜI RẠC
+(KỲ THI TUYỂN SINH CAO HỌC ĐỢT 1 NĂM 2017)
+CHƯƠNG I : CƠ SỞ LOGIC
+1.1./ Mệnh đề logic. Các phép nối logic và bảng chân trị.
+Hằng mệnh đề, biến mệnh đề, dạng mệnh đề. Áp dụng.
+Dạng mệnh đề hằng đúng và hằng sai.
+1.2 / Hệ quả logic, tương đương logic. Các luật logic.
+Các dạng tương đương và phủ định của mệnh đề kéo theo. Áp dụng.
+1.3 / Vị từ và lượng từ . Mệnh đề lượng từ và dạng phủ định . Sự hoán đổi các lượng từ.
+1.4/ Các qui tắc suy diễn : phản chứng (dạng 1 và dạng 2), hội tuyển đơn giản, khẳng định (dạng
+1 và dạng 2), phủ định, tam đoạn luận, chứng minh theo các trường hợp. Áp dụng.
+CHƯƠNG II : PHƯƠNG PHÁP ĐẾM
+2.1 / Nguyên lý cộng . Nguyên lý nhân . Nguyên lý bù trừ (đếm các tập hợp dạng hội).
+2.2 / Hoán vị, tổ hợp và chỉnh hợp (không lặp).
+CHƯƠNG III : QUAN HỆ TRÊN CÁC TẬP HỢP
+3.1 / Quan hệ hai ngôi trên một tập hợp.
+Các tính chất phản xạ, đối xứng, phản xứng và truyền.
+3.2 / Biểu diễn quan hệ hai ngôi ( nêu nội dung quan hệ, liệt kê tập hợp các cặp quan hệ) .
+3.3 / Quan hệ thứ tự . Thứ tự toàn phần và bán phần . Biểu đồ Hasse của quan hệ thứ tự.
+Phaàn tử min và max. Các phần tử tối tiểu và tối đại .
+CHƯƠNG IV : HÀM BOOLE
+4.1 / Đại số Boole nhị phân. Hàm Boole và bảng giá trị.
+Đại số Boole của các hàm Boole. Từ đơn. Đơn thức. Đơn thức tối tiểu. Đa thức.
+Dạng công thức đa thức và dạng nối rời chính tắc của hàm Boole.
+4.2 / So sánh các công thức đa thức của hàm Boole . Công thức đa thức tối tiểu.
+4.3 / Phương pháp biểu đồ Karnaugh : bảng mã, tế bào, tế bào lớn , các họ phủ và các họ phủ tối
+tiêu của Kar(f). .
+4.4/. Các cổng AND, OR và NOT.
+Thiêt kế mạng các cổng dựa theo công thức đa thức tối tiểu của hàm Boole.
+-----------------------------------------------------------------------------------------------------------------------------------
+1
+
+TÀI LIỆU THAM KHẢO
+1 / TOÁN RỜI RẠC, Nguyễn Hữu Anh, nhà xuất bản Giáo dục 2002 .
+2/ TOÁN RỜI RẠC, Đỗ Văn Nhơn, nhà xuất bản Đại học quốc gia TPHCM 2010 .
+3/ DISCRETE MATHEMATICS AND ITS APPLICATIONS, Kenneth H. Rosen, Mc Graw - Hill,
+15th edition 2003 ( Bản dịch tiếng Việt : TOÁN HỌC RỜI RẠC ỨNG DỤNG TRONG TIN HỌC,
+nhà xuất bản Khoa học và Kỹ thuật và nhà xuất bản Thống kê ).
+TP. Hồ Chí Minh, ngày 01/ 03 / 2017
+Giảng Viên phụ trách
+TS. LÊ VĂN HỢP
+2

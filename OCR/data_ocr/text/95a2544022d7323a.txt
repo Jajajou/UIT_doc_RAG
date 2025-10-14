@@ -1,0 +1,170 @@
+
+============================================================
+SHEET: Canh bao
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 | Unnamed: 11 | Unnamed: 12 | Unnamed: 13 | Unnamed: 14 | Unnamed: 15 | Unnamed: 16 | Unnamed: 17 | Unnamed: 18
+--------------------------------------------------------------------------------
+PHÒNG ĐÀO TẠO ĐẠI HỌC | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH DỰ KIẾN CẢNH BÁO HỌC KỲ 2 VÀ HÈ NĂM HỌC 2023-2024
+KHOA KỸ THUẬT MÁY TÍNH - CHẤT LƯỢNG CAO
+STT | MASV | Họ và tên | Lý do | TCTL | Điểm TBHK 2,3 | Điểm TBHK 1 | Nguyên nhân
+Kiến nghị của Khoa | Có đơn | MH Nợ | Có ĐKHP | Nợ HP | Đề xuất của PĐTĐH | Lớp SH | Mã GV | Họ Tên | Điện thoại | Số điện thoại SV | Ghi chú
+1 | 19520369 | Nguyễn Lê Hoài Ân | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 138 | 0 | 8.8 | av45 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0365951644
+2 | 19520596 | Nguyễn Đức Huy | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trễ - 2024-01-31 | 101 | 0 | 5.8 | CE224.P14, CE224.P14.1 | Nợ : 6000000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0329592028
+3 | 19521301 | Nguyễn Văn Cường | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 109 | 0 | 0.13 | SE104.P11, SE104.P11.1 | Nợ : 4800000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0917690656
+4 | 19521611 | Lạc Quốc Huy | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 143 | 0 | 7.2 | av5 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0367713875
+5 | 19521630 | Nguyễn Vũ Huy | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 94 | 5.75 | 1.75 | CE118.P12, CE118.P12.1, CE201.P11.MTCL, CE206.P11.MTCL, CE502.P11.MTCL | Nợ : 16800000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0967066377
+6 | 19521688 | Lê Bá Khiêm | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trễ - 2024-01-31 | 139 | 0 | 7 | av45 | Nợ : 3825000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0906813269
+7 | 19521831 | Vũ Văn Mạnh | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trễ - 2024-01-31 | 142 | 0 | 8.33 | av5 | Nợ : 2625000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0975928172
+8 | 19521915 | Nguyễn Lê Nguyên | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trễ - 2024-01-31 | 103 | 2.83 | 4.39 | Nợ : 2625000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0914520490
+9 | 19521942 | Phạm Trí Nhân | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 138 | 8.4 | 6.7 | av45 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0869242572
+10 | 19522004 | Ngô Ngọc Phi | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 117 | 5.67 | 4.26 | Nợ : 2625000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0903380930
+11 | 19522152 | Nguyễn Duy Tài | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trễ - 2024-01-31 | 143 | 0 | 8.44 | av5 | Nợ : 2625000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0388850250
+12 | 19522173 | Nguyễn Mạnh Tấn | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 85 | 4.03 | 3.93 | CE206.P11.MTCL | Nợ : 3600000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0335246250
+13 | 19522194 | Hoàng Thị Hoài Thắm | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-05-15 | 135 | 5.43 | 6.76 | Nợ : 2625000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0943219461
+14 | 19522212 | Nguyễn Văn Thắng | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 135 | 7.07 | 5 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0376078063
+15 | 19522320 | Đỗ Trí Thức | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 128 | 0 | 7.55 | CE505.P11.MTCL, IT001.P127, IT001.P127.1 | Nợ : 14875000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0896426841
+16 | 20521114 | Đỗ Công Bình | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-05-15 | 76 | 5.51 | 5.85 | CE201.P11.MTCL, CE344.P11.MTCL, CE344.P11.MTCL.1, SS010.P11 | Không có thông tin học phí | MTCL2020.1 | 80350 | Ngô Hiếu Trường | 0975108093 | 0327033936
+17 | 20521283 | Trần Văn Hải | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 114 | 5.78 | 7.6 | CE502.P11.MTCL, CE505.P11.MTCL | Nợ : 17100000 | MTCL2020.1 | 80350 | Ngô Hiếu Trường | 0975108093 | 0961044271
+18 | 20521791 | Nguyễn Thanh Quan | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 106 | 5.62 | 6.21 | Nợ : 1900000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0362577532
+19 | 20521807 | Nguyễn Hồng Quang | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 136 | 7.97 | 6.7 | av5 | Nợ : 0 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0349128842
+20 | 20521876 | Nguyễn Hữu Thiên Tân | Bị Cảnh báo vì: 
+  -ĐTB 2 học kỳ liên tiếp < 4 | 71 | 3.51 | 3.25 | CE119.P13.1, CE124.P11, CE124.P11.1, IT002.P12, IT002.P12.2, SS004.P16 | Nợ : 14820000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0886257774
+21 | 20521969 | Trần Quốc Thịnh | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 126 | 7 | 8.96 | CE502.P11.MTCL, CE505.P11.MTCL | Nợ : 0 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0969737231
+22 | 20522077 | Trần Minh Trung | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 68 | 0.75 | 0.79 | IT007.P11.CLC, IT007.P11.CLC.1, SS003.P12, TLH025.P11 | Nợ : 10900000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0938707094
+23 | 20522078 | Trần Tiến Trung | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 119 | 0 | 8.38 | Nợ : -100000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0969730242
+24 | 20522133 | Hoàng Minh Tường | Bị Cảnh báo vì: 
+  -ĐTB 2 học kỳ liên tiếp < 4 | 58 | 3.48 | 2.85 | Nợ : 16000000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0834010727
+25 | 21521028 | Nguyễn Văn Kiên | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 56 | 6.79 | 5.23 | CE118.P14, CE118.P14.1, CE124.P14, CE124.P14.1, CE224.P12, CE224.P12.1 | Nợ : 0 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0375721337
+26 | 21521828 | Nguyễn Công Tuấn Anh | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-05-15 | 91 | 6.25 | 4.35 | CE119.P13.1, CE124.P11, CE124.P11.1, CE206.P11.MTCL, CS116.P11, CS116.P11.1 | Nợ : 1960000 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0945772343
+27 | 21521895 | Seah Uy Cơ | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 86 | 6.84 | 5.74 | CE201.P11.MTCL, CE224.P13, CE224.P13.1, CE344.P11.MTCL, CE344.P11.MTCL.1, SS009.P11 | Không có thông tin học phí | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0904242621
+28 | 21522035 | Nguyễn Xuân Hải | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 91 | 2.97 | 7 | CE201.P11.MTCL, IT007.P11.CLC, IT007.P11.CLC.1 | Nợ : 9600000 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0373933956
+29 | 21522060 | Lê Văn Hiển | Bị Cảnh báo vì: 
+  -Đóng học phí trễ - 2024-01-31 | 124 | 7.76 | 7 | CE206.P11.MTCL, CE410.P11.MTCL, CE410.P11.MTCL.1, CE412.P11.MTCL | Nợ : 0 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0904426746
+30 | 21522084 | Võ Ngọc Hoài | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 78 | 0 | 1.35 | BUS1125.P11, CE118.P11, CE118.P11.1, CE224.P12, CE224.P12.1, CE344.P11.MTCL, CE344.P11.MTCL.1, SS009.P15 | Nợ : 6860000 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0357146708
+31 | 21522088 | Lê Hoàng | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 47 | 0.74 | 0 | CE118.P11, CE118.P11.1, CE119.P11.1, CE124.P13, CE124.P13.1, CE224.P13, CE224.P13.1, CS115.P12, SS007.P15, SS008.P12, SS010.P11 | Nợ : 18620000 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0916610357
+32 | 21522192 | Ngô Tấn Khang | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 62 | 2.2 | 5.5 | IE221.P11, IE221.P11.1, IT007.P11.CLC, IT007.P11.CLC.1 | Nợ : 10899905 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0373079542
+
+============================================================
+SHEET: Buoc thoi hoc
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 | Unnamed: 11 | Unnamed: 12 | Unnamed: 13 | Unnamed: 14 | Unnamed: 15 | Unnamed: 16 | Unnamed: 17 | Unnamed: 18
+--------------------------------------------------------------------------------
+PHÒNG ĐÀO TẠO ĐẠI HỌC | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH DỰ KIẾN BUỘC THÔI HỌC HỌC KỲ 2 VÀ HÈ NĂM HỌC 2023-2024
+KHOA KỸ THUẬT MÁY TÍNH - CHẤT LƯỢNG CAO
+STT | MASV | Họ và tên | Lý do | TCTL | Điểm TBHK 2,3 | Điểm TBHK 1 | Nguyên nhân
+Kiến nghị của Khoa | Có đơn | MH Nợ | Có ĐKHP | Nợ HP | Đề xuất của PĐTĐH | Lớp SH | Mã GV | Họ Tên | Điện thoại | Số điện thoại SV | Ghi chú
+1 | 15520007 | Tô Tiến An | Quá hạn đào tạo tối đa | 137 | 0.53 | 2.92 | Nợ : 10680000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0384396344
+2 | 15520010 | Phạm Hoàng Ân | Quá hạn đào tạo tối đa | 144 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0963855634
+3 | 15520145 | Huỳnh Thái Dương | Quá hạn đào tạo tối đa | 139 | 0 | 0 | Nợ : 3750000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0902315748
+4 | 15520166 | Nguyễn Nhật Duy | Quá hạn đào tạo tối đa | 144 | 0 | 0 | Nợ : 18125000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0836574460
+5 | 15520201 | Phương Quốc Hào | Quá hạn đào tạo tối đa | 123 | 0 | 0 | Nợ : 18125000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0355920225
+6 | 15520217 | Nguyễn Trung Hiệp | Quá hạn đào tạo tối đa | 150 | 0 | 0 | Nợ : 11250000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0774967577
+7 | 15520308 | Nguyễn Quốc Huy | Quá hạn đào tạo tối đa | 119 | 0 | 0 | Nợ : 21250000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0378978240
+8 | 15520309 | Nguyễn Thanh Huy | Quá hạn đào tạo tối đa | 106 | 0 | 0 | Nợ : 20000000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0344044863
+9 | 15520327 | Lê Viết Huỳnh | Quá hạn đào tạo tối đa | 123 | 0 | 0 | Nợ : 13750000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0971917597
+10 | 15520519 | Nguyễn Tuấn Phương Nam | Quá hạn đào tạo tối đa | 140 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0769838958
+11 | 15520551 | Nguyễn Tiến Nghiệp | Quá hạn đào tạo tối đa | 147 | 0 | 0 | Nợ : 7500000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0329899500
+12 | 15520586 | Nguyễn Văn Đông Nhi | Quá hạn đào tạo tối đa | 147 | 0 | 0 | Nợ : 16250000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0969143201
+13 | 15520669 | Võ Thành Phương | Quá hạn đào tạo tối đa | 95 | 0 | 0 | Nợ : 20000000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0346497342
+14 | 15520705 | Nguyễn Quý | Quá hạn đào tạo tối đa | 147 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0348210549
+15 | 15520812 | Nguyễn Sinh Thành | Quá hạn đào tạo tối đa | 147 | 0 | 0 | Nợ : 16250000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0969073342
+16 | 18520587 | Phan Phước Đạt | Quá hạn đào tạo | 146 | 0 | 7.1 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0903110837
+17 | 18520651 | Từ Thanh Dương | Quá hạn đào tạo | 140 | 0 | 5.8 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0392506890
+18 | 18520702 | Nguyễn Ngọc Hải | Quá hạn đào tạo | 133 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0906501385
+19 | 18520706 | Trần Long Hải | Quá hạn đào tạo | 138 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0963569906
+20 | 18520770 | Lê Hoài | Quá hạn đào tạo | 146 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0369883393
+21 | 18520786 | Trần Vũ Hoàng | Quá hạn đào tạo | 145 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0354789794
+22 | 18520793 | Hồ Sỹ Hùng | Quá hạn đào tạo | 123 | 3.27 | 0 | CE206.P11.MTCL | Nợ : 3600000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0358526164
+23 | 18520826 | Hồ Gia Huy | Quá hạn đào tạo | 155 | 5.2 | 4.95 | Nợ : 3500000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0933165382
+24 | 18520928 | Nguyễn Tuấn Khoa | Quá hạn đào tạo | 157 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0989795976
+25 | 18521063 | Lâm Minh Luân | Quá hạn đào tạo | 141 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0375221883
+26 | 18521264 | Trần Hoàng Phước | Quá hạn đào tạo | 148 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0971827161
+27 | 18521366 | Đoàn Văn Minh Tâm | Quá hạn đào tạo | 141 | 6.1 | 0 | Nợ : 5500000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0987980750
+28 | 18521400 | Chế Minh Thành | Quá hạn đào tạo | 138 | 0 | 0 | Nợ : 8750000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0933495236
+29 | 18521469 | Hồ Hải Công Thuận | Quá hạn đào tạo | 132 | 0 | 0 | Nợ : 12250000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0384373606
+30 | 18521543 | Trần Trương Trọng | Quá hạn đào tạo | 134 | 0 | 0 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0918910300
+31 | 18521593 | Đỗ Chí Tuấn | Quá hạn đào tạo | 142 | 0 | 0 | Nợ : 3500000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0865606734
+32 | 18521679 | Trần Quốc Vương | Quá hạn đào tạo | 146 | 0 | 0 | Nợ : 3500000 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0365973646
+33 | 19521202 | Nguyễn Quang Anh | Điểm TB 2 học kỳ liên tiếp = 0 | 141 | 0 | 0 | av5 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0965035001
+34 | 19521318 | Trần Hữu Đăng | Bị buộc thôi học vì : 
+-Bảo lưu không nhập học lại
+-Điểm TB 2 học kỳ liên tiếp = 0 | 63 | 0 | 0 | Không có thông tin học phí | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0909408470
+35 | 19521387 | Cao Phan Tiến Dũng | Điểm TB 2 học kỳ liên tiếp = 0 | 149 | 0 | 0 | av345 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 0335841809
+36 | 19522185 | Lê Trịnh Phong Thái | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Bị cảnh báo vì đóng học phí trễ
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 124 | 0 | 8 | CE505.P11.MTCL, IT001.P127, IT001.P127.1 | Nợ : 0 | KTMT0001 | 80447 | Đoàn Duy | 0942001782 | 02838253055
+37 | 20520283 | Văn Nguyễn Mạnh Phương | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3Đóng học phí trể - 2024-01-31
+ - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+ - Học kỳ trước (1/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 2&hè < 3
+- Đóng học phí trễ | 70 | 0.13 | 1.69 | BUS1125.P11, EC214.P12, EC222.P11.TMCL, IS403.P11.TMCL | Nợ : 13080000 | MTCL2020.1 | 80350 | Ngô Hiếu Trường | 0975108093 | 0913445466
+38 | 20521256 | Trương Thanh Khang Em | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 72 | 0 | 0 | Nợ : 21000000 | MTCL2020.1 | 80350 | Ngô Hiếu Trường | 0975108093 | 0921987136
+39 | 20521889 | Nguyễn Quang Thái | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 54 | 0 | 0 | Nợ : 29250000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0797913492
+40 | 20521939 | Hoàng An Thế | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Bị cảnh báo vì đóng học phí trễ
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 81 | 0 | 6.34 | CE118.P15, CE118.P15.1, CE119.P13.1, CE206.P11.MTCL, CE412.P11.MTCL, CE502.P11.MTCL, MA005.P13, SS010.P16 | Không có thông tin học phí | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0329814907
+41 | 20522162 | Đoàn Anh Vũ | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Buộc thôi học được Hội đồng xem xét hạ mức
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 38 | 0.98 | 0 | Nợ : 1870000 | MTCL2020.2 | 80350 | Ngô Hiếu Trường | 0975108093 | 0707385329
+42 | 21521820 | Khương Việt Anh | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 35 | 0 | 0 | Nợ : 16499805 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0977101045
+43 | 21521853 | Nguyễn Gia Bảo | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 40 | 1.11 | 0.54 | CE118.P14, CE118.P14.1, IT001.P11, IT001.P11.1, IT003.P16, IT003.P16.1, MA005.P12, SS006.P19 | Nợ : 20700000 | MTCL2021 | 80499 | Thân Thế Tùng | 0797071311 | 0982117248

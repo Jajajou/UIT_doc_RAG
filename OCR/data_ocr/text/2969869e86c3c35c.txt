@@ -1,0 +1,251 @@
+ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+TÀI LIỆU
+HƯỚNG DẪN TÂN SINH VIÊN
+SỬ DỤNG PHẦN MỀM MICROSOFT TEAMS
+TRONG HỌC TẬP TẠI UIT
+(Tài liệu được biên soạn lại dựa trên "Hướng dẫn giảng dạy - Học tập trực tuyến
+sử dụng phần mềm Microsoft Teams" của ThS. Đào Lộc Bình
+và ThS. Lương Văn Song, ngày 18/2/2020)
+TP. Hồ Chí Minh, ngày 21 tháng 7 năm 2021
+
+MỤC LỤC
+Chương 1. CÀI ĐẶT, ĐĂNG NHẬP VÀ KHỞI TẠO ........................................... 3
+1.1. Giới thiệu phần mềm và cài đặt: ...................................................................... 3
+1.2. Đăng nhập ......................................................................................................... 3
+1.3. Giao diện và tính năng cơ bản:......................................................................... 3
+1.4. Tham gia lớp học và tạo nhóm: ........................................................................ 4
+1.4.1. Tham gia các lớp học: ................................................................................ 4
+1.4.2. Tạo nhóm học tập: ...................................................................................... 5
+1.4.2.1. Tạo nhóm: ............................................................................................. 5
+1.4.2.2. Bắt đầu buổi họp nhóm: ......................................................................... 7
+Chương 2. CÁC THAO TÁC .................................................................................. 9
+2.1. Các thao tác cơ bản:.......................................................................................... 9
+2.1.1. Posts: ........................................................................................................... 9
+2.1.2. Files: ............................................................................................................ 9
+2.1.3. Class Notebook: ghi chép lại. ................................................................... 10
+2.1.4. Assignments: tạo bài tập, khảo sát. ......................................................... 11
+2.2. Các thao tác nâng cao trong buổi học trực tuyến (meeting) ......................... 11
+Trang 2/16
+
+Chương 1. CÀI ĐẶT, ĐĂNG NHẬP VÀ KHỞI TẠO
+1.1. Giới thiệu phần mềm và cài đặt:
+Microsoft Teams (MS Teams) là một hệ thống cung cấp chat, meetings, notes, và
+tệp đính kèm. Dịch vụ tích hợp với bộ Office 365 cho thuê của công ty, bao gồm bộ
+Microsoft Office và Skype, và các tính năng mở rộng mà có thể tích hợp với các sản phẩm
+không phải của Microsoft.
+Để cài đặt Microsoft Teams:
+- Với tất cả thiết bị: https://teams.microsoft.com/downloads. Hiện tại Teams đã
+hỗ trợ cho Windows, Mac, IOS, Android.
+- Ngoài ra bạn có thể sử dụng trực tiếp trên web tại địa chỉ:
+https://teams.microsoft.com
+1.2. Đăng nhập
+- Tài khoản đăng nhập của sinh viên UIT có dạng mssv@ms.uit.edu.vn.
+- Tài khoản của cán bộ, giảng viên đang làm việc tại trường ĐH Công nghệ Thông
+tin sẽ có dạng khoản abc@hcmuit.edu.vn trong đó abc là tên theo định dạng email
+đang sử dụng.
+1.3. Giao diện và tính năng cơ bản:
+Giao diện phần mềm
+Trang 3/16
+
+Một số tính năng cơ bản của Teams:
+- Teams – Tìm kênh để tham gia hay tạo kênh của chính bạn. Bên trong các kênh,
+bạn có thể tổ chức các cuộc họp tại chỗ, có các cuộc hội thoại và chia sẻ tệp.
+- Calender – Xem tất cả mọi thứ bạn đã sắp xếp trong ngày hay tuần. Hoặc lên
+lịch cho một cuộc họp. Lịch này đồng bộ với lịch Outlook của bạn.
+- Calls – Trong một số trường hợp, nếu tổ chức của bạn đã thiết lập, bạn có thể
+gọi bất kỳ ai từ Teams, ngay cả khi họ không sử dụng Teams.
+- Activity – Bạn sẽ nhìn thấy tất cả các tin nhắn, thông tin được đề cập đến mình,
+các phản hồi (khi bạn đặt câu hỏi trong phần chat, thảo luận) và các thông báo
+khác tại mục này.
+- Chat – Chứa các nhóm, cá nhân bạn đang trao đổi hoặc tạo mới nhóm cá nhân
+để trao đổi cho mục đích của bạn.
+1.4. Tham gia lớp học và tạo nhóm:
+1.4.1. Tham gia các lớp học:
+- Chuẩn bị tai nghe, micro và điện thoại thông minh hoặc PC có kết nối mạng.
+- Cài và đăng nhập vào phần mềm Microsoft Teams trên PC, trên điện thoại hoặc
+sử dụng trực tiếp tại https://teams.microsoft.com. Thông thường, để sử dụng ổn
+định, hiệu quả sinh viên nên sử dụng phần mềm trên laptop.
+- Sử dụng mã Code môn học được cung cấp để tham gia vào lớp học theo lịch thời
+khóa biểu bằng cách chọn Join or Create team -> Nhập Code -> Tham gia lớp
+học.
+(Thực hiện theo hình hướng dẫn)
+1
+2
+3
+Trang 4/16
+
+- Sau khi tham gia vào lớp thành công, sinh viên chọn môn học theo thời khóa
+biểu để bắt đầu vào học online.
+1.4.2. Tạo nhóm học tập:
+1.4.2.1. Tạo nhóm:
+Sinh viên có thể tạo nhóm để trao đổi cùng bạn bè trong quá trình học tập bằng cách
+thực hiện các bước:
+1
+2
+Bước 1: Chọn Teams trên thanh công cụ.
+Bước 2: Click Join or create team
+Bước 3: Chọn Create a team
+3
+Trang 5/16
+
+Bước 4: Chọn hình thức của nhóm
+4
+Tùy theo mục đích mà sinh viên có thể chọn hình thức cho phù hợp. Hiện nay (tính
+đến ngày 21/7/2021), MS Teams của UIT có 6.615 nhóm. Trường chỉ khuyến khích sinh
+viên tạo nhóm cho việc học để việc sử dụng MS Teams thật sự có hiệu quả.
+Admin có thể kiểm soát và thấy tất cả các nhóm được tạo.
+Trang 6/16
+
+Bước 5: Thêm thành viên vào nhóm hoặc bỏ qua và thêm thành viên sau khi đã tạo
+nhóm thành công
+Hết bước này, hệ thống sẽ tự động tạo một Teams.
+Mỗi một nhóm đều có mã/code. Bạn có thể mời thành viên nhóm bằng mã này hoặc
+thêm vào trực tiếp.
+Cách gửi mã nhóm/lớp: Chọn tùy chọn -> Manage Team-> Setting -> Team code -
+> Copy và gửi Team code đến thành viên dự kiến.
+1.4.2.2. Bắt đầu buổi họp nhóm:
+Chuẩn bị tai nghe, micro, webcam và PC có kết nối mạng. Chọn lớp học muốn bắt
+đầu, vào mục “Chung”
+Trang 7/16
+
+1. Chọn chức năng “họp ngay”
+1
+2
+2. Đặt tên buổi học.
+3. Tùy chọn: Tắt/mở camera, chọn camera (trường hợp có sử dụng nhiều webcam).
+4. Bắt đầu buổi học/ họp nhóm
+Trang 8/16
+
+Chương 2. CÁC THAO TÁC
+2.1. Các thao tác cơ bản:
+2.1.1. Posts:
+- Đây là diễn đàn chung để trao đổi với các thành viên trong lớp, bạn có thể thực
+hiện một số chức:
+o Gửi thông báo đến các thành viên trong lớp.
+Chọn Format để mở rộng tính năng của việc soạn bài viết.
+Sau khi soạn xong, bấm gửi để gửi đến các thành viên lớp.
+o Đính kèm file tài liệu, bài giảng.
+o Tổ chức Meeting (tính năng được nói đến trong phần sau)
+2.1.2. Files:
+Nơi lưu trữ toàn bộ các tập tin liên quan đến bài giảng.
+Trang 9/16
+
+Ở bất kỳ nơi nào trong Teams, hãy tìm biểu tượng chiếc ghim kẹp
+giấy để Đính kèm một tệp. Hoặc:
+● Đi tới tab Tệp.
+● Chọn Tải lên.
+● Chọn một hoặc nhiều tệp từ máy tính thiết bị hoặc từ tài khoản OneDrive
+for Business.
+● Chọn Mở.
+2.1.3. Class Notebook: ghi chép lại.
+Bạn có thể dùng phần này để ghi chú khi Giảng viên giảng bài hoặc khi
+trao đổi nhóm. Các tính năng nâng cao về phần này bạn có thể tìm đọc khi
+click vào Class Notebook
+Nếu bạn chọn định dạng nhóm là Staff thì phần này sẽ là Staff Notebook.
+Tương tự với PCL=> PCL Notebook và các hình thức khác tương ứng
+Trang 10/16
+
+2.1.4. Assignments: tạo bài tập, khảo sát.
+Ngoài các tính năng trên, MTS còn cung cấp nhiều ứng dụng mở rộng do Microsoft
+phát triển, bạn có thể tham khảo thêm tại office.com.
+2.2. Các thao tác nâng cao trong buổi học trực tuyến (meeting)
+- Để tổ chức một cuộc họp trong lớp, bạn chọn Meeting tại tag Posts. Tại UIT, người
+bắt đầu lớp học là giảng viên phụ trách lớp hoặc trợ giảng. Sinh viên không được tự
+ý bắt đầu buổi họp khi không được cho phép.
+- Khi giảng viên bắt đầu lớp học, bạn bấm Join. Chi tiết quá trình này bạn có thể
+xem tại https://www.youtube.com/watch?v=d6fv4dMHNrs - phút 03:06
+Trang 11/16
+
+Cửa sổ hiển thị khi tham gia lớp học:
+Tắt/Bật Tắt/Bật Tắt/Bật và Kết thúc
+ca mera Micro cài đặt chia buổi học
+sẻ
+Các cài đặt Tắt/Bật cửa Tắt/Bật cửa sổ danh
+sổ trò chuyện sách người tham gia
+Trang 12/16
+
+Các cài đặt
+Chọn tại thanh công cụ
+nút Các cài đặt, chọn
+Show device settings.
+Chọn thiết bị âm
+thanh đầu vào
+Chọn thiết bị âm
+thanh đầu ra
+(Khuyến khích
+Kiểm tra tín hiệu
+âm thanh đầu vào
+Chọn camera:
+webcam, phần
+mềm vmix…
+Trang 13/16
+
+- Chia sẻ màn hình/tài liệu/bài giảng…Khi bấm vào nút chia sẻ, bạn sẽ nhận
+được cửa sổ tương tự, bạn sẽ chọn nội dung muốn chia sẻ.
+o Máy tính để bàn cho phép bạn hiển thị mọi thứ trên màn hình của bạn.
+o Cửa sổ cho phép bạn hiển thị một ứng dụng cụ thể.
+o PowerPoint cho phép bạn hiển thị bản trình bày.
+o Duyệt cho phép bạn tìm thấy tệp mà bạn muốn hiển thị.
+Sau khi bạn chọn nội dung bạn muốn hiển thị, viền màu đỏ bao quanh những gì
+bạn đang chia sẻ. (Với Linux sẽ không có viền màu đỏ)
+Chọn dừng chia sẻ để dừng Hiển thị màn hình của bạn.
+***Chia sẻ âm thanh hệ thống của bạn cho phép bạn dùng âm thanh máy tính
+của bạn để tham gia cuộc họp thông qua các nhóm. Bạn có thể dùng nó để phát
+video hoặc clip âm thanh như một phần của bản trình bày.
+Để chia sẻ âm thanh hệ thống của bạn, hãy chọn chia sẻ trong điều khiển cuộc
+họp của bạn và sau đó bao gồm âm thanh hệ thống. Khi bạn chia sẻ, tất cả các
+âm thanh hệ thống của bạn, bao gồm thông báo, sẽ được đưa vào cuộc họp. Để
+biết thêm về chia sẻ âm thanh hệ thống, hãy xem chia sẻ âm thanh hệ thống trong
+một cuộc họp nhóm.
+***Chia sẻ các trang chiếu PowerPoint trong một cuộc họp
+Nếu bạn chọn chia sẻ tệp PowerPoint trong một cuộc họp, người dự sẽ nhận được
+một số chức năng đặc biệt:
+● Họ sẽ có thể di chuyển xung quanh các trang chiếu khác nhau mà không làm gián
+đoạn bản trình bày chính.
+● Họ có thể đồng bộ hóa dạng xem của họ trở lại dạng xem diễn giả bằng một lần
+bấm chuột.
+Trang 14/16
+
+Chọn chia sẻ trong điều khiển cuộc họp của bạn.
+Trong phần PowerPoint , chọn tệp bạn muốn. Chọn duyệt để tìm tệp khác.
+Lưu ý:
+Phần PowerPoint liệt kê các tệp gần đây nhất mà bạn đã mở hoặc chỉnh sửa trong
+site nhóm SharePoint hoặc OneDrive của bạn. Nếu bạn chọn một trong những tệp
+này để trình bày, tất cả người dự cuộc họp sẽ có thể xem các trang chiếu trong cuộc
+họp. Quyền truy nhập của họ vào tệp bên ngoài cuộc họp sẽ không thay đổi.
+Nếu bạn chọn duyệt , rồi chọn trình bày tệp PowerPoint chưa được tải lên trước đây,
+nó sẽ được tải lên như một phần của cuộc họp. Nếu bạn đang trình bày trong một
+cuộc họp kênh, tệp được tải lên tab tệp trong kênh, trong đó tất cả các thành viên
+nhóm sẽ có quyền truy nhập vào đó. Nếu bạn đang trình bày trong một cuộc họp
+riêng tư, tệp được tải lên OneDrive của bạn, nơi chỉ những người dự cuộc họp sẽ có
+thể truy nhập nó.
+***Chia sẻ quyền trình chiếu:
+Ngoài việc giảng viên trình chiếu hay chia sẻ màn hình, thì giảng viên có thể
+thêm được 2 tính năng khác:
+- Chia sẻ cho sinh viên/giảng viên khác thao tác trên trình chiếu của mình để trình
+bày tiếp nội dung.
+- Cho phép sinh viên/giảng viên khác chia sẻ nội dung của họ cho lớp học.
+Cụ thể sẽ được thông tin tại phần tiếp theo.
+Ghi lại bài giảng.
+Trang 15/16
+
+Chọn các cài đặt -> Chọn Start recording -> Bắt đầu Rec -> Stop Rec khi kết thúc.
+Lưu ý: trong một buổi học, tại một thời điểm chỉ có một người Record và file lưu
+lại sẽ được công khai cho cả lớp vì thế Giảng viên phải thống nhất trước.
+Các quyền cơ bản
+- Người tổ chức: người tạo ra lớp học có thể kết thúc buổi học và các thao tác khác.
+- Diễn giả: có quyền chia sẻ nội dung, tắt tiếng, thay đổi quyền của người tham gia.
+- Người tham gia: xem và nghe nội dung diễn giả chia sẻ.
+______________________________________
+Trên đây là các hướng dẫn cơ bản về việc sử dụng MS Teams trong học tập trực tuyến
+dành cho Tân sinh viên Khóa 2021 tại Trường ĐH Công nghệ Thông tin. MS Teams hiện
+nay có rất nhiều tín năng nâng cao, ưu việt,… hỗ trợ tốt cho việc quản lý, học tập. Văn
+phòng Các chương trình Đặc biệt sẽ giới thiệu đến các bạn trong thời gian tới.
+Tài liệu này cũng đính kèm phần "Lưu ý và hỏi - đáp nhanh" rất mong các bạn tham
+khảo.
+Chúc các bạn học tập tốt với Microsoft Teams.
+Trân trọng./.
+Ban Biên tập - Văn phòng các Chương trình Đặc biệt
+Trường ĐH Công nghệ Thông tin, ĐHQG-HCM
+Trang 16/16

@@ -1,0 +1,42 @@
+THIẾT KẾ SOC RISC-V TÍCH HỢP BỘ TĂNG
+TỐC VÀ MÃ HÓA AES-128 PHỤC VỤ MÃ
+HÓA DỮ LIỆU QUẸT THẺ RFID TRONG HỆ
+THỐNG ĐÔ THỊ
+Nhóm thực hiện: DKP Team
+Thành viên: Nguyễn Thị Ngọc Diễm (NT), Đinh Quang Dũng,
+Dương Nhã Khang, Mai Nguyễn Hà Phương
+01 Giới thiệu 05 Minh họa
+Trong bối cảnh đô thị thông minh, dữ liệu Dữ liệu từ đầu vào được gửi tới SoC, nơi tích
+thẻ RFID dễ bị đánh cắp và giả mạo khi hợp phần cứng tăng tốc AES encryption để
+truyền qua UART hoặc mạng không dây. mã hóa dữ liệu. Sau khi mã hóa, dữ liệu an
+Đề tài “Thiết kế SoC RISC‑V tích hợp bộ toàn (encrypted data) được truyền đến PC để
+tăng tốc AES‑128” nhằm phát triển một lưu trữ hoặc xử lý tiếp theo. Hệ thống đảm
+hệ thống xử lý đảm bảo bảo mật cao và bảo quá trình truyền dữ liệu từ đầu vào đến
+hiệu suất xử lý vượt trội cho các ứng dụng máy chủ được bảo vệ an toàn khỏi các rủi ro
+quản lý truy cập, thu phí tự động và thanh đánh cắp.
+toán không tiếp xúc trong đô thị thông
+minh.
+02 Mục tiêu
+Thiết kế SoC RISC‑V RV32I tích hợp
+bộ tăng tốc và mã hóa AES‑128 trực
+tiếp trên phần cứng.
+Sử dụng DMA AXI4‑Full để truyền dữ
+liệu tự động, giảm tải CPU. 06Hướng phát triển
+Mã hóa tức thời dữ liệu RFID ngay
+trên chip, đảm bảo bảo mật và hiệu
+Chip SoC tăng tốc và mã hóa dữ liệu trước khi
+suất cao.
+truyền. Ứng dụng đa dạng trong các hệ thống
+Giao tiếp UART hoặc vô tuyến truyền
+bảo mật dữ liệu thời gian thực hoặc nền tảng
+dữ liệu đã mã hóa tới hệ thống trung
+thiết bị IoT cho thành phố thông minh.
+tâm.
+03 Phương pháp
+Thiết kế SoC dựa trên IP (IP-based
+Design)
+Thiết kế theo phương pháp Top-down
+04 Ý nghĩa
+Đáp ứng nhu cầu ngày càng cao về an
+toàn thông tin trong đô thị thông minh,
+nâng cao độ tin cậy hệ thống RFID đô thị.

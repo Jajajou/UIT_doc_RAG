@@ -1,0 +1,213 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2 - NĂM HỌC 2023-2024
+CHƯƠNG TRÌNH CHẤT LƯỢNG CAO
+Thời gian bắt đầu Hội đồng chấm TTDN CLC: Chiều từ 13h00, thứ Ba ngày 02/07/2024
+Địa điểm: Phòng E6.1, E6.3 và E4.2
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút/ đề tài 1-2 SV. Sinh viên có mặt trước giờ báo cáo 15 phút để chuẩn bị.
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Phòng E6.1
+Quản lý và cấu hình hệ thống mạng cho STT 1
+1 20521798 Võ Minh Quân Công ty cổ phần công nghệ DTG Trần Hoàng Lộc
+doanh nghiệp 13h00
+Phát triển hệ thống quản lý Camera STT 2
+2 20521806 Lê Ngọc Quang Oryza Systems Trần Hoàng Lộc
+Oryza VMS 13h10
+Xây dựng ứng dụng giám sát và phân STT 3
+3 20521819 Nguyễn Mạnh Quyền HPT Trần Hoàng Lộc
+tích Log 13h20
+Thiết kế PNR cho một Design ở cấp độ Thiếu nhận xét STT 4
+4 20521836 Phan Trường Sinh ADTechnology Trần Hoàng Lộc
+Block công ty 13h30
+Quy trình bảo trì, quản lý và thiết kế hệ Công ty TNHH thương mại dịch vụ STT 5
+5 20521843 Nguyễn Hồng Sơn Trần Hoàng Lộc
+thống máy tính Công nghệ & Tin học Thái Dương 13h40
+Page 1 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Khóa đào tạo “Thiết kế Vật lý Vi mạch STT 6
+6 20521886 Lâm Sơn Nhật Thái NIC Trần Hoàng Lộc
+VLSI cơ bản” 13h50
+Tìm hiểu về kiến trúc Autosar và lập Thiếu nhận xét STT 7
+7 20521944 Cao Hoàng Thiện FPT Software Trần Hoàng Lộc
+trình vi điều khiển S32K144 công ty 14h00
+STT 8
+8 20521948 Nguyễn Chí Thiện Phát triển phần mềm VMS-MOBILE Oryza Systems Trần Hoàng Lộc
+14h10
+Các bước cơ bản của việc thiết kế kiểm
+Công ty TNHH NANOLOGIC STT 9
+9 20521950 Nguyễn Hoàn Thiện tra sử dụng systemverilog testbench và Trần Hoàng Lộc
+SOLUTIONS 14h20
+UVM
+STT 10
+10 20521983 Thái Quốc Thông Thiết kế Uart từ Rtl đến Netlist Uniquify Trần Hoàng Lộc
+14h30
+Xây dựng môi trường kiểm định trên STT 11
+11 20521991 Đỗ Tuấn Thuận Quest-Global Trần Hoàng Lộc
+ngôn ngữ SystemVerilog 14h40
+Plugin Camera AI Cho ứng dụng VMS- STT 12
+12 20522045 Đào Ngọc Minh Trí Oryza Systems Trần Hoàng Lộc
+DESKTOP 14h50
+Physical Design Transformation - Khóa đào tạo "Thiết kế Vật lý Vi Thiếu nhận xét STT 13
+13 20522053 Phạm Minh Trí Trần Hoàng Lộc
+DTMF Chip mạch VLSI Cơ bản" của NIC công ty 15h00
+Page 2 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Thiết kế lõi vi xử ký RISC-V RV32I
+Phòng thí nghiệm ASIC LAB - STT 14
+14 20522088 Nguyễn Nhựt Trường tích hợp khối điều khiển JTAG ứng Trần Hoàng Lộc
+Khoa Kỹ thuật Máy tính 15h10
+dụng vào việc nạp lệnh chương trình
+Tìm hiểu và thực hành về Physical
+STT 15
+15 20522131 Nguyễn Thanh Tùng Design trong VLSI tại công ty Realtek Realtek VietNam Trần Hoàng Lộc
+15h20
+Vietnam
+Thiết kế và kiểm tra hiệu năng Decoder STT 16
+16 20522143 Lê Hoàng Văn Microchip Technology Vietnam Trần Hoàng Lộc
+6 to 64 15h30
+STT 17
+17 20522155 Võ Quốc Việt Phát triển hệ thống Smart Parking Oryza Systems Trần Hoàng Lộc
+15h40
+Phòng E6.3
+CÔNG TY TNHH CÔNG NGHỆ STT 1
+1 20521194 Nguyễn Anh Đức Thiết kế hệ thống báo cháy nhà kho Thân Thế Tùng
+SUỐI XANH 13h00
+Tìm hiểu và nghiên cứu thiết kế CPU Phòng thí nghiệm khoa Kĩ thuật STT 2
+2 20521259 Nguyễn Phú Sơn Hà Thân Thế Tùng
+Single Cycle theo RISC-V Máy tính - E6.1 13h10
+Nghiên cứu và xây dựng thiết kế phần STT 3
+3 20521428 Võ Phan Hoàng Kha Uniquify Thân Thế Tùng
+cứng từ RTL đến Netlist 13h20
+Vận hành hệ thống âm thanh hỗ trợ ban
+STT 4
+4 20521504 Trần Gia Kiệt nhạc & Phát triển thiết bị khuếch đại âm Công ty TNHH 1010 Network Thân Thế Tùng
+13h30
+thanh
+Tìm hiểu và thực hiện quy trình thiết kế ASIC Lab - khoa Kỹ Thuật Máy STT 5
+5 20521608 Nguyễn Hải Minh Thân Thế Tùng
+RTL to GDSII với bộ Tool Cadance Tính 13h40
+Page 3 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Ứng dụng VBA trong việc hỗ trợ quản Bosch Global Software Thiếu nhận xét STT 6
+6 20521616 Trần Anh Minh Thân Thế Tùng
+lý task và tạo báo cáo tổng hợp Technologies VietNam công ty 13h50
+Xây dựng mô hình CI/CD cho Board STT 7
+7 20521630 Nguyễn Hữu Nam Hitachi Digital Services (HDS) Thân Thế Tùng
+Salavator M3 GEN3 14h00
+Công ty TNHH Phần Mềm BNN STT 8
+8 20521662 Dương Khánh Ngọc Thiết kế Website bán hàng Thân Thế Tùng
+Việt Nam 14h10
+Tìm hiểu nghiên cứu về Kit S32K144
+Thiếu nhận xét STT 9
+9 20521773 Vũ Hồng Phúc và giao thức Can trong phát triển FPT Software Thân Thế Tùng
+công ty 14h20
+Autosar
+Cố vấn và tìm kiếm giải pháp công nghệ STT 10
+10 20521777 Nguyễn Quang Phước Ematic Solutions Thân Thế Tùng
+cho doanh nghiệp trên Internet 14h30
+Xây dựng Website về công nghệ giáo STT 11
+11 20521778 Nguyễn Văn Phước Rockship Thân Thế Tùng
+dục 14h40
+Kiểm thử chất lượng chuyển đổi số STT 12
+12 20521788 Hồ Đoàn Trung Quân Công ty CP Tin học Lạc Thân Thế Tùng
+CoDX 14h50
+Tìm hiểu về quy trình làm Diagnostic BOSCH GLOBAL SOFTWARE STT 13
+13 20521448 Lê Hoàng Khanh Thân Thế Tùng
+trong xe ô tô TECHNOLOGIES 15h00
+Thiếu nhận xét STT 14
+14 20521338 Trần Xuân Ngọc Hoan Thân Thế Tùng
+công ty 15h10
+Tìm hiểu nghiên cứu về Flexcan và GPT
+FPT Software HCM
+Driver trong phát triển Autosar
+Thiếu nhận xét
+STT 15
+15 20521165 Dương Thành Đạt Thân Thế Tùng công ty
+15h20
+Báo cáo online
+Nguyễn Đức Duy Thiếu nhận xét STT 16
+16 20521435 Thân Thế Tùng
+Khang công ty 15h30
+Tìm hiểu và nghiên cứu Kit S32K, giao
+FPT Software
+thức Can trong phát triển Autosar
+Page 4 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Tìm hiểu và nghiên cứu Kit S32K, giao
+FPT Software
+thức Can trong phát triển Autosar
+Trương Trần Hoài Thiếu nhận xét STT 17
+17 20521638 Thân Thế Tùng
+Nam công ty 15h40
+Phòng E4.2
+Communication Diagnostics in Autosar STT 1
+1 17520946 Nguyễn Đăng Quang Sharework Corp Tạ Trí Đức
+using Unified Diagnostic Services 13h00
+STT 2
+2 19521466 Nguyễn Nam Hải Lớp thiết kế vật lý vi mạch VLSI cơ bản NIC Tạ Trí Đức
+13h10
+STT 3
+3 19521942 Phạm Trí Nhân Báo cáo thực tập doanh nghiệp Faraday Technology Việt Nam Tạ Trí Đức
+13h20
+Thiết kế và mô phỏng mạng CNN cơ Phòng thí nghiệm ASIC LAB - STT 4
+4 19522279 Lê Trường Thịnh Tạ Trí Đức
+bản cho ứng dụng Lane Detection. Khoa Kỹ thuật Máy tính 13h30
+CÔNG TY CỔ PHẦN HẠO STT 5
+5 20520171 Nguyễn Nam Hải Hiện thực dự án máy đếm tôm giống Tạ Trí Đức
+PHƯƠNG 13h40
+Implemetation of static timing analysis
+STT 6
+6 20520216 Lê Như Gia Khiêm and design for testing technique Faraday Technology Việt Nam Tạ Trí Đức
+13h50
+inserting memory built-in self test circuit
+Phương pháp thiết kế kiểm tra bằng
+STT 7
+7 20520536 Bùi Đoàn Thế Huy System Verilog và Universal BOS semiconductors Tạ Trí Đức
+14h00
+Verification Method
+Tìm hiểu về giao thức Can và nghiên Thiếu nhận xét STT 8
+8 20520576 Nguyễn Nam Khánh FPT Software Academy Tạ Trí Đức
+cứu về Autosar công ty 14h10
+Dự án giải pháp về VOIP và hệ thống Thiếu nhận xét STT 9
+9 20520642 Nguyễn Hải Nam TMA Solutions Tạ Trí Đức
+con đa phương tiện IP(IMS) công ty 14h20
+Page 5 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Thiếu nhận xét STT 10
+10 20521048 Lê Đức Hồng Ân Tạ Trí Đức
+công ty 14h30
+Tìm hiểu nghiên cứu và phát triển về
+FPT Software
+Can Protocol và Autosar
+Thiếu nhận xét STT 11
+11 20521063 Hồ Viết Anh Tạ Trí Đức
+công ty 14h40
+Thiếu nhận xét STT 12
+12 20521791 Nguyễn Thanh Quan Trần Hoàng Lộc
+công ty 14h50
+Tìm hiểu giao thức Can và Autosar, lập
+FPT Software
+trình trên vi điều khiển S32K144
+Thiếu nhận xét STT 13
+13 20521816 Tô Trần Ngọc Quý Trần Hoàng Lộc
+công ty 15h00
+Hiện thực những chức năng trên con STT 14
+14 20522172 Nguyễn Quốc Vương Bản Viên Trần Hoàng Lộc
+chip RH850 15h10
+Thiếu nhận xét STT 15
+15 21522157 Nguyễn Quang Huy Software developer internship FPT Software Trần Hoàng Lộc
+công ty 15h20
+Công ty TNHH Công Nghệ Suối Nộp trễ STT 16
+16 20521807 Nguyễn Hồng Quang Thiết kế mạch báo cháy đa năng Trần Hoàng Lộc
+Xanh 25/06/2024 15h30
+Thiếu NX
+GVHD STT 17
+17 19522004 Ngô Ngọc Phi Tìm hiểu về bộ Kit AT32-F403 UIT CE ASIC LAB Tạ Trí Đức
+Nộp trễ 15h40
+25/06/2024
+Page 6 of 6

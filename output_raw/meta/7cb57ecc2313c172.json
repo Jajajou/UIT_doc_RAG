@@ -1,0 +1,18 @@
+{
+  "url": "https://fit.uit.edu.vn/tin-tuc?page=1",
+  "fetched_at": "2025-10-14T01:52:47.610085",
+  "status": null,
+  "content_type": null,
+  "file_path": null,
+  "html_path": "output_raw\\html\\7cb57ecc2313c172.html",
+  "out_links": [
+    "internal",
+    "external",
+    "/templates/yoo_master/styles/kotoba-default/css/base.css",
+    "/templates/yoo_master/css/error.css",
+    "javascript:history.go(-1)",
+    "https://fit.uit.edu.vn/"
+  ],
+  "domain": null,
+  "notes": null
+}

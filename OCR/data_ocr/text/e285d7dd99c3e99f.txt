@@ -1,0 +1,123 @@
+ĐẠI HỌC QUỐC GIA TP. HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN ĐỘC LẬP-TỰ DO-HẠNH PHÚC
+CHƯƠNG TRÌNH ĐÀO TẠO KHÓA 2
+KỸ SƯ NGÀNH MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG
+LỚP MMT02 KHÓA HỌC 2007-2012
+GIAI ĐOẠN 1
+Học SỐ Chi tiết TC
+Mã học phần Tên học phần
+kỳ TC LT TH
+CSC21 Tin học Đại cương 5 4 1
+PHIL2 Triết học Mác-Lê nin 5 5
+MAT23 Đại số Tuyến tính 4 4
+MAT21 Toán cao cấp A1 4 4
+I PHY01 Vật lý đại cương A1 3 3
+Anh văn 1 Tính riêng
+Giáo dục Quốc phòng Tính riêng
+Giáo dục thể chất 1 Tính riêng
+Tổng Học Kỳ 1 21 20 1
+DSAL1 Cấu trúc dữ liệu và giải thuật 4 3 1
+CARC1 Kiến trúc máy tính 3 3
+MAT22 Toán cao cấp A2 4 3 1
+OOPT1 Lập trình hướng đối tượng 4 3 1
+II
+DBSS1 Cơ sở dữ liệu 4 3 1
+Anh văn 2 Tính riêng
+Giáo dục thể chất 2 Tính riêng
+Tổng Học Kỳ 2 19 15 4
+OSYS1 Hệ điều hành 4 3 1
+WINP1 Lập trình trên Windows 4 3 1
+MLPE2 Kinh tế chính trị Mác-Lênin 5 5
+PHY22 Vật lý đại cương A2 4 3 1
+CNET1 Mạng máy tính 4 3 1
+Anh văn 3 Tính riêng
+Tổng Học Kỳ 3 21 17 4
+VCPL1 Đường lối cách mạng của
+3 3
+Đảng CSVN
+ITEM1 Nhập môn quản trị doanh nghiệp 2 2
+Nhập môn công tác Kỹ sư 2 2
+IV
+MAT04 Cấu trúc rời rạc 4 4
+SOCI1 Chủ nghĩa Xã hội Khoa học 3 3
+Anh văn 4 Tính riêng
+Tổng Học Kỳ 4 14 14 -
+
+GIAI ĐOẠN 2
+NT110 Tín hiệu và mạch 3
+3
+NT103 Hệ điều hành Linux 4 3 1
+NT104 Lý thuyết Thông tin 3 3
+V
+NT105 Truyền dữ liệu 4 3 1
+NT106 Lập trình mạng căn bản 3 2 1
+Tổng Học Kỳ 5 17 14 3
+NT102 Điện tử cho công nghệ thông tin 4 3 1
+NT111 Thiết bị mạng và truyền thông
+4 3 1
+Đa phương tiện
+VI NT107 Xử lý tín hiệu số 4 3 1
+NT109 Lập trình ứng dụng Mạng 3 2 1
+NT108 Mạng truyền thông và di động 3 3
+Tổng Học Kỳ 6 18 14 4
+SMET2 Phương pháp luận sáng tạo KH-CN
+2 2
+NT202 Đồ án môn học Lập trình ứng dụng
+2 2
+Mạng
+NT101 An toàn Mạng máy tính 4 3 1
+VII
+NT112 Công nghệ mạng Viễn thông 4 3 1
+Học phần chuyên ngành 3 2 1
+Học phần chuyên ngành 3 2 1
+Học phần tự chọn 3 2 1
+Tổng Học Kỳ 7 21 14 7
+NT501 Thực tập doanh nghiệp 3 3
+NT203 Đồ án chuyên ngành 2 2
+NT113 Thiết kế Mạng 3 2 1
+NT201 Phân tích và thiết kế Hệ thống 3 3
+VIII
+HCMT1 Tư tưởng Hồ Chí Minh 2 2
+Học phần chuyên ngành 3 2 1
+Học phần tự chọn 3 2 1
+Tổng Học Kỳ 8 19 11 8
+Lựa chọn 1 Khóa luận tốt nghiệp 10
+Môn tốt nghiệp 1 3 2 1
+IX Lựa chọn 2 Môn tốt nghiệp 2 3 2 1
+Đồ án tốt nghiệp 4 4
+Tổng Học Kỳ 8 10 8 2
+Tổng cộng 160
+Các môn chuyên ngành: sinh viên được chọn 3 môn chuyên ngành và có thể
+học 1 môn tự chọn trong các môn sau
+
+SỐ Chi tiết TC
+Mã học phần Tên học phần
+TC LT TH
+NT301 Quản trị hệ thống mạng 3 2 1
+Xây dựng chuẩn chính sách an toàn
+3 2 1
+NT302 thông tin trong doanh nghiệp
+NT303 Công nghệ thoại IP 3 2 1
+Ứng dụng truyền thông và An ninh
+3 2 1
+NT304 Thông tin
+Phát triển ứng dụng trên thiết bị di
+3 2 1
+NT395 động
+NT507 Xây dựng ứng dụng Web 3 2 1
+NT305 Lập trình trên Linux 3 2 1
+Các môn tự chọn/tốt nghiệp:
+SỐ Chi tiết TC
+Mã học phần Tên học phần
+TC LT TH
+Thương mại Điện tử và Triển khai
+NT502 3 2 1
+ứng dụng
+NT504 An toàn mạng máy tính nâng cao 3 2 1
+Hệ thống đa tác tử
+NT509 3 2 1
+di động thông minh
+NT503 Bảo mật Internet 3 2 1
+TP Hồ Chí Minh, ngày tháng năm
+Hiệu trưởng
+GS. TSKH. Hoàng Văn Kiếm

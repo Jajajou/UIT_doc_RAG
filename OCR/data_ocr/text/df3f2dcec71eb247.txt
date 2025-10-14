@@ -1,0 +1,1271 @@
+ĐẠI HỌC QUỐC GIA TP. HCM
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+ĐẶNG VĂN THÌN
+NGHIÊN CỨU CÁC KỸ THUẬT PHÂN TÍCH Ý KIẾN TRÊN
+BÌNH LUẬN PHẢN HỒI CỦA NGƯỜI DÙNG
+Ngành: Khoa học máy tính
+Mã số: 9 48 48 01 01
+TÓM TẮT LUẬN ÁN TIẾN SĨ
+NGÀNH KHOA HỌC MÁY TÍNH
+TP HỒ CHÍ MINH – Năm 2025
+
+Công trình được hoàn thành tại:
+Trường Đại học Công nghệ Thông tin – ĐHQG TPHCM
+Người hướng dẫn khoa học:
+PGS.TS Nguyễn Lưu Thùy Ngân
+Phản biện 1: ........................................................................................................
+Phản biện 2: ........................................................................................................
+Phản biện 3: ........................................................................................................
+Phản biện độc lập 1: ............................................................................................
+Phản biện độc lập 2: ............................................................................................
+Luận án sẽ/đã được bảo vệ trước
+Hội đồng chấm luận án cấp Trường tại :
+.............................................................................................................................
+.............................................................................................................................
+vào lúc giờ ngày tháng năm
+Có thể tìm hiểu luận án tại:
+- Thư viện Quốc gia Việt Nam
+- Thư viện ĐHQG-HCM
+- Thư viện Trường Đại học Công nghệ Thông tin
+
+MỤCLỤC
+1 GIỚI THIỆU 3
+1.1 Lýdothựchiệnđềtài 3
+1.2 Mụcđích,đốitượngvàphạmvinghiêncứu 3
+1.3 Đónggópcủaluậnán 3
+1.4 Ýnghĩakhoahọcvàthựctiễn 4
+1.5 Bốcụccủaluậnán 4
+2 TỔNG QUAN 5
+2.1 Phântíchýkiến 5
+2.2 Khảosátnghiêncứuliênquan 5
+2.3 Cácbộdữliệusửdụngtrongluậnán 6
+2.4 Cácmôhìnhngônngữsửdụngtrongluậnán 7
+3 PHÂN TÍCH Ý KIẾN THEO MỨC ĐỘ 8
+3.1 PhươngpháphọcchuyểntiếptrênMHNN 8
+3.1.1 Độnglựcnghiêncứu 8
+3.1.2 Môhìnhtheohướngphânloạivănbản 8
+3.1.3 Môhìnhtheohướngtạosinhvănbản 10
+3.1.4 Kếtquảthửnghiệm 12
+3.2 Phươngpháptổhợpdựatrêncácmôhìnhngônngữ 13
+3.2.1 Độnglựcnghiêncứu 13
+3.2.2 Kỹthuậthợpnhấtđặctrưng 14
+3.2.3 Kỹthuậtbìnhchọnmềm 15
+3.2.4 Kếtquảthửnghiệm 16
+3.3 Kếtchương 17
+4 PHÂN TÍCH Ý KIẾN THEO QUAN ĐIỂM 18
+4.1 Độnglựcnghiêncứu 18
+4.2 Phântíchýkiếntheoquanđiểmthôngthường 18
+4.2.1 Mô hình tạo sinh văn bản kết hợp lời nhắc theo
+hướngđatácvụ 18
+4.2.2 Kếtquảthửnghiệm 21
+1
+
+MỤC LỤC 2
+4.3 Phântíchýkiếntheoquanđiểmsosánh 23
+4.3.1 Xácđịnhcâubìnhluậnsosánh 23
+4.3.2 Tríchxuấtbộnămthuộctínhsosánh 24
+4.3.3 Kếtquảthửnghiệm 25
+4.4 Kếtchương 26
+5 PHÂN TÍCH Ý KIẾN VỚI DỮ LIỆU HẠN CHẾ 27
+5.1 Độnglựcnghiêncứu 27
+5.2 PP1:Môhìnhđangônngữvớingônngữgiàutàinguyên 27
+5.2.1 Họcchuyểntiếpchéongônngữkhôngdữliệu 27
+5.2.2 Họcchuyểntiếpchéongônngữhuấnluyệnchung 27
+5.2.3 Kếtquảthửnghiệm 28
+5.3 PP2:Thiếtkếlờinhắcvớimôhìnhngônngữlớn 30
+5.3.1 Phươngphápthiếtkếlờinhắc-PromptEngineering 31
+5.3.2 Kếtquảthửnghiệm 31
+5.4 Kếtluậnchương 33
+6 KẾT LUẬN VÀ HƯỚNG PHÁT TRIỂN 34
+6.1 Kếtluận 34
+6.2 Hướngpháttriển 34
+
+1. GIỚITHIỆU
+1.1 LÝ DO THỰC HIỆN ĐỀ TÀI
+Sựpháttriểnbùngnổdữliệutạoratrêncácnềntảngtrựctuyếndẫnđến
+nhucầuphântíchtựđộngcácbìnhluậnmộtcáchtựđộng.Luậnánđược
+thựchiệnvớicácmụctiêuchínhnhưsau:
+1. Phântíchnghiêncứuliênquanđếnxácđịnhưuđiểmvànhượcđiểm
+trênbàitoánphântíchýkiếnchotiếngViệt.
+2. Pháttriểncácphươngphápđểnângcaođộchínhxácchobàitoán
+phântíchýkiếntheomứcđộvàquanđiểm.
+3. Nghiêncứucácphươngphápchovấnđềhạnchếdữliệuhuấnluyện
+ởbàitoánphântíchýkiếntheomứcđộ.
+1.2 MỤC ĐÍCH, ĐỐI TƯỢNG VÀ PHẠM VI NGHIÊN CỨU
+Luậnántậptrungnghiêncứucácphươngphápchobàitoánphântíchý
+kiếntheocácmứcđộvàquanđiểmcũngnhưvấnđềhạnchếdữliệuhuấn
+luyện.Đốitượngnghiêncứulàbìnhluậndướidạngvănbảnkhôngquacác
+bướctiềnxửlýthủcông.PhạmvinghiêncứubaogồmdữliệutiếngViệt
+vàmộtsốngônngữíttàinguyênkhác.
+1.3 ĐÓNG GÓP CỦA LUẬN ÁN
+• Đónggóp#1:Nghiêncứuphươngphápnângcaođộchínhxáccho
+bàitoánphântíchýkiếntheomứcđộ.Kếtquảcôngbốtạicôngtrình
+[CT.01,CT.04,CT.06,CT.08].
+• Đónggóp#2:Nghiêncứumôhìnhnângcaođộchínhxácchobài
+toánphântíchýkiếntheohaiquanđiểm:thôngthườngvàsosánh.
+Kếtquảcôngbốtạicôngtrình[CT.03,CT.07].
+• Đónggóp#3:Nghiêncứucácphươngphápchovấnđềhạnchếdữ
+liệu huấn luyện trong phân tích ý kiến. Kết quả công bố tại công
+trình[CT.05,CT.09].
+3
+
+1.4. ÝNGHĨAKHOAHỌCVÀTHỰCTIỄN 4
+1.4 Ý NGHĨA KHOA HỌC VÀ THỰC TIỄN
+Ýnghĩakhoahọc:Kếtquảnghiêncứugópphầnpháttriểnchủđềvà
+phươngphápnghiêncứu.Cácphươngpháp,môhìnhđượcđềxuấtnâng
+caohiệusuấtdựđoántrênbàitoán.Kếtquảluậnánlànềntảngchosựphát
+triểnnghiêncứutiếptheo.
+Ý nghĩa thực tiễn: Kết quả nghiên cứu này có thể ứng dụng vào các
+phầnmềmphântíchbìnhluậntựđộng,gópphầnnângcaochấtlượngsản
+phẩm.
+1.5 BỐ CỤC CỦA LUẬN ÁN
+Luậnánđượctổchứcthành6chươngkhácnhau,khôngbaogồmcác
+công trình nghiên cứu khoa học được công bố liên quan đến đề tài và
+tàiliệuthamkhảo.Cácđónggópchínhcủanghiêncứuđượctrìnhbàyở
+Chương3,Chương4,vàChương5.
+
+2. TỔNGQUAN
+2.1 PHÂN TÍCH Ý KIẾN
+Phân tích ý kiến được nghiên cứu với mục đích tự động trích xuất và
+phânloạiýkiến,cảmxúc,quanđiểmliênquanđếncácthựcthểnhưlàsản
+phẩm,dịchvụ,v.v.trêncácthuộctínhliênquan[1].TheoBingLiu[1],ý
+kiếnbìnhluậnthuộcmộttronghaidạngýkiếnquanđiểm:
+• Ýkiếnthôngthường:Làýkiếnthểhiệncảmxúc,đánhgiávềmột
+thựcthể,sựkiện,đốitượngcụthểhoặcmộtkhíacạnhliênquan.
+• Ýkiếnsosánh:Làýkiếnthểhiệnsựsosánhgiữacácthựcthể,sự
+kiện,đốitượngdựatrêncáckhíacạnhnàođó.
+Bài toán phân tích ý kiến được nghiên cứu theo mức độ dữ liệu, bao
+gồm:
+• Mứcđộtàiliệu:Mụctiêucủabàitoántrênmứcđộdữliệunàylà
+phânloạitoànbộbìnhluậntheocácmứcđộýkiếnkhácnhau.
+• Mứcđộcâu:Mụctiêubàitoánởmứcđộnàylàphânloạicácmức
+độýkiếnchocáccâuhoặccụmtừbìnhluận.
+• Mứcđộkhíacạnh:Mụctiêubàitoánxácđịnhtrạngtháiýkiếncho
+từngkhíacạnhđềcậptrongbìnhluận.
+Trongluậnánnày,NCStậptrungnghiêncứucácmôhình,phươngpháp
+cho các bài toán khác nhau trong chủ đề phân tích ý kiến, bao gồm: (1)
+Phânloạiýkiếntheomứcđộ:tàiliệu,câubìnhluậnvàkhícạnh;(2)Phân
+tíchýkiếntheoquanđiểm:thôngthườngvàsosánh.
+2.2 KHẢO SÁT NGHIÊN CỨU LIÊN QUAN
+Luậnánápdụngphươngphápkhảosát[2]đểkhảosátcácnghiêncứu
+liênquanvớibabước(1)Pháttriểngiaothứckhảosát;(2)Ápdụngchiến
+lượctìmkiếmtrêncácnguồndữliệu;(3)Tríchxuấtnộidung.Sauđâylà
+mộtsốđiểmhạnchếsaukhikhảosátvềchủđềphântíchýkiếntrêntiếng
+Việt:
+5
+
+2.3. CÁCBỘDỮLIỆUSỬDỤNGTRONGLUẬNÁN 6
+• Vấnđềmấtcânbằnghoặchạnchếdữliệu:Hầuhếtcácbộdữliệu
+côngbốđềumấtcânbằngvềkhíacạnhvànhãnýkiến.
+• Lỗivănphongvàngữpháp:Bìnhluậntrựctuyếnthườngchứalỗi
+như viết tắt, lỗi chính tả, v.v. gây khó khăn cho các công cụ xử lý
+ngônngữtựnhiên,đặcbiệtkhichúngđượchuấnluyệntrêndữliệu
+chuẩn.
+• Hạnchếvềphươngphápvàbàitoánnghiêncứu:Cácnghiêncứu
+trướcđâytậptrungvàohọcmáy,họcsâuvàmôhìnhtransformer.
+CácnghiêncứudùngBERTthườngchỉsửdụngmộtphiênbảnduy
+nhấtvàchưađánhgiátrênnhiềubộdữliệuđểkiểmchứngkhảnăng
+tổngquát.Vớibàitoánnghiêncứu,cáccôngtrìnhtrướcđâychủyếu
+tậptrungvàophântíchcơbản,bỏquacácbàitoánphứctạpyêucầu
+tríchxuấtthôngtintheoquanđiểm
+• Khôngnhấtquántrongđộđođánhgiávàbộdữliệutoàndiện:
+Cácnghiêncứudùngnhiềuđộđokhácnhau(microF1,macroF1,
+weighted F1), gây khó khăn trong việc so sánh và đánh giá khách
+quanhiệusuấtmôhình.CácbộdữliệutiếngViệtcònhạnchế,chủ
+yếutậptrungvàomộtsốbàitoánđơnlẻvàlĩnhvựccụthể,gâycản
+trởchosựpháttriểntoàndiệncủacácphươngphápvàmôhình.
+2.3 CÁC BỘ DỮ LIỆU SỬ DỤNG TRONG LUẬN ÁN
+Luận án thử nghiệm phương pháp trên các bộ dữ liệu đã công bố với
+cácmứcđộvàmiềndữliệukhácnhau,baogồmHSA[3],UIT-VSFC[4],
+VLSP[5]vàAiviVNchomứcđộtàiliệuvàcâu,cònmứcđộkhíacạnhthì
+bộdữliệumiềnnhàhàng[6],kháchsạn[6]vàđiệnthoại[7].
+Đốivớiphântíchýkiếntheoquanđiểm,luậnánđánhgiácácmôhình
+trênbộdữliệuVi-AbSQAvớibốnthuộctínhýkiếnđượcgánnhãncho
+miềnnhàhàngpháttriểnthửbộdữliệutrước[6]vàbộdữliệuVCOM[8]
+đượcgánnhãnchomiềnđiệnthoạivớibộnămthuộctínhchoquanđiểm
+sosánh.
+
+2.4. CÁCMÔHÌNHNGÔNNGỮSỬDỤNGTRONGLUẬNÁN 7
+2.4 CÁC MÔ HÌNH NGÔN NGỮ SỬ DỤNG TRONG LUẬN ÁN
+Dướiđâylàmộtsốmôhìnhngônngữ(MHNN)huấnluyệnsẵnđượcsử
+dụngđểtríchxuấtđặctrưngvàbiểudiễnngônngữsửdụngtrongluậnán:
+• MHNNtheokiếntrúcmãhóa(encoder-only):Baogồmmôhìnhđơn
+ngônngữnhưPhoBERT[9],viBERT_FPT[10],vELECTRA_FPT
+[10],ViDeBERTa[11]vàmôhìnhđangônngữnhưlàmBERT[12],
+InfoXLM[13],XLM-Align[14].
+• MHNNtheokiếntrúcmãhóa-giảimã(encoder-decoder):luậnán
+sửdụngtrọngsốcácmôhìnhviT5[15],mT5[16]vàBARTPho[17]
+vớicácphiênbảnthamsốkhácnhau.
+
+3. PHÂNTÍCHÝKIẾNTHEOMỨCĐỘ
+3.1 PHƯƠNG PHÁP HỌC CHUYỂN TIẾP TRÊN MHNN
+3.1.1 Độnglựcnghiêncứu
+Qua khảo sát, luận án thấy rằng có nhiều mô hình ngôn ngữ khác nhau
+hỗtrợtiếngViệtđượchuấnluyệntrêncáckiếntrúckhácnhauvàdữliệu
+tiềnhuấnluyệnvàkỹthuậttiềnxửlýkhácnhau.Điềunàydẫnđếnsựhiệu
+quảcácmôhìnhcũngkhácnhauvớimiềndữliệuvàbàitoánthửnghiệm.
+Ngoàira,NCScònthấymộtsốhạnchếnhưsau:
+• Nghiên cứu trước đây lựa chọn ngẫu nhiên một MHNN để huấn
+luyệnvàsosánhkếtquảvớicácphươngpháptruyềnthốngtrênmột
+sốbộdữliệu.
+• Thiếuthốngnhấttrongquátrìnhđánhgiásosánhkếtquảgiữacác
+phươngpháp.
+• ChưacónghiêncứunàokhaitháctiềmnăngcủaMHNNhướngtạo
+sinhvănbảnchobàitoántrêntiếngViệt.
+Vìvây,NCStrìnhbàyphươngpháphọcchuyểntiếpdựatrêncácMHNN
+theohaihướngtiếpcận:(1)phânloạivà(2)tạosinhvănbảntrêncácmức
+độdữliệunhưsau:
+3.1.2 Môhìnhtheohướngphânloạivănbản
+Hình3.1trìnhbàyhaikiếntrúctổngquanchophươngpháphọcchuyển
+tiếp dựa trên MHNN huấn luyện sẵn cho bài toán phân loại ý kiến theo
+cácmứcđộ.Đầutiên,cácbìnhluậnđượcchuẩnhóathôngquacácbước
+tiềnxửlýdữliệu.Bêncạnhđó,luậnáncũngnhậnthấycácMHNNđều
+áp dụng các bước tiền xử lý dữ liệu huấn luyện khác nhau. Ví dụ như
+PhoBERT[9]đãsửdụngkỹthuậttáchtừtrongquátrìnhxâydựngdữliệu
+tiềnhuấnluyện.Tuynhiên,cácmôhìnhkhácnhưmBERT[12],XLM-R
+[18],viBERT_FPT[10]khôngápdụngkỹthuậtnàyđểchuẩnbịdữliệu
+huấnluyện.Đặcđiểmquantrọngnàykhôngđượcđềcậptrongcácnghiên
+8
+
+3.1. PHƯƠNGPHÁPHỌCCHUYỂNTIẾPTRÊNMHNN 9
+c: Service#General c: Food#Quality s: negative s: positive
+phục vụ tệ và chất lượng đồ ăn tốt
+Decoder
+Encoder
+nhân viên chậm nhưng món ăn thấy ngon
+Tiền xử lý dữ liệu
+Nhân viên chậm nhưng món ăn thấy ngon <3 <3
+đ C ổ h i u n y h ể ã n nĐầu
+ra
+Mô
+hình
+Đầu
+vào x
+Food#QualityService#General
+positive negative Softmax Softmax
+h[CLS]
+T[CLS] T1 T[SEP]
+BERTology
+E[CLS] E1 E[SEP]
+[CLS] x1 [SEP]
+nhân viên chậm nhưng món ăn thấy ngon
+Tiền xử lý dữ liệu
+Nhân viên chậm nhưng món ăn thấy ngon <3 <3
+hnìh
+ôM
+x
+oàv uầĐ
+Hình3.1.HướngtiếpcậnphânloạivàtạosinhvănbảndựatrênMHNNchophân
+tíchýkiếntheomứcđộkhíacạnh.
+cứutrướcđâykhitinhchỉnhcácMHNN[19,20,21,22].Dođó,điềuquan
+trọng là phải thực hiện kỹ lưỡng các bước tiền xử lý tương ứng với các
+MHNNđểtậndụngtốiđasứcmạnhcácmôhình.Cácbướctiềnxửlýđược
+thiếtkếdựatrênquansátdữliệuvàmôhìnhtươngứng.
+Sau khi trải qua các bước tiền xử lý, các bình luận đầu vào được tự
+động thêm hai ký tự đặc biệt là [CLS] và [SEP] trước khi được tách
+thànhcáctokens.Cáctokensnàysauđóđượcánhxạthànhcácchỉmục
+tương ứng trong tập từ vựng của mô hình. Thông thường, mô hình sẽ
+chọnchuỗibìnhluậncóđộdàitokenslớnnhấtđểlàmsốchiềuvectơbiểu
+diễn cho toàn bộ đầu vào, nếu độ dài bình luận nằm trong phạm vi mà
+môhìnhxửlý.Saukhicáctokensđượcchuyểnthànhcácvectơdựatrên
+tập từ điển của mô hình, chúng được đưa vào các MHNN đã được huấn
+luyệnsẵnvới Llớptransformerđểlấycácvectơbiểudiễntheongữcảnh
+HL = {h
+c
+L
+ls
+,h
+1
+L,...,h
+T
+L,h
+s
+L
+ep
+} ∈ RT×dim h, với dim
+h
+là số chiều của các
+vectơbiểudiễnvà T làtổngsốtokentrongchuỗi,baogồmcảcáctoken
+đặcbiệtnhư[CLS]và[SEP].Mỗilớptransformercungcấpcácbiểudiễn
+ngữcảnh,nghĩalàcácvectơbiểudiễnchotừngtokenchứathôngtinngữ
+cảnhxungquanh.Dựatrênnghiêncứutrướcđây[12,23,24]ởcácngôn
+ngữkhác,luậnántríchxuấthL của[CLS]tokentạilớpcuốicùngđểlàm
+cls
+đặctrưngbiểudiễnngữcảnhtổngquátchotoànbộbìnhluận.Đốivớimức
+độ dữ liệu tài liệu hoặc câu bình luận (Hình 3.1a), vectơ đặc trưng biểu
+diễnnàyđượcđưatrựctiếpvàolớpkếtnốiđầyđủ(fullyconnectedlayer)
+
+3.1. PHƯƠNGPHÁPHỌCCHUYỂNTIẾPTRÊNMHNN 10
+vớihàmkíchhoạtSoftmaxhoặcSigmoidđểdựđoánxácsuấtnhãnýkiến
+tươngứng.
+Đối với bài toán phân loại ý kiến theo mức độ khía cạnh, NCS thiết kế
+môhìnhtheohướngđatácvụ(multi-tasklearning)đểdựđoántấtcảcác
+loạikhíacạnhvàtrạngtháiýkiếntươngứngnhưmôtảởHình3.1b.Tiếp
+cận theo hướng đa tác vụ cho phép mô hình học được mối quan hệ giữa
+các nhãn loại khía cạnh và nhãn ý kiến với nhau. Để rút trích tất cả các
+loạikhíacạnhvànhãnýkiếntươngứng,đầurađượcbiểudiễndướidạng
+mộtdanhsáchcácone-hotvectơtươngứngvớisốlượngkhíacạnh.Các
+one-hotvectơcóđịnhdạnglàmộtvectơcóbốngiátrị,trongđóchỉcómột
+phầntửđượcgángiátrị1,cácphầntửcònlạilà0.Bốngiátrịtươngứng
+củaone-hotvectơđượcgiảimãvớigiátrị[“None”,“Positive”,“Neutral”,
+“Negative”]chomộtloạikhíacạnhcụthểvới“None”nghĩalàloạikhía
+cạnhnàykhôngđượcđềcậptrongbìnhluận.DanhsáchcácMHNNhuấn
+luyệnsẵnđượcsửdụngđểtinhchỉnhtrongluậnánbaogồmmôhìnhđa
+ngônngữnhưmBERT[12],XLM-R[18];cácmôhìnhđơnngônngữnhư
+viBERT4News,viBERT_FPT[10],viELECTRA_FPT[10],PhoBERT[9].
+3.1.3 Môhìnhtheohướngtạosinhvănbản
+Hình 3.1 trình bày phương pháp học chuyển tiếp dựa trên MHNN theo
+hướngtiếpcậntạosinhvănbảntheocácmứcđộdữliệu.Chomộtbìnhluận
+đầuvàoXgồmntừvựngđượcđạidiệnbởiX = {x ,x ,...,x },nghiên
+1:n 1 2 n
+cứusinhmongmuốntạoramộtchuỗiđầuragồmY = {y ,y ,...,y }
+1:m 1 2 m
+với m nằm trong khoảng được định nghĩa trước. Đối với mức độ tài liệu
+hoặccâubìnhluậnthìđầuraY chỉchứaduynhấtthôngtinliênquan
+1:m
+đếnnhãnýkiến(nhưmôtảởHình3.1a).Trongkhiđó,vớibàitoánởmức
+độkhíacạnh,đầuraY phảichứatấtcảcácthôngtinvềloạikhíacạnh
+1:m
+vànhãnýkiếntươngứngđượcđềcậptrongđầuvào.Sauđó,vănbảnđược
+tạorabởimôhìnhđượcbiếnđổithànhcácnhãntươngứngđểđánhgiávà
+sosánhhiệuquảvớicácmôhìnhkhác.
+
+3.1. PHƯƠNGPHÁPHỌCCHUYỂNTIẾPTRÊNMHNN 11
+Mộttrongnhữngđónggópcủaluậnánởphươngphápnàylàkỹthuật
+tuyến tính hóa các nhãn lọai khía cạnh và nhãn ý kiến thành chuỗi dưới
+dạngngônngữtựnhiênY đểtậndụngtốiđakhảnăngcủaMHNNtạo
+1:m
+sinh.NguyênnhânlàdocácnhãnđượcgánnhãnởđịnhdạngtiếngAnh(ví
+dụnhưFood#Quality,positive).Dođó,nghiêncứusinhápdụngmộttậptừ
+điểnđểánhxạhaigiátrịsangdạngngônngữtựnhiên.Đểxâydựngtập
+từđiểnánhxạ,luậnánápdụngphươngphápthốngkêdựatrênkỹthuật
+TF-IDFđểtríchxuấtcácmẫutừvựngchocácloạikhíacạnhtrêntậphuấn
+luyệnvàtậppháttriển.Hàmchuyểnđổikhíacạnhthànhtừvựngbiểudiễn
+dướidạngngônngữtựnhiêntiếngViệtđượcbiểudiễnnhưsau:
+
+“chấtlượngđồăn”, nếu A = Food#Quality
+
+
+. .
+Cụmtừkhíacạnh(A) = . . . .
+
+
+ “phụcvụ”, nếu A = Service#General
+(1)
+với A ∈ {Food#Quality,Drinks#Quality,...Service#General}làcácloại
+khíacạnhthuộcmiềnlĩnhvựcnhàhàng.
+Đốivớicácnhãnýkiến,luậnáncũngbiếnđổithànhcáctừvựngmang
+tínhtựnhiênnhưcôngthứcsau:
+
+
+
+“tốt”, nếuS = positive
+
+
+Nhãnýkiến(S) = “tệ”, nếuS = negative (2)
+
+
+ “tạm”, nếuS = neutral
+Trongquátrìnhphântíchdữliệu,nghiêncứusinhnhậnthấyrằngngười
+dùngcóxuhướngbàytỏýkiếncủahọmộtcáchngắngọnvềcácloạikhía
+cạnhvàýkiếncủahọ.Dựatrênquansátnày,câungônngữtựnhiêncho
+một thể loại khía cạnh và nhãn ý kiến tương ứng (A,S) được biểu diễn
+dưới dạng định dạng đầu ra. Điều này có thể được biểu diễn dưới dạng
+hàm:
+Chuỗiđầura(A,S) = Cụmtừkhíacạnh(A)+Nhãnýkiến(S) (3)
+
+3.1. PHƯƠNGPHÁPHỌCCHUYỂNTIẾPTRÊNMHNN 12
+Trường trường hợp nếu bình luận đầu vào chứa nhiều loại khía cạnh và
+trạng thái ý kiến khác nhau như {(A ,S ),(A ,S ),...,(A ,S )} thì
+1 1 2 2 m m
+chuỗi ngôn ngữ tự nhiên đầu ra Y là kết quả của việc nối các biểu diễn
+chotừngloạikhíacạnh(A ,S )vớiliêntừ“và”.ChuỗiđầuraY đượcbiểu
+i i
+diễnnhưsau:
+Y = Chuỗiđầura(A ,S )+···+ “và” +Chuỗiđầura(A ,S ) (4)
+1 1 m m
+Để suy luận kết quả dự đoán của mô hình dưới dạng chuỗi ngôn ngữ tự
+nhiênY thànhcácnhãntươngứngthìnghiêncứusinhthựchiệnquátrình
+ánh xạ dựa trên tập từ điển khía cạnh và nhãn ý kiến như sau. Đầu tiên
+tách chuỗi đầu ra Y thành các diễn diễn cho từng loại cặp nhãn (A ,S )
+i i
+dựatrênliêntừ“và”.Sauđó,từngchuỗiđầuraChuỗiđầura(A ,S ) sẽ
+1 1
+xácđịnhđượckiểmtrasựtrùngkhớpvớitừkhóacủatậptừđiểnloạikhía
+cạnhvàtừđiểnnhãnýkiến.Cònđểhuấnluyệnmôhình,nghiêncứusinh
+càiđặtcácMHNNtheokiếntrúcmãhóa-giảimã(encoder-decoder)với
+cáctrọngsốđượckhởitạotừmôhìnhhuấnluyệnsẵn,baogồmviT5[15],
+mT5[16]vàBARTPho[17].
+3.1.4 Kếtquảthửnghiệm
+Luậnánđánhgiácácphươngpháptrênnhiềubộdữliệuởcácmứcđộtài
+liệu và câu bình luận khác nhau, bao gồm HSA [3], VLSP [5], và UIT-
+VSFC[4].KếtquảthửnghiệmchothấyPhoBERTđạthiệusuấtcaonhất
+khiápdụnghọcchuyểntiếpchobàitoánphânloạiýkiếntheohướngtiếp
+cậnphânloại.Trongkhiđó,viT5hoạtđộngtốttrêncácbộdữliệumấtcân
+bằng,đặcbiệtkhiđánhgiábằngcácđộđoBalanceAccuracyvàMacro F .
+1
+NhữngkếtquảnàychỉrarằngphươngpháptạosinhdựatrênviT5cóthểlà
+giảipháphiệuquảchocácbộdữliệumấtcânbằng,nơimàtầmquantrọng
+củacácnhãnđượccoilàngangnhau.Cáckếtquảthửnghiệmtrongluận
+ánphùhợpvớinhữngquansáttừcácnghiêncứutrướcđó[9,15]trongcác
+bàitoánXLNN-TNkhácnhau.
+
+3.2. PHƯƠNGPHÁPTỔHỢPDỰATRÊNCÁCMÔHÌNHNGÔNNGỮ 13
+Bảng3.1.KếtquảthửnghiệmtrênbộdữliệuUIT-VSFC[4].
+Phươngpháp Môhình Accuracy BalanceAcc WeightedF1 MacroF1 MicroF1
+MaxEnt[4] - - 87.94 - -
+LD-SVM[26] 90.74 - 90.20 - -
+BiLSTM-CNN[27] - - 93.51 - -
+CNN[28] - - - 75.57 89.82
+Nghiêncứu
+CNN+Augmentation[28] - - - 77.16 89.38
+trướcđây
+Two-channelLSTM[29] 89.90 - 89.30 - -
+Two-channelCNN[29] 89.60 - 88.90 - -
+Ensemble[22] - - - - 92.79
+PhoBERT[19] 94.28 - 93.92 - -
+mT5base 85.75 60.46 83.47 59.07 85.75
+Hướngtiếpcận mT5large 90.68 68.28 89.27 70.12 90.68
+tạosinhvănbản viT5base 92.40 81.35 92.19 82.07 92.40
+viT5large 92.89 79.84 92.54 82.98 92.89
+viBERT4News 86.67 61.01 84.32 59.34 86.67
+viBERT_FPT 91.25 74.18 90.64 76.74 91.25
+Hướngtiếpcận viELECTRA_FPT 90.52 72.96 89.87 75.37 90.52
+phânloại mBERT 92.04 75.10 91.41 78.07 92.04
+XLM-R 93.08 77.25 92.55 80.35 93.08
+PhoBERT 93.87 79.57 93.45 82.83 93.87
+Cònvớimứcđộkhíacạnh,miềndữliệunhàhàng[6]vàmiềnđiệnthoại
+[7]đượcsửdụngđểđánhgiácácphươngpháp.Quacácbảngkếtquả,luận
+ánnhậnthấyrằngphươngpháptiếpcậntạosinhvănbảncảithiệnđáng
+kểhiệusuấttrêncảhaibộdữliệusovớicáchtiếpcậndựatrênphânloại.
+NhưđượcminhhọatrongBảng3.2,môhìnhviT5chokếtquảvượttrội
+sovớitấtcảcácphươngpháptrướcđó,baogồmcảcácMHNNkhác.Cụ
+thể,viT5đạthiệusuất75.53%vềđộđo F ,caohơnsovớikếtquảtốtnhất
+1
+từsựkếthợpcácmôhìnhBERTđãtinhchỉnh,dùmứcchênhlệchkhông
+lớn.Tuynhiên,phươngpháptạosinhvănbảncóưuthếvềđộphứctạptính
+toánthấphơnvàtốcđộdựđoánnhanhhơnsovớiphươngphápkếthợp.
+SovớihướngtiếpcậnphânloạidựatrênMHNNBERT,viT5cũngchokết
+quảtốthơnPhoBERTkhoảng+0.65%trênđộđo F .Tronglĩnhvựcđiện
+1
+thoại,môhìnhviT5tiếptụcthểhiệnvượttrộikhiđạtđộđo F là81.10%,
+1
+caohơn2.34%sovớikếtquảnghiêncứutrướcđây[25].
+3.2 PHƯƠNG PHÁP TỔ HỢP DỰA TRÊN CÁC MÔ HÌNH NGÔN
+NGỮ
+3.2.1 Độnglựcnghiêncứu
+Nghiêncứutrước(Mục3.1)củaluậnánđãchứngminhsựhiệuquảcủa
+phươngpháphọcchuyểntiếpdựatrênMHNN.Tuynhiên,cácMHNNlại
+cókiếntrúc,ápdụngcácbướctiềnxử,vàđượchuấnluyệntrêncácnguồn
+
+3.2. PHƯƠNGPHÁPTỔHỢPDỰATRÊNCÁCMÔHÌNHNGÔNNGỮ 14
+Bảng3.2.Kếtquảởmứcđộkhíacạnhtrênmiềnnhàhàng[6]vàđiệnthoại[7].
+Miềnnhàhàng Miềnđiệnthoại
+Phươngpháp Môhình
+ĐộChínhXác Độphủ ĐộđoF1 ĐộChínhXác Độphủ ĐộđoF1
+SVM[6,7] 59.35 60.37 59.85 16.09 23.35 19.69
+Nghiêncứu CNN[6,7] 68.61 64.91 66.71 33.34 22.92 27.16
+trướcđây BiLSTM-CNN[6,7] 71.47 67.67 69.52 65.82 60.53 63.06
+PhoBERT+Processing[25] - - - 80.21 79.46 78.76
+XLM-R 70.98 72.19 71.58 80.58 68.71 74.18
+XML-Align 72.08 72.08 72.08 79.84 69.24 74.16
+Hướngtiếpcận
+InfoXLM 72.41 72.77 72.59 80.88 69.12 74.02
+phânloại
+viBERT_FPT 64.94 60.94 62.87 77.18 65.80 71.04
+PhoBERT 73.86 73.18 73.52 82.72 67.66 74.44
+BARTphosyllable+base 68.34 67.48 67.90 79.41 80.36 79.88
+BARTphoword+base 69.01 66.57 67.76 78.86 77.40 78.12
+BARTphosyllable+large 68.10 69.19 68.64 80.49 81.25 80.86
+Hướngtiếpcận BARTphoword+large 71.25 69.57 70.40 79.26 80.62 79.93
+tạosinhvănbản mT5base 68.01 68.66 68.33 78.91 78.89 78.90
+viT5base 73.60 73.79 73.69 78.90 81.82 80.33
+mT5large 70.52 71.45 70.98 79.46 79.62 79.54
+viT5large 75.73 75.35 75.53 81.06 81.20 81.10
+dữliệukhácnhau.Dođó,sửdụngcácMHNNcókhảnăngtạorađặctrưng
+biểudiễnvàdựđoánkhácnhauchotừngbàitoánvàtừngmiềnlĩnhvực.
+Dođó,việckếthợpcácđặctrưnghoặckhảnăngdựđoáncácmôhìnhsẽ
+giúptăngcườngsựkháiquáthóamôhình,từđómanglạinhữngcảithiện
+đángkểvềhiệusuấtsovớimôhìnhđơnlẻ.Cácnghiêncứutrướcđây[30,
+31,32,27,22,33]khinghiêncứuvềphươngpháphọctổhợplàdựatrên
+cácluậtđịnhnghĩa,cácmôhìnhmáyhọchoặchọcsâukhácnhauđểtrích
+xuất đặc trưng trên dữ liệu đầu vào. Khác với các nghiên cứu trước đây,
+luận án nghiên cứu hai phương pháp kết hợp các đặc trưng biểu diễn và
+kếtquảdựđoáncácMHNNđãđượchuấnluyệnriênglẻ,baogồmphương
+pháp(1)hợpnhấtđặctrưng(FeatureFusion)và(2)Bìnhchọnmềm(Soft
+Voting).Đểhuấnluyệncácmôhìnhcơsởđượcsửdụngđểtạothànhcác
+đặc trưng hoặc tổng hợp kết quả, NCS cài đặt phương pháp học chuyển
+tiếptrênMHNNhướngphânloạiđểtríchxuấtcácđặctrưnghoặcxácsuất
+dựđoán.Chitiếtphươngpháphuấnluyệnmôhìnhcơsởđượctrìnhbàyở
+Mục3.1.
+3.2.2 Kỹthuậthợpnhấtđặctrưng
+Mụctiêucủakỹthuậthợpnhấtđặctrưnglàkhaithácsứcmạnhcủanhiều
+mô hình khác nhau nhằm biểu diễn dữ liệu đầu vào một cách toàn diện
+hơnsovớiviệcchỉsửdụngtừngmôhìnhđơnlẻ.NCSápdụngphépnối
+(concatenation)đểhợpnhấtđặctrưngsaukhiđãthửnghiệmcácphương
+
+3.2. PHƯƠNGPHÁPTỔHỢPDỰATRÊNCÁCMÔHÌNHNGÔNNGỮ 15
+Bảng3.3.Kếtquảphươngpháptổhợptốtnhấtsovớicáchướngtiếpcậntrước
+đâytrênhaibộdữliệuchobàitoánPhânloạiýkiến.
+BộdữliệuUIT-VSFC BộdữliệuAiviVn
+Môhình Môhình
+WeightedF1 MacroF1 MicroF1 WeightedF1
+MaxEnt[4] 87.94 77.00 87.72
+Hạng1AiviVn2019 90.01
+LD-SVM[26] 90.20 - -
+BiLSTM-CNN[27] 93.51 - -
+RCNN[34] 92.98
+CNN[28] - 75.57 89.82
+CNN+Augmentation[28] - 77.16 89.38
+PhoBERT+Sentivec[35] 92.00
+Two-channelLSTM[29] 89.90 - -
+Two-channelCNN[29] 88.90 - -
+GatingEnsemble[36] 93.82
+EnsembleDeepModels[22] - - 92.79
+PhoBERT[19] 93.92 - - LIFA-SIGMOID[34] 95.20
+Kếtquảluậnán 94.03 84.51 94.32 Kếtquảluậnán 95.65
+phápthaythếkhácnhưphépcộng,phépnhânvàcơchếchúý(attention
+mechanism).Kếtquảthửnghiệmchothấyrằngphươngphápphépnốivẫn
+luônchokếtquảtốtnhất.Hiệusuấtvượttrộicủachiếnlượcghépnốicó
+thểđượcgiảithíchbởikhảnăngtăngcườngsựđadạngcủađặctrưng.
+3.2.3 Kỹthuậtbìnhchọnmềm
+Luậnánnghiêncứuápdụngkỹthuậtbìnhchọnmềmđểquyếtđịnhcácdự
+đoánbằngcáctínhtrungbìnhxácxuấtchomỗilớpdựđoánvàkếtquảcuối
+cùnglànhãndựđoáncóxácxuấtcaonhất.Môhìnhbìnhchọnthườnglà
+sựkếthợpcủahaihaynhiềumôhìnhcơsởđượctốiưuhóariênglẻtrêndữ
+liệuhuấnluyện.Giảsửchúngtacómộttậphợpcácđầura{y ,y ,...y }
+1 2 T
+củaTbộphânloạicơsởvới y = [y1,y2,...yl] với l làtậphợpcácnhãn
+i i i i
+tiềm năng {c ,c ,...c }, với y j ∈ [0,1], có thể được coi là xác suất cho
+1 2 l i
+thựcthể x.Luậnánthiếtlậptrọngsốcủacácmôhìnhcơsởnhưnhau,vì
+thếphươngphápbỏphiếumềmđượctínhbằngtrungbìnhcộngtrêntấtcả
+giátrịđầuracủacácmôhìnhcơsở,vàxácsuấtcủalớpc đượctínhbằng
+j
+côngthứcsau:
+yj(x) = 1 ∑ T y j(x) (5)
+T i
+i=1
+
+3.2. PHƯƠNGPHÁPTỔHỢPDỰATRÊNCÁCMÔHÌNHNGÔNNGỮ 16
+Bảng3.4.KếtquảđộđoF trêncácbộdữliệuchobàitoánPhântíchýkiếntheo
+1
+mứcđộkhíacạnh.
+Loại Môhình Miềnnhàhàng Miềnkháchsạn Miềnđiệnthoại
+CNN 66.71 69.49 -
+LSTM[7] - - 52.13
+BiLSTM+Attention[6] - 69.86 -
+Môhìnhtrướcđây BiLSTM-CNN[6] 69.52 70.72 63.06
+PhoBERT[6] 74.88 73.69 -
+HSUM-HC_4[37] - 74.88 -
+HSUM-HC_8[37] - 75.25 -
+XLM-R 71.58 71.23 74.18
+Môhìnhđangônngữ InfoXLM 72.59 71.92 74.02
+XLM-Align 72.08 73.20 74.16
+viBERT_FPT 62.87 70.18 71.04
+Môhìnhđơnngônngữ
+PhoBERT 73.52 73.73 74.44
+Multi-models 75.12 73.21 75.94
+Hợpnhấtđặctrưng Mono-models 72.57 72.91 74.92
+(FeatureFusion) Allmodels 75.24 74.22 76.14
+Two-bestmodels 75.32 74.54 75.89
+Multi-models 74.55 73.81 75.87
+Bìnhchọnmềm Mono-models 71.74 72.91 74.80
+(VotingEnsemble) Two-bestmodels 75.09 74.79 75.67
+Allmodels 75.36 74.15 76.23
+3.2.4 Kếtquảthửnghiệm
+Bảng 3.3 trình bày kết quả thử nghiệm tốt nhất so với các phương pháp
+trướcđótrênhaibộdữ liệuUIT-VSFCvàAiviVn.Có thểthấyrằngcác
+môhìnhtốtnhấtcủanghiêncứuhoạtđộngtốthơncáccáchtiếpcậntrước
+đó.Trongđó,phươngphápbỏphiếumềmdựatrêndựatrênhaimôhình
+cơsởmạnhchohiệusuấttốtnhấtlàlà94,03%,94,32%và84,51%vềchỉ
+sốWeighted F ,Micro F vàMacro F chobộdữliệuUIT-VSFC.Tương
+1 1 1
+tự, trong bộ dữ liệu Aivivn, điểm số tốt nhất đạt được bởi phương pháp
+tổnghợpbỏphiếumềmdựatrêncảnămmôhìnhvới95,65%,95,65%và
+95,64%vềWeighted F ,Macro F vàMicro F .LưuýrằngAivivnlàmột
+1 1 1
+bộdữliệugầnnhưcânbằng,dođóđiểmsốcủacảbasốliệuđềugiống
+nhau. Lý do chính cho thành công của phương pháp bỏ phiếu là mỗi bộ
+phânloạicơsởkhámphábiểudiễntheongữcảnhtheonhữngcáchkhác
+nhau,gópphầnvàohệsốphânloạitrongbỏphiếumềm.
+Vớidữliệuởmứcđộkhíacạnh,Bảng3.4trìnhbàyhiệusuấtcủacácmô
+hìnhđốivớimiềnnhàhàng,kháchsạnvàđiệnthoại.Nhấtquánvớicácthử
+nghiệmtrướcđótrêncácbộdữliệuSA,PhoBERTvượttrộihơncácmô
+hìnhcơsởcánhânkhácvìđộdàitốiđacủabộdữliệuphùhợpvớitrình
+
+3.3. KẾTCHƯƠNG 17
+tựđầuvàocủamôhình.Nóichung,cácchiếnlượckếthợpcủaluấndựa
+trênhaimôhìnhtốtnhấtđạtkếtquảvượttrộisovớicácmôhìnhcánhân
+khácvàcácphươngpháphiệncóvềđiểmsố F ,chothấyhiệuquảcủacác
+1
+môhìnhtrongviệcphânloạiýkiếntheokhíacạnh.Cụthể,điểm F cao
+1
+nhấtđượcđạtđượcbởichiếnlượckếthợpbầucửdựatrêntấtcảcácmô
+hìnhcánhâncholĩnhvựcnhàhàngvàđiệnthoạithôngminh.Đốivớilĩnh
+vựckháchsạn,kếthợpbầucửdựatrênhaibộphânloạitốtnhấtđạthiệu
+suấtvềđiểmsố F là74,79%.Mặcdùkếtquảthửnghiệmkhôngthểvượt
+1
+trộihơnHSUM-HCM-8[37]trongthửnghiệmnày,nhưngnóvẫnđạtđược
+hiệusuấtkhátốt.Sosánhkếtquảcủaviệchợpnhấttínhnăngsovớikết
+hợp bầu cử mềm, kỹ thuật bình chọn mềm có thể đạt kết quả tốt hơn về
+điểmsố F trênhầuhếtcácchuẩn,nhưngsựkhácbiệtgiữahaichiếnlược
+1
+không đáng kể. Ngoài ra, mô hình đơn ngữ viBERT_FPT đạt hiệu suất
+kémnhấttrongsốcácmôhìnhcánhânởbalĩnhvực.Mộttrongnhữnglý
+do cho hiệu suất kém của các mô hình cơ sở viBERT_FPT là từ điển từ
+vựng,đượcgiữnguyêntừmôhìnhmBERT,dẫnđếnkhôngđạidiệnđầyđủ
+chocáctừvựngkhácnhautrongmộtlĩnhvựccụthể[38].
+3.3 KẾT CHƯƠNG
+Mộtsốnộidungvàkếtquảtrongchương3đãđượccôngbốtạicáccông
+trình nghiên cứu số bao gồm các tạp chí chuyên ngành quốc tế (CT.01,
+CT.04,CT.05),trongnước(CT.06),vàhộinghịquốctế(CT.08).
+
+4. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂM
+4.1 ĐỘNG LỰC NGHIÊN CỨU
+Phântíchýkiếntheoquanđiểmlàbàitoánphứctạpnhấtvớimụctiêu
+làrúttríchcácbộthuộctínhcómốiquanhệvớinhau.Đểgiảiquyếtbài
+toánnày,luậnánđãxâydựngmôhìnhtheohướngtiếpcậntạosinhvăn
+bảndựatrênMHNNvớicácđónggópvàcảitiếnnhưsau:
+• (1)NCSthiếtkếcáckhuônmẫuđểbiểudiễncácthuộctínhcủaý
+kiếnthànhvănbảndướidạngngônngữtựnhiêncócấutrúctiếng
+Việt.
+• (2)NCSkếthợpcáclờinhắchướngdẫn(promptinstruction)vớiđầu
+vàođểmôtảthôngtinchomôhình.
+• (3)Đểtậndụngmốiliênhệgiữacácthuộctính,luậnánhuấnluyện
+môhìnhtheohướngđatácvụđểnângcaohiệusuấtdựđoán.
+4.2 PHÂN TÍCH Ý KIẾN THEO QUAN ĐIỂM THÔNG THƯỜNG
+4.2.1 Môhìnhtạosinhvănbảnkếthợplờinhắctheohướngđatácvụ
+Hình4.1minhhọamôhìnhtạosinhvănbảndựatrênkiếntrúcmãhóa-giải
+mãvớilờinhắc,vàbênphảilàcáchhuấnluyệnđatácvụtrêntổhợpcác
+thuộctính.Cácbìnhluậnđượctiềnxửlýnhằmgiảmthiểunhiễuvàtích
+hợpmộtlờinhắchướngdẫn(prompt)đểcungcấpthêmthôngtin.Đầuvào
+nàysauđóđượcđưavàokiếntrúcmãhóa-giảimãđểsinhravănbảnđầu
+ra.Vănbảnđầurakhôngchỉchứathôngtinmàcònthểhiệnmốiquanhệ
+giữacácthuộctínhtrongbộbốnthuộctính.
+Sau khi tiền xử lý, bình luận được tự động thêm một lời nhắc prompt
+đểgiúpmôhìnhnângcaokhảnăngphântíchthuộctínhcầnrúttrích.Ý
+tưởngcủakỹthuậtnàylàdạychomôhìnhthựchiệncácbàitoánđượcmô
+tảthôngqualờinhắchướngdẫn[39],điềunàygiúpmôhìnhcókhảnăng
+huấnluyệntheophươngthứcđatácvụnhưsau:
+Hãyrúttríchcáccặpkhíacạnh,thểloại,trạngtháivàýkiến
+(1)
+trongbìnhluậnsau:{$Review}
+18
+
+4.2. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMTHÔNGTHƯỜNG 19
+a: nhân viên a: món ăn c: Service#General c: Food#Quality s: negative s: positive o: chậm o: rất ổn
+Phục vụ tệ vì nhân viên thì chậm và chất lượng đồ ăn tốt vì món ăn thì rất ổn
+Decoder
+Encoder
+Hãy rút trích {a,c,s,o} in the comment: phục vụ ... thấy ổn
+(Please extract {a,c,s,o} in the comment: $Review)
+Tích hợp lời nhắc prompt Tiền xử lý dữ liệu
+Nhân viên hơi chậm nhưng món ăn thấy ổn...
+a n r ã u h ầ N đ
+ar uầĐ
+hnìh
+ôM
+oàv
+uầĐ
+Review: nhân viên hơi chậm nhưng món ăn thấy ổn
+Bài toán ACD
+Phục vụ và chất Prompt: Hãy rút trích các thể loại trong lượng thức ăn
+bình luận sau: $Review
+Bài toán ACSA
+Phục vụ tệ và chất
+Prompt: Hãy rút trích các cặp thể loại và lượng thức ăn tốt trạng thái trong bình luận sau:: $Review
+Bài toán AbQSA Encoder-Decoder
+P c b ạ ì r n o n h h m , l u p t ậ h t: n ể s H lo a ã ạ u y i : , $ t r r R ú ạ e t n v g t i r e t í h w c á h i v c à á c ý k c iế ặ n p tr k o h n ía g ch P ậ h m ụ v c ì v m v à ụ ó c n t h ệ ấ ă v t n ì l ư n th ợ h ì n â r g n ấ t đ v ổ i ồ ê n n ă n th t ì ốt
+Hình4.1.Môhìnhtạosinhvănbảnkếthợplờinhắchướngdẫntheohướngđatác
+vụchophântíchquanđiểmthôngthường.
+Thiếtkếlờinhắcnhưtrênđượcsửdụngđểhỗtrợmôhìnhxácđịnhvàtrích
+xuấtbộbốnthuộctínhtừđầuvàoReview.Luậnánthửnghiệmcácthiếtkế
+lờinhắcphứctạp[40]nhưnghiệuquảvớicácMHNNtiếngViệt.Nguyên
+nhânlàlờinhắcphứctạpgâynhầmlẫnvàgiảmđộchínhxáchoặcđầyđủ
+củađầurakhiếnhiệusuấttổngquangiảm.
+Luậnángiảiquyếtbàitoánphântíchýkiếntheoquanđiểmthôngthường
+bằngcáchtiếpcậntạosinhvănbản.Vìvậy,cầnchuyểnđổibộthuộctính
+thànhmộtđịnhdạngmàmôhìnhcóthểdựđoánhiệuquả.Vìvậy,luậnán
+đềxuấtmộtkỹthuậtbiểudiễnbộthuộctínhthànhcâungônngữtựnhiên
+tiếngViệt.Bằngcáchchuyểnđổicác thuộctínhthành đầuradướidạng
+ngônngữtựnhiên,nghiêncứusinhkhôngchỉtậndụngđượctrithứccó
+sẵncủacácMHNNmàcòndễdàngtíchhợpngữnghĩacủabộthuộctính.
+Chitiếtđịnhdạngbiểudiễnchomộtbộthuộctínhnhưsau:
+Chuỗiđầura = P (c) P(s)vì P (a)thì P (o) (2)
+(a,o,c,s) c s a o
+Trong đó P (c) và P(s) là các hàm chuyển đổi nhãn loại khía cạnh và
+c s
+nhãnýkiếnthànhcáccụmtừtiếngViệttựnhiênvàđượcbiểudiễnnhư
+sau:
+
+“chấtlượngđồăn”, nếuc = Food#Quality
+
+
+. .
+P c (c) = . . . . (3)
+
+
+ “phụcvụ”, nếuc = Service#General
+
+4.2. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMTHÔNGTHƯỜNG 20
+vớic ∈ {Food#Quality,Drinks#Quality,...Service#General}làcácloại
+khíacạnhthuộcmiềnlĩnhvựcnhàhàng.
+Đối với các nhãn ý kiến, luận án cũng biểu diễn thành các từ vựng tự
+nhiênphùhợpvớingữcảnhcủamiềndữliệuthựcnghiệmthôngquaquá
+trìnhphântíchdữliệuthủcôngnhưtrongcôngthứcsau:
+
+
+
+“tốt”, nếus = positive
+
+
+P
+s
+(s) = “tạm”, nếus = neutral (4)
+
+
+ “tệ”, nếus = negative
+Trongdữliệuthựcnghiệm,mỗibìnhluậnđượcgánnhãnvớiítnhấthai
+loạikhíacạnhkhácnhauvớihaitrạngtháiýkiếnkhácnhau.Dođó,luận
+án sử dụng liên từ “và” nối chuỗi biểu diễn của cặp bộ thuộc tính khác
+nhauthànhchuỗiđầuracủamôhình,tuântheocôngthứcsau:
+Y = Chuỗiđầura +···+ “và” +Chuỗiđầura
+(a 1,o 1,c 1,s
+1
+) (am,om,cm,sm )
+(5)
+Trongđó,thứtựcủacácchuỗiđầurachotừngbộthuộctínhđượcsắpxếp
+theothứtựxuấthiệncủachúngtrongdữliệugốc.Điềunàydựatrênquan
+sátchothấyrằngcácbộthuộctínhđãđượcxácđịnhtrướcthườngxuấthiện
+ởđầudữliệunhưcáchconngườiđọctừtráisangphải.Việcgiữnguyên
+thứtựnàykhôngchỉgiúpmôhìnhhọccáchphântíchkếtquảdựđoántheo
+đúngtrậttựcủacácbộthuộctínhtrongdữliệuđầuvàomàcònphùhợp
+vớicáchhuấnluyệncủacácmôhìnhngônngữ.
+Đốivớicáccụmtừkhíacạnh P (a)vàcụmtừýkiến P (o)thìđượcáp
+a o
+dụngcácbướctiềnxửlýtươngtựtươngtựnhưđốivớibìnhluậnđóđểđảm
+bảomôhìnhhiểurằngthôngtinthuộctínhnàyđượctríchxuấttrongbình
+luậnđầuvào.Điềunàygiúpmôhìnhliênkếtchặtchẽgiữacáccụmtừnày
+vớingữcảnhcủabìnhluận.Đốivớinhữngkhíacạnhhoặcýkiếnkhôngcó
+cụmtừtươngứngrõrànghoặctiềmẩntrongbìnhluận,luậnánsửdụng
+cáccụm“khíacạnhtiềmẩn”và“ýkiếntiềmẩn”đểbiểudiễntrongchuỗi
+đầuracủabộthuộctínhtươngứng.
+
+4.2. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMTHÔNGTHƯỜNG 21
+Bảng4.1.DanhsáchlờinhắchướngdẫntiếngViệtchocácbàitoánkhácnhau.
+Bàitoán Lờinhắchướngdẫn
+ACD Hãyrúttríchcácthểloạitrongbìnhluậnsau:{$Review}
+ATE Hãyrúttríchcáckhíacạnhtrongbìnhluậnsau:{$Review}
+OTE Hãyrúttríchcácýkiếntrongbìnhluậnsau:{$Review}
+ATSA Hãyrúttríchcáccặpkhíacạnhvàtrạngtháitrongbìnhluậnsau:{$Review}
+AOPE Hãyrúttríchcáccặpkhíacạnhvàýkiếntrongbìnhluậnsau:{$Review}
+ACSA Hãyrúttríchcáccặpthểloạivàtrạngtháitrongbìnhluậnsau:{$Review}
+ASTE Hãyrúttríchcáccặpkhíacạnh,trạngtháivàýkiếntrongbìnhluậnsau:{$Review}
+ACSD Hãyrúttríchcáccặpkhíacạnh,thểloạivàtrạngtháitrongbìnhluậnsau:{$Review}
+AbSQA Hãyrúttríchcáccặpkhíacạnh,thểloại,trạngtháivàýkiếntrongbìnhluậnsau:{$Review}
+Bảng4.2.Môhìnhhóađầuracủacácbàitoánthuộcbộbốnthuộctính.
+Tiềntố Tênbàitoán Đầura
+ACD AspectCategoryDetection Pc(c)
+ATE AspectTermExtraction Pa(a)
+OTE OpinionTermExtraction Po(o)
+ATSA Aspect-TermSentimentAnalysis Pa(a)Ps(s)
+AOPE Aspect-OpinionPairExtraction Pa(a)thìPo(o)
+ACSA Aspect-CategorySentimentAnalysis Pc(c)Ps(s)
+ASTE AspectSentimentTripletExtraction Pa(a)Ps(s)vìPo(o)
+ACSD AspectCategorySentimentDetection Pc(c)Ps(s)vìPa(a)
+AbSQA Aspect-basedSentimentQuadrupleAnalysis Pc(c)Ps(s)vìPa(a)thìPo(o)
+Luậnánhuấnluyệnmôhìnhtheohướngđatácvụđểgiúpmôhìnhnâng
+caohiệusuấttổngthểkhitríchxuấtbộthuộctính.Điềunàychophépmô
+hìnhhọccác biểudiễnchonhiều tácvụcủatừngthuộctính vàmốiliên
+hệgiữacácthuộctínhtrêncùngmộtkhônggianbiểudiễn[41].Từđómô
+hìnhkhaitháctốiđathôngtindữliệu,đặcbiệtlàđốivớicácbộdữliệu
+bịhạnchếmẫu.TheoZhangvàcộngsự[42],từbộbốnthuộctínhđược
+pháttriểnthànhcácbàitoánriênglẻvàphứctạpdựatrênsựtươngtácgiữa
+cácthuộctính.Vìvậy,luậnántạothànhcácbàitoánkhácnhautừbộbốn
+thuộctínhvớicácthiếtkếlờinhắctươngứngởBảng4.1vàđịnhdạngbiểu
+diễnđầuraởBảng4.2.
+Luậnánsửdụngphươngpháphuấnluyệnmôhìnhtheohướngtiếpcận
+tạosinhvănbảndựatrênkiếntrúcmãhóa-giảimã(encoder-decoder)của
+viT5 [15] và mT5 [16] với trọng số được khởi tạo từ các mô hình huấn
+luyệnsẵn.
+4.2.2 Kếtquảthửnghiệm
+DựavàoBảng4.3,kếtquảchỉrađềxuấttíchhợpthêmlờinhắchướngdẫn
+promptgiúpnângcaohiệusuất.Kếtquảnàychứngminhrằngviệchuấn
+
+4.2. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMTHÔNGTHƯỜNG 22
+Bảng4.3.Kếtquảkhicóvàkhôngtíchhợplờinhắcprompttheohướngđơntác
+vụ.
+SingleNo-PromptTuning SinglePromptTuning
+Bàitoán
+Độchínhxác Độphủ ChỉsốF1 Độchínhxác Độphủ ChỉsốF1
+ACD 89.27 86.80 88.02 89.82 88.42 89.12
+ATE 73.74 73.10 73.42 74.39 74.07 74.23
+OTE 71.06 70.69 70.87 73.26 72.76 73.01
+ACSA 74.91 72.53 73.70 77.86 75.94 76.89
+ATSA 78.03 76.23 77.12 78.71 75.87 77.26
+AOPE 70.72 66.72 68.66 71.60 67.93 69.72
+ASTE 66.83 62.53 64.61 68.10 65.02 66.53
+ACSD 69.85 64.72 67.19 71.77 69.92 70.83
+AbSQA 63.19 60.37 61.75 63.54 61.09 62.29
+Bảng4.4.Kếtquảkhicóvàkhôngtíchhợplờinhắcprompttheohướngđatácvụ.
+Multi-taskNo-PromptTuning Multi-taskPromptTuning
+Bàitoán
+Độchínhxác Độphủ ChỉsốF1 Độchínhxác Độphủ ChỉsốF1
+ACD 90.86 87.04 88.91 91.42 88.18 89.77
+ATE 76.76 76.90 76.83 79.35 79.35 79.35
+OTE 72.86 72.84 72.90 73.28 73.53 73.40
+ACSA 78.25 75.77 76.99 79.07 76.13 77.57
+ATSA 81.13 77.53 79.28 81.10 79.18 80.13
+AOPE 74.04 69.81 71.86 74.76 70.65 72.65
+ASTE 68.76 66.01 67.35 70.90 68.03 69.44
+ACSD 71.85 69.81 70.82 72.65 70.08 71.34
+AbSQA 65.24 62.51 63.85 66.11 62.72 64.37
+luyệnmôhìnhtạosinhvănbảnkhitíchhợplờinhắchướngdẫnmanglại
+hiệu suất cao hơn khi không sử dụng. Việc tích hợp lời nhắc hướng dẫn
+cũngnângcaohiệusuấtkhihuấnluyệnmôhìnhtheohướngđatácvụở
+Bảng4.4.
+Kếtquảthínghiệmcũngchothấyhuấnluyệnmôhìnhtheohướngđatác
+vụcảithiệnhiệusuấtbàitoán.Cụthể,họcđatácvụđãnângcaohiệusuất
+bài toán AbSQA +2,1% về độ đo F so với hướng đơn tác vụ khi không
+1
+tích hợp lời nhắc hướng dẫn. Hơn nữa, chiến lược huấn luyện đa tác vụ
+cũngcảithiệnđộđo F chobàitoánAbSQA+2,08%khitíchhợplờinhắc
+1
+hướngdẫn.Cònvớicácbàitoánkhác,huấnluyệnmôhìnhđatácvụđều
+giúpnângcaohiệusuấtmôhình(khoảng+0,89%đến+3,63%vàkhoảng
++0,39%đến+5,12%khicóvàkhôngtíchhợplờinhắchướngdẫn).Những
+kếtquảnàychứngminhsựhiệuquảcủachiếnlượchuấnluyệnmôhìnhtạo
+sinhvănbảntheohướngđatácvụ.
+Bảng4.5trìnhbàykếtquảcủaphươngphápđềxuấtsosánhvớicácphương
+phápkhácnhau.Nhìnchung,môhìnhtiếpcậntheohướngtạosinhvănbản
+(nhưmôhìnhluậnán,GAS,vàParaphrase)chohiệusuấttốthơncácmô
+
+4.3. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMSOSÁNH 23
+Bảng4.5.Kếtquảcácphươngpháptrênbàitoánphântíchýkiếntheoquanđiểm
+thôngthường.
+Phươngpháp Độchínhxác Độphủ ChỉsốF1
+Extract-Classify-BERTs([43]) 37.68 48.90 42.58
+Two-stagesBERTs 48.51 53.37 50.82
+GAS-Annotation[44] 57.63 56.84 57.23
+GAS-Extraction[44] 62.04 59.45 60.72
+Paraphrase[45] 63.19 60.37 61.75
+Môhìnhluậnán 66.11 62.72 64.37
+hìnhhướngtríchxuấtvàphânloại(nhưExtract-ClassifyhayTwo-Stage
+BERTs).Điềunàychứngminhrằnghướngtiệpcậntrêncácmôhìnhtạo
+sinhgiúpchúngtahọcmốiquanhệngữnghĩagiữacácbộthuộctínhhiệu
+quả[45,44].NhìnvàoBảng4.5,cácphươngphápdựatrênBERTchỉtrích
+xuất các đặc trưng từ văn bản rồi phân loại thuộc tính. Điều này có thể
+gâyravấnđềthiếuthôngtinvềmốiquanhệvàngữcảnhgiữacáctừvựng
+trongbìnhluậnđầuvào.Đốivớicácmôhìnhtheohướngsinhvănbản,kết
+quảchothấymôhìnhluậnánđạthiệusuấttốtnhất.Môhìnhđềxuấtcho
+kết quả vượt trội hơn Parapharase [45] +2,66% và GAS-Extraction [44]
++3,65%vềđộđo F .Kếtquảnàychứngminhrằngcácthànhphầnđược
+1
+đềxuấtcáchbiểudiễnkhuồnmẫunhãnđầuravớiviệctíchhợplờinhắc
+hướngdẫnvàhuấnluyệnmôhìnhtheohướngđatácvụgiúpnângcaohiệu
+suấtmôhình.
+4.3 PHÂN TÍCH Ý KIẾN THEO QUAN ĐIỂM SO SÁNH
+Mụctiêubàitoánlàxácđịnhracácbìnhluậnthểhiệnsựsosánhvàrút
+tríchbộnămthuộctínhliênquansựsosánh.Đểgiảiquyếtbàitoán,luận
+ánđưaramộtkiếntrúchaigiaiđoạn:(1)Xácđịnhbìnhluậnsosánh;(2)
+Rúttríchbộnămthuộctính.
+4.3.1 Xácđịnhcâubìnhluậnsosánh
+Đểxácđịnhbìnhluậncótínhchấtsosánhhaykhông,luậnángiảiquyết
+bàitoánnàynhưlàmộtbàitoánphânloạivănbảnnhịphân.Bìnhluậnsau
+khitiềnxửlýsẽđượctáchthànhtokensvàđưavàoBERTđểtríchxuấtđặc
+trưngbiểudiễn H = {h ,h ,....,h ,h } với h làđặctrưngbiểudiễn
+cls 1 n sep i
+
+4.3. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMSOSÁNH 24
+củatừvựngthứi.Sauđó,đặctrưngbiểudiễncủaCLSởlớpcuốicùnglà
+h đượcsửdụnglàmvectơđặctrưngbiểudiễn.Đặctrưngnàyđượcđưa
+cls
+vàomộtlớpphânloạivớihàmsigmoidđểtínhxácsuấtdựđoán:
+yˆ = sigmoid(W·h +b) (6)
+cls
+trongđóW,blàmatrậntrọngsốvàđộlệchcủalớpphânloại.Hàmmất
+mátWeightedBinaryCross-Entropy(BCE)đượcsửdụngđểtốiưu.
+4.3.2 Tríchxuấtbộnămthuộctínhsosánh
+Mụcđíchcủathànhphầnnàylàtríchxuấtbộnămthuộctínhsosánh,bao
+gồm:chủthểs,đốitượngo,khíacạnh a,vịtừsosánh p,vànhãnsosánh
+l.Đểgiảiquyếtbàitoánnày,luậnánápdụngmôhìnhđatácvụkếthợplời
+nhắchuấnluyệntheohướngđatácvụnhưmôtảởMục4.2.1.Tuynhiên,
+nhãnđầurađượcbiểudiễnchobộnămthuộctínhsosánhdướidạngmột
+cấutrúcthayvìdướidạngngônngữtựnhiên.Lýdolàvìbàitoánnàytập
+trungtríchxuấtcácthuộctínhtừbìnhluậnđầuvào,dođó,cấutrúccốđịnh
+sẽgiúpchuyểnđổivàđánhgiámôhìnhhiệuquả.Ngoàira,kíchthướcdữ
+liệucũnghạnchế,việcbiểudiễndướidạngtựnhiênkhiếnchomôhình
+thiếukhảnăngkháiquát.Dođó,sửdụngcấutrúcbiểudiễnnhưdướiđây
+khôngchỉlàmtăngđộchínhxác,hiệuquảmàcòngiảmthiểulỗitrongxử
+lýdữliệu.Vìvậy,đầurabộnămthuộctínhđượcbiểudiễntheomộtcấu
+trúccốđịnhvớithứtựnhưsau:
+Q = {s,o,a,p,l} (7)
+Cácgiátrịs,o, a, plàcácchuỗitừvựnghoặccụmtừđượcđềcậptường
+minhhoặckhôngtườngminh(giátrịrỗng)từtrongbìnhluậnđầuvào.Nếu
+giátrịcủathuộctínhrỗngthìsẽđượcbiểudiễnbằngtừvựngđạidiện.Các
+chỉsốtươngứngcủatừngphầntửđượcxácđịnhthôngquathuậttoánso
+khớpchuỗimờ.Cácbìnhluậncónhiềuhơnhaibộthuộctínhđượcbiểu
+diễnnhưsau:
+Chuỗiđầura = {(s ,o ,a ,p ,l );...;(s ,o ,a ,p ,l )} (8)
+1 1 1 1 1 r r r r r
+
+4.3. PHÂNTÍCHÝKIẾNTHEOQUANĐIỂMSOSÁNH 25
+Bảng4.6.Kếtquảmôhìnhluậnánsosánhvớicácmôhìnhkhácnhau.
+MacroAverage MicroAverage
+Phươngpháp
+Độchínhxác Độphủ ChỉsốF1 Độchínhxác Độphủ ChỉsốF1
+BERT-LSTM-CRF[8] 5.25 9.98 6.68 9.82 20.93 13.37
+BERT2BERT[8] 10.41 8.46 9.23 20.26 16.85 18.40
+Three-StageBERTs[46] 9.68 10.65 9.97 16.75 18.94 17.78
+Multi-StageFramework[47] 9.64 13.75 11.19 17.09 26.98 20.92
+Seq2SeqT5 20.93 21.99 21.31 29.41 29.41 29.41
+EnsembleFramework(GNN,viT5,PhoBERT) 20.21 27.18 23.00 22.34 33.59 26.84
+Môhìnhluậnán 22.16 28.62 23.73 28.80 30.29 29.52
+Thayvìtạoracácbàitoánkhácnhaudựatrênsựkếthợpngẫunhiêngiữa
+cácphầntử,NCStậptrungvàocácbàitoánmàcácphầntửcómốiquan
+hệtươngquan.Điềunàygiúpmôhìnhtậndụngkiếnthứctừcácbàitoán
+cũngnhưtăngsốlượngdữliệuchobàitoánchính,từđógiúpcảithiệnhiệu
+suấtmôhình.Cáclờinhắchướngdẫnchỉrõchomôhìnhvềbàitoánthực
+hiệnvàgiúpmôhìnhxácđịnhmốiliênhệgiữacácphầntử.
+LuậnáncũngsửdụngcácMHNNmãhóa-giảimã(encoder-decoder)để
+đểhuấnluyệntheohướngtạosinhvănbản.Đểhạnchếsựnhạycảmvềvị
+trícácthuộctính,luậnánápdụngkỹthuậttăngcườngdữliệuđểtăngkích
+thướcmẫuhuấnluyệnthôngquanhânbảnngẫunhiênthuộctínhnhưsau:
+• Tạotậptừđiển:Tríchxuấtcácgiátrịkhácrỗngchotừngphầntử
+trongbộnămđểtạothànhcáctậptừđiển.
+• Tạobìnhluậnvớibộnămthuộctính:NCSngẫunhiênthaythếchủ
+thể,đốitượng,khíacạnhvàvịngữbằnggiátrịtừbộtừđiển,đảm
+bảonhãnsosánhnhấtquán.
+• Cân bằng và chọn lọc dữ liệu: Tập dữ liệu tăng cường được cân
+bằng theo nhãn so sánh, tự động loại bỏ mẫu trùng lặp (độ tương
+đồng>0.8)hoặcsaithứtựnhãnbộnămýkiến.
+4.3.3 Kếtquảthửnghiệm
+Kết quả so sánh hiệu suất mô hình luận án với các hướng tiếp cận khác
+nhautrêntậpdữliệukiểmtraởBảng4.6.CácmôhìnhBERT-LSTM-CRF
+và BERT2BERT cho kết quả độ đo F macro thấp nhất. Điều này chỉ ra
+1
+sựkhônghiệuquảcủacáckiếntrúcnàyđốivớimộtbàitoánnày.Cácmô
+hìnhtrênkhôngđủmạnhmẽđểrúttríchđượccácđặctrưngcầnthiếtnên
+
+4.4. KẾTCHƯƠNG 26
+Bảng4.7.Kếtquảchitiếtcácbiếnthểmôhìnhkhácnhautrongluậnán.
+MacroAverage MicroAverage
+Phươngpháp
+Độchínhxác Độphủ ChỉsốF1 Độchínhxác Độphủ ChỉsốF1
+Đơntácvụ 17.57 15.79 16.61 27.39 25.22 26.26
+Đơntácvụ+DA 15.95 14.41 15.10 28.15 26.10 27.09
+Đơntácvụ+Prompt 17.21 16.03 16.59 29.86 28.85 29.34
+Đơntácvụ+Prompt+DA 17.15 16.38 16.72 30.09 28.30 29.17
+Đatácvụ 20.55 15.63 17.64 27.58 21.81 24.35
+Đatácvụ+DA 21.11 16.10 18.17 27.96 22.36 24.85
+Đatácvụ+Prompt 24.17 21.80 22.51 28.13 29.41 28.76
+Đatácvụ+Prompt+DA 28.62 22.16 23.73 28.80 30.29 29.52
+kémhiệuquảtrêntậpkiểmtra.Đốivớicácphươngphápđagiaiđoạnnhư
+Three-StageBERTs[46]hayMulti-StageFramework[47]cũngcảithiện
+kếtquảtổngquan.MộtđiểmđặcbiệtlàhướngtiếpcậnSeq2SeqT5đạtkết
+quảtươngđươngvớiluậnánvềđộđomicro F .Tuynhiên,xétvềkếtquả
+1
+trênđộđo F ,phươngphápcủaluậnánvượttrộihơnSeq2SeqT5khoảng
+1
++2%vềđộđomacro F .NCScũngnhậnthấyrằngphươngphápkếthợp-
+1
+EnsembletrênGNN,viT5,vàPhoBERTcóhiệusuấtcạnhtranhvớiluận
+ánvềđộđomacro F .Tuynhiên,phươngphápnàyđòihỏimộtlượnglớn
+1
+tàinguyêntínhtoánđểhuấnluyệnvàthựcthi.
+Bảng4.7trìnhbàyhiệusuấtcủacácbiếnthểtừcácthànhphầncủamô
+hìnhluậnán.Kếtquảchothấysửdụnglờinhắchướngdẫnnângcaođáng
+kểhiệusuấttổngthểcủamôhình,đặcbiệtlàđốivớihướngtiếpcậnđatác
+vụ,sovớicácmôhìnhkhôngtíchhợplờinhắchướngdẫn.Bêncạnhđó,
+kỹthuậttăngcườngdữliệucũnggópphầncảithiệnhiệusuấttrênđộđo
+micro F nhưngkhôngđángkể.Nguyênnhânlàdokỹthuậttăngcường
+1
+cònkháđơngiảnkhichỉtạoracácmẫudựatrêncácphầntửýkiếnxoay
+quanhtậphuấnluyệnnênkhôngđadạngđượccácmẫuởtậpkiểmtra.Kết
+quảcũngchứngminhrằnghuấnluyệntheohướngđatácvụgiúpcảithiện
+hiệusuấtsovớihướngđơntácvụ,đặcbiệtlàđộđomacro F .
+1
+4.4 KẾT CHƯƠNG
+NộidungnghiêncứuđãđượccôngbốtạimộttạpchíquốctếởCT.03và
+tạpchítrongnướcCT.07.
+
+5. PHÂNTÍCHÝKIẾNVỚIDỮLIỆUHẠNCHẾ
+5.1 ĐỘNG LỰC NGHIÊN CỨU
+Trongchươngnày,luậnánnghiêncứucácphươngphápkhácnhautrong
+vấnđềhạnchếdữliệuhuấnluyệnvànângcaokếtquảdựđoánnhưsau:
+• Kết hợp mô hình đa ngôn ngữ trên ngôn ngữ giàu tài nguyên với
+kịchbản:(1)Họcchuyểntiếpchéongônngữkhôngdữliệu,(2)Học
+chuyểntiếpchéongônngữhuấnluyệnchung.
+• Nghiêncứukỹthuậtthiếtkếlờinhắc(promptengineering)vớicác
+môhìnhngônngữlớntrongkịchbảnkhôngsửdụngdữliệuhuấn
+luyện.
+5.2 PP1: MÔ HÌNH ĐA NGÔN NGỮ VỚI NGÔN NGỮ GIÀU TÀI
+NGUYÊN
+5.2.1 Họcchuyểntiếpchéongônngữkhôngdữliệu
+TronglĩnhvựcXLNN-TN,thuậtngữhọcchuyểntiếpchéongônngữkhông
+dữliệu(zero-shotcross-lingualtransferlearning)cónghĩalàchuyểntiếp
+môhìnhđãhuấnluyệntrênngônngữnguồnđượcsửdụngđểdựđoántrên
+ngônngữkhácmàkhôngcầndữliệuhuấnluyệnởngônngữđích[48,49,
+50,51].Vìvậy,cácbướcthựchiệnnhưsau:(1)Huấnluyệnmôhìnhđa
+ngônngữtrêndữliệugánnhãnởngônngữgiàutàinguyên(nguồn);(2)
+Chuyểntiếptrọngsốtrithứccủamôhìnhđểdựđoánkếtquảtrênngôn
+ngữíttàinguyên(đích).KhácvớinghiêncứutrướcchỉsửdụngtiếngAnh
+làngônngữchínhđểchuyểntiếpthìluậnántậndụngnguồntàinguyênở
+nhiềungônngữ.
+5.2.2 Họcchuyểntiếpchéongônngữhuấnluyệnchung
+Huấnluyệnchungchéongônngữ(jointtrainingcross-linguallearning)là
+môhìnhđượchuấnluyệntrênsựkếthợpdữliệucủahaihoặcnhiềungôn
+ngữkhácnhau.Vídụ,vớihaidữliệuđượcgánnhãntrêntiếngAnhvàtiếng
+Phápcókýhiệulà L và L .Theophươngphápnày,NCSkếthợp L
+en fr en
+27
+
+5.2. PP1:MÔHÌNHĐANGÔNNGỮVỚINGÔNNGỮGIÀUTÀINGUYÊN 28
+Bảng5.1.Kếtquảhọcchuyểntiếpchéongônngữkhôngdữliệukhisửdụngmột
+ngônngữnguồn.
+Ngônngữđích
+Ngônngữnguồn
+TiếngAnh TiếngPháp TiếngHàLan TiếngTâyBanNha TiếngNga
+TiếngAnh - 53.74 57.52 61.88 60.00
+TiếngPháp 58.41 - 56.86 59.85 57.52
+TiếngHàLan 62.81 53.66 - 61.32 60.47
+TiếngTâyBanNha 60.10 53.35 56.50 - 61.25
+TiếngNga 56.35 44.74 51.35 55.56 -
+và L đểhuấnluyệnmôhìnhđangônngữ.Sauđó,môhìnhnàydựđoán
+fr
+trêndữliệuởngônngữíttàinguyênnhư L .Cácnghiêncứutrướcđây
+fr
+[52,53,54,55]đãchứngminhhiệuquảphươngphápnàyởcácbàitoán
+khácnhau.Cácbướcthựchiệnnhưsau:(1)Kếthợpbộdữliệuhuấnluyện
+của nhiều ngôn ngữ tạo thành tập huấn luyện mới; (2) Áp dụng phương
+pháphọcchuyểntiếpdựatrênmôhìnhđangônngữ,(3)Đánhgiáhiệuquả
+phươngpháptrênbộdữliệukiểmtracủatừngngônngữ.
+5.2.3 Kếtquảthửnghiệm
+Họcchuyểntiếpngữchéongônngữkhôngdữliệu:Dựavàobảng5.1
+khisửdụngmộtngônngữnguồn,môhìnhhuấnluyệntrêntiếngAnhcho
+hiệusuấttốtnhấttrêntiếngPháp,HàLanvàTâyBanNha.Hơnnữa,NCS
+cũngthấyrằngkếtquảcủamôhìnhXLM-Alignkhácnhauchomộtsốcặp
+ngônngữ.Vìvậy,lựachọnngônngữnguồncótácđộngđángkểđếnhiệu
+quảcủaphươngphápnày.Cụthể,môhìnhhuấnluyệntrêndữliệutiếng
+Anh(thuộcnhómGermanic)đạtkếtquảvượttrộivớicácngônngữđích
+cósựtươngđồngvềhìnhtháihoặcnguồngốctừ,nhưtiếngPhápvàTây
+BanNha(thuộcnhómRomance),vàđặcbiệtlàtiếngHàLan(cùngnhóm
+Germanic).Trongđó,tiếngHàLanđạthiệusuấtcaonhấttrêntiếngAnh
+nhờsựtươngđồnglớnvềcúphápvàtừvựnggiữahaingônngữ.Ngược
+lại,khisửdụngtiếngNga(thuộcnhómSlavic)làmngônngữnguồn,kết
+quả giảm đáng kể đối với tất cả các ngôn ngữ đích, đặc biệt là các ngôn
+ngữRomancenhưtiếngPhápvàtiếngTâyBanNha.Nhữngquansátnày
+củng cố giảthuyết rằng tínhtương đồng ngôn ngữ cóvai tròquantrọng
+trongphươngphápchuyểntiếpchéongônngữ.
+
+5.2. PP1:MÔHÌNHĐANGÔNNGỮVỚINGÔNNGỮGIÀUTÀINGUYÊN 29
+Bảng5.2.Kếtquảhọcchuyểntiếpkhôngdữliệutrênnhiềungônngữnguồn.
+KQ@1làkếtquảcủamộtngônngữnguồn.
+Nguồn⇒Đích Độchínhxác Độphủ MicroF KQ@1
+1
+fr+ru+nl+es⇒en 71.14 67.49 69.27(+6.46) 62.81
+en+nl+es+ru⇒fr 64.08 58.96 61.41(+7.67) 53.74
+en+fr+es+ru⇒nl 63.62 63.98 62.81(+5.29) 57.52
+en+fr+nl+ru⇒es 66.09 68.23 67.14(+5.26) 61.88
+en+fr+nl+es⇒ru 65.96 63.29 64.60(+3.35) 61.25
+Luậnáncũngthửnghiệmkếtquảkhikếthợpnhiềungônngữnguồnkhác
+nhau.Cụthể,Bảng5.2trìnhbàykếtquảkhisửdụngdữliệucủathửnghiệm
+này.Kếtquảchothấyrằngviệckếthợpdữliệutừnhiềungônngữnguồn
+cảithiệnhiệusuấtdựđoánsovớiduynhấtmộtngônngữnguồn.Kếtquả
+nàychothấyrằngviệctậndụngdữliệuđangônngữnguồngiúpmôhình
+họcđượcnhiềuđặctrưngngữnghĩavàhìnhtháihơn,từđócảithiệnkhả
+năngtổngquáthóasangcácngônngữđích.Bêncạnhđóđốivớibàitoán
+phântíchtheokhíacạnhthìđiềunàylàmtăngsốlượngmẫuhuấnluyệnở
+mộtsốkhíacạnhítdữliệu.Bảngsốliệu5.2cũngchỉrasựcảithiệnthấp
+hơnởtiếngNgachothấyrằngkhicósựkhácbiệtlớngiữangônngữnguồn
+vàcácngônngữđích(SlavicsovớiRomancehoặcGermanic),dođó,mô
+hìnhkhôngcảithiệnhiệusuấtlớnnhưcácngônngữkhác.
+Họcchuyểntiếpngữchéongônngữhuấnluyệnchung:Bảng5.3trình
+bàykếtquảcủaviệchuấnluyệnchungchocáccặpngônngữ.Đườngchéo
+chínhlàkếtquảkhihuấnluyệnvàđánhgiámôhìnhtrêncùngdữliệuđích.
+Còncácgiátrịcònlạitrongmỗicộtthểhiệnhiệusuấtkhikếthợpdữliệu
+củamộtcặpngônngữnguồnvàđích.Nhìnchung,phươngphápcảithiện
+hiệu suất của mô hình nhưng sự cải thiện phụ thuộc vào cặp ngôn ngữ.
+Luậnánnhậnthấyrằngviệchuấnluyệncáccặpngônngữtrongcùngmột
+nhómngônngữliênquanđếnmốiquanhệngônngữnhưtiếngAnhvới
+tiếngHàLan(cặpngônngữGermanic),tiếngPhápvàtiếngTâyBanNha
+(cặpngônngữRomance)manglạilợiíchhơnsovớicáccặpkhác.
+Bảng5.4trìnhbàykếtquảkhihuấnluyệntrênbộdữliệutổnghợpnăm
+ngônngữ.Vìmôhìnhđangônngữsửdụngchungmộtkhônggianbiểu
+
+5.3. PP2:THIẾTKẾLỜINHẮCVỚIMÔHÌNHNGÔNNGỮLỚN 30
+Bảng5.3.Kếtquảphươngpháphọcchuyểntiếpchéongônngữhuấnluyệnchung
+trêncặpngônngữnguồnvàngônngữđích.
+Ngônngữđích
+Ngônngữnguồn
+TiếngAnh TiếngPháp TiếngHàLan TiếngTâyBanNha TiếngNga
+TiếngAnh 69.76 64.74 68.51 68.68 71.38
+TiếngPháp 71.23 61.86 67.92 69.98 70.29
+TiếngHàLan 73.35 63.59 63.79 69.02 69.33
+TiếngTâyBanNha 72.32 65.50 67.80 68.65 72.20
+TiếngNga 73.03 60.78 65.27 69.84 68.26
+Bảng5.4.Kếtquảkhihuấnluyệnchungnhiềungônngữ.KQ@0vàKQ@1làkết
+quảtốtnhấtkhichỉhuấnluyệntrênngônngữđíchvàdữliệukếthợp
+mộtcặpngônngữnguồnvàđích.
+Nguồn⇒Đích Độchínhxác Độphủ MicroF1 KQ@0 KQ@1
+en+fr+nl+es+ru⇒en 76.13 73.95 75.02(+5.26) 69.76 73.35(+3.59)
+en+fr+nl+es+ru⇒fr 68.50 65.04 66.73(+4.87) 61.86 65.50(+3.64)
+en+fr+nl+es+ru⇒nl 70.70 72.42 71.55(+7.76) 63.79 68.51(+4.72)
+en+fr+nl+es+ru⇒es 70.63 71.77 71.20(+2.55) 68.65 69.98(+1.33)
+en+fr+nl+es+ru⇒ru 74.22 72.41 73.31(+5.05) 68.26 72.20(+3.94)
+diễn cho các token ở nhiều ngôn ngữ khác nhau. Do đó, các từ mang ý
+nghĩa tương tự sẽ có vị trí gần nhau trong không gian, giúp mô hình đa
+ngônngữcókhảnăngliênkếtcácýnghĩatươngđồng.NhìnvàoBảng5.4
+thấyrằngkếtquảcảithiệnmộtcáchđángkểkhihuấnluyệnmôhìnhtrên
+dữliệunhiềungônngữkhácnhau.Điềunàychứngtỏviệctậndụngsức
+mạnhcủamôhìnhđangônngữvớicácbộdữliệuđãđượcgánnhãnởcác
+ngônngữgiàutàinguyêncóthểcảithiệnhiệusuấtởcácngônngữíttài
+nguyênhoặchạnchếdữliệu.
+5.3 PP2: THIẾT KẾ LỜI NHẮC VỚI MÔ HÌNH NGÔN NGỮ LỚN
+Cácmôhìnhngônngữlớn(LLM)đãgiúpmáytínhhiểungônngữcon
+ngườivớihiệusuấtngàycàngcao[56,57].Khiđượchuấnluyệntrênngữ
+lớnlớn,cácmôhìnhnàyhiểucácthôngtinngữnghĩa,cấutrúctheongữ
+cảnhvănbảnhiệuquả.Đặcbiệt,mộtsốnghiêncứugầnđâyđãtậptrung
+nghiêncứugiảipháptậndụngsứcmạnhcủaLLMchocácbàitoánphân
+tíchýkiến,tuynhiênchỉtậptrungtiếngAnh[58,59,60,61,62,63,64].
+Vìvậy,nghiêncứukhảnăngLLMchocácngônngữíttàinguyênlàmột
+chủđềnghiêncứucầnthiết.Vìvậy,luậnánnghiêncứucáckỹthuậtthiết
+kếlờinhắctrêncácLLMmãnguồnmở(Llama,SeaLLM)vàmãnguồn
+
+5.3. PP2:THIẾTKẾLỜINHẮCVỚIMÔHÌNHNGÔNNGỮLỚN 31
+đóng(GPT3.5,GPT4,GPT4o)chobàitoánphântíchýkiếntheomức
+độ.
+5.3.1 Phươngphápthiếtkếlờinhắc-PromptEngineering
+CácLLMtạoracácphảnhồikhácnhautùythuộcvàothôngtinđượccung
+cấpthôngqualờinhắcprompt.Dođó,cầnthiếtkếprompthiệuquảđểtận
+dungtríthứccósẵncủacácmôhìnhLLM[65].Mộtpromptđượcthiếtkế
+tốtgiúpcácLLMtạoraphảnhồichínhxác.Luậnánnghiêncứubacách
+thiếtkếmẫulờinhắcprompttrêntiếngAnhvàtiếngViệtnhưsau:
+• Câuhỏitrựctiếp(DirectQuestion):Lờinhắcpromtnàyhiệuquả
+chonhiệmvụyêucầucâutrảlờicụthể,giảmmơhồvàphùhợpvới
+cáctìnhhuốngđơngiảncầnrõràng.
+• Hướngdẫngánnhãn(LabelingInstruction):Hướngdẫnrõràng
+giúpmôhìnhhiểuyêucầu,đảmbảonhấtquánvàchínhxáctrong
+phảnhồi.
+• Nhậpvai(Role-playing):Gánvaitròcụthể,nhưchuyêngiaphân
+tích,đểkhaitháckhảnăngcủamôhìnhngônngữlớn.
+Bên cạnh đó, NCS cũng nghiên cứu các chiến lược thiết kế lời nhắc,
+baogồmkhôngmẫu(zero-shotprompting)[39,66]vàítmẫu(few-shot
+prompting)[67]nhưsau:
+• Nhắckhôngmẫu(Zero-shotPrompting):Yêucầumôhìnhthực
+hiệnnhiệmvụdựatrênhướngdẫn,khôngcầnvídụmẫubàitoán.
+• Nhắcítmẫu(Few-shotPrompting):Kỹthuậtnàysửdụngcácví
+dụk-shottrongpromptđểcảithiệnkhảnănghọctheongữcảnh,với
+cácvídụngẫunhiêntừdữliệuhuấnluyệnchomỗinhãnýkiến.
+5.3.2 Kếtquảthửnghiệm
+LuậnánsửdụngcácmôhìnhLLM:mãnguồnđóng(GPT3.5,GPT4và
+GPT4o)vàmãnguồnmở(Llama-38B[68],SeaLLMv37B[69]).Kết
+quảthửnghiệmtrêncácmứcđộdữliệukhácnhauchothấythiếtkếprompt
+
+5.3. PP2:THIẾTKẾLỜINHẮCVỚIMÔHÌNHNGÔNNGỮLỚN 32
+theodạng“Role-playing”chokếtquảcácđộđocaohơncáccáchthiếtkế
+promptcònlạitrêncảhaingônngữ.Kếtquảnàychỉrarằngthiếtkếprompt
+theodạng“Role-playing”khuyếnkhíchmôhìnhhiểuđượcnhiệmvụthực
+hiệntốthơn.Hơnnữa,thiếtkế“Role-playing”giúpchúngtatươngtácvới
+cácmôhìnhLLMmộtcáchtựnhiên,từđódẫnđếnhiệusuấtcácbàitoán
+XLNN-TNtốthơn[70].KếtquảchothấyprompttiếngAnhthườnghiệu
+quảhơntiếngViệt,đặcbiệtvớicácmôhìnhlớnnhưGPT-4.Tuynhiên,sự
+chênhlệchkhônglớn,vàvớiGPT-4,prompttiếngViệtchokếtquảtốthơn
+trênbộdữliệuVLSP.Điềunàydocácmôhìnhđượchuấnluyệnchủyếu
+trêndữliệutiếngAnh.
+KếtquảthửnghiệmchothấyGPT-4chokếtquảtốthơnsovớiGPT-3.5
+và GPT-4o trên hầu hết các bộ dữ liệu. So sánh trên kết quả trung bình,
+GPT-4luônvượttrộihơnhaimôhìnhcònlạitrongcảbamứcđộdữliệu.
+Bên cạnh đó, kết quả thử nghiệm cho thấy rằng sự ảnh hưởng của thiết
+kếpromptkhôngảnhhưởnglớnđếnhiệusuấtkhisửdụngcácLLMnhư
+GPT-4vàGPT-4o.Lýdolàdohaimôhìnhnàyđượccảithiệnkhảnăng
+hiểu ngôn ngữ một cách hiệu quả. Còn so sánh kết quả với hai mô hình
+LLMmãnguồnmở(Llama-38BInstructvàSeallmv37B),cácmôhình
+mãnguồnđóngkếtquảvượttrộitrongkịchbảnkhôngdữliệu(xemBảng
+5.5).
+Từ kết quả Bảng 5.5, áp dụng chiến lược k-shot cải thiện hiệu suất đáng
+kểsovớichiếnlượczero-shottrênhầuhếtcácmôhình.Tuynhiên,luận
+áncũngquansátthấyxuhướnggiảmhiệusuấtởmộtsốmôhìnhcókích
+thướcthamsốlớnnhưGPT-4vàGPT-4otrênbộdữliệuHSAkhităngsố
+lượngmẫuvídụ.Điềunàycóthểđượcgiảithíchdohiệntượngoverfitting
+trongcáchchiếnlượcthiếtkếprompt,khimôhìnhdựaquánhiềuvàocác
+ví dụ được cung cấp thay vì hiệu một cách tổng quan bài toán cần thực
+hiện.ĐốivớiVLSP,chiếnlượcfew-shotcũngcảithiệnkếtquảnhưngsự
+khácbiệtkhôngđángkểtrênbamôhìnhLLM.Nguyênnhânlàdobộdữ
+
+5.4. KẾTLUẬNCHƯƠNG 33
+Bảng5.5.KếtquảcủacáckỹthuậtthiếtkếpromptRole-playingchiếnlược
+few-shotkhácnhau.
+Phântíchýkiếnởmứcđộtàiliệuhoặccâu Phântíchýkiếnởmứcđộkhíacạnh
+Model UIT-VSFC HSA VLSP Nhàhàng Kháchsạn Điệnthoại
+MacroF1 MicroF1 MacroF1 MicroF1 MacroF1 MicroF1 MacroF1 MicroF1 MacroF1 MicroF1 MacroF1 MicroF1
+Llama-38BInstruct
+0-Shot 59.78 68.41 66.71 69.59 65.80 65.90 56.08 60.50 70.21 82.23 67.71 77.80
+1-Shot 70.01 84.30 73.19 79.43 68.76 68.95 54.33 60.33 71.39 84.00 65.53 77.39
+3-Shot 70.88 84.14 71.58 79.12 66.93 68.10 55.30 61.17 71.59 84.16 65.58 77.39
+5-Shot 75.96 87.05 70.19 80.03 69.39 69.90 - - - - - -
+Sea-LLMv37B
+0-Shot 63.89 75.36 63.44 69.44 46.08 52.10 36.94 46.00 56.13 76.05 51.64 67.64
+1-Shot 65.76 78.49 70.09 77.31 46.70 50.38 45.93 54.50 65.94 82.88 59.46 74.95
+3-Shot 71.72 83.86 70.75 75.64 49.82 52.38 45.29 54.50 64.49 82.80 59.86 74.34
+5-Shot 71.76 85.06 70.86 77.76 56.14 57.14 - - - - - -
+GPT3.5
+0-Shot 71.69 84.65 63.60 80.79 56.14 63.24 56.68 64.50 69.50 82.13 60.16 76.99
+1-Shot 74.30 87.21 70.11 81.45 69.52 71.05 63.75 66.00 71.06 83.76 58.39 74.54
+3-Shot 72.97 85.79 71.73 80.94 67.33 69.71 64.56 68.17 69.89 81.35 61.35 74.95
+5-Shot 73.69 86.83 71.01 81.54 69.10 71.14 - - - - - -
+GPT4o
+0-Shot 68.96 81.21 74.74 80.33 72.01 72.67 71.90 74.33 73.36 84.89 72.53 83.80
+1-Shot 74.72 86.77 76.46 81.85 77.22 77.14 71.84 74.17 73.88 85.23 73.11 84.26
+3-Shot 76.09 88.66 75.29 80.03 76.20 76.38 74.74 76.67 72.32 82.80 75.07 82.28
+5-Shot 77.41 89.86 75.38 79.73 77.70 77.62 - - - - - -
+GPT4
+0-Shot 69.31 82.93 76.74 83.06 74.15 74.76 71.42 74.83 72.71 85.93 70.26 81.87
+1-Shot 76.46 89.01 76.93 82.45 75.68 76.10 72.34 75.00 74.99 86.50 70.58 82.08
+3-Shot 77.77 89.51 75.36 80.79 75.62 76.48 75.66 77.67 73.71 85.13 74.86 83.71
+5-Shot 80.41 91.25 75.16 80.18 77.57 77.71 - - - - - -
+liệuVLSPlàmộtbộdữliệutháchthức,đượcgánnhãnởmứctàiliệuvà
+chứanhiềulỗivềtừvựng,cúphápvàngữpháp.Llama-38BInstructcũng
+chokếtquảtốthơnGPT-3.5ởmiềndữliệukháchsạnvàđiệnthoại.Hơn
+nữa,kếtquảthửnghiệmchothấyrằngviệctăngsốlượngvídụk-shotcải
+thiệnhiệusuấttrênhầuhếtởcácbộdữliệukhácnhauđốivớicácmôhình
+LLMkhácnhau.Kếtquảcủaluậnántươngđồngvớicácnghiêncứutrước
+đó[58]trongngônngữtiếngAnh.
+Sosánhvớiphươngpháohọccógiámsát,phươngphápthiếtkếprompt
+vớiLLMchokếtquảcạnhtranhởmứcđộdữliệutàiliệuvàcâubìnhluận.
+Cònđốivớimứcđộkhíacạnhthìkếtquảvẫncònkhoảngcáchlớn.Tuy
+nhiên,kếtquảđánhgiávẫntưởngđốikhảquantrongkịchbảnkhôngdữ
+liệuhuấnluyện.Điềunàychophépmởrộngracácmiềndữliệubìnhluận
+khác.
+5.4 KẾT LUẬN CHƯƠNG
+Các kết quả nghiên cứu trong chương này được trình bày ở CT.05 và
+CT.09.
+
+6. KẾTLUẬNVÀHƯỚNGPHÁTTRIỂN
+6.1 KẾT LUẬN
+Luậnáncócácđónggópchínhnhưsau:
+• Đónggóp#1:Nghiêncứuphươngphápcảithiệnđộchínhxáccho
+bàitoánphântíchýkiếntheomứcđộvới(1)phươngpháphọcchuyển
+tiếp dựa trên MHNN theo hướng phân loại; (2) phương pháp học
+chuyểntiếpdựatrênMHNNtheohướngtạosinhvănbản;(3)phương
+pháptổhợpdựatrêncácMHNNhướngphânloại.Kếtquảnghiên
+cứuđượccôngbốtạicáccôngtrìnhCT.01,CT.04,CT.06,vàCT.08.
+• Đónggóp#2:Xâydựngmôhìnhhiệuquảchobàitoánphântíchý
+kiếntheoquanđiểmthôngthườngvàsosánh.Kếtquảnghiêncứu
+đượccôngbốởcôngtrìnhCT.03vàCT.07.
+• Đónggóp#3:Nghiêncứucácphươngphápchovấnđềhạnchếdữ
+liệuhuấnluyệntrongbàitoánphântíchýkiến.Cáckếtquảnghiên
+cứuđượctrìnhbàyởCT.05vàCT.09.
+6.2 HƯỚNG PHÁT TRIỂN
+Hướngpháttriểntiếptheocủaluậnánnhưsau:
+• Tíchhợpcácquytắccảmxúctheođặctrưngngônngữnhưđặctrưng
+vềcúpháp,đặctrưngtừloại,cấutrúcngữnghĩahoặctrithứcngoài
+vàomôhình.
+• TậndụngsứcmạnhcủacácmôhìnhngônngữlớnnhưlàLlama-3
+[71],Vina-Llama[72]đểnângcaohiệuquảdựđoán.
+• Cácbìnhluậnmỉamaihoặccầnsuyluậnđểxácđịnhđượcýnghĩaý
+kiếncũnglàmộttrongnhữngvấnđềtháchthứccầnđượcxửlýtrong
+tiếngViệt.
+34

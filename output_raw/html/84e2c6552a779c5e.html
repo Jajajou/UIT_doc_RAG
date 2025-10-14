@@ -1,0 +1,8 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">document.addEventListener("discourse-init",e=&gt;{performance.mark("discourse-init")
+const t=e.detail
+require(`${t.modulePrefix}/app`).default.create(t).start()}),function(){if(window.unsupportedBrowser)throw"Unsupported browser detected"
+let e=document.querySelector('meta[name="discourse/config/environment"]')
+const t=JSON.parse(decodeURIComponent(e.getAttribute("content"))),n=new CustomEvent("discourse-init",{detail:t})
+document.dispatchEvent(n)}()
+
+//# sourceMappingURL=start-discourse-b9e4cba5.map</pre></body></html>

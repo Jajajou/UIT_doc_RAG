@@ -1,0 +1,206 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2023-2024 - Thời gian bảo vệ: 23-24/07/2024
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian
+viên dẫn biện tự
+bảo vệ
+Phòng E4.1
+Thiết kế bộ đồng xử lý mật mã Design high-throughput RISC- TS. Phạm Hoài
+dựa trên RISC-V thông lượng V based cryptographic co- Luân, ThS. Phạm
+1 20521369 Nguyễn Ngọc Hưng CLC-VN 24/07/2024 E4.1 S1 8h00
+cao dành cho Lightweight processor for Lightweight TS. Lâm Đức Thanh Hùng
+Cryptography Cryptography Khải
+High-performance multimode TS. Phạm Hoài
+Bộ tăng tốc đa chế độ hiệu suất
+accelerator for post-quantum Luân, ThS. Phạm
+2 20521707 Nguyễn Đình Nhất cao cho mật mã hậu lượng tử CLC-VN 24/07/2024 E4.1 S2 8h30
+cryptography CRYSTALS- TS. Lâm Đức Thanh Hùng
+CRYSTALS-Kyber
+Kyber Khải
+ThS. Trần
+20521365, Mai Lê Vĩnh Hưng, Hoàng Lộc, ThS. Phạm
+3 Hệ thống phòng thi thông minh Smart exam room system CLC-VN 24/07/2024 E4.1 S3 9h00
+20521406 Nguyễn Tấn Huy TS. Phạm Quốc Minh Quân
+Hùng
+Research and development of a TS. Lâm Đức
+Nghiên cứu và xây dựng mô CQĐT
+simultaneous multi-tasking Khải, ThS. Phạm
+4 20521766 Nguyễn Đình Phúc hình xử lý đồng thời đa tác vụ Đổi tên đề 24/07/2024 E4.1 S4 9h30
+model for autonomous vehicle KS. Chế Quang Minh Quân
+cho bài toán xe tự hành tài
+problems Huy
+TS. Phạm Quốc
+Simultaneous localization and
+20521616, Trần Anh Minh, Ứng dụng công nghệ định vị Hùng, ThS. Phạm
+5 mapping (SLAM) in mobile CLC-VN 24/07/2024 E4.1 S5 10h00
+20521619 Văn Nhật Minh đồng thời lập bản đồ trên robot ThS. Phan Minh Quân
+robots
+Đình Duy
+TS. Đỗ Trí
+Nguyễn Hồng Thiết kế mạch báo cháy đa Design multi-function fire Nhựt, TS. Nguyễn
+6 20521807 CLC-VN 24/07/2024 E4.1 C1 13h30
+Quang năng alarm circuit ThS. Trương Hoài Nhân
+Văn Cương
+Thiết kế hệ thống mô phỏng Designing a simulation system
+20520326, Tạ Điền Minh Trí, TS. Nguyễn
+7 đánh giá mật độ giao thông for traffic density evaluating in TS. Đoàn Duy CQĐT 24/07/2024 E4.1 C2 14h00
+20520349 Lê Hữu Vinh Hoài Nhân
+trong đô thị urban areas
+Page 1 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian
+viên dẫn biện tự
+bảo vệ
+Bùi Sỹ Quân, Xây dựng robot 3 trục - ứng Implementation of 3-axis robot -
+20521784, TS. Trần TS. Nguyễn
+8 Võ Đình Ngọc dụng trong quy trình xử lý application in wafer handling CQĐT 24/07/2024 E4.1 C3 14h30
+20522141 Quang Nguyên Hoài Nhân
+Uyển wafer process
+Thiết kế và xây dựng hệ thống Thiết kế và xây dựng hệ thống
+CLC-VN
+20521606, Nguyễn Anh Minh, đo nồng độ CO2, nhiệt độ và đo nồng độ CO2, nhiệt độ và TS. Trần TS. Nguyễn
+9 Đổi tên đề 24/07/2024 E4.1 C4 15h00
+20521950 Nguyễn Hoàn Thiện độ ẩm dựa trên hiện tượng độ ẩm dựa trên hiện tượng Quang Nguyên Hoài Nhân
+tài
+quang xúc tác quang xúc tác
+Lê Ngọc Quang, Thiết kế giải pháp hỗ trợ tra Design an application for drug
+20521806, ThS. Trương
+10 Nguyễn Mạnh cứu điểm bán thuốc dựa trên store searching using image of TS. Đoàn Duy CLC-VN 24/07/2024 E4.1 C5 15h30
+20521819 Văn Cương
+Quyền ảnh chụp toa thuốc medical prescription
+Phòng E4.2
+Nghiên cứu và thiết kế mô hình Research and design patrol ThS. Nguyễn TS. Phạm Quốc
+1 19520544 Nguyễn Quốc Hiếu CQĐT 24/07/2024 E4.2 S1 8h00
+robot tuần tra robot Thanh Thiện Hùng
+ThS. Phan
+Tích hợp tính toán biên và máy Integrating edge computing and
+Đình Duy, TS. Phạm Quốc
+2 20522094 Lê Hữu Truyền chủ cho hệ thống nhận diện server for multi-authentication CQĐT 24/07/2024 E4.2 S2 8h30
+KS. Chế Quang Hùng
+khuôn mặt đa xác thực facial recognition system
+Huy
+Hand gesture recognition
+Nguyễn Thành Hệ thống nhận diện cử chỉ tay ThS. Trần TS. Phạm Quốc
+3 20520946 system for controlling CQĐT 24/07/2024 E4.2 S3 9h00
+Trung để điều khiển slide trình chiếu Hoàng Lộc Hùng
+presentation slides
+Thiết kế, thi công hệ thống IoT-based QR code checking TS. Đỗ Trí TS. Phạm Quốc
+4 20521497 Nguyễn Anh Kiệt CLC-VN 24/07/2024 E4.2 S4 9h30
+điểm danh bằng mã QR system. Nhựt Hùng
+Thiết kế - Thi công hệ thống IMU-based wearable indoor TS. Đỗ Trí TS. Phạm Quốc
+5 19522150 Đỗ Hữu Tài CLC-VN 24/07/2024 E4.2 S5 10h00
+định vị bằng thiết bị đeo IMU navigation system Nhựt Hùng
+Page 2 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian
+viên dẫn biện tự
+bảo vệ
+Huỳnh Lưu Hữu Ứng dụng thuật toán phát hiện Application of object detection
+20521651, ThS. Ngô Hiếu ThS. Trương
+6 Nghĩa, đối tượng trên SoC-FPGA sử algorithm on SoC-FPGA using CQĐT 24/07/2024 E4.2 C1 13h30
+20521883 Trường Văn Cương
+Đặng Thái Thạch dụng OpenCL OpenCL
+TS. Trần ThS. Trương
+7 20521754 Mai Xuân Phú Thiết kế IP cho bộ đệm video IP design for video frame buffer CQĐT 24/07/2024 E4.2 C2 14h00
+Quang Nguyên Văn Cương
+Thiết kế bộ gia tốc trên FPGA An accelerator on FPGA for
+TS. Trần Thị ThS. Trương
+8 20521117 Ngô Tấn Bình cho mạng nơ-ron tích chập dựa convolutional neural network CLC-VN 24/07/2024 E4.2 C3 14h30
+Điểm Văn Cương
+trên tính toán ngẫu nhiên based with stochastic computing
+Ứng dựng các thiết bị IoT vào ThS. Phan ThS. Trần
+9 20520665 Chu Thành Nhân IoT in Metaverse CQĐT 24/07/2024 E4.2 C4 15h00
+thực tế ảo Metaverse Đình Duy Hoàng Lộc
+Design a system for
+Thiết kế hệ thống nhận diện và
+determining and classification ThS. Trần
+10 19522388 Nguyễn Minh Trí phân loại độ chín của các loại TS. Đoàn Duy CLC-VN 24/07/2024 E4.2 C5 15h30
+ripeness of mangoes based on Hoàng Lộc
+xoài
+the color of fruit
+Phòng E4.3
+Research, design and simulate
+Nghiên cứu, thiết kế và mô
+Nguyễn Thành 32-bit microcontroller with ThS. Tạ Trí TS. Trần Thị
+1 19521793 phỏng vi điều khiển 32-bit có CQĐT 24/07/2024 E4.3 S1 8h00
+Long intergrated hardware-based Đức Điểm
+tích hợp mã hóa phần cứng
+encrytion
+ThS. Tạ Trí
+Thiết kế vật lý bộ vi xử lý Physical design of RISC-V
+Đức, TS. Trần Thị
+2 20521608 Nguyễn Hải Minh RISC-V hỗ trợ branch processor with branch CLC-VN 24/07/2024 E4.3 S2 8h30
+ThS. Phạm Điểm
+prediction prediction
+Minh Quân
+ThS. Tạ Trí
+20521836, Phan Trường Sinh, Thiết kế bộ tăng tốc phần cứng Design hardward accelerator Đức, TS. Trần Thị
+3 CLC-VN 24/07/2024 E4.3 S3 9h00
+20521886 Lâm Sơn Nhật Thái với RISC-V with RISC-V processor ThS. Phạm Điểm
+Minh Quân
+Page 3 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian
+viên dẫn biện tự
+bảo vệ
+Hiện thực lõi IP thuật toán chữ ThS. Phạm
+Implement IP of Digital
+Nguyễn Lê Thảo, ký số (DSA) sử dụng hệ mật Thanh Hùng,
+20520932, signaltrure algrorithm using ThS. Trần Văn
+4 Trần Xuân Ngọc mã đường cong ELLIPTIC kết TS. Trần CLC-VN 24/07/2024 E4.3 S4 9h30
+20521338 elliptic cure crytigraphy and Quang
+Hoan hợp thuật toán băm SHA-256 Phước Xuân
+sha-256 on FPGA
+trên FPGA (TG)
+20521302, Trần Đăng Hậu, Nghiên cứu và hiện thực IP Research and implementation ThS. Trương ThS. Trần Văn
+5 CQĐT 24/07/2024 E4.3 S5 10h00
+20521744 Lê Quang Phong ShuffleNet of ShuffleNet IP Văn Cương Quang
+Researching and
+ThS. Trương
+Nghiên cứu thiết kế và hiện implementation of a
+Văn Cương, ThS. Trần Văn
+6 16520347 Ngô Thái Anh Hào thực mô hình kiểm tra cho một verification environment for a CLC-VN 24/07/2024 E4.3 C1 13h30
+ThS. Hồ Ngọc Quang
+thiết kế mạng nơ-ron tích chập convolutional neural network
+Diễm
+intellectual property
+ThS. Phạm
+Nguyễn Đức Duy Hiện thực một NOC (network Implementing a NOC (network
+Thanh Hùng,
+20521435, Khang, on chip) sử dụng lõi vi xử lý on chip) using RISC-V TS. Trần
+7 TS. Trần CLC-VN 24/07/2024 E4.3 C2 14h00
+20521638 Trương Trần Hoài RISC-V RV32IMF thông qua RV32IMF processor core with Quang Nguyên
+Phước Xuân
+Nam giao thức TileLink trên FPGA TileLink protocol on FPGA
+(TG)
+Thiết kế lõi vi xử ký RISC-V Design RISC-V RV32I ThS. Phạm
+Hồ Khả Trình, RV32I tích hợp khối điều microprocessor core integrated Thanh Hùng,
+20522059, TS. Trần
+8 Nguyễn Nhựt khiển JTAG ứng dụng vào việc JTAG controller block applying TS. Trần CLC-VN 24/07/2024 E4.3 C3 14h30
+20522088 Quang Nguyên
+Trường nạp lệnh chương trình trên to program instruction code on Phước Xuân
+FPGA FPGA (TG)
+ThS. Phạm
+Hiện thực một hệ thống SoC Implementing a SoC integrated
+Nguyễn Thanh Thanh Hùng,
+20522131, tích hợp lõi IP ethernet 1 an ethernet IP core 1 GBPS TS. Trần
+9 Tùng, TS. Trần CLC-VN 24/07/2024 E4.3 C4 15h00
+20522143 GBPS hỗ trợ giao thức ICMP supporting ICMP protocol on Quang Nguyên
+Lê Hoàng Văn Phước Xuân
+trên FPGA FPGA
+(TG)
+Nghiên cứu phát triển bộ kiểm Research and development a
+TS. Nguyễn TS. Trần
+10 17521248 Nguyễn Bá Văn tra đánh giá hệ thống RISC-V test and evaluation suite for the CLC-VN 24/07/2024 E4.3 C5 15h30
+Minh Sơn Quang Nguyên
+Core RISC-V Core system
+Page 4 of 4

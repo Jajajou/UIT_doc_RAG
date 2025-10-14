@@ -1,0 +1,74 @@
+ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+ĐỀ CƢƠNG ÔN THI CAO HỌC
+MÔN HỌC: CƠ SỞ DỮ LIỆU
+1. Mục tiêu của môn học: cung cấp cho sinh viên lý thuyết nền tảng về cơ sở dữ liệu
+quan hệ, các mô hình dữ liệu, các thao tác truy xuất dữ liệu, tối ƣu hóa truy vấn,
+mô hình quan hệ, các dạng chuẩn, phân rã lƣợc đồ bảo toàn thông tin, bảo toàn
+phụ thuộc hàm.
+2. Mô tả vắn tắt nội dung môn học:
+Cung cấp các kiến thức về cơ sở dữ liệu nhƣ: khái niệm cơ bản về cơ sở dữ liệu
+quan hệ; Các phép toán đại số quan hệ; Ngôn ngữ SQL; Ngôn ngữ tân từ, Các
+ràng buộc toàn vẹn trên một sở dữ liệu; Quản trị bên trong cơ sở dữ liệu, môi
+trƣờng khách/chủ và các dạng chuẩn, phép phân rã lƣợc đồ CSDL.
+3. Tài liệu học tập
+- Sách tham khảo
+[1] Ramez Elmasri, Shamkant B. Navathe. Fundamentals of Database
+Systems, 6th edition, Addison Wesley, 2011.
+[2] Abraham Silberschatz, Henry F. Korth, S. Sudarshan, Database System
+Concepts, 6th edition, ISBN: 978-0-07-352332-3, McGraw-Hill, 2011
+[3] Đỗ Phúc, Nguyễn Đăng Tỵ, Giáo trình Cơ Sở Dữ Liệu, NXB Đại Học
+Quốc Gia Tp. HCM, 2005
+[4] Đồng Thị Bích Thủy Giáo trình thiết kế cơ sở dữ liệu, Đại học KHTN- Đại
+học Quốc gia Tp.HCM
+4. Nội dung chi tiết môn học :
+Chương 1: Mô hình dữ liệu quan hệ Codd
+1.1 Thuộc tính
+1.2 Quan hệ, số ngôi của quan hệ
+1.3 Bộ
+1.4 Khóa – Siêu khóa – Khóa chính (khóa chỉ định) – Khóa ứng viên – Khóa ngoại.
+1.5 Lƣợc đồ quan hệ, lƣợc đồ CSDL
+Chương 2: Ngôn ngữ đại số quan hệ
+2.1 Giới thiệu
+2.2 Các phép toán quan hệ: phép chọn, phép chiếu, phép kết.
+2.3 Các phép toán tập hợp: phép hội, phép giao, phép trừ, phép tích, phép chia.
+Chương 3: Ngôn ngữ truy vấn SQL
+3.1 Ngôn ngữ định nghĩa dữ liệu (DDL)
+3.2 Ngôn ngữ thao tác dữ liệu (DML)
+
+3.3 Ngôn ngữ truy vấn dữ liệu (SQL)
+3.4 Khai báo các ràng buộc toàn vẹn
+3.5 Các loại câu truy vấn
+3.6 Subquery
+3.7 Sử dụng hàm tính toán
+3.8 Gom nhóm dữ liệu
+Chương 3: Ràng buộc toàn vẹn trong một CSDL quan hệ
+3.1 Định nghĩa _ Các yếu tố của RBTV
+3.2 Phân loại ràng buộc toàn vẹn
+3.3 RBTV định nghĩa trên một quan hệ cơ sở
+3.4 RBTV định nghĩa trên nhiều quan hệ cơ sở
+3.5 Bảng tầm ảnh hƣởng của RBTV
+Chương 4: Tối ưu hóa một câu hỏi
+4.1 Đặt vấn đề
+4.2 Nguyên tắc tổng quát để tối ƣu hóa câu hỏi
+4.3 Biểu thức tƣơng đƣơng
+4.4 Tính chất của phép kết và phép tích
+4.5 Một số kỹ thuật tối ƣu hóa câu hỏi (dãy phép chọn, phép chiếu, hoán vị …)
+Chương 5: Mô hình quan hệ và các phụ thuộc dữ liệu
+5.1 Phụ thuộc hàm:
+5.1.1 Định nghĩa
+5.1.2 Bao đóng của một tập phụ thuộc hàm
+5.1.3 Hệ tiên đề Armstrong
+5.1.4 Phủ và phủ tối thiểu
+5.1.5 Tính chất của phụ thuộc hàm
+5.1.6 Ứng dụng khái niệm phụ thuộc hàm vào khóa
+5.2 Các dạng chuẩn:
+5.2.1 Dạng chuẩn 1
+5.2.2 Dạng chuẩn 2
+5.2.3 Dạng chuẩn 3
+5.2.4 Dạng chuẩn Boyce-Codd-Kent
+5.3 Phân rã bảo toàn thông tin
+5.4 Phân rã bào toàn phụ thuộc hàm
+TP. Hồ Chí Minh, ngày 24 tháng 3 năm 2017
+Ngƣời soạn đề cƣơng
+PGS. TS. Nguyễn Đình Thuân

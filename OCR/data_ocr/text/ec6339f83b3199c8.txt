@@ -1,0 +1,73 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO ĐỀ CƯƠNG KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 1 - Năm học: 2023 - 2024
+Thời gian bắt đầu hội đồng: 8h20, thứ Sáu, ngày 22/09/2023
+Địa điểm: Phòng E6.3
+Thời gian tối đa cho 1 đề tài là 10 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 5 phút hội đồng góp ý
+TÊN ĐỀ TÀI TIẾNG TÊN CB THỜI Link Đề cương chi
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT Hệ ĐT GHI CHÚ
+ANH HƯỚNG DẪN GIAN tiết
+18521380 Huỳnh Quang Thái Nghiên cứu thiết kế hệ thống Research and design of the https://drive.google.c
+Thái: không đủ điều kiện
+giám sát chất lượng công việc monitoring system based TS. Nguyễn om/open?id=1olmxjjf
+1 CQĐT làm KLTN (ĐTBC: 6.0 8h20
+của thợ sửa chữa điện dựa trên on IoT flatform for Minh Sơn 3P6ynZzbOhfHeC8S
+Nguyễn Văn Thiện <6.5)
+18521369 nền tảng IoT electrician JuKkh1x7T
+Tâm
+Integrating data exchange https://drive.google.c
+Tích hợp thuật toán trao đổi dữ
+algorithm on edge TS. Nguyễn Không đủ đk (121/126, om/open?id=1vmB03
+2 17521131 Trần Ngọc Tiến liệu trên công nghệ tính toán CLC-VN 8h30
+computing technology for Minh Sơn điểm TBC dưới 6.5) UF8ahaQcr8uHPvOr
+biên cho nhiều smart camera
+multiple smart camera wqtBueAnnzz
+https://drive.google.c
+Thiết kế một EDA Tool để thực Design an EDA tool to do
+Tào Viễn Hoàng TS. Nguyễn om/open?id=1_Zu_h
+3 19521211 hiện chèn Scan trong bước the Scan insertion in DFT CLC-VN 8h40
+Anh Minh Sơn 1LvFk6l7F5f7d7uftb
+DFT step
+Enit8jJbs
+https://drive.google.c
+Hệ thống nhận diện biển báo Traffic sign recognition om/open?id=1L-
+Phan Công Duy TS. Nguyễn SV đăng ký làm KLTN
+4 19520627 giao thông ứng dụng công nghệ system applying SoC CLC-EN 8h50 tef6qW9PMECYcjy
+Khiêm Minh Sơn tiếng việt
+SoC technology mwAMGfHcNwiQG
+0C
+Mạnh, Tài không đủ đk
+19521831 Vũ Văn Mạnh https://drive.google.c
+Determination of eggs (tích lũy không đủ số TC,
+Xác định chất lượng trứng dùng TS. Phạm Quốc om/open?id=1ntogpZ
+5 quality using optical CLC-VN Mạnh: 123/127, Tài: 9h00
+cảm biến quang và AI Hùng hCx9CgYywjLdENq
+sensor and AI 125/127)
+19522152 Nguyễn Duy Tài waPI2LrzgtR
+SV chưa ký tên vào ĐCCT
+Page 1 of 2
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB THỜI Link Đề cương chi
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT Hệ ĐT GHI CHÚ
+ANH HƯỚNG DẪN GIAN tiết
+https://drive.google.
+ThS. Trần
+Thiết kế và xây dựng cánh tay Design and build 3 DOF com/open?id=1iLy
+Quang Nguyên,
+6 19521249 Nguyễn Mạnh Bảo robot 3 trục - Ứng dụng trong robotic arm – Application CLC-VN 9h10 UvqEZdjMeqUHYI
+TS. Phạm Quốc
+dây chuyền công nghiệp in production line Cm027kg64d62n1
+Hùng
+A
+19522150 Đỗ Hữu Tài Tài không đủ đk (117/127) https://drive.google.
+Hệ thống quản lý nhân viên Employee Management ThS Trương com/open?id=1i3S
+7 CLC-VN 9h20
+bằng mã QR System by QR Code Văn Cương Jy47OtKbug9asKH
+19521333 Ngô Mẫn Đạt zUpiicF0IJ2u22
+Hệ thống giám sát, quản lý, System for monitoring, TS. Phạm Quốc https://drive.google.
+kiểm soát các thiết bị điện, managing, and controlling Hùng, com/open?id=1tFu
+8 20521349 Phan Nhat Hoang CLC-VN 9h30
+hướng tới phân tích dữ liệu và electrical devices; analyze ThS. Phan Đình N1jfa6DTCU1uplK
+hành vi người dùng data and user behavior Duy 6Ix4tSj0wtLkDv
+Page 2 of 2

@@ -1,0 +1,46 @@
+THÔNG TIN LUẬN ÁN
+Tên luận án: Nghiên cứu các kỹ thuật phân tích ý kiến trên bình luận phản hồi của
+người dùng
+Ngành: Khoa học máy tính
+Mã số: 9480101
+Họ tên: Đặng Văn Thìn
+Cán bộ hướng dẫn: PGS.TS Nguyễn Lưu Thùy Ngân
+Cơ sở đào tạo: Trường Đại học Công nghệ thông tin – ĐHQG TPHCM
+TÓM TẮT
+Phân tích ý kiến là lĩnh vực nghiên cứu thu hút sự quan tâm trong cộng đồng học thuật và
+ứng dụng để khai thác thông tin từ các bình luận được tạo ra bởi người dùng. Luận án này
+nghiên cứu và xây dựng các phương pháp để giải quyết các bài toán phân tích ý kiến trên
+bình luận phản hồi với mục tiêu nâng cao hiệu suất trên các bộ dữ liệu tiếng Việt và một số
+ngôn ngữ khác. Các phương pháp trong luận án được đề xuất dựa trên sức mạnh các mô
+hình ngôn ngữ huấn luyện sẵn theo các hướng tiếp cận khác nhau, bao gồm: hướng tiếp
+cận phân loại, hướng tiếp cận tạo sinh văn bản và phương pháp tổ hợp trên mô hình ngôn
+ngữ. Ngoài ra, luận án cũng nghiên cứu các phương pháp để giải quyết vấn đề hạn chế dữ
+liệu huấn luyện trong một số kịch bản ít tài nguyên về dữ liệu. Các đóng góp chính của
+luận án được trình bày như sau:
+• Nâng cao hiệu suất dự đoán cho bài toán phân tích ý kiến theo mức độ dữ liệu: Luận
+án đề xuất ba phương pháp khác nhau, bao gồm: (1) phương pháp học chuyển tiếp
+dựa trên mô hình ngôn ngữ theo hướng phân loại; (2) phương pháp học chuyển tiếp
+dựa trên mô hình ngôn ngữ theo hướng tạo sinh văn bản; và (3) phương pháp tổ hợp
+dựa trên mô hình ngôn ngữ để cải thiện hiệu suất trên các bộ dữ liệu.
+• Xây dựng mô hình nâng cao hiệu suất cho bài toán phân tích ý kiến theo hai quan
+điểm: thông thường và so sánh: Luận án trình bày một mô hình ngôn ngữ tạo sinh
+kết hợp lời nhắc theo hướng đa tác vụ nhằm giải quyết bài toán trích xuất bộ bốn
+thuộc tính trong các quan điểm ý kiến thông thường. Đối với bình luận so sánh, luận
+án đề xuất một kiến trúc hai giai đoạn để xác định bình luận so sánh và trích xuất
+bộ năm thuộc tính của ý kiến so sánh.
+
+• Đề xuất các phương pháp cho vấn đề dữ liệu hạn chế dữ liệu huấn luyện trong bài
+toán phân tích ý kiến cho ngôn ngữ hoặc miền dữ liệu ít tài nguyên: Luận án trình
+bày hai phương pháp khác nhau, bao gồm (1) tận dụng sức mạnh các mô hình đa
+ngôn ngữ kết hợp với dữ liệu giàu tài nguyên trong các kịch bản khác nhau; (2)
+nghiên cứu thiết kế lời nhắc hướng dẫn kết hợp với mô hình ngôn ngữ lớn hiện đại.
+Ngoài ra, nghiên cứu sinh cũng trình bày kết quả nghiên cứu khảo sát tổng quan các phương
+pháp, mô hình, bộ dữ liệu trước đây về bài toán phân tích ý kiến để xác định ra các vấn đề
+hạn chế cần được tập trung nghiên cứu trong chủ đề của luận án.
+Về công bố khoa học, nghiên cứu sinh đã công bố 09 bài báo khoa học chuyên ngành khác
+nhau với 07 bài báo đăng tại các tạp chí uy tín (trong đó bao gồm 03 bài báo tại tạp chí
+quốc tế uy tín SCIE xếp hạng Q2, 02 bài tạp chí thuộc danh mục Scopus và 02 bài tạp chí
+trong nước được tính điểm phong hàm GS/PGS) và 02 bài báo khoa học đăng tại các hội
+nghị quốc tế chuyên ngành hạng C trong suốt khoảng thời gian thực hiện luận án.
+CÁN BỘ HƯỚNG DẪN NGHIÊN CỨU SINH
+Nguyễn Lưu Thùy Ngân Đặng Văn Thìn

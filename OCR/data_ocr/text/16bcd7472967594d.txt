@@ -1,0 +1,551 @@
+Mẫu01-ĐA
+TRƯỜNG ĐH CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH TP.Hồ Chí Minh, ngày 07 tháng 09 năm 2023
+DANH SÁCH ĐỀ TÀI ĐỒ ÁN
+HK 1 Năm học 2023 -2024
+TỔNG SỐ 69 ĐỀ TÀI
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Tìm hiểu các thuật toán phân cụm trong học Trần Thị Điểm Sinh viên yêu thích toán học
+1. 2 1
+máy diemtt@uit.edu.vn và biết lập trình C hoặc python
+Sinh viên yêu thích toán học,
+Thực hiện hệ thống SoPC cho mạng tích chập Trần Thị Điểm thích tìm hiểu về AI, và biết
+2. 2 2
+trong ứng dụng nhận dạng ảnh diemtt@uit.edu.vn lập trình C hoặc python,
+verilog
+Sinh viên yêu thích toán học,
+Thực hiện hệ thống SoPC cho mạng tích chập Trần Thị Điểm
+3. thích tìm hiểu về AI và biết lập 2 2
+trong ứng dụng phân loại tín hiệu ECG diemtt@uit.edu.vn
+trình C hoặc python, verilog
+Sinh viên yêu thích toán học
+Xây dựng quy trình chuyển đổi code từ python Trần Thị Điểm
+4. và biết lập trình C hoặc 2 1
+xuống ngôn ngữ phần cứng diemtt@uit.edu.vn
+python, verilog
+1
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Sinh viên yêu thích toán học,
+Tìm hiểu kiến trúc mạng transformer và các ứng Trần Thị Điểm
+5. thích tìm hiểu về AI và biết lập 2 1
+dụng liên quan diemtt@uit.edu.vn
+trình python
+Sinh viên yêu thích toán học,
+Tìm hiểu các kỹ thuật sinh dữ liệu trong ứng Trần Thị Điểm
+6. thích tìm hiểu về AI và biết lập 2 1
+dụng công nghệ AI hiện nay diemtt@uit.edu.vn
+trình python
+Sinh viên yêu thích toán học,
+Thiết kế phần cứng tối ưu các lớp tính toán Trần Thị Điểm
+7. thích tìm hiểu về AI và biết lập 2 2
+trong mạng neural tích chập diemtt@uit.edu.vn
+trình verilog
+Sinh viên yêu thích toán học,
+Nhận dạng ngôn ngữ ký hiệu bằng kiến trúc Trần Thị Điểm
+8. thích tìm hiểu về AI và biết lập 2 2
+transformer diemtt@uit.edu.vn
+trình python
+Nguyễn Hoài
+Lập trình bộ điều khiển tay máy robot 3 bậc tự
+Nhân SV có kiến thức lập trình vi CQĐT,
+9. do ứng dụng trong hệ thống nhận dạng, phân 2 Đồ án 1, 2
+nhannh@uit.edu. điều khiển, C ++ CLC
+loại và sắp xếp tự động.
+vn
+2
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Nguyễn Hoài
+Thiết bị giao dịch tự động ứng dụng trong các Nhân SV có kiến thức lập trình vi CQĐT,CL
+10. 2 Đồ án 1, 2
+hệ thống bán hàng. nhannh@uit.edu. điều khiển, C ++ C
+vn
+Nguyễn Hoài
+Robot vận chuyển kết hợp tay máy ứng dụng Nhân SV có kiến thức lập trình vi CQĐT,CL
+11. 2 Đồ án 1, 2
+trong hệ thống lưu trữ hàng hóa. nhannh@uit.edu. điều khiển, C ++ C
+vn
+Nguyễn Hoài
+Thiết kế chương trình điều khiển tay máy
+12. Nhân SV có kiến thức lập trình vi CQĐT,CL
+robot ứng dụng trong công nghệ lắp mạch in tự 2 Đồ án 1, 2
+nhannh@uit.edu. điều khiển, C ++ C
+động.
+vn
+Chuyên môn: Python, Linux.
+Nghiên cứu thiết kế mô hình hệ thống đọc Không
+13. Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+thông tin tài liệu OCR. giới hạn
+ngại khó, chuyên cần.
+Chuyên môn: Python, Linux.
+Nghiên cứu thiết kế mô hình hệ thống xe tự Không
+14. Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+hành với công nghệ IMU có hổ trợ AI. giới hạn
+ngại khó, chuyên cần.
+Chuyên môn: Python, Linux.
+Nghiên cứu thiết kế mô hình hệ thống định vị Không
+15. Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+với Lidar. giới hạn
+ngại khó, chuyên cần.
+Nghiên cứu thiết kế mô hình hệ thống ước Chuyên môn: Python, Linux.
+Không
+16. lượng khoảng cách Euler với IMU X Dot Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+giới hạn
+Movella. ngại khó, chuyên cần.
+3
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Chuyên môn: Python, Linux.
+Nghiên cứu thiết kế mô hình hệ thống nhận Không
+17. Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+biết cử chỉ bàn tay thông qua các điểm mốc. giới hạn
+ngại khó, chuyên cần.
+Nghiên cứu thiết kế mô hình hệ thống nhận Chuyên môn: Python, Linux.
+Không
+18. biết dáng bộ, tư thế người thông qua các điểm Đỗ Trí Nhựt Thái độ: Ham học hỏi, không 1, 2 CLC
+giới hạn
+mốc. ngại khó, chuyên cần.
+Chuyên môn: Python, Linux,
+LiDAR: nguyên lý làm việc,
+các thông số kỹ thuật, các
+Ứng dụng LiDAR như SLAM và xác định quĩ đặc trưng tính năng làm việc, Không
+19. Đỗ Trí Nhựt 1, 2 CLC
+đạo 3D Sử dụng các hàm trong thư giới hạn
+viện của Python về LiDAR.
+Thái độ: Ham học hỏi, không
+ngại khó, chuyên cần.
+Nhận diện biển báo giao thông bằng các thuật Phan Đình Duy Có kiến thức cơ bản về
+CQĐT+CL
+20. toán máy học trên kit Raspberry hoặc Jetson duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+C
+Nano n nghiên cứu
+Nghiên cứu áp dụng thuật toán SSD ứng dụng Phan Đình Duy Có kiến thức cơ bản về
+CQĐT+CL
+21. trong xử lý ảnh trên kit Raspberry hoặc Jetson duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+C
+Nano n nghiên cứu
+Nghiên cứu áp dụng thuật toán Yolo ứng dụng Phan Đình Duy Có kiến thức cơ bản về
+CQĐT+CL
+22. trong xử lý ảnh trên kit Raspberry hoặc Jetson duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+C
+Nano n nghiên cứu
+4
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Nghiên cứu áp dụng thuật toán Mask_RCNN Phan Đình Duy Có kiến thức cơ bản về
+CQĐT+CL
+23. ứng dụng trong xử lý ảnh trên kit Raspberry duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+C
+hoặc Jetson Nano n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Phát triển hệ thống gương thông minh (smart CQĐT+CL
+24. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+mirror) C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Hệ thống quản lý tưới cây quy mô lớn dùng CQĐT+CL
+25. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+LoRa hoặc RF C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Hệ thống điều khiển DMX sử dụng cho điều CQĐT+CL
+26. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+khiển nhạc nước C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Ứng dụng các thuật toán máy học vào máy CQĐT+CL
+27. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+tính nhúng (edge computing) C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Xây dựng hệ thống điểm danh ứng dụng trong CQĐT+CL
+28. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+phòng học thông minh C
+n nghiên cứu
+5
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Phan Đình Duy Có kiến thức cơ bản về
+Robot di động tránh chướng ngại vật sử dụng CQĐT+CL
+29. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+LiDAR C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+CQĐT+CL
+30. Hệ thống nhận diện vật thể bằng FPGA duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Hệ thống camera nhận dạng xe đi sai làn CQĐT+CL
+31. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+đường C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Nghiên cứu tổng quan về ứng dụng AI trong CQĐT+CL
+32. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+IoT C
+n nghiên cứu
+Phan Đình Duy Có kiến thức cơ bản về
+Nghiên cứu và ứng dụng công nghệ vào CQĐT+CL
+33. duypd@uit.edu.v CNTT và KTMT, nghiêm túc 2 Đồ án 1,2
+smarthome C
+n nghiên cứu
+Có kiến thức cơ bản về
+Nghiên cứu và phát triển thuật toán nhận diện CNTT và KTMT, làm việc
+Tạ Trí Đức CQĐT,
+34. và bám theo người cho mobile robot bằng lidar trên Linux, ngôn ngữ C++ 2 Đồ án 1, 2
+ductt@uit.edu.vn CLC
+2D hoặc Python, nghiêm túc
+nghiên cứu
+6
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Có kiến thức cơ bản về
+Nghiên cứu và phát triển thuật toán nhận diện CNTT và KTMT, làm việc
+Tạ Trí Đức CQĐT,
+35. và tiếp cận dock thụ động cho mobile robot trên Linux, ngôn ngữ C++ 2 Đồ án 1, 2
+ductt@uit.edu.vn CLC
+bằng lidar 2D hoặc Python, nghiêm túc
+nghiên cứu
+Có kiến thức cơ bản về
+Nghiên cứu và phát triển thuật toán tự khám CNTT và KTMT, làm việc
+Tạ Trí Đức CQĐT,
+36. phá môi trường và vẽ bản đồ cho mobile robot trên Linux, ngôn ngữ C++ 2 Đồ án 1, 2
+ductt@uit.edu.vn CLC
+bằng lidar 2D hoặc Python, nghiêm túc
+nghiên cứu
+Có kiến thức cơ bản về
+Nghiên cứu và phát triển thuật toán hoạch định CNTT và KTMT, làm việc
+Tạ Trí Đức CQĐT,
+37. đường đi bao phủ cho mobile robot bằng lidar trên Linux, ngôn ngữ C++ 2 Đồ án 1, 2
+ductt@uit.edu.vn CLC
+2D hoặc Python, nghiêm túc
+nghiên cứu
+Có kiến thức cơ bản về
+CNTT và KTMT, làm việc
+Nghiên cứu và thiết kế vi điều khiển cho bảng Tạ Trí Đức với kit FPGA, bộ công cụ CQĐT,
+38. 2 Đồ án 1, 2
+điểm bóng rổ ductt@uit.edu.vn thiết kế vi mạch, ngôn ngữ CLC
+verilog hoặc VHDL, nghiêm
+túc nghiên cứu
+Implementation of A Hardware/Software Co-
+Design Architecture for CRYSTALS-KYBER TS. Phạm Hoài
+Post-Quantum Cryptography on ZCU102 Luân -Có kiến thức về ngôn ngữ
+39. FPGA (Hiện thực kiến trúc đồng thiết kế phần Email: Verilog và C/C++ 2 Đồ án 2 CLC
+cứng/phần mềm cho mật mã chống tấn công luanph@uit.edu. -Có tinh thần ham học hỏi
+lượng tử CRYSTALS-KYBER trên ZCU102 vn
+FPGA)
+7
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Implementation of an energy-efficient CNN TS. Phạm Hoài -Có kiến thức về ngôn ngữ
+accelerator based on stochastic computing on Luân Verilog và Python
+40. ZCU102 FPGA (Hiện thực máy gia tốc CNN Email: -Kiến thức cơ bản về 2 Đồ án 2 CLC
+tiết kiệm năng lượng dựa trên tính toán ngẫu luanph@uit.edu. Machine Learning
+nhiên trên ZCU102 FPGA) vn -Có tinh thần ham học hỏi
+TS. Phạm Hoài
+Implementation of RISC-V-based -Có kiến thức về ngôn ngữ
+Luân
+Cryptographic Processor on ZCU102 FPGA Verilog và C/C++
+41. Email: 2 Đồ án 2 CLC
+(Triển khai Bộ xử lý mật mã dựa trên RISC-V -Có kiến thức về C compiler
+luanph@uit.edu.
+trên ZCU102 FPGA) -Có tinh thần ham học hỏi
+vn
+TS. Phạm Hoài
+Implementation of CGRA Cryptographic -Có kiến thức về ngôn ngữ
+Luân
+42. Accelerator on ZCU102 FPGA (Hiện tực bộ Verilog và C/C++
+Email: 2 Đồ án 2 CLC
+tăng tốc mật mã dựa trên một mảng có thể cấu -Có kiến thức về C compiler
+luanph@uit.edu.
+hình lại chi tiết thô trên ZCU102 FPGA) -Có tinh thần ham học hỏi
+vn
+Hardware development of CRYSTALS- TS. Phạm Hoài
+DILITHIUM Post-Quantum Cryptography for Luân -Có kiến thức về ngôn ngữ
+43. Digital Signature Applications (Phát triển phần Email: Verilog và C/C++ 2 Đồ án 1 CLC
+cứng của Mật mã hậu lượng tử CRYSTALS- luanph@uit.edu. -Có tinh thần ham học hỏi
+DILITHIUM cho các ứng dụng chữ ký số) vn
+Trần Quang
+Nghiên cứu và thiết kế cánh tay robot 3 trục - Nguyên CQĐDT và
+44. Cần củ, chăm chỉ 2 Đồ án 1 và 2
+ứng dụng trong dây chuyền sản xuất (nguyentq@uit.e CLC
+du.vn)
+8
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Trần Quang
+Nghiên cứu và thiết kế cánh tay robot 5 trục - Nguyên CQĐDT và
+45. Cần củ, chăm chỉ 2 Đồ án 1 và 2
+ứng dụng trong dây chuyền sản xuất (nguyentq@uit.e CLC
+du.vn)
+Trần Quang
+Nghiên cứu và thiết kế xe tự hành kết hợp
+Nguyên CQĐDT và
+46. cánh tay robot – Điều khiển bằng cử chỉ thông Cần củ, chăm chỉ 2 Đồ án 1 và 2
+(nguyentq@uit.e CLC
+qua camera
+du.vn)
+Trần Quang
+Nghiên cứu và thiết kế hệ đo hai đầu nhiệt -
+47. Nguyên CQĐDT và
+Ứng dụng trong chế tạo vật liệu cho linh kiện Cần củ, chăm chỉ 2 Đồ án 1 và 2
+(nguyentq@uit.e CLC
+cảm biến
+du.vn)
+Trần Quang
+Nghiên cứu và thiết kế hệ máy thủy nhiệt -
+Nguyên CQĐDT và
+48. Ứng dụng trong tổng hợp vật liệu để chế tạo Cần củ, chăm chỉ 2 Đồ án 1 và 2
+(nguyentq@uit.e CLC
+linh kiện cảm biến
+du.vn)
+Trần Quang
+Nghiên cứu và thiết kế máy hàn MIG tự động Nguyên CQĐDT và
+49. Cần củ, chăm chỉ 2 Đồ án 1 và 2
+3 trục (nguyentq@uit.e CLC
+du.vn)
+9
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Trần Quang
+Thiết kế hệ thống camera dùng để xác định và Nguyên CQĐDT và
+50. Cần củ, chăm chỉ 2 Đồ án 1 và 2
+tính toán bề dày vật liệu (nguyentq@uit.e CLC
+du.vn)
+Kiến thức cơ bản ngành
+KTMT
+Nghiên cứu và hiện thực thuật toán MD6 trên Ngô Hiếu Chưa đăng ký học phần đồ
+51. 2 Đồ án 1 CQĐT
+FPGA Trường án vẫn có thể đăng ký đề tài
+này (chỉ nhận sv năm 3 trở
+l ên)
+Kiến thức cơ bản ngành
+KTMT
+Hiện thực thuật toán Yolo cho các ứng dụng Ngô Hiếu Chưa đăng ký học phần đồ
+52. 4 Đồ án 1 CQĐT
+cụ thể trên FPGA-SoC Trường án vẫn có thể đăng ký đề tài
+này (chỉ nhận sv năm 3 trở
+l ên)
+Kiến thức cơ bản ngành
+KTMT
+Xây dựng mô hình AI trên FPGA-SoC sử dụng Ngô Hiếu Chưa đăng ký học phần đồ
+53. 2 Đồ án 1 CQĐT
+Intel OneAPI Trường án vẫn có thể đăng ký đề tài
+này (chỉ nhận sv năm 3 trở
+l ên)
+Kiến thức cơ bản ngành
+KTMT
+54. Xây dựng mô hình NOC (Network On Chip) Ngô Hiếu
+Chưa đăng ký học phần đồ 2 Đồ án 1 CQĐT
+trên FPGA Trường
+án vẫn có thể đăng ký đề tài
+này (chỉ nhận sv năm 3 trở
+10
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+l ên)
+Trương Văn
+Hiện thực mô hình mạng neural tích chập trên Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+55. 2/ đề tài
+FPGA (cuongtv@uit.ed ngành vi mạch, phần cứng án 2 C
+u.vn)
+Trương Văn
+Thiết kế và triển khai phòng giải trí thông Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+56. 2/ đề tài
+minh (cuongtv@uit.ed IoT, Hệ thống nhúng án 2 C
+u.vn)
+Trương Văn
+Triển khai và quản lý cơ sở hạ tần cho IoT
+Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+57. Devops for IoT (Vận hành, quản lý, giám sát, 2/ đề tài
+(cuongtv@uit.ed IoT, Hệ thống nhúng,AI án 2 C
+cập nhật firmware cho các thiết bị IoT)
+u.vn)
+Trương Văn
+58. Trí tuệ nhân tạo cho IoT: Hệ thống giám sát Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+đơn hàng vận chuyển (cuongtv@uit.ed IoT, Hệ thống nhúng, AI án 2 C
+u.vn)
+11
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Trương Văn
+Trí tuệ nhân tạo cho IoT: Hệ thống e-ticket cho Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+59. 2/ đề tài
+bãi xe thông minh (cuongtv@uit.ed IoT, Hệ thống nhúng, AI án 2 C
+u.vn)
+Trương Văn
+Trí tuệ nhân tạo cho IoT: Hệ thống vận hành Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+60. 2/ đề tài
+tòa nhà thông minh (BMS) (cuongtv@uit.ed IoT, Hệ thống nhúng, AI án 2 C
+u.vn)
+Trương Văn
+Thiết kế hệ thống báo cháy thông minh cho Cương Sinh viên định hướng theo Đồ án 1 / Đồ CQĐT/CL
+61. 2/ đề tài
+kho vận (cuongtv@uit.ed IoT, Hệ thống nhúng, AI án 2 C
+u.vn)
+Ths.Nguyễn Duy
+Xuân Bách Lập trình C CQĐT,CL
+62. Hệ thống định vị indoor bằng UWB 2 1,2
+(bachndx@uit.ed Đọc được tài liệu tiếng anh C
+u.vn)
+Ths.Nguyễn Duy Lập trình C
+CQĐT,
+Xuân Bách Đọc được tài liệu tiếng anh
+63. Đo đạc tín hiệu sóng não 2 1,2 CLC
+(bachndx@uit.ed Nắm rõ kỹ năng, lý thuyết
+u.vn) mạch điện tử
+12
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Ths.Nguyễn Duy Lập trình C
+Xuân Bách Nắm rõ lý thuyết mạch điện CQĐT,
+64. Tiên đoán motor hư hỏng bằng IoT 2 1,2
+(bachndx@uit.ed tử CLC
+u.vn)
+Ths.Nguyễn Duy Lập trình C
+Xuân Bách Nắm rõ lý thuyết mạch điện CQĐT,
+65. Quản lý tài sản bằng RFID 2 1,2
+(bachndx@uit.ed tử CLC
+u.vn)
+Ths.Nguyễn Duy
+Xuân Bách Lập trình python, giải thuật CQĐT,
+66. Xử lý ảnh, nhận diện bệnh cho cây trồng 2 1,2
+(bachndx@uit.ed xử lý ảnh CLC
+u.vn)
+Ths.Nguyễn Duy
+Xuân Bách Lập trình python, giải thuật CQĐT,
+67. Xử lý ảnh, nhận diện lỗi của container 2 1,2
+(bachndx@uit.ed xử lý ảnh CLC
+u.vn)
+Ths.Nguyễn Duy
+Lập trình C, linux
+Thiết kế antenna 6G và mô phỏng 6G nội bộ Xuân Bách CQĐT,
+68. Có kỹ năng tốt về lý thuyết 2 2
+bằng Raspberry (bachndx@uit.ed CLC
+mạch điện tử
+u.vn)
+13
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024
+
+Mẫu01-ĐA
+Loại đồ án Dùng cho
+GV hướng dẫn (Ghi rõ Đồ hệ đào
+Số SV tối
+STT Tên đề tài (ghi rõ họ tên và Yêu cầu án 1 hoặc tạo?( (Ghi
+đa
+địa chỉ email) Đồ án 2) CQĐT hay
+CLC)
+Ths.Nguyễn Duy Có kỹ năng tốt về lý thuyết
+Tìm hiểu giải pháp nhận diện thuốc trừ sâu Xuân Bách mạch điện tử CQĐT,
+69. 2 1,2
+trên bề mặt rau củ quả bằng IoT (bachndx@uit.ed Có kỹ năng phân tích và xử CLC
+u.vn) lý vấn đề
+SV có thể trao đổi đăng ký đề tài trực tiếp với GV để làm 1 đề tài mới/lạ khác ngoài các đề tài có trong danh sách ở
+•
+trên (hướng/lĩnh vực nghiên cứu của các GV vui lòng xem trên web khoa)
+14
+Khoa KTMT- ĐHCNTT-Danh sách đề tài đồ án HK 1 Năm học 2023 -2024

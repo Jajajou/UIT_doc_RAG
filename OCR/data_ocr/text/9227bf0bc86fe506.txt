@@ -1,0 +1,103 @@
+ĐẠI HỌC QUỐC GIA TPHCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN Độc lập - Tự do - Hạnh phúc
+Tp. Hồ Chí Minh, ngày tháng năm 2007
+HƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ KỸ THUẬT PHẦN MỀM
+Trình độ đào tạo : Đại học
+Ngành đào tạo : Kỹ thuật Phần mềm
+Loại hình đào tạo : Chính qui
+Khóa đào tạo : Khóa 2 (2007 - 2012)
+Tổng số tín chỉ của chương trình: 155 tín chỉ, 9 học kỳ
+Giai đoạn 1 : Các môn học chung
+Tổng số tín chỉ 4 học kỳ 1, 2, 3, 4: 70
+Mã Số tín Số tín Số tín Ghi
+STT Môn học
+môn chỉ chỉ LT chỉ TH chú
+Học kỳ 1 CARC1 Kiến trúc máy tính 3 3 0
+CSC21 Tin học đại cương 5 4 1
+MATH1 Toán cao cấp A1 4 4 0
+PHIL2 Triết học Marx Lenin 5 5 0
+PHYS1 Vật lý đại cương A1 3 3 0
+MEDU1 Giáo dục Quốc phòng
+ENG01 Anh văn 1
+PDEU1 Giáo dục thể chất 1
+Cộng: 20
+Học kỳ 2 DBSS1 Cơ sở dữ liệu 4 3 1
+DSAL1 Cấu trúc dữ liệu và giải thuật 4 3 1
+MATH2 Toán cao cấp A2 4 4 0
+OSYS1 Hệ điều hành 4 3 1
+PDEU2 Giáo dục thể chất 2
+ENG02 Anh văn 2
+Cộng: 16
+Học kỳ 3 CNET1 Mạng máy tính 4 3 1
+
+LIAL1 Đại số tuyến tính 4 4 0
+MLPE1 Kinh tế Chính trị Marx Lenin 4 4 0
+OOPT1 Lập trình hướng đối tượng 4 3 1
+PHYS2 Vật lý đại cương A2 3 3 0
+ENG03 Anh văn 3
+Cộng: 19
+Học kỳ 4 ITEM1 Nhập môn Quản trị doanh 2 2 0
+ITEW1 Nhập môn Công tác Kỹ sư 2 2 0
+MATH4 Cấu trúc rời rạc 4 4 0
+VCPL1 Đường lối cách mạng của Đảng 3 3 0
+WINP1 Lập trình trên Windows 4 3 1
+ENG04 Anh văn 4
+Cộng: 15
+Giai đoạn 2 : Các môn học ngành Kỹ thuật Phần mềm
+Tổng số tín chỉ 5 học kỳ 5, 6, 7, 8, 9 : 85
+Mã Học phần Số TC Số tín Số tín Ghi
+STT
+môn chỉ LT chỉ TH chú
+SE101 Phương pháp mô hình hóa 3 3 0
+STAT1 Xác suất thống kê 3 3 0
+SE102 Nhập môn phát triển Game 3 2 1
+Học kỳ 5 SE103 Các phương pháp lập trình 3 2 1
+SE104 Nhập môn Công nghệ Phần mềm 4 3 1
+SE105 Lập trình nhúng căn bản 3 2 1
+Cộng: 19
+SE106 Đặc tả hình thức 4 4 0
+SE207 Phân tích thiết kế hệ thống 4 3 1
+SE208 Kiểm chứng phần mềm 3 2 1
+SE209 Phát triển, vận hành, bảo trì 3 3 0
+Học kỳ 6 SE3** Họầc p hầền tự chọn 1 4 3 1
+SV chọn trong các môn học sau:
+SE311 Ngôn ngữ lập trình Java : 4 TC
+HCMT1 Tư tưởng Hồ Chí Minh 2 2 0
+
+Cộng: 20
+SE210 Quản lý dự án công nghệ thông 4 3 1
+SE211 Phát triển phần mềm hướng đối 4 3 1
+SE212 Phát triển phần mềm mã nguồn 3 2 1
+SE213 Xử lý phân bố 3 2 1
+SE417 Đồ án môn học mã nguồn mở 2 2 0
+Học kỳ 7
+SE3** Học phần tự chọn 2 4 3 1
+SV chọn trong các môn học sau:
+SE322 Công nghệ Web và ứng dụng: 2
+SE326 Chuyên đề Cơ sở dữ liệu nâng
+Cộng: 20
+SEMT2 Phương pháp luận sáng tạo KH- 2 2 0
+SE501 Thực tập tốt nghiệp 3 3 0
+SE418 Đồ án môn học chuyên ngành 3 3 0
+SE3** Học phần tự chọn 3 8 6 2
+SV chọn trong các môn học sau:
+Học kỳ 8
+SE312 Công nghệ . NET : 4 TC
+SE325 Chuyên đề J2EE : 4 TC
+SE331 Chuyên đề e-Commerce: 2 TC
+SE337 Một số thuật toán thông minh:
+Cộng: 16
+SE505 Khóa luận tốt nghiệp hoặc sinh 10 10 0
+viên chọn các chuyên đề tốt
+Học kỳ 9
+nghiệp với số tín chỉ tương
+đương nếu không đủ điều kiện
+ố Cộng: 10
+Tổng số tín chỉ phải tích lũy : 155
+Tổng số tín chỉ các môn học bắt buộc : 139
+Tổng số tín chỉ các môn học tự chọn : 16
+* Đối với các môn tự chọn, sinh viên có thể lựa chọn những môn học phù hợp trong nhóm các
+môn tự chọn của chương trình sao cho tổng số tín chỉ các môn tự chọn là 16 tín chỉ.
+HIỆU TRƯỞNG
+
+HOÀNG VĂN KIẾM

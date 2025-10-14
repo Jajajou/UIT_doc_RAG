@@ -1,0 +1,128 @@
+
+============================================================
+SHEET: DS thi AV
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6
+--------------------------------------------------------------------------------
+HỘI ĐỒNG TSSĐH NĂM 2025
+DANH SÁCH THÍ SINH DỰ THI TRÌNH ĐỘ THẠC SĨ
+KHÓA 20-ĐỢT 1-NĂM 2025
+Môn: Tiếng Anh
+Ngày thi: 25/5/2025
+TT | HỌ VÀ | TÊN | Giới | NGÀY SINH | NƠI SINH | GHI CHÚ
+1 | Trần Hoàng  | Ân | Nam | 23-06-1998 | Thành phố Hồ Chí Minh
+2 | Trần Thái | Ân | Nam | 24-08-1997 | Tỉnh Bà Rịa - Vũng Tàu
+3 | Ngô Trần Tuấn | Anh | Nam | 01-08-2003 | Tỉnh Đồng Nai
+4 | Phan Nguyễn Tuấn | Anh | Nam | 12-01-1998 | Tỉnh Vĩnh Long
+5 | Nguyễn Trọng  Tuấn | Anh | Nam | 11-11-2002 | Tỉnh Bình Dương
+6 | Trần Hưng Quốc | Anh | Nam | 26-08-1989 | Thành phố Hồ Chí Minh
+7 | Trần Đức | Anh | Nam | 27-07-2002 | Tỉnh Nghệ An
+8 | Trang Kỳ | Anh | Nữ | 04-06-2002 | Tỉnh Ninh Thuận
+9 | Nguyễn Đăng | Châu | Nam | 04-09-2001 | Tỉnh Khánh Hòa
+10 | Hoàng Quy Quỳnh | Chi | Nữ | 02-07-1989 | Tỉnh Lâm Đồng
+11 | Trương Hồng | Cương | Nam | 06-08-1997 | Tỉnh Nghệ An
+12 | Nguyễn Văn | Cường | Nam | 10-01-1980 | Tỉnh Quảng Nam
+13 | Nguyễn Phú | Cường | Nam | 05-02-1989 | Tỉnh Đồng Nai
+14 | Lê Thành  | Đạt | Nam | 12-06-2002 | Tỉnh Lâm Đồng
+15 | Nguyễn Tuấn | Dũng | Nam | 25-12-1992 | Tỉnh Hà Tĩnh
+16 | Nguyễn Hoàng | Dũng | Nam | 28-08-1974 | Thành phố Hồ Chí Minh
+17 | Nguyễn Thanh Anh | Duy | Nam | 17-06-2001 | Tỉnh Kiên Giang
+18 | Nguyễn Đức Thành | Duy | Nam | 24-03-2003 | Tỉnh Thanh Hóa
+19 | Võ Thành | Duy | Nam | 10-07-1994 | Tỉnh Tiền Giang
+20 | Nguyễn Thị Thu | Hà | Nữ | 03-10-2001 | Tỉnh Quảng Trị
+21 | Nguyễn Duy | Hải | Nam | 30-01-1987 | Tỉnh Bình Dương
+22 | Đỗ Thanh | Hải | Nam | 15-06-1997 | Tỉnh Thanh Hóa
+23 | Đinh Trọng | Hậu | Nam | 17-10-1997 | Tỉnh Nghệ An
+24 | Nguyễn Trường | Hậu | Nam | 01-11-1997 | Thành phố Hồ Chí Minh
+25 | Phan Trần Minh | Hiếu | Nam | 22-07-2001 | Thành phố Hồ Chí Minh
+26 | Hồ Đặng Thanh | Hồ | Nam | 05-04-2000 | Tỉnh Bình Thuận
+27 | Nguyễn Tấn Trương Minh | Hoàng | Nam | 01-02-1990 | Tỉnh Đắk Lắk
+28 | Bùi Thái | Hoàng | Nam | 02-10-1999 | Tỉnh Bà Rịa - Vũng Tàu
+29 | Phan Nhật | Hoàng | Nam | 15-10-2001 | Tỉnh Nghệ An
+30 | Huỳnh Ngọc | Hưng | Nam | 14-12-1993 | Tỉnh Quảng Nam
+31 | Ngô Trí | Huy | Nam | 02-04-2000 | Tỉnh Tiền Giang
+32 | Phạm Khánh | Huy | Nam | 11-10-1997 | Thành phố Hồ Chí Minh
+33 | Trương Phạm Nhật | Huy | Nam | 19-05-2002 | Thành phố Hồ Chí Minh
+34 | Trần Minh | Khang | Nam | 14-10-1988 | Tỉnh Bình Dương
+35 | Nguyễn Quốc  | Khánh | Nam | 08-10-2002 | Tỉnh Đắk Lắk
+36 | Nguyễn Thị Vân | Khánh | Nữ | 02-09-2002 | Thành phố Hồ Chí Minh
+37 | Vũ Trung | Kiên | Nam | 06-08-2002 | Tỉnh Bình Phước
+38 | Trần Anh | Kiệt | Nam | 07-06-1997 | Tỉnh Quảng Ngãi
+39 | Phạm Thị Huỳnh | Liên | Nữ | 25-03-1995 | Tỉnh Tiền Giang
+40 | Hồ Vương Khánh | Long | Nam | 15-11-2000 | Tỉnh Bà Rịa - Vũng Tàu
+41 | Phạm Càn | Long | Nam | 09-09-2000 | Tỉnh Bình Định
+42 | Lê Công | Lương | Nam | 14-12-1994 | Tỉnh Vĩnh Phúc
+43 | Bùi Minh | Lý | Nam | 23-03-2000 | Tỉnh Đồng Nai
+44 | Trần Hoàng | Minh | Nam | 01-05-2001 | Thành phố Hồ Chí Minh
+45 | Hoàng Đức | Minh | Nam | 12-11-2000 | Thành phố Hồ Chí Minh
+46 | Lê Quang | Minh | Nam | 22-07-2000 | Thành phố Đà Nẵng
+47 | Nguyễn Ngọc | Minh | Nam | 27-10-2000 | Tỉnh Thanh Hóa
+48 | Nguyễn Nhật | Minh | Nam | 08-10-1986 | Thành phố Hồ Chí Minh
+49 | Vũ Ánh | Minh | Nam | 25-04-1997 | Tỉnh Lâm Đồng
+50 | Lê Nhất | Minh | Nam | 25-01-1999 | Thành phố Hồ Chí Minh
+51 | Nguyễn Hoàng | Minh | Nam | 18-11-1995 | Thành phố Hồ Chí Minh
+52 | Đinh Phương | Nam | Nam | 04-03-2002 | Tỉnh Bình Dương
+53 | Trịnh Tuấn | Nam | Nam | 18-04-2001 | Tỉnh Gia Lai
+54 | Huỳnh Hồ Thiên | Nga | Nữ | 30-10-1994 | Thành phố Cần Thơ
+55 | Hà Thiên | Ngân | Nữ | 19-03-2001 | Tỉnh Đồng Nai
+56 | Nguyễn Bùi Kim  | Ngân | Nữ | 24-07-2002 | Thành phố Hồ Chí Minh
+57 | Phan Nguyễn Thủy | Nghi | Nữ | 02-08-1997 | Tỉnh Đồng Tháp
+58 | Tạ Công | Nghĩa | Nam | 21-05-1990 | Tỉnh Quảng Nam
+59 | Phạm Khôi | Nguyên | Nam | 14-12-2002 | Tỉnh Đồng Nai
+60 | Trần Thị Bảo | Nguyên | Nữ | 18-05-1996 | Tỉnh Bình Thuận
+61 | Trần Thảo | Nguyên | Nam | 19-03-1998 | Tỉnh Tây Ninh
+62 | Lê Trần | Nhật | Nam | 10-07-1992 | Tỉnh Hà Nam
+63 | Nguyễn Huỳnh | Nhi | Nam | 25-08-2000 | Tỉnh Đồng Tháp
+64 | Trần Lê Quỳnh | Nhi | Nữ | 11-04-2001 | Thành phố Cần Thơ
+65 | Nguyễn Ngọc Quỳnh | Như | Nữ | 09-10-2000 | Tỉnh Vĩnh Long
+66 | Phùng Minh | Nhựt | Nam | 09-05-1994 | Tỉnh An Giang
+67 | Trâu Kiến | Phát | Nam | 09-07-1998 | Thành phố Hồ Chí Minh
+68 | Nguyễn Đỗ Việt | Phát | Nam | 30-05-1993 | Tỉnh Khánh Hòa
+69 | Trần Ngọc | Phú | Nam | 06-06-1999 | Thành phố Hồ Chí Minh
+70 | Nguyễn Thanh | Phúc | Nam | 08-04-2002 | Tỉnh Đồng Tháp
+71 | Trần Minh | Phúc | Nam | 08-07-2002 | Tỉnh Lâm Đồng
+72 | Ngô Minh | Phụng | Nam | 14-12-1997 | Tỉnh Bình Định
+73 | Nguyễn Minh | Phước | Nam | 13-04-1987 | Thành phố Hồ Chí Minh
+74 | Huỳnh Thiên | Phước | Nam | 03-03-1994 | Tỉnh Bình Thuận
+75 | Võ Anh | Quân | Nam | 11-12-1983 | Thành phố Hồ Chí Minh
+76 | Phạm Công | Quân | Nam | 29-12-1985 | Thành phố Hồ Chí Minh
+77 | Nguyễn Minh | Quân | Nam | 03-11-2000 | Tỉnh Đồng Nai
+78 | Trần Văn | Quang | Nam | 21-04-2002 | Tỉnh Đắk Lắk
+79 | Nguyễn Phú | Quí | Nam | 20-02-1993 | Tỉnh Vĩnh Long
+80 | Võ Hoài  | Quyên | Nữ | 13-06-2000 | Tỉnh Quảng Ngãi
+81 | Nguyễn Hoàng | Sang | Nam | 03-10-2000 | Tỉnh Thái Bình
+82 | Quách Kim | Sơn | Nam | 09-06-2000 | Thành phố Hồ Chí Minh
+83 | Trần Ngọc | Sơn | Nam | 20-11-1987 | Tỉnh Hà Tĩnh
+84 | Trần Văn  | Tân | Nam | 03-06-2002 | Tỉnh Đồng Tháp
+85 | Võ Duy | Tân | Nam | 04-04-1999 | Tỉnh Tiền Giang
+86 | Đoàn Thanh | Tân | Nam | 09-04-1990 | Tỉnh Bạc Liêu
+87 | Trần Ngọc | Thái | Nam | 28-01-1989 | Tỉnh Long An
+88 | Phạm Đình | Thắng | Nam | 17-03-1995 | Thành phố Đà Nẵng
+89 | Nguyễn Thanh | Thảo | Nữ | 06-01-2002 | Tỉnh Bà Rịa - Vũng Tàu
+90 | Phạm Minh | Thế | Nam | 08-04-1998 | Thành phố Hồ Chí Minh
+91 | Bùi Phạm Minh | Thi | Nam | 24-01-1997 | Tỉnh Bà Rịa - Vũng Tàu
+92 | Lê Hoàng | Thiện | Nam | 09-11-2000 | Thành phố Hồ Chí Minh
+93 | Trần Đình | Thiện | Nam | 28-04-1999 | Tỉnh Hà Nam
+94 | Trần Quốc | Thịnh | Nam | 02-12-2002 | Tỉnh Gia Lai
+95 | Lê Đức | Thịnh | Nam | 01-03-1999 | Tỉnh Đắk Lắk
+96 | Nguyễn Hùng  | Thịnh | Nam | 05-01-2002 | Tỉnh An Giang
+97 | Dương Nguyễn | Thuận | Nam | 24-08-2001 | Tỉnh Bến Tre
+98 | Lê Ngọc | Tiên | Nam | 23-04-2000 | Tỉnh Đồng Nai
+99 | Vương Minh | Tiến | Nam | 26-05-2001 | Tỉnh Nghệ An
+100 | Ngô Tất | Tố | Nam | 01-09-2003 | Tỉnh Bình Thuận
+101 | Trần Minh | Trí | Nam | 02-11-1995 | Thành phố Hồ Chí Minh
+102 | Cao Đức | Trí | Nam | 16-01-2001 | Tỉnh Ninh Thuận
+103 | Lê Ngọc | Trí | Nam | 11-07-1992 | Tỉnh Long An
+104 | Trương Minh | Trí | Nam | 26-07-1999 | Tỉnh Bình Thuận
+105 | Hà Mỹ | Trinh | Nữ | 21-06-2001 | Thành phố Hồ Chí Minh
+106 | Võ Thành | Trung | Nam | 04-08-2000 | Tỉnh Ninh Thuận
+107 | Trần Bùi Nhật | Trường | Nam | 24-03-2001 | Tỉnh Kiên Giang
+108 | Trần | Tùng | Nam | 19-06-1984 | Thành phố Hà Nội
+109 | Mai Quế | Tùng | Nam | 25-04-1994 | Tỉnh Đồng Nai
+110 | Trần Duy  | Tùng | Nam | 22-10-2003 | Tỉnh Bà Rịa - Vũng Tàu
+111 | Thiều Anh | Vân | Nam | 19-12-1979 | Tỉnh Khánh Hòa
+112 | Nguyễn Quốc  | Việt | Nam | 22-10-1993 | Thành phố Hồ Chí Minh
+113 | Trần Thanh  | Vũ | Nam | 12-05-1998 | Tỉnh Đồng Tháp
+114 | Bùi Đức | Vũ | Nam | 07-10-1992 | Thành phố Hồ Chí Minh
+115 | Ngô Anh | Vũ | Nam | 18-02-1999 | Tỉnh Phú Yên

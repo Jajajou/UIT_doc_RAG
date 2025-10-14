@@ -1,0 +1,36 @@
+Thực trạng hiện nay tại Việt Nam
+Hiện nay, tai nạn giao thông xảy ra thường xuyên nhưng việc phát hiện và
+xử lý còn chậm do thiếu hệ thống cảnh báo tự động. Các phương tiện
+phía sau không được thông báo kịp thời dễ dẫn đến va chạm liên hoàn,
+còn cơ quan chức năng tiếp cận hiện trường trễ. Tai nạn cũng gây kẹt xe
+kéo dài do đèn giao thông không được điều chỉnh phù hợp. Phần lớn các
+cảnh báo hiện nay vẫn thủ công, chưa đồng bộ với hạ tầng thông minh,
+dẫn đến hiệu quả xử lý chưa cao.
+Giải pháp Mục tiêu Ứng dụng
+Sử dụng cảm biến gia tốc để Gắn trên các phương tiện để Cơ quan chức năng nhận
+phát hiện tai nạn giao thông, phát hiện và cảnh báo tai nạn được thông tin sớm để đưa ra
+hệ thống sẽ truyền tín hiệu kịp thời. phương án ứng phó phù hợp.
+“có” hoặc “không” qua mạng Hỗ trợ điều phối giao thông Trung tâm điều phối giao
+4G/5G. Một vi mạch được thiết tại khu vực xảy ra tai nạn. thông có thể thay đổi đèn giao
+kế tích hợp ba dữ liệu chính: Cung cấp dữ liệu ban đầu giúp thông nếu cần thiết.
+thời gian xảy ra, vị trí tai nạn đánh giá mức độ nghiêm Cảnh báo sớm cho các
+và mật độ giao thông, nhằm trọng của tai nạn để các cơ phương tiện phía sau, giảm
+đánh giá nhanh mức độ quan chức năng phản ứng nguy cơ va chạm liên hoàn.
+nghiêm trọng của tai nạn. nhanh và hiệu quả.
+Nguyên lí hoạt động
+DÙNG CẢM BIẾN PHÂN LOẠI MỨC
+THU THẬP VÀ
+GIA TỐC ĐỂ PHÁT ĐỘ TAI NẠN BẰNG TRUYỀN TÍN HIỆU
+MÃ HÓA DỮ LIỆU
+HIỆN TAI NẠN MẠCH LOGIC
+Nguồn dữ liệu Tín hiệu được đưa vào một mạch Sau khi xác định mức độ, hệ thống
+logic tổ hợp cùng với tín hiệu A để gửi tín hiệu thông báo qua sóng
+cần thu thập
+xác định mức độ nghiêm trọng của 4G/5G để báo cáo đến trung tâm
+Ba yếu tố chính được sử dụng để vụ tai nạn. Dựa vào số lượng yếu tố điều khiển giao thông.
+đánh giá mức độ nghiêm trọng là nguy hiểm kèm theo, hệ thống đưa
+thời gian xảy ra tai nạn (lấy từ chip ra một trong bốn mức cảnh báo:
+thời gian thực DS3231), vị trí tai nạn Mức 0: Nhẹ
+(xác định bằng GPS), mật độ giao Mức 1: Trung bình
+thông (nhận từ trung tâm điều Mức 2: Nghiêm trọng
+khiển). Mức 3: Rất nghiêm trọng

@@ -1,0 +1,31 @@
+ĐẠI HỌC QUỐC GIA TP. HỒ CHÍ MINH CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC Độc lập – Tự do – Hạnh Phúc
+CÔNG NGHỆ THÔNG TIN
+ĐỀ CƯƠNG ÔN THI CAO HỌC
+KỸ THUẬT LẬP TRÌNH
+1. Một số khái niệm về thuật giải, phân tích thuật giải, tỷ suất tăng và độ phức tạp
+của thuật giải.
+- Khái niệm về thuật giải: các đặc trưng của thuật toán, các dạng diễn đạt thuật
+toán, các bước trong quá trình phân tích đánh giá thời gian chạy của thuật toán.
+- Một số ký hiệu tiệm cận
+- Thời gian thực hiện của chương trình: đơn vị đo thời gian thực hiện, thời gian
+thực hiện trong thời gian xấu nhất, tỷ suất tăng, khái niệm độ phức tạp của giải
+thuật.
+- Một số lớp các thuật toán. Quy tắc cộng, quy tắc nhân. Quy tắc tổng quát để
+phân tích một chương trình.
+2. Độ phức tạp của chương trình có gọi chương trình con không đệ qui.
+3. Độ phức tạp của chương trình có gọi chương trình đệ qui.
+- Dạng tổng quát của phương trình đệ quy
+- Giải phương trình đệ quy: phương pháp truy hồi, phương pháp đoán nghiệm,
+phương pháp phương trình đặc trưng, lời giải tổng quát của một lớp các
+phương trình đệ quy.
+4. Tối ưu thuật toán.
+- Kỹ thuật tối ưu các vòng lặp
+- Tối ưu việc rẽ nhánh
+5. Một số kỹ thuật lập trình
+
+- Danh sách: định nghĩa, khai báo, các loại danh sách, các thao tác trên danh sách
+(thêm, xóa, sửa, tìm kiếm)
+- Chuỗi ký tự:: khái niệm, khởi tạo, nhập và xuất chuỗi, một số thao tác trên
+chuỗi.
+- Ngăn xếp – hàng đợi: một số khái niệm và ứng dung..

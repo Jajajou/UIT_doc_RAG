@@ -1,0 +1,28 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 3 - NĂM HỌC 2024-2025
+CHƯƠNG TRÌNH CHẤT LƯỢNG CAO
+Thời gian bắt đầu Hội đồng chấm TTDN CLC: Sáng từ 8h50, thứ Hai ngày 15/09/2025
+Địa điểm: Phòng E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút/ đề tài 1-2 SV. Sinh viên có mặt trước giờ báo cáo 15 phút để chuẩn bị.
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Phòng E6.3
+Nghiên cứu tìm hiểu về board Artery
+STT 1
+1 19521413 Trần Ngô Nam Dương AT32, giải thuật Gaussian và đọc – xử lý ASICLab TS. Đoàn Duy
+08h50
+QR code
+Xây dựng và mô phỏng VECU cho hệ Công ty TNHH Bosch Global STT 2
+2 21522551 Đỗ Thanh Sơn TS. Đoàn Duy
+thống ô tô Software Technologies Vietnam 09h00
+STT 3
+3 20521590 Trần Quốc Lượng Thiết kế ASIC cho bộ mã hóa AES128 ASICLab TS. Đoàn Duy Nợ HP
+09h10
+STT 4
+4 20520466 Cao Nhất Duy TS. Đoàn Duy Chưa nộp BCTT
+09h20
+Tp. Hồ Chí Minh, ngày 09 tháng 9 năm 2025
+KT. TRƯỞNG KHOA
+PHÓ TRƯỞNG KHOA
+Đoàn Duy
+Page 1 of 1

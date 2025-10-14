@@ -1,0 +1,573 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO GIỮA KỲ KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 2 - Năm học: 2023 - 2024
+Thời gian bắt đầu hội đồng: Sáng từ 8h00, chiều từ 13h00 thứ Năm, ngày 09/05/2024
+Địa điểm: Phòng E6.3 (cả ngày), E4.3 (cả ngày) và E4.1 (chiều)
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 10 phút hội đồng góp ý
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Phòng E4.3 - Buổi sáng
+Trịnh Lê Huy, Tạ Trí Đức, Trần Quang Nguyên
+Thiết kế vật lý bộ vi xử lý Physical design of RISC-V ThS. Tạ Trí Đức, Tham khảo thêm các nghiên cứu, luận văn
+CLC-
+1 20521608 Nguyễn Hải Minh RISC-V hỗ trợ branch processor with branch ThS. Phạm E4.3 8h00 thạc sĩ liên quan, chỉnh sửa lại giới hạn đề
+VN
+prediction prediction Minh Quân tài.
+20521836 Phan Trường Sinh
+ThS. Tạ Trí Đức, Tài liệu tham khảo không có, chưa có định
+Thiết kế bộ tăng tốc phần Design hardward accelerator CLC-
+2 ThS. Phạm E4.3 8h15 lượng giới hạn đề tài kế thừa từ đề tài trước.
+cứng với RISC-V with RISC-V processor VN
+Lâm Sơn Nhật Minh Quân Thêm sơ đồ khối hệ thống.
+20521886
+Thái
+Application of extended Cần xem xét lại hệ thống và các loại cảm
+Ứng dụng bộ lọc Kalman
+Kalman filter and design higher biến để đảm bảo độ chính xác hệ thống đạt
+mở rộng và xây dựng các ThS. Phạm
+layers of controller area được như mong muốn. Lượng hoá giới hạn
+3 20520217 Đặng Anh Khoa tầng cao hơn của CAN cho Minh Quân, CQĐT E4.3 8h30
+network for GPS-based đề tài, cần định lượng không định tính và có
+hệ thống điều khiển xe tự ThS. Tạ Trí Đức
+autonomous vehicle control khoản dự phòng. Nên đo lường ở trường
+hành dựa trên định vị GPS
+system hợp tốt nhất và tệ nhất.
+Nghiên cứu, thiết kế và mô Research, design and simulate
+Tìm hiểu các nghiên cứu liên quan đưa ra
+Nguyễn Thành phỏng vi điều khiển 32-bit 32-bit microcontroller with
+4 19521793 ThS. Tạ Trí Đức CQĐT E4.3 8h45 giới hạn đề tài. Cần lượng hoá giới hạn đề
+Long có tích hợp mã hóa phần intergrated hardware-based
+tài. Ghi rõ đề tài kế thừa. Tài liệu tham khảo.
+cứng encrytion
+20520933 Võ Ngọc Thiện
+Hệ thống phát hiện và nhận
+Detecting and classifying road ThS. Ngô Hiếu Cần thêm tài liệu tham khảo, phương pháp
+5 diện biển báo giao thông CQĐT E4.3 9h00
+traffic signs system. Trường đánh giá. Thêm giới hạn đề tài cụ thể.
+đường bộ
+20521216 Lê Dương
+Page 1 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Cần ghi rõ giới hạn đề tài, điều kiện môi
+Phan Mạnh
+20521485
+trường, giới hạn dựa trên thông số phần
+Khương
+Hệ thống phát hiện theo dõi The system for detecting and ThS. Ngô Hiếu
+6 CQĐT E4.3 9h15 cứng camera. Số lượng mẫu training, số
+người trên SoC-FPGA tracking people on SoC-FPGA Trường
+lượng mẫu kiểm tra. Phương pháp đánh giá.
+20521564 Lê Ngọc Long
+Định lượng giới hạn đề tài.
+Huỳnh Lưu Hữu
+20521651
+Ứng dụng thuật toán phát Application of object detection
+Nghĩa
+ThS. Ngô Hiếu Cần thể hiện rõ phương pháp đánh giá, chia
+7 hiện đối tượng trên SoC- algorithm on SoC-FPGA using CQĐT E4.3 9h30
+Trường rõ hạn mục tối ưu.
+FPGA sử dụng OpenCL OpenCL
+20521883 Đặng Thái Thạch
+Nguyễn Hoàng
+Design and control of Nên khảo sát, đề xuất mô hình dự kiến, chưa
+20520752
+Thiết kế và điều khiển thiết
+Tân
+automated teller machine for TS. Nguyễn có giới hạn đề tài, cần lượng hoá giới hạn đề
+8 bị quản lý và bán hàng tự CQĐT E4.3 9h45
+management and selling of Hoài Nhân tài, phương pháp đánh giá, thiếu tài liệu
+Nguyễn Đình động
+20521607 goods tham khảo
+Nhật Minh
+Nên thể hiện rõ giới hạn đề tài, mô hình sử
+Điều khiển thiết bị robot tự dụng, chưa hình dung được đề tài, sinh viên
+Robot control for picking and TS. Nguyễn
+9 19521850 Phạm Nhật Minh động gắp và lắp ráp linh CQĐT E4.3 10h00 cần làm việc lại với GVHD, xây dựng sơ đồ
+placing of electronic component Hoài Nhân
+kiện điện tử khối, mô hình điều khiển, phương pháp nhận
+diện linh kiện, loại linh kiện.
+Thiết kế phần cứng cho việc Ghi rõ định lượng độ chính xác cao, phân
+Hardware design for abnormal
+20521550 Phạm Duy Lộc
+phát hiện nhịp tim bất loại rõ độ chính xác trên phần cứng và phần
+beat detection in ECG signal TS. Trần Thị
+10 thường trong tín hiệu điện CQĐT E4.3 10h15 mềm. Tham khảo các nghiên cứu tương
+based on template cluster Điểm
+tâm đồ dựa trên thuật toán đương đưa ra giới hạn đề tài cụ thể. Giới
+20521930 Văn Ngọc Thành algorithm
+phân cụm mẫu hạn phần cứng.
+Thiết kế bộ gia tốc trên An accelerator on FPGA for
+FPGA cho mạng nơ-ron tích convolutional neural network TS. Trần Thị CLC- Thông số đánh giá cụ thể, định lượng từ các
+11 20521117 Ngô Tấn Bình E4.3 10h30
+chập dựa trên tính toán ngẫu based with stochastic Điểm VN nghiên cứu trước, giảm giới hạn đề tài.
+nhiên computing
+Xem lại tên đề tài, báo cáo không khớp với
+Xây dựng hệ thống lưu kho
+19520377 Đào Tuấn Anh
+Established automatic storage đề cương. Thêm các giới hạn đề tài, xem lại
+tự động bằng phương pháp TS. Trần Quang CLC-
+12 system by scanning QR code E4.3 10h45 nội dung đề cương, mục tiêu đề tài, thống
+quét mã QR thông qua Nguyên VN
+through surveillance camera nhất mục tiêu là robot, hay hệ thống kho lưu
+19521424 Nguyễn Bách Duy camera giám sát
+trữ.
+Võ Đông Hưng
+Không có tài liệu tham khảo, giới hạn đề tài
+20521376
+Thiết kế IP cho bộ tính toán
+(CLC)
+IP design for FFT caculation TS. Trần Quang CLC- không có định lượng, tối ưu diện tích và tốc
+13 FFT sử dụng thuật toán E4.3 11h00
+base on Butterfly algorithm Nguyên VN độ, không đề cập phương pháp kiểm tra đo
+Lê Nguyễn Tín Butterfly
+20521395 đạc tốc độ hay diện tích.
+Huy (CQĐT)
+Page 2 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Làm rõ giới hạn đề tài, loại linh kiện nhận
+diện được, kích thước linh kiện, số lượng
+linh kiện nhận diện được trong 1 khung
+Thiết kế hệ thống phát hiện Design the error detection
+TS. Trần Quang hình. định lượng giới hạn đề tài. Tài liệu
+14 20520788 Lê Thế Thông các lỗi thiếu linh kiện trên system in missing components CQĐT E4.3 11h15
+Nguyên tham khảo, số lượng mẫu dùng để train, số
+board mạch sử dụng camera on board using cameras
+lượng mẫu để kiểm tra, độ tin cậy của mẫu.
+Phương pháp kiểm tra đo đạc độ chính xác,
+tốc độ nhận diện.
+Phòng E6.3 - Buổi sáng
+Nguyễn Minh Sơn, Trương Văn Cương, Trần Văn Quang
+Tùy chỉnh và phát triển bộ
+Customizing and developing a TS. Phạm Hoài
+tăng tốc dựa trên CGRA - Làm rõ làm sao gọi được các lệnh điều
+Nguyễn Quốc flexible and fast CGRA-based Luân,
+1 19521103 linh hoạt và nhanh chóng CQĐT E6.3 8h00 khiển trong thuật toán CGRA
+Viễn accelerator for convolutional TS. Lâm Đức
+cho mạng thần kinh tích -
+neural networks. Khải
+chập.
+Nguyễn Văn Duy - Xác định lại mục tiêu đề tài so với các đề
+20521007 Nghiên cứu, thiết kế và hiện Research, hardware design and
+Phông TS. Lâm Đức tài trước đã thực hiện khác nhau như thế
+2 thực IP phần cứng phát hiện implementation of IP hardware CQĐT E6.3 8h15
+Khải nào?
+20521557 Ngô Xuân Lợi làn đường for lane detection
+- Giới hạn đề tài Thiết và hiện thực IP nhận
+diện biển số xe sử dụng giải thuật mà nhóm
+Thiết kế và hiện thực IP Design and implementation of
+TS. Lâm Đức lựa chọn.
+3 20521727 Trần Bảo Nhung phần cứng nhận diện biển số license plate recognition CQĐT E6.3 8h30
+Khải - Xây dựng kịch bản đánh giá so sánh kết
+xe hardware IP
+quả.
+- Xác định lại tên đề tài
+- Xây dựng kịch bản đánh giá kết quả IP
+20520646 Võ Nhật Nam Design and implementation of
+Thiết kế và hiện thực IP TS. Lâm Đức - Đóng gói IP tích hợp vào hệ thống
+4 vehicle speed measurement CQĐT E6.3 8h45
+Nguyễn Thành phần cứng đo tốc độ xe Khải - Tên đề tài THiết kế hiện thực IP đo tốc độ
+20521737 hardware IP
+Phát xe
+Nghiên cứu và xây dựng hệ TS. Lâm Đức
+Research and develop a
+Nguyễn Đình thống tính toán song song Khải, - Nên đặt tên đề tài mô hình xử lý đồng thời
+5 20521766 parallel multi-task computing CQĐT E6.3 9h00
+Phúc đa tác vụ cho bài toán xe tự KS. Chế Quang ( Hoặc xử lý Đa tác vụ)
+system for autonomous vehicles
+hành Huy
+- Nên xác định đúng mục tiêu có hướng tới
+20521048 Lê Đức Hồng Ân BlockChain hay không?
+Thiết kế và hiện thực bộ TS. Phạm Hoài
+Design and implementation - Đặt vấn đề chưa phù hợp Blockchain cho
+đồng xử lý RISC-V tốc độ Luân, CLC-
+6 high-speed RISC-V E6.3 9h15 IoT
+cao hỗ trợ các thuật toán TS. Lâm Đức VN
+cryptographic co-processor - Thiết kế sai về mặt kiến trúc, xem lại về sơ
+20521063 Hồ Viết Anh mật mã hóa Khải
+đồ,ko tích hợp vào ALU.
+- Tên đề tài chưa chuẩn, nên điều chỉnh tên
+Page 3 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+- Xem lại tên đề tài và mục tiêu. không khớp
+Thiết kế bộ đồng xử lý mật Design high-throughput RISC- TS. Phạm Hoài nhau.
+Nguyễn Ngọc mã dựa trên RISC-V thông V based cryptographic co- Luân, CLC- - Đặt lại tên đề tài cho phù hợp với mục tiêu
+7 20521369 E6.3 9h30
+Hưng lượng cao dành cho processor for Lightweight TS. Lâm Đức VN và khối lượng công việc
+Lightweight Cryptography Cryptography Khải - ĐỊnh nghĩa Lightweight gồm các thuật
+toán nào
+High-performance multimode TS. Phạm Hoài
+Bộ tăng tốc đa chế độ hiệu - Xây dựng kịch bản đánh giá kiểm tra lại
+Nguyễn Đình accelerator for post-quantum Luân, CLC-
+8 20521707 suất cao cho mật mã hậu E6.3 9h45 mục tiêu.
+Nhất cryptography CRYSTALS- TS. Lâm Đức VN
+lượng tử CRYSTALS-Kyber -
+Kyber Khải
+Phát triển bộ tăng tốc mật
+Developing a flexible and fast TS. Phạm Hoài - Giải thích rõ phần hiện thực linh hoạt và
+mã thế hệ tiếp theo linh hoạt
+next-generation cryptographic Luân, CLC- nhanh chóng như thế nào?
+9 20521299 Nguyễn Hải Hậu và nhanh chóng dựa trên E6.3 10h00
+accelerator based on a coarse- TS. Lâm Đức VN - Xây dựng lại mục tiêu để giải thích vấn đề
+mảng có thể cấu hình lại chi
+grained reconfigurable array Khải linh hoạt và nhanh chóng.
+tiết thô
+- Phân tích lại nghiên cứu tổng quan. Nghiên
+Thiết kế IP phần cứng nhận Hardware IP design for traffic TS. Lâm Đức CLC- cứu liên quan.
+10 20522078 Trần Tiến Trung E6.3 10h15
+diện biển báo giao thông sign recognition Khải VN - Giới hạn đề tài thiết kế IP mạng CNN
+detect. Xác định kiến trúc CNN
+- Thiết kế lại kiến trúc tổng quan.
+- Tách tiêng FPU và thiết kế bộ phân phối
+Hiện thực khối floating Implementation RISC-V 32-bit
+ThS. Hồ Ngọc CLC- lệnh.
+11 20521991 Đỗ Tuấn Thuận point tích hợp vào bộ xử lý processor with floating point E6.3 10h30
+Diễm VN - Xây dựng kịch bản đánh giá kết quả bộ
+RISC-V 32-bit unit
+FPU
+- Đôi tên đề tài HIện thực FPU trên
+Làm rõ phương pháp đánh giá đề tài, định
+Thiết kế IP cho bộ đệm TS. Trần Quang lượng giới hạn đề tài, thiếu tài liệu tham
+12 20521754 Mai Xuân Phú IP design for video frame buffer CQĐT E6.3 10h45
+video Nguyên khảo, nên so sánh với các đề tài có sẳn, nên
+có kết quả tổng hợp dự kiến.
+Thảo luận lại vơí GVHD để thống nhất nội
+20521784 Bùi Sỹ Quân
+Xây dựng robot 3 trục - ứng Implementation of 3-axis robot
+TS. Trần Quang dung đề tài. Đảm bảo giới hạn đề tài,
+13 dụng trong quy trình xử lý - application in wafer handling CQĐT E6.3 11h00
+Nguyên phương pháp đánh giá đề tài và nội dung đề
+Võ Đình Ngọc wafer process
+20522141 tài phù hợp
+Uyển
+TS. Đỗ Trí Nhựt,
+Nguyễn Hồng Thiết kế mạch báo cháy đa Design multi-function fire CLC- Xem xét lại giới hạn đề tài, cần có các thông
+14 20521807 ThS. Trương E6.3 11h15
+Quang năng alarm circuit VN số đánh giá cho giới hạn đề tài.
+Văn Cương
+Page 4 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Phòng E4.1 - Buổi chiều
+Phạm Quốc Hùng, Phan Đình Duy, Phạm Minh Quân
+Xây dựng kịch bản cụ thể môi trường, nêu
+rõ lý do chọn mô hình HOG để nhận diện
+Nhận diện khuôn mặt real- PGS.TS. Vũ
+Real-time face recognition khuôn mặt, mô tả cụ thể hơn về hệ thống
+Phạm Nguyễn time dùng HOG-SVM ứng Đức Lung, CLC-
+1 20521739 using HOG-SVM architecture E4.1 13h00 IOT. Kết quả dự kiến của hệ thống cần có
+Tấn Phát dụng trong việc điều khiển ThS. Phan Đình VN
+for room door application sự so sánh với các công trình trước đó. Xem
+cửa phòng Duy
+lại tên đề tài chưa bao quát hết khối lượng
+công việc trong đề tài.
+ThS. Phan Đình
+Hệ thống phân loại và phát
+Lane-change violation Duy, CLC-
+2 20521165 Dương Thành Đạt hiện phương tiện giao thông E4.1 13h15 Vắng
+detection and classification TS. Phạm Quốc VN
+di chuyển sai làn đường
+Hùng
+TS. Phạm Quốc
+Cần có kịch bản cụ thể cho hệ thống IOT,
+Hệ thống IoT quản lý vườn A smart IoT system for garden Hùng, CLC-
+3 20521448 Lê Hoàng Khanh E4.1 13h30 xây dựng giải pháp rõ ràng bám sát với thực
+cây thông minh management ThS. Phan Đình VN
+tế.
+Duy
+Nguyễn Phạm TS. Phạm Quốc
+20521647 Xây dựng hệ thống điểm Tập trung xây dựng hệ thống điểm danh/
+Thanh Ngân Implementation of attendance Hùng, CLC-
+4 danh ứng dụng trong phòng E4.1 13h45 kiểm tra online, giao diện và quản lý phòng
+Nguyễn Kim system in smart classrooms ThS. Phan Đình VN
+20521664 học thông minh học.
+Ngọc Duy
+TS. Phạm Quốc Xem lại tên đề tài quy mô lớn, xem lại tổng
+20520642 Nguyễn Hải Nam Thiết kế hệ thống tưới cây
+Design an irrigation system for Hùng, CLC- quan cách đặt vấn đề, tìm hiểu các công
+5 sử dụng cho vườn thông E4.1 14h00
+smart gardens ThS. Phan Đình VN trình nghiên cứu liên quan. Xác định cụ thể
+20521944 Cao Hoàng Thiện minh
+Duy mục tiêu đề tài.
+TS. Phạm Quốc
+20521616 Trần Anh Minh Ứng dụng công nghệ định vị Simultaneous localization and
+Hùng, CLC-
+6 đồng thời lập bản đồ trên mapping (SLAM) in mobile E4.1 14h15
+ThS. Phan Đình VN
+20521619 Văn Nhật Minh robot robots
+Duy
+Xem lại tên đề tài, smart như thế nào? Hệ
+Xây dựng hệ thống hỗ trợ Building an agricutural support
+ThS. Phan Đình thống xác định sâu bệnh đã dự báo được
+7 20520555 Trần Trọng Huy nông nghiệp ứng dụng trong system for application in CQĐT E4.1 14h30
+Duy chưa? Đề tài tập trung vào mục tiêu hơn giải
+vườn cà chua tomato gardens
+quyết vấn đề cụ thể nào? Nộp lại ĐCCT.
+Page 5 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Ứng dựng các thiết bị IoT ThS. Phan Đình Mục tiêu đề tài còn sơ sài chưa cụ thể. Cần
+8 20520665 Chu Thành Nhân IoT in Metaverse CQĐT E4.1 14h45
+vào thực tế ảo Metaverse Duy xem lại mục tiêu cần xây dựng.
+Độ chính xác trên 90%, tốc độ xử lý 10fps,
+Hệ thống điểm danh kết hợp
+Attendance system combines nhận diện được trong điều kiện ban ngày,
+thẻ RFID và nhận diện ThS. Phan Đình
+9 20521215 Võ Sỹ Dũng RFID card and face recognition CQĐT E4.1 15h00 kịch bản demo thử nghiệm trên ít nhất 20
+khuôn mặt sử dụng CNN, Duy
+using CNN, Facenet, SVM sinh viên, điểm danh từng cá nhân, bổ sung
+Facenet, SVM
+cụ thể giải thuật xử lý
+Integrating edge computing ThS. Phan Đình
+Tích hợp tính toán biên và
+and server for multi- Duy,
+10 20522094 Lê Hữu Truyền máy chủ cho hệ thống nhận CQĐT E4.1 15h15 Không có góp ý.
+authentication facial KS. Chế Quang
+diện khuôn mặt đa xác thực
+recognition system Huy
+- Thêm objective thời gian/tốc độ phát hiện
+Nguyễn Quốc Nghiên cứu và thiết kế mô Research and design patrol ThS. Nguyễn
+11 19520544 CQĐT E4.1 15h30 object trong khung hình.
+Hiếu hình robot tuần tra robot Thanh Thiện
+- Sửa đổi phương án cảnh báo
+Nguyễn Anh
+Thiết kế và xây dựng hệ
+20521606
+Design and build measuring Xem lại phương pháp kiểm tra, đánh giá,
+Minh
+thống do nồng độ CO2 và TS. Trần Quang CLC-
+12 CO2 and H2O concentration E4.1 15h45 thiếu mô hình phần cứng, cơ khí, làm rõ giới
+H2O dựa trên hiện tượng Nguyên VN
+Nguyễn Hoàn system based on photocatalysis hạn đề tài, tìm hiểu các nghiên cứu trước.
+20521950 quang xúc tác
+Thiện
+Phòng E4.3 - Buổi chiều
+Đòàn Duy, Nguyễn Duy Xuân Bách, Trần Ngọc Đức
+- Specs dự kiến của hệ thống quá cao,
+Hệ thống thu thập tín hiệu Brain wave signal collection
+ThS. Nguyễn 16000Hz là quá cao, chỉnh lại
+1 20521615 Thân Nhật Minh sóng não với module Nano system with Nano 33 BLE CQĐT E4.3 13h00
+Duy Xuân Bách - Cần đối chứng, test so sánh để kết quả thực
+33 BLE module
+tế được xác thực trước bảo vệ
+Nguyễn Hồng ThS. Nguyễn - Objective nhấn mạnh về tối ưu hóa năng
+20521843 Building an electronic
+Sơn Xây dựng thiết bị đọc đồng Duy Xuân Bách, CLC- lượng, do đề tài còn khá basic.
+2 mechanical water meter E4.3 13h15
+hồ nước cơ bằng điện tử ThS. Phạm VN - Hệ thống webapp phải support nhiều thiết
+20522053 Phạm Minh Trí reading device
+Minh Quân bị
+- Nhận dạng hành vi vi phạm tự động: quay
+Mai Lê Vĩnh
+ThS. Trần
+20521365
+sang nhìn bài???
+Hưng
+Hệ thống phòng thi thông Hoàng Lộc, CLC-
+3 Smart exam room system E4.3 13h30 - Trao đổi lại với GVHD về việc chỉnh sửa
+minh TS. Phạm Quốc VN
+nội dung, lược bớt chức năng không cần
+20521406 Nguyễn Tấn Huy Hùng
+thiết để tập trung các tính năng chất lượng
+Page 6 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+Hệ thống nhận diện cử chỉ Hand gesture recognition - Xem xét lại cách setup hệ thống camera,
+Nguyễn Thành ThS. Trần
+4 20520946 tay để điều khiển slide trình system for controlling CQĐT E4.3 13h45 các trạng thái nhận dạng để hoạt động được
+Trung Hoàng Lộc
+chiếu presentation slides liên tục
+Nguyễn Thịnh
+20521738
+Nghiên cứu và thiết kế Research and design of robot - Xác định rõ scope của đề tài, scenario cụ
+Phát
+5 robot vận chuyển tài liệu to transport documents in TS. Đỗ Trí Nhựt CQĐT E4.3 14h00 thể mà robot của đề tài theo đuổi, để xác
+trong không gian kín closed spaces định objective chấm cuối kỳ.
+20522051 Nguyễn Hữu Trí
+- Thiết kế lại kiến trúc của giải pháp
+Thiết kế, thi công hệ thống IoT-based QR code checking CLC-
+6 20521497 Nguyễn Anh Kiệt TS. Đỗ Trí Nhựt E4.3 14h15 - Mô tả lại quy trình registration,checkin,
+điểm danh bằng mã QR system. VN
+checkout
+Thiết kế - Thi công hệ thống
+IMU-based wearable indoor CLC-
+7 19522150 Đỗ Hữu Tài định vị bằng thiết bị đeo TS. Đỗ Trí Nhựt E4.3 14h30 SV nộp trễ, không báo cáo đề cương
+navigation system VN
+IMU
+- Hệ thống nhận dạng, phân loại tự động,
+trên bằng chuyền. 3 loại xoài: cát chu, cát
+Design a system for
+Thiết kế hệ thống nhận diện hòa ộc, xoài keo
+determining and classification CLC-
+8 19522388 Nguyễn Minh Trí và phân loại độ chín của các TS. Đoàn Duy E4.3 14h45 - Tham khảo hệ thống phân loại của xoài
+ripeness of mangoes based on VN
+loại xoài theo chuẩn nông nghiệp
+the color of fruit
+- Bổ sung độ chính xác
+- Giảm tải phần App
+Ngô Lê Tuyết
+20521333 Thiết kế thiết bị nhận dạng Implementing a finger
+Hoa CLC-
+9 bàn tay hỗ trợ phát triển các detection box for automated TS. Đoàn Duy E4.3 15h00 - Ko ý kiến
+VN
+20521630 Nguyễn Hữu Nam giải pháp điều khiển tự động control applications
+Applying machine learning
+20522155 Võ Quốc Việt Ứng dụng kỹ thuật máy học
+techniques to extract medical CLC- - Đề tài còn hơi đơn giản
+10 để trích xuất thông tin toa TS. Đoàn Duy E4.3 15h15
+Nguyễn Quốc information from image of VN - Đề xuất tăng lên 90%
+20522172 thuốc từ ảnh chụp
+Vương prescription
+20521806 Lê Ngọc Quang Thiết kế giải pháp hỗ trợ tra Design an application for drug
+CLC-
+11 cứu điểm bán thuốc dựa trên store searching using image of TS. Đoàn Duy E4.3 15h30 - Chỉ đường tới nhà thuốc gần nhất
+Nguyễn Mạnh VN
+20521819 ảnh chụp toa thuốc medical prescription
+Quyền
+Page 7 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+20520326 Tạ Điền Minh Trí Thiết kế hệ thống mô phỏng Designing a simulation system
+12 đánh giá mật độ giao thông for traffic density evaluating in TS. Đoàn Duy CQĐT E4.3 15h45 - Xây dựng bộ mẫu thử thực tế
+20520349 Lê Hữu Vinh trong đô thị urban areas
+Thiếu tài liệu tham khảo, phương pháp đánh
+giá, định lượng giới hạn đề tài, nên có so
+Thân Quán
+20521682 sánh với các hệ thống có sẳn, chưa có sơ đồ
+Nguyên
+Thiết kế và chế tạo hệ thống Design and build pick and khối hệ thống. các thông số cơ bản hệ thống
+TS. Trần Quang CLC-
+13 gắp thả linh kiện trong quy place component in creating E4.3 16h00 như độ xoay linh kiện, tốc độ gấp thả,... Hệ
+Nguyên VN
+trình làm mạch điện tử electronic circuit thống mô tả không đúng. STM32 chỉ điều
+Vũ Hoàng Thiên
+20521757 khiển hệ thống động cơ và feeder. Nên tham
+Phú
+khảo hệ thống thực tiễn. Làm rõ giới hạn đề
+tài định lượng.
+Phòng E6.3 - Buổi chiều
+Nguyễn Minh Sơn, Trương Văn Cương, Trần Văn Quang
+Nghiên cứu tích hợp công Research the integration of
+20520614 Phan Ái Linh - Làm rõ chức năng của bục giảng thông
+nghệ tính toán biên cho thiết edge computing technology for TS. Nguyễn
+1 CQĐT E6.3 13h00 minh
+bị bục giảng trong lớp học lectern device in the Hybrid Minh Sơn
+Lê Thị Thu - Giới hạn nội dung đề tài:
+20521422 Hybrid classroom
+Huyền
+- Xây dựng mô phỏng và kịch bản đánh giá
+16521558 Hoàng Anh Minh Cải tiến giải thuật Deep Q- Update Deep Q-Network
+TS. Nguyễn CLC- kết quả
+2 Network (DQN) sử dụng (DQN) algorithm using SoC E6.3 13h15
+Minh Sơn VN - Đánh giá tốc độ training và tốc độ toàn bộ
+Nguyễn Văn công nghệ SoC technology
+19522212 hệ thống
+Thắng
+Võ Phan Hoàng
+20521428
+Mô phỏng và hiện thực hệ Simulation and implementation - Giới hạn lại đề tài xử lý các xung đột.
+Kha (CLC)
+TS. Nguyễn CLC-
+3 thống SoC với RISC-V 32- SoC with 32-bit RISC-V CPU E6.3 13h30 - Mô phỏng bộ RISC-V và mô phỏng.
+Minh Sơn VN
+Phan Lê Min bit CPU trên FPGA on FPGA -
+20521596
+(CQĐT)
+Nghiên cứu tích hợp thuật
+Research on itegrating license
+toán nhận dạng biển số xe
+plate recognition in garage TS. Nguyễn CLC- - Giới hạn môi trường kiểm định: Môi
+4 20521983 Thái Quốc Thông trong nhà xe trên camera E6.3 13h45
+algorithms on smart camera Minh Sơn VN trường anh sáng, thời tiết ...
+thông minh sử dụng công
+using SoC technology
+nghệ SoC
+Nghiên cứu hành vi học
+20521948 Nguyễn Chí Thiện Research about student -Giới hạn đề nhận dạng hành vi
+sinh và tích hợp trong bộ TS. Nguyễn CLC-
+5 behavior and implement into E6.3 14h00 - Đổi tên đề tài cho phù hợp với nội dung
+Đào Ngọc Minh điều khiển của bàn học Minh Sơn VN
+20522045 the controller of smart desk - Cập nhật mục tiêu đề tài
+Trí thông minh
+Page 8 of 9
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB Hệ PHÒN THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG ANH Ý KIẾN GÓP Ý ĐCCT CỦA HĐ
+VIỆT HƯỚNG DẪN ĐT G GIAN
+- Nghiên cứu phát triển bộ kiểm tra đánh giá
+Nghiên cứu phát triển bộ Research and development a
+TS. Nguyễn CLC- bộ core RISC-V với tập lệnh
+6 17521248 Nguyễn Bá Văn kiểm tra đánh giá hệ thống test and evaluation suite for the E6.3 14h15
+Minh Sơn VN - Xây dựng kịch bản đánh giá kiểm tra.
+RISC-V Core RISC-V Core system
+- Đối tên đề tài và giới hạn về mục tiêu
+Nguyễn Đức Duy Hiện thực một NOC
+20521435 Implementing a NOC (network ThS. Phạm
+Khang (network on chip) sử dụng
+on chip) using RISC-V Thanh Hùng, CLC- - Cần bổ sung mô hình thiết kế vào trong đề
+7 lõi vi xử lý RISC-V E6.3 14h30
+RV32IMF processor core with TS. Trần Phước VN cương
+Trương Trần RV32IMF thông qua giao
+20521638 TileLink protocol on FPGA Xuân (TG)
+Hoài Nam thức TileLink trên FPGA
+- tích hợp source code jtag có sẵn vào RISV-
+Thiết kế lõi vi xử ký RISC- Design RISC-V RV32I
+20522059 Hồ Khả Trình ThS. Phạm V
+V RV32I tích hợp khối điều microprocessor core integrated
+Thanh Hùng, CLC- - Thiết kế đọc/ghi lệnh vào IM
+8 khiển JTAG ứng dụng vào JTAG controller block E6.3 14h45
+TS. Trần Phước VN - Đánh giá hoạt động ở hai chế độ: Nạp và
+Nguyễn Nhựt việc nạp lệnh chương trình applying to program instruction
+20522088 Xuân (TG) debug
+Trường trên FPGA code on FPGA
+- Kiểm tra toàn bộ chương trình hoạt động
+Nguyễn Thanh
+20522131 Hiện thực một hệ thống SoC Implementing a SoC integrated ThS. Phạm
+Tùng
+tích hợp lõi IP ethernet 1 an ethernet IP core 1 GBPS Thanh Hùng, CLC- - Core opensource + đóng gói giao thứ AXI
+9 E6.3 15h00
+GBPS hỗ trợ giao thức supporting ICMP protocol on TS. Trần Phước VN - Cập nhật kịch bản đánh gía,kiểm tra
+20522143 Lê Hoàng Văn ICMP trên FPGA FPGA Xuân (TG)
+Hiện thực lõi IP thuật toán
+20520932 Nguyễn Lê Thảo chữ ký số (DSA) sử dụng hệ Implement IP of Digital ThS. Phạm
+Cụ thể mục tiêu đề tài (SHA-256)
+mật mã đường cong signaltrure algrorithm using Thanh Hùng, CLC-
+10 E6.3 15h15 - Bổ sung lựa chọn tối ưu về tốc độ hay tài
+ELLIPTIC kết hợp thuật elliptic cure crytigraphy and TS. Trần Phước VN
+Trần Xuân Ngọc nguyên
+20521338 toán băm SHA-256 trên sha-256 on FPGA Xuân (TG)
+Hoan
+FPGA
+20521302 Trần Đăng Hậu
+Nghiên cứu và hiện thực IP Research and implementation ThS. Trương Tham khảo thêm các đề tài liên quan, đưa ra
+11 CQĐT E6.3 15h30
+ShuffleNet of ShuffleNet IP Văn Cương định lượng giới hạn đề tài hợp lý.
+20521744 Lê Quang Phong
+Researching and
+Nghiên cứu thiết kế và hiện ThS. Trương
+implementation of a
+Ngô Thái Anh thực mô hình kiểm tra cho Văn Cương, CLC- Cần tham khảo các đề tài trước, so sánh với
+12 16520347 verification environment for a E6.3 15h45
+Hào một thiết kế mạng nơ-ron ThS. Hồ Ngọc VN các đề tài trước của khoa.
+convolutional neural network
+tích chập Diễm
+intellectual property
+Page 9 of 9

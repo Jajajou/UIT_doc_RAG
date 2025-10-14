@@ -1,0 +1,45 @@
+
+============================================================
+SHEET: Sheet1
+============================================================
+
+STT | Lớp | Khoa | Hệ | CVHT | Email
+--------------------------------------------------------------------------------
+1 | PMCL2013 | CNPM | CLC | Phan Trung Hiếu | hieupt@uit.edu.vn
+2 | PMCL2014.1 | CNPM | CLC | Lê Thanh Trọng | tronglt@uit.edu.vn
+3 | PMCL2014.2 | CNPM | CLC | Lê Thanh Trọng | tronglt@uit.edu.vn
+4 | PMCL2015.1 | CNPM | CLC | Trần Anh Dũng | dungta@uit.edu.vn
+5 | PMCL2015.2 | CNPM | CLC | Trần Anh Dũng | dungta@uit.edu.vn
+6 | PMCL2015.3 | CNPM | CLC | Trần Anh Dũng | dungta@uit.edu.vn
+7 | PMCL2016.1 | CNPM | CLC | Hoàng Văn Hà | hahv@uit.edu.vn
+8 | PMCL2016.2 | CNPM | CLC | Mai Trọng Khang | khangmt@uit.edu.vn
+9 | PMCL2016.3 | CNPM | CLC | Nguyễn Tấn Toàn | toannt@uit.edu.vn
+10 | PMCL2017.1 | CNPM | CLC | Nguyễn Thị Thanh Trúc | trucntt@uit.edu.vn
+11 | PMCL2017.2 | CNPM | CLC | Huỳnh Nguyễn Khắc Huy | huyhnk@uit.edu.vn
+12 | PMCL2017.3 | CNPM | CLC | Thái Thuỵ Hàn Uyển | uyentth@uit.edu.vn
+13 | CTTT2013 | HTTT | CTTT | Nguyễn Thị Kim Phụng | phungntk@uit.edu.vn
+14 | CTTT2014 | HTTT | CTTT | Mai Xuân Hùng | hungmx@uit.edu.vn
+15 | CTTT2015 | HTTT | CTTT | Cao Thị Nhạn | nhanct@uit.edu.vn
+16 | CTTT2016 | HTTT | CTTT | Vũ Minh Sang | sangvm@uit.edu.vn
+17 | CTTT2017 | HTTT | CTTT | Nguyễn Thúy Ngọc | ngocnt@uit.edu.vn
+18 | HTCL2014 | HTTT | CLC | Ngô Thanh Hùng | hungnt@uit.edu.vn
+19 | HTCL2015 | HTTT | CLC | Cao Thị Kim Tuyến | tuyenctk@uit.edu.vn
+20 | HTCL2016.1 | HTTT | CLC | Trương Thu Thủy | thuytt@uit.edu.vn
+21 | HTCL2016.2 | HTTT | CLC | Trương Thu Thủy | thuytt@uit.edu.vn
+22 | HTCL2017.1 | HTTT | CLC | Đỗ Thị Minh Phụng | phungdtm@uit.edu.vn
+23 | HTCL2017.2 | HTTT | CLC | Đỗ Thị Minh Phụng | phungdtm@uit.edu.vn
+24 | KHCL2017.1 | KHMT | CLC | Trịnh Quốc Sơn | sontq@uit.edu.vn
+25 | KHCL2017.2 | KHMT | CLC | Trịnh Quốc Sơn | sontq@uit.edu.vn
+26 | MTCL2013 | KTMT | CLC | Hồ Ngọc Diễm | diemhn@uit.edu.vn
+27 | MTCL2014 | KTMT | CLC | Trần Ngọc Đức | ductn@uit.edu.vn
+28 | MTCL2015.1 | KTMT | CLC | Chung Quang Khánh | khanhcq@uit.edu.vn
+29 | MTCL2015.2 | KTMT | CLC | Nguyễn Duy Xuân Bách | bachndx@uit.edu.vn
+30 | MTCL2016.1 | KTMT | CLC | Trương Văn Cương | cuongtv@uit.edu.vn
+31 | MTCL2016.2 | KTMT | CLC | Ngô Hiếu Trường | truongnh@uit.edu.vn
+32 | MTCL2017.1 | KTMT | CLC | Phan Đình Duy | duypd@uit.edu.vn
+33 | MTCL2017.2 | KTMT | CLC | Phạm Quốc Cường | cuongpq@uit.edu.vn
+34 | ANTN2014 | MMM&TT | TN | Lê Đức Thịnh | thinhld@uit.edu.vn
+35 | ATTN2015 | MMM&TT | TN | Nguyễn Duy | duyn@uit.edu.vn
+36 | ATTN2016 | MMM&TT | TN | Nguyễn Anh Tuấn | tuanna@uit.edu.vn
+37 | ATCL2017 | MMT&TT | CLC | Phạm Văn Hậu | haupv@uit.edu.vn
+38 | ATTN2017 | MMT&TT | TN | Trần Tuấn Dũng | dungtrt@uit.edu.vn

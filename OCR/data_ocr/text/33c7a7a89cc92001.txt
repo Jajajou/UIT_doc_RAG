@@ -1,0 +1,36 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 3(2024-2025)
+LỚP CE502.P31
+Thời gian bắt đầu Hội đồng chấm thực tập CE502.P31: Sáng từ 8h00, ngày 15/09/2025 (Thứ 2)
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+ST Họ và tên Sinh Mã số Sinh Tên công ty GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Ghi chú
+T viên viên thực tập thực tập Báo cáo
+ASIC Lab (CE-
+1 Lê Gia Kiệt 21521030 TS. Đoàn Duy Thiếu 2 NX
+Tìm hiểu vi điều khiển at32f403a và một số UIT) E6.3-STT 01
+ứng dụng trên board AT32-START-F403A ASIC Lab (CE- (08g00)
+2 Hoàng Trọng Dương 21521988 TS. Đoàn Duy
+UIT)
+ASIC Lab (CE-
+3 Nguyễn Đức Triển 20520940 TS. Đoàn Duy
+Thiết kế và kiểm thử bộ mã hoá AES-128 sử UIT) E6.3-STT 02
+dụng môi trường UVM ASIC Lab (CE- (08g10)
+4 Phạm Phan Huy 21520931 TS. Đoàn Duy
+UIT)
+ASIC Lab (CE-
+5 Nguyễn Thành Vinh 21522793 TS. Đoàn Duy
+Thiết kế môi trường UVM cho bộ giải mã UIT) E6.3-STT 03
+AES 128 ASIC Lab (CE- (08g20)
+6 Trương Minh Giảng 20520953 TS. Đoàn Duy
+UIT)
+Thiết kế hệ thống tách nền phát hiện vật thể di
+chuyển sử dụng board AT32-START-F403A, ASIC Lab (CE- E6.3-STT 04
+7 Từ Cẩm Vân 19522509 TS. Đoàn Duy
+camera OV7670 và hiển thị kết quả trên màn UIT) (08g30)
+hình LCD
+TP.Hồ Chí Minh, ngày 09 tháng 09 năm 2025
+TRƯỞNG KHOA
+Nguyễn Minh Sơn

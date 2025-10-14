@@ -1,0 +1,19 @@
+
+============================================================
+SHEET: Sheet1
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3
+--------------------------------------------------------------------------------
+KHOA MẠNG MÁY TÍNH VÀ TRUYỀN THÔNG
+DANH SÁCH GIẢNG VIÊN 
+STT | HỌ TÊN | HỌC VỊ | THÔNG TIN LIÊN HỆ
+1 | Lê Trung Quân | PGS.TS | quanlt@uit.edu.vn
+2 | Phạm Văn Hậu | TS | haupv@uit.edu.vn
+3 | Lê Kim Hùng | TS | hunglk@uit.edu.vn
+4 | Nguyễn Ngọc Tự | TS | tunn@uit.edu.vn
+5 | Nguyễn Tấn Hoàng Phước | TS | phuocnth@uit.edu.vn
+6 | Phan Xuân Thiện | TS | thien@uit.edu.vn
+7 | Trần Thị Dung | ThS | dungtt@uit.edu.vn
+8 | Nguyễn Duy | ThS | duyn@uit.edu.vn
+9 | Bùi Thanh Bình | ThS | binhbt@uit.edu.vn

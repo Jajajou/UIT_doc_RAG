@@ -1,0 +1,79 @@
+MẪU BÌA KHOÁ LUẬN CÓ IN CHỮ NHŨ VÀNG
+(KHỔ A4 210mm*297mm)
+
+[MẪU TRANG PHỤ BÌA KHÓA LUẬN]
+
+[MẪU GÁY BÌA KHÓA LUẬN IN NHŨ]
+
+[MẪU BÌA CD]
+
+VIETNAM  NATIONAL UNIVERSITY HOCHIMINH CITY (Bold, sz 14)
+UNIVERSITY OF INFORMATION TECHNOLOGY(Bold, size 16)
+	ADVANCED PROGRAM IN INFORMATION SYSTEMS	(Bold, size 16)
+
+
+
+<FULLNAME OF ALL STUDENTS IN A SINGLE LINE> (Bold, size 14)
+
+
+
+
+
+
+
+
+<THESIS’S FULL TITLE> (Bold, size 18-30)
+
+
+
+
+
+
+
+
+
+
+BACHELOR OF ENGINEERING IN INFORMATION SYSTEMS (Bold, size 14)
+
+
+
+
+
+
+
+
+
+
+HO CHI MINH CITY, <YEAR> (Bold, size 13)
+VIETNAM  NATIONAL UNIVERSITY HOCHIMINH CITY (Bold, size 14)
+UNIVERSITY OF INFORMATION TECHNOLOGY (Bold, size 16)
+ADVANCED PROGRAM IN INFORMATION SYSTEMS (Bold, size 16)
+ 
+
+
+
+< STUDENT1’S NAME > – <STUDENT ID> (Bold, size 14)
+< STUDENT2’S NAME > – <STUDENT ID> (Bold, size 14)
+
+
+
+<THESIS’S FULL TITLE> (Bold, size 18-30)
+
+
+
+
+BACHELOR OF ENGINEERING IN INFORMATION SYSTEMS (Bold, size 14)
+
+
+
+
+
+THESIS ADVISOR (Bold, size 14)
+
+< FULLNAME OF THESIS ADVISOR(S)> (Bold, size 14)
+
+
+
+HO CHI MINH CITY, <YEAR> (Bold, size 13)
+
+<AEP>                                                                    <THESIS TITLE>                                                                        	<YEAR>

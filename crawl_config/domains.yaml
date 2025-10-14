@@ -1,26 +1,76 @@
 seeds:
-  - https://daa.uit.edu.vn/thong-bao
+  # Administrative documents pages (văn bản hành chính)
+  - https://daa.uit.edu.vn/thong-bao?page=1
+  - https://daa.uit.edu.vn/thong-bao?page=2
+  - https://daa.uit.edu.vn/thong-bao?page=3
   - https://daa.uit.edu.vn/van-ban
+  - https://daa.uit.edu.vn/van-ban?page=1
+  - https://daa.uit.edu.vn/van-ban?page=2
   - https://daa.uit.edu.vn/van-ban/quy-dinh
+  - https://daa.uit.edu.vn/van-ban/quy-dinh?page=1
+  - https://daa.uit.edu.vn/van-ban/quy-dinh?page=2
   - https://daa.uit.edu.vn/van-ban/quy-che
+  - https://daa.uit.edu.vn/van-ban/quy-che?page=1
+  - https://daa.uit.edu.vn/van-ban/quy-che?page=2
+  - https://daa.uit.edu.vn/van-ban/huong-dan
+  - https://daa.uit.edu.vn/van-ban/thong-bao
+  
+  # Education and training pages (đào tạo)
+  - https://daa.uit.edu.vn/dao-tao
+  - https://daa.uit.edu.vn/dao-tao/chuong-trinh-dao-tao
+  - https://daa.uit.edu.vn/sinh-vien
+  - https://daa.uit.edu.vn/sinh-vien?page=1
+  - https://daa.uit.edu.vn/sinh-vien?page=2
   - https://oep.uit.edu.vn/thong-bao
+  - https://oep.uit.edu.vn/thong-bao?page=1
+  - https://oep.uit.edu.vn/thong-bao?page=2
+  - https://oep.uit.edu.vn/bieu-mau
+  
+  # News pages (tin tức)
   - https://www.uit.edu.vn/tin-tuc
+  - https://www.uit.edu.vn/tin-tuc?page=1
+  - https://www.uit.edu.vn/tin-tuc?page=2
+  - https://www.uit.edu.vn/tin-tuc?page=3
+  - https://www.uit.edu.vn/thong-bao
+  - https://www.uit.edu.vn/thong-bao?page=1
+  - https://www.uit.edu.vn/thong-bao?page=2
+  - https://www.uit.edu.vn/tuyen-sinh
+  
+  # Faculty pages (các khoa)
   - https://fit.uit.edu.vn
+  - https://fit.uit.edu.vn/thong-bao
+  - https://fit.uit.edu.vn/tin-tuc
+  - https://fit.uit.edu.vn/tin-tuc?page=1
+  - https://fit.uit.edu.vn/tin-tuc?page=2
+  - https://ce.uit.edu.vn
+  - https://ce.uit.edu.vn/thong-bao
+  - https://ce.uit.edu.vn/tin-tuc
+  
+  # Research pages (nghiên cứu)
+  - https://www.uit.edu.vn/nghien-cuu-khoa-hoc
+  - https://www.uit.edu.vn/nghien-cuu-khoa-hoc?page=1
+  - https://iro.uit.edu.vn/thong-bao
 
 allowed_domains:
   - uit.edu.vn
   - www.uit.edu.vn
   - fit.uit.edu.vn
+  - ce.uit.edu.vn
   - oep.uit.edu.vn
   - daa.uit.edu.vn
+  - grad.uit.edu.vn
+  - iro.uit.edu.vn
   - link.uit.edu.vn
 
 include_patterns:
-  - '^https?://(www\.)?uit\.edu\.vn(/(tin-tuc|thong-bao|news).*)?$'
+  - '^https?://(www\.)?uit\.edu\.vn(/(tin-tuc|thong-bao|news|tuyen-sinh|nghien-cuu-khoa-hoc).*)?$'
   - '^https?://fit\.uit\.edu\.vn(/.*)?$'
-  - '^https?://oep\.uit\.edu\.vn(/.*)?$'
-  - '^https?://daa\.uit\.edu\.vn(/(thong-bao|van-ban|vanban|quy-dinh|quy-che|tin-tuc).*)?$'
+  - '^https?://ce\.uit\.edu\.vn(/.*)?$'
+  - '^https?://oep\.uit\.edu\.vn(/(thong-bao|bieu-mau).*)?$'
+  - '^https?://daa\.uit\.edu\.vn(/(thong-bao|van-ban|vanban|quy-dinh|quy-che|huong-dan|dao-tao|sinh-vien|tin-tuc).*)?$'
   - '^https?://daa\.uit\.edu\.vn/sites/daa/files/uploads/.*$'
+  - '^https?://grad\.uit\.edu\.vn(/.*)?$'
+  - '^https?://iro\.uit\.edu\.vn(/.*)?$'
   - '^https?://link\.uit\.edu\.vn/.*$'
 
 exclude_patterns:

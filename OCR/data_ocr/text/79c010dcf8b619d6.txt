@@ -1,0 +1,43 @@
+Hệ thống nhận diện cử chỉ tay sử dụng FPGA phục vụ điều khiển thiết
+b ị công cộng không chạm trong đô thị xanh thông minh
+Cuộc thi Thiết kế vi mạch 2025 UIT
+Nh óm: Chicken Jockey
+Th ành viên: Nguyễn Trọng Bảo Duy, Nguyễn Công Gia Bảo, Nguyễn Lê Thanh Hiển, Trần Trung Kiên
+Giới thiệu Thuật toán
+• Trong quá trình xây dựng đô thị xanh thông minh Ảnh đầu vào từ camera được chuyển sang ảnh xám, làm
+(Green Smart City), việc giảm thiểu tiếp xúc vật lý mịn bằng Gaussian, trích xuất biên với Sobel/Prewitt, sau
+với thiết bị công cộng đang trở thành một yêu cầu đó xác định số ngón tay và hướng tay bằng thuật toán
+thiết yếu. cực trị. Đặc trưng cử chỉ được phân loại bằng finite-state
+• Các thang máy, đèn giao thông cho người đi bộ, machine (FSM). Toàn bộ pipeline xử lý được lập trình
+bảng điều khiển màn hình thông tin... hiện nay vẫn bằng Verilog, gồm 3 giai đoạn chính:
+chủ yếu dựa vào nút bấm hoặc cảm ứng vật lý. • Tiền xử lý ảnh (Gaussian)
+• Trong bối cảnh hậu COVID-19 và nhu cầu tăng tính • Trích xuất biên (Sobel)
+bao trùm (inclusive design), giải pháp nhận diện cử • Nhận dạng cử chỉ (FSM)
+chỉ tay không tiếp xúc đang thu hút nhiều sự quan
+tâm.
+Mục tiêu Đặc điểm đề tài
+• Phát triển hệ thống nhận diện cử chỉ tay sử dụng vi Tính mới: Không sử dụng vi xử lý mà lập trình logic cứng.
+mạch SoC hoặc FPGA (không dùng vi xử lý)
+Tính hữu ích: Giải quyết nhu cầu thực tế giảm tiếp xúc
+• Ứng dụng trong các thiết bị công cộng: điều khiển
+trong không gian công cộng.
+thang máy, trạm giao thông, bảng điều khiển không
+Tính khả thi: Thuật toán đơn giản, không dùng CNN, phù
+chạm…
+hợp FPGA nhỏ.
+• Tối ưu hóa mức tiêu thụ năng lượng và độ trễ.
+• Tích hợp thuật toán xử lý ảnh trực tiếp trong phần Tính mở rộng: Dễ nâng cấp thêm nhiều loại cử chỉ và
+cứng. tích hợp vào hệ thống lớn.
+Tham khảo:
+5. Petricca et al. “Degrading Precision Arithmetic
+1. Calicchia et al. “Digital Signal Processing 3. UC Berkeley Rocket Chip Generator –
+for Low Power Signal Processing.” DOI (IEEE
+Accelerator for RISC-V.” IEEE 2019 https://bar.eecs.berkeley.edu/projects/rocket
+Asilomar Conf.): 10.1109/ACSSC.2010.5757559
+2. Bosi et al. “Reconfigurable Pipelined 2-D -chip.html
+6. BlueSpec RISC-V Acceleration Factory –
+Convolvers for Fast DSP.” IEEE VLSL DOI: 4. Cardarilli, G. C. et al., 2002 – “Residue
+https://bluespec.com/riscv-acceleration-
+10.1109/92.790728 Number System Reconfigurable Datapath.”
+factory/.
+DOI: 10.1109/ISCAS.2002.1010555

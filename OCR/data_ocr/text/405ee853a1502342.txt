@@ -1,0 +1,125 @@
+VIETNAM NATIONAL UNIVERSITY HOCHIMINH CITY
+
+UNIVERSITY OF INFORMATION TECHNOLOGY
+
+ADVANCED PROGRAM IN INFORMATION SYSTEMS
+
+<FULLNAME OF ALL STUDENTS IN A SINGLE LINE>
+
+<THESIS’S FULL TITLE>
+
+BACHELOR OF ENGINEERING IN INFORMATION SYSTEMS
+
+HO CHI MINH CITY, <20XX>
+
+NATIONAL UNIVERSITY HOCHIMINH CITY
+
+UNIVERSITY OF INFORMATION TECHNOLOGY
+
+ADVANCED PROGRAM IN INFORMATION SYSTEMS
+
+< STUDENT1’S NAME > – <STUDENT ID>
+
+< STUDENT1’S NAME > – <STUDENT ID>
+
+<THESIS’S FULL TITLE>
+
+BACHELOR OF ENGINEERING IN INFORMATION SYSTEMS
+
+THESIS ADVISOR
+
+<FULLNAME OF THESIS ADVISOR(S)>
+
+HO CHI MINH CITY, <20XX> 
+
+Assessment Committee
+
+The Assessment Committee is established under the Decision . ........................, date .......................by Rector of the University of Information Technology.
+
+1 .................................................. - Chairman.
+
+2 .................................................. - Secretary.
+
+3 .................................................. - Member
+
+4 .................................................. - Member.
+
+ACKNOWLEDGMENTS
+
+……………………………….
+
+TABLE OF CONTENTS
+
+ACKNOWLEDGMENTS	i
+
+TABLE OF CONTENTS	ii
+
+LIST OF FIGURES	iii
+
+LIST OF TABLES	iv
+
+ABSTRACT	v
+
+Chapter 1 Title of chapter 1	1
+
+1.1	Title of this section	1
+
+1.1.1	Title of this sub-section	1
+
+Chapter 2 Title of chapter 2	2
+
+2.1	Title of this section	2
+
+2.1.1	Title of this sub-section	2
+
+REFERENCES	3
+
+APPENDICES	4
+
+LIST OF FIGURES
+
+Figure 1.1. Caption of a figure	1
+
+LIST OF TABLES
+
+Table 1.1. Caption of a table	1
+
+ABSTRACT
+
+Present the abstract of the thesis.
+
+
+Title of chapter 1
+
+Title of this section
+
+Title of this sub-section
+
+This is a sample paragraph …
+
+This is a sample paragraph …
+
+This is a sample paragraph …
+
+Figure 1.1. Caption of a figure
+
+Table 1.1. Caption of a table
+
+
+Title of chapter 2
+
+Title of this section
+
+Title of this sub-section
+
+This is a sample paragraph …
+
+This is a sample paragraph …
+
+This is a sample paragraph …
+
+REFERENCES
+
+Please use the IEEE style for references
+
+APPENDICES

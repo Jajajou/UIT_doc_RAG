@@ -1,0 +1,1432 @@
+VIETNAM NATIONAL UNIVERSITY HO CHI MINH CITY
+UNIVERSITY OF INFORMATION TECHNOLOGY
+HIGHER EDUCATION PROGRAM
+REGULAR PROGRAM
+COMPUTER ENGINEERING
+MARCH 07/2022
+
+TABLE OF CONTENTS
+1 GENERAL INTRODUCTION .......................................................................... 5
+1.1 Objectives of the Educational Program ....................................................... 5
+1.2 Job Opportunities ......................................................................................... 5
+1.3 Educational Perspectives ............................................................................. 6
+1.4 Type and duration of training ...................................................................... 6
+2 APPLICANTS .................................................................................................... 6
+3 TRAINING STATUTE ...................................................................................... 6
+4 LEARNING OUTCOME ................................................................................... 6
+5 EVALUATION SCALE OF KNOWLEDGE, SKILLS, AND ATTITUDES .. 9
+6 PROGRAM OUTLINE .................................................................................... 10
+6.1 Program structure ....................................................................................... 10
+6.2 General courses .......................................................................................... 11
+6.3 Professional education course .................................................................... 12
+6.3.1 Fundamental IT courses ........................................................................ 12
+6.3.2 Group of specialized subjects ................................................................ 13
+6.3.3 Other course .......................................................................................... 13
+6.4 Graduation course ...................................................................................... 13
+6.4.1 Internship ............................................................................................... 13
+6.4.2 Capstone project .................................................................................... 13
+6.4.3 Alternative courses for capstone project ............................................... 14
+6.5 Note: ........................................................................................................... 14
+7 MAPPING OF THE COURSES AND LEARNING OUTCOMES ................ 17
+7.1 General courses .......................................................................................... 17
+7.2 IT Fundamental courses ............................................................................. 18
+7.3 CE Core courses......................................................................................... 19
+7.4 Major course .............................................................................................. 19
+7.5 Other course ............................................................................................... 20
+7.6 Graduation courses .................................................................................... 20
+8 TEACHING PLAN .......................................................................................... 20
+9 BRIEF DESCRIPTION OF COURSES .......................................................... 22
+9.1 General courses .......................................................................................... 22
+9.1.1 Ho Chi Minh's Ideology ........................................................................ 22
+9.1.2 Marxist-Leninist philosophy ................................................................. 22
+9.1.3 Marxist-Leninist Political Economy ..................................................... 22
+9.1.4 Scientific Socialism ............................................................................... 23
+9.1.5 History of Vietnamese communist party ............................................... 23
+9.1.6 Introduction to Vietnamese Law ........................................................... 23
+9.1.7 Mathematical Analysis .......................................................................... 23
+2
+
+9.1.8 Linear Algebra ....................................................................................... 23
+9.1.9 Discrete structures ................................................................................. 24
+9.1.10 Probability Statistics .............................................................................. 24
+9.1.11 Introduction to Digital Circuits ............................................................. 24
+9.1.12 Introduction to Programming ................................................................ 24
+9.2 IT Fundamental Courses ............................................................................ 25
+9.2.1 Introduction to Computer Engineering Programs ................................. 25
+9.2.2 Professional Skills ................................................................................. 25
+9.2.3 Object-oriented programming ............................................................... 25
+9.2.4 Data structure and algorithm ................................................................. 25
+9.2.5 Introduction to Database ....................................................................... 26
+9.2.6 Introduction to computer networking .................................................... 26
+9.2.7 Computer Architecture .......................................................................... 26
+9.2.8 Operating System .................................................................................. 26
+9.3 CE Core Courses and Major Courses ........................................................ 27
+9.3.1 Microprocessors and microcontrollers .................................................. 27
+9.3.2 Digital Logic Design ............................................................................. 27
+9.3.3 Computer Architecture Laboratory ....................................................... 27
+9.3.4 Engineering Circuit Analysis ................................................................ 27
+9.3.5 Electronic Devices and Circuits ............................................................ 28
+9.3.6 Digital System Design with HDL ......................................................... 28
+9.3.7 Embedded Systems Design ................................................................... 28
+9.3.8 Project 1 ................................................................................................. 28
+9.3.9 Project 2 ................................................................................................. 29
+9.3.10 Free Elective Course 1 & 2 ................................................................... 29
+9.3.11 Major Elective Course 1 & 2 ................................................................. 29
+9.3.12 Major Project on Embedded System and IoT Design ........................... 29
+9.3.13 Major Project on IC and Computer Hardware Design .......................... 29
+9.3.14 Major Project on Robotics and AI ......................................................... 30
+9.3.15 VLSI Design .......................................................................................... 30
+9.3.16 Mixed-Signal Integrated Circuit Design ............................................... 30
+9.3.17 Analog IC Design .................................................................................. 30
+9.3.18 SoC Design ............................................................................................ 31
+9.3.19 Digital Signal Processing and Applications .......................................... 31
+9.3.20 IC Design Seminar 1 ............................................................................. 31
+9.3.21 IC Design Topic 2 ................................................................................. 32
+9.3.22 Wireless embedded system design ........................................................ 32
+9.3.23 Human-machine interaction .................................................................. 32
+9.3.24 IoT Technology and Applications ......................................................... 33
+9.3.25 Artificial Intelligence for Embedded Systems ...................................... 33
+3
+
+9.3.26 Intelligent System .................................................................................. 33
+9.3.27 Embedded System Design Seminar 1 ................................................... 34
+9.3.28 Embedded System Design Topic 2 ....................................................... 34
+9.3.29 Automatic Control ................................................................................. 35
+9.3.30 Robotics Engineering ............................................................................ 35
+9.3.31 Intelligent Control for Robots ............................................................... 35
+9.3.32 Positioning system with AI application ................................................ 36
+9.3.33 System Programming ............................................................................ 36
+9.3.34 Robotics and AI 1 .................................................................................. 37
+9.3.35 Robotics and AI 2 .................................................................................. 37
+9.3.36 Sensor Technology ................................................................................ 38
+9.4 Graduation Knowledge Block .................................................................. 38
+9.4.1 Career Skills .......................................................................................... 38
+9.4.2 Business Internship ................................................................................ 39
+9.4.3 Computer Systems Engineering ............................................................ 39
+9.4.4 Graduation thesis ................................................................................... 39
+4
+
+VIETNAM NATIONAL UNIVERSITY HCMC SOCIALIST REPUBLIC OF VIETNAM
+UNIVERSITY OF Independence – Freedom – Happiness
+INFORMATION TECHNOLOGY
+HIGHER EDUCATION PROGRAM
+Program Name: Bachelor of Computer Engineering
+Training level: Undergraduate
+Program code: 7480106
+Training type: Full-time
+Intake applied: 2022 intake and onwards
+1 GENERAL INTRODUCTION
+1.1 Objectives of the Educational Program
+The full-time bachelor’s educational program in Computer Engineering (hereinafter
+referred to as the CE Program) is built with the goal of training high-quality human resources,
+reaching regional and international competency levels in the field of embedded systems and
+robots, the Internet of Things (IoT), IC design, SoC design, and AI application to meet the
+development needs of the information and communication technology industry and related
+industries in the country.
+1.2 Job Opportunities
+CE Program’s graduates can work in different positions and fields such as:
+- Working as analysts, designers, and developers in projects to develop, design, and
+manufacture hardware devices; working at companies in computer hardware design,
+digital systems design, embedded systems design.
+- Working as application researchers in information technology at institutes, research
+centers and universities and colleges; teaching subjects related to computer
+engineering at universities, colleges, vocational schools and high schools.
+- Working as a scientific researcher in the fields of system software, digital system
+design, automatic control and embedded systems at institutes, research centers and
+agencies of ministries, universities and colleges.
+- Working in the information technology department or information technology
+application department of all units in need (administrative and non-business
+administration, banking, telecommunications, aviation, construction, etc...).
+5
+
+- Working in domestic and international companies in designing and outsourcing, IC
+design, electronics, and control.
+1.3 Educational Perspectives
+The CE Program is built on the following main viewpoints:
+- The education program is interdisciplinary and highly applicable, in line with the needs
+of IT human resources of industry and society.
+- The education program is articulable to computer engineering programs of advanced
+universities in the world to serve as a premise for international collaboration and
+transfer at higher education levels.
+1.4 Type and duration of training
+- Type of training: Full-time program.
+- Number of credits: 128 credits.
+- Duration: 4 years (8 semesters)
+2 APPLICANTS
+Applicants are recruited according to the annual enrollment regulation of the
+VNUHCM-University of Information Technology.
+3 TRAINING STATUTE
+The CE Program is implemented in alignment with the applicable statute and
+regulations of the VNUHCM-University of Information Technology (UIT).
+4 LEARNING OUTCOME
+The CE Program’s graduates achieve the following competencies:
+Competencies of awareness (knowledge):
+LO1: Apply fundamental knowledge of natural sciences and social sciences (following
+−
+ABET 3.1).
+LO2: Apply fundamental and advanced knowledge in computer engineering
+−
+applications. (following ABET 3.2 and GAC 2.b).
+Competencies of skills:
+LO3: Survey documents, analyze and propose solutions to problems related to the
+−
+computer engineering industry; awareness of the need for lifelong learning (following
+ABET 3.6, ABET 3.7, and GAC 2.a).
+LO4: Design and evaluate systems and solutions of the computer engineering industry
+−
+(ABET 3.2, ABET 3.6, and GAC 2.a).
+6
+
+LO5: Communicate and cooperate effectively with individuals and groups in certain contexts.
+−
+(ABET 3.5 and GAC 2.c)
+LO6: Communicate at work, read and understand documents and present a specialized
+−
+solution in a foreign language.
+LO7: Understand leadership and management (GAC 2.d).
+−
+About attitude:
+LO8: Understand professional responsibilities, comply with the law and ethical values
+−
+(following ABET 3.4).
+=================================================================
+The above learning outcomes are specified as follows:
+Evaluation
+Level Expected Learning Outcome (ELOs)
+Rate (max)
+PLO1 Mastering foundational knowledge in natural sciences and social K3
+sciences and understanding how to apply this knowledge to
+Computer Engineering industry and practical contexts.
+1.1 Mastering foundational knowledge in natural sciences and social
+sciences
+1.2 Understanding how to apply foundational knowledge in natural
+sciences and social sciences to Computer Engineering industry
+and practical problems
+PLO2 Mastering foundational knowledge and some specialized K4
+knowledge in Computer Engineering to solve practical
+problems effectively.
+2.1 Mastering foundational knowledge in the field of Information
+Technology
+2.2 Mastering foundational and some specialized knowledge in
+Computer Engineering to solve practical problems.
+PLO3 Surveying documents, reasoning, analyzing and proposing S4
+creative solutions to practical problems in Computer
+Engineering industry; Understanding the lifelong learning
+7
+
+3.1 Interpreting, reasoning, and analyzing practical problems in the
+Computer Engineering industry.
+3.2 Proposing creative solutions to practical problems in the
+Computer Engineering industry.
+3.3 Understanding the lifelong learning
+PLO4 Designing, implementing, and evaluating systems and solutions S4
+in Computer Engineering industry
+4.1 Designing basic systems for practical problems in Computer
+Engineering industry
+4.2 Evaluating and enhancing solutions for practical problems in
+Computer Engineering industry
+PLO5 Communicating, collaborating, and connecting effectively with S4
+individuals and groups in specific professional contexts
+5.1 Communicating and cooperating effectively with individuals
+and groups
+5.2 Applying skills of communication, discussion and connection
+effectively with individuals and groups in Computer
+Engineering industry
+PLO6 Communicating effectively at work, comprehending technical S4
+documents, and presenting specialized solutions in a foreign
+language
+6.1 Communicating at work and comprehending technical
+documents in a foreign language
+6.2 Presenting and discussing specialized solutions in Computer
+Engineering in a foreign language.
+PLO7 Understanding of leadership and management S3
+7.1 Understanding basic knowledge of leadership and management
+skills
+7.2 Applying basic knowledge of leadership and management skills
+into practical work
+8
+
+PLO8 Understanding professional responsibilities, compliance to the A5
+law and ethical values.
+8.1 Understanding fundamental legal regulations and ethical values
+of Vietnam.
+8.2 Respecting and complying to ethical values and professional
+responsibilities.
+5 EVALUATION SCALE OF KNOWLEDGE, SKILLS, AND ATTITUDES
+Symbol Levels Competency Describe
+Evaluation scale of "Knowledge"
+It is the ability to record and retrieve the knowledge
+K1 1 Remember and information received; expressed by being able
+to recall that knowledge and information.
+It is the ability to grasp the meaning of spoken
+messages, written messages or visual messages;
+K2 2 Understand
+expressed by being able to interpret, for example,
+classify, summarize, reason, compare and explain
+It is the ability to apply the knowledge learned to
+K3 3 Apply
+certain situations.
+It is the ability to divide knowledge and information
+into small parts; then determine the relationship
+K4 4 Analyze
+between these small parts and with the whole or the
+overall goal.
+The ability to make judgments based on standards
+K5 5 Assess and criteria; expressed through checking and
+commenting.
+It is the ability to connect related things together to
+K6 6 Creative form a useful product; expressed through planning
+and creating a product.
+Evaluation scale of “Skills”
+Awareness It is the ability to use one's own sensory signals to
+S1 1
+of action guide motor activities (actions).
+Ready for It is the ability to be mentally, physically, and
+S2 2
+action emotionally ready to take action.
+9
+
+It is the first stage of the process of learning complex
+Act as
+S3 3 skills; expressed through the ability to solve simple
+instructed
+problems and problems by imitation, trial and error.
+Acting proficient is the intermediate stage of the
+Proficient process of learning complex skills; This is reflected
+S4 4
+Action in the fact that the manipulations have become
+habits and actions are confident and fluent.
+It is the ability to perform complex operations
+Skillful skillfully and effectively, shown by the smooth, fast,
+S5 5
+action accurate coordination operation with the lowest
+energy consumption.
+Adaptive It is the ability to change the mode of operation
+S6 6
+action (method) to meet new requirements.
+It is the ability to create new modes of operation
+Creative
+S7 7 (new methods) to suit a specific situation or
+action
+problem.
+Evaluation scale of "Attitude"
+It is an attitude of focusing on attention and
+A1 1 Receive
+listening.
+It is an attitude of active participation in the
+A2 2 Respond collective learning process, currently through
+participation and interaction in learning activities.
+It is an attitude of acknowledging or appreciating an
+A3 3 Respect
+object, phenomenon, or behavior.
+It is the ability to arrange values to form one's own
+A4 4 Organization
+value system.
+It is the acquisition of a value system that controls
+one's own behavior, helping individuals to express
+A5 5 Character
+their individuality and act with their own identity
+without affecting the collective.
+6 PROGRAM OUTLINE
+6.1 Program structure
+Credit
+Classification
+# %
+Courses in politics and law 13 10.15
+10
+
+Courses in Mathematics -
+22 17.18
+Informatics - Natural Sciences
+General
+Knowledge Foreign language 12 9.38
+Physical Education, Military Education1
+Fundamental IT Courses 49 38.28
+Professional
+Major courses 18 14.02
+Education
+Others 2 1.56
+Internship 2 1.56
+Graduation
+Capstone project 10 7.87
+Minimum number of credits required for
+128 100
+graduation
+6.2 General courses
+A total of 17 compulsory courses are required for 47 credits (excluding physical education
+and military education).
+Course Total Theory Lab
+S/N Course Name
+Code credit credit credit
+Political Theory 13
+1. SS003 Ho Chi Minh's Ideology 2 2 0
+2. SS006 Introduction to Vietnamese Law 2 2 0
+3. SS007 Marxist-Leninist Philosophy 3 3 0
+4. SS008 Marxist Leninist Political Economy 2 2 0
+5. SS009 Scientific Socialism 2 2 0
+History of Vietnamese Communist
+6. SS010 2 2 0
+Party
+Mathematics – Informatics – Natural Sciences 22
+7. MA006 Mathematical Analysis 4 4 0
+8. MA003 Linear Algebra 3 3 0
+1
+Physical education and military education are excluded in the credit calculation.
+11
+
+9. MA004 Discrete Structures 4 4 0
+10. MA005 Probability Statistics 3 3 0
+11. PH002 Introduction to Digital Circuits 4 3 1
+12. IT001 Introduction to Programming 4 3 1
+Foreign language 12
+13. ENG01 English 1 4 4 0
+14. ENG02 English 2 4 4 0
+15. ENG03 English 3 4 4 0
+Physical Education – Defense Education
+16. ME001 National Defense Education Excluded
+17. PE012 Physical Education Excluded
+6.3 Professional education course
+6.3.1 Fundamental IT courses
+A total of 14 compulsory courses for 49 credits are required.
+Subject
+S/N Course Name TC LT TH
+Code
+1. IT002 Object Oriented Programming 4 3 1
+2. IT003 Data Structures and Algorithms 4 3 1
+3. IT004 Introduction to Database 4 3 1
+4. IT005 Introduction to Computer Network 4 3 1
+5. IT006 Computer Architecture 3 3 0
+6. IT007 Operating Systems 4 3 1
+7. CE005 Introduction to Computer Engineering 1 1 0
+8. CE103 Microprocessors and Microcontrollers 4 3 1
+9. CE118 Digital Logic Design 4 3 1
+10. CE119 Computer Architecture Laboratory 1 0 1
+11. CE121 Engineering Circuit Analysis 4 3 1(1)
+12. CE124 Electronic Devices and Circuits 4 3 1(1)
+13. CE213 Digital System Design with HDL 4 3 1
+14. CE224 Embedded Systems Design 4 3 1
+12
+
+6.3.2 Group of specialized subjects
+A total of 18 credits at least are required.
+Subject TH/B
+S/N Course Name TC LT
+Code T
+1. CE*** Major Elective Course 1 (2) 4 3 1(1)
+2. CE*** Major Elective Course 2 (2) 4 3 1(1)
+3. XX*** Free Elective Course 1(3), (4) 3 3
+4. XX*** Major Elective Course 2 (3), (4) 3 3
+5. CE201 Project 1 2 0 2 (1)
+6. CE206 Project 2 2 0 2 (1)
+6.3.3 Other course
+Subject BT/TH(1
+S/N Course Name TC LT
+Code )
+1. SS004 Professional Skills 2 2
+6.4 Graduation course
+6.4.1 Internship
+Subject
+S/N Course Name TC LT TH
+Code
+1. CE502 Internship 2 0 2
+6.4.2 Capstone project
+Students who are eligible according to the university's statute and regulations for doing
+capstone projects can register the course of Capstone Project with 10 credits. Students who
+are not eligible or eligible but do not want to do a capstone project can register to study
+alternative graduation courses (see details in 6.4.3).
+Subject
+S/N Course Name TC LT TH
+Code
+1. CE505 Capstone Project(5) 10 10
+13
+
+6.4.3 Alternative courses for capstone project
+These groups of courses (including 10 credits) are required for students who are not eligible
+for the capstone project or who are eligible but do not want to do a capstone project.
+S/N Subject Code Course Name TC LT TH/BT
+Major in IC and Hardware Design
+1. CE410 Computer System Engineering 4 3 1(1)
+Select one course from the list of
+2. CE*** major elective courses described in 4 3 1(1)
+Section 6.5
+Major Project in IC and Hardware
+3. CE408 2 2
+Design
+Major in Embedded Systems and IoT
+4. CE410 Computer System Engineering 4 3 1(1)
+Select one course from the list of
+5. CE*** major elective courses described in 4 3 1(1)
+Section 6.5
+Major Projects in Embedded Systems
+6. CE412 2 2
+and IoT
+Major in Robotics and AI
+7. CE410 Computer System Engineering 4 3 1(1)
+Select one course from the list of
+8. CE*** major elective courses described in 4 3 1(1)
+Section 6.5
+9. CE413 Major Project in Robotics and AI 2 2
+6.5 Note:
+(1) Credits can be practicing credits, lab credits, coursework credits, or course project
+credits.
+(2) Students register to study Major Elective Course 1 & 2 from the list of Major Elective
+Courses below depending on the major they wish to specialize in. Major Electives
+Course 1 & 2 can be implemented in collaboration between the Faculty of Computer
+14
+
+Engineering and companies, institutes, universities, or other educational organizations
+domestically and internationally. The list of major elective courses can be updated each
+semester to update the novelty of science, engineering and technology of the Computer
+Engineering training discipline in the direction of international integration.
+List of Major Elective Courses
+Course Credits Room
+S/N Course Name
+code (**)
+Total Theory Lab
+Major of Computer Hardware & IC Design
+1. CE433 SoC Design 4 3 1
+2. CE222 Digital IC Design 4 3 1
+3. CE334 Analog IC Design 4 3 1
+4. CE332 Mix-signal IC Design 4 3 1
+Digital Signal Processing and
+5. CE436 4 3 1
+Applications
+6. CE410 Computer System Engineering 4 3 1
+A213
+7. CE434 Special Topic on IC Design 1(6) 4 3 1
+A205
+A213
+8. CE435 Special Topic on IC Design 2(6) 4 3 1
+A205
+Major of Embedded System & IoT
+Wireless Embedded System
+9. CE232 4 3 1
+Design
+Parallel Programming and
+10. CE439 4 3 1
+Distributed Systems
+11. CE339 IoT Technology and Applications 4 3 1
+Artificial Intelligence for
+12. CE340 4 3 1
+Embedded Systems
+13. CE342 Smart Systems 4 3 1
+15
+
+Course Credits Room
+S/N Course Name
+code (**)
+Total Theory Lab
+14. 2
+0CE348 Sensor Technologies for IoT 4 3 1
+.
+Special Topic on Embedded A213
+15. CE437 4 3 1
+Systems Design 1(6) A205
+Special Topic on Embedded A213
+16. CE438 4 3 1
+Systems Design 2(6) A205
+Major of Robotics & AI
+17. CE212 Automatic Controls 4 3 1
+18. CE233 Robot Principle and Design 4 3 1
+19. CE347 Robot Intelligent Control 4 3 1
+Indoor-and-Outdoor Localization
+20. CE440 4 3 1
+System with AI Applications
+21. CE319 Fuzzy Logic and Applications 4 3 1
+22. CE406 Human-Computer Interaction 4 3 1
+Special Topic on Robotics and AI A213
+23. CE441 4 3 1
+1(6) A205
+Special Topic on Robotics and AI A213
+24. CE442 4 3 1
+2(6) A205
+(3) For Free Elective Courses, students can participate in the professional education
+courses in undergraduate or postgraduate training programs from VNUHCM member
+universities, or courses from the other universities that have collaboration agreements
+with UIT, or training programs from technological enterprises that have collaboration
+agreements with UIT in order to expand interdisciplinary knowledge or update new
+technologies. In addition, students can choose general courses of the educational
+programs outside UIT. Equivalent subjects are only counted once in the total number
+of accumulated credits.
+16
+
+(4) It can be trained at UIT or at other educational institutions or in collaboration between
+UIT and other educational institutions.
+(5) Students who are eligible according to the university's statute and regulations for doing
+capstone projects can register the course of Capstone Project with 10 credits. Students
+who are not eligible or eligible but do not want to do a capstone project can register to
+study alternative graduation courses (see details in 6.4.3)..
+(6) For major courses (CE434, CE435, CE437, CE438, CE441, CE442) in the list of Major
+Elective Courses, students may be considered for credit transfer among majors.
+7 MAPPING OF THE COURSES AND LEARNING OUTCOMES
+7.1 General courses
+Course
+S/N Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+1. SS003 Ho Chi Minh's Ideology K2
+Introduction to
+2. SS006 K2 A3
+Vietnamese Law
+Marxist-Leninist
+3. SS007 K2
+Philosophy
+SS008 Marxist Leninist Political
+4. K2
+Economy
+5. SS009 Scientific Socialism K2
+History of Vietnamese
+6. SS010 K2
+Communist Party
+7. MA006 Mathematical Analysis K3 S3
+8. MA003 Linear Algebra K3 S3
+9. MA004 Discrete Structures K3 S3
+10. MA005 Probability Statistics K3 S3
+17
+
+Course
+S/N Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+Introduction to Digital
+11. PH002 K2
+Circuits
+Introduction to
+12. IT001 K3 S3 S3 A2
+Programming
+13. ENG01 English 1 K3 S3 S4 A4
+14. ENG02 English 2 K3 S3 S4 A4
+15. ENG03 English 3 K3 S3 S4 A4
+National Defense
+16. ME001 K2 A5
+Education
+17. PE012 Physical Education S2 S4
+7.2 IT Fundamental courses
+Course
+No. Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+Object Oriented
+1. IT002 K3 S3 S3
+Programming
+Data Structures and
+2. IT003 K3 S3 S3 A2
+Algorithms
+3. IT004 Introduction to Database K3 S3
+Introduction to Computer
+4. IT005 K3 S2 S2
+Network
+5. IT006 Computer Architecture K2 S3
+6. IT007 Operating Systems K3 S3
+18
+
+7.3 CE Core courses
+Course
+No. Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+Introduction to Computer
+1. CE005 S2 S2 A2
+Engineering
+Computer Architecture
+2. CE119 K3 S2 S2
+Laboratory
+Microprocessors and
+3. CE103 K3 S3 S3
+microcontrollers
+4. CE118 Digital Logic Design K3 S3 S3
+Engineering Circuit
+5. CE121 K2
+Analysis
+Electronic Devices and
+6. CE124 K2
+Circuits
+Embedded Systems
+7. CE224 K3 S4 S4
+Design
+Digital System Design
+8. CE213 K3 S4 S4
+with HDL
+7.4 Major course
+Course
+No. Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+1. CE*** Major Elective Course 1 K4 S4 S4
+2. CE*** Major Elective Course 2 K4 S4 S4
+3. CE201 Project 1 S3 S3 S2
+4. CE206 Project 2 S4 S4 S2
+19
+
+7.5 Other course
+Course
+No. Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+1. SS004 Professional Skills K2 S3 S2 A2
+2. XX*** Free Elective Course 1 S3 A3
+3. XX*** Free Elective Course 2 S3 A3
+7.6 Graduation courses
+Course
+No. Course Name Learning outcome
+Code
+PL PL PL PL PL PL PL PL
+O1 O2 O3 O4 O5 O6 O7 O8
+2. CE*** Major project S4 S4 S4
+Computer Systems
+3. CE410 S4 S4 S4
+Engineering
+4. CE502 Internship K4 S3 A4
+5. CE505 Capstone project S4 S4 S4 S3
+8 TEACHING PLAN
+Course Course Credits
+Semester Course name
+code type Total Theory Lab
+Introduction of Computer Compulsory
+CE005 1 1 0
+Engineering
+IT001 Introduction to Programming Compulsory 4 3 1
+MA006 Mathematical Analysis Compulsory 4 4 0
+1
+MA003 Linear Algebra Compulsory 3 3 0
+SS007 Marxist-Leninist Philosophy Compulsory 3 3 0
+ENG01 English 1 Compulsory 4 4 0
+ME001 National Defense Education Compulsory Excluded
+20
+
+Course Course Credits
+Semester Course name
+code type Total Theory Lab
+PE012 Physical Education Compulsory Excluded
+Semester 1’s credits in total: 19
+Object Oriented Compulsory
+IT002 4 3 1
+Programming
+Introduction to Digital Compulsory
+PH002 4 3 1
+Circuits
+2
+MA005 Probability Statistics Compulsory 3 3 0
+MA004 Discrete Structures Compulsory 4 4 0
+ENG02 English 2 Compulsory 4 4 0
+Semester 2’s credits in total: 19
+Data Structures and Compulsory
+IT003 4 3 1
+Algorithms
+Introduction to Computer Compulsory
+IT005 4 3 1
+Network
+3 IT006 Computer Architecture Compulsory 3 3 0
+CE119 Computer Architecture Lab Compulsory 1 0 1
+SS003 Ho Chi Minh's Ideology Compulsory 2 2 0
+ENG03 English 3 Compulsory 4 4 0
+Semester 3’s credits in total: 18
+Microprocessors and Compulsory
+CE103 4 3 1
+microcontrollers
+IT007 Operating System Compulsory 4 3 1
+CE121 Engineering Circuit Analysis Compulsory 4 3 1
+4
+SS009 Scientific Socialism Compulsory 2 2 0
+History of Vietnamese Compulsory
+SS010 2 2 0
+Communist Party
+Semester 4’s credits in total: 16
+IT004 Introduction to Database Compulsory 4 3 1
+Electronic Devices and Compulsory
+CE124 4 3 1
+Circuits
+5
+CE224 Embedded Systems Design Compulsory 4 3 1
+CE118 Digital Logic Design Compulsory 4 3 1
+Semester 5’s credits in total: 16
+Digital System Design with Compulsory
+CE213 4 3 1
+HDL
+6
+SS004 Professional Skills Compulsory 2 2 0
+CE*** Major Elective Course 1 Elective 4 3 1
+21
+
+Course Course Credits
+Semester Course name
+code type Total Theory Lab
+XX*** Free Elective Course 1 Elective 3
+CE201 Project 1 Compulsory 2 0 2
+Semester 6’s credits in total: 15
+CE*** Major Elective Course 2 Elective 4 3 1
+XX*** Free Elective Course 2 Elective 3
+CE206 Project 2 Compulsory 2 0 2
+Marxist Leninist Political Compulsory
+7 SS008 2 2 0
+Economy
+Introduction to Vietnamese
+SS006 Compulsory 2 2 0
+Law
+Semester 7’s credits in total: 15
+CE505 Capstone Project Elective 10 0 10
+8
+Semester 8’s credits in total: 10
+CE Program’s credits in total: 128
+9 BRIEF DESCRIPTION OF COURSES
+9.1 General courses
+9.1.1 Ho Chi Minh's Ideology
+The course supplies for students basic knowledge about Ho Chi Minh’s Ideology and the
+application of Ho Chi Minh’s Ideology of our Party and State in the renovation period and
+in the revolution of Vietnam. The course consists of 6 sections:
+- The concept, original and process of forming Ho Chi Minh’s ideology.
+- Ho Chi Minh’s ideology about national issues and the revolution of Nation liberation.
+- Ho Chi Minh’s ideology about socialism and the transitional road to socialism in
+Vietnam.
+- Ho Chi Minh’s ideology about great national unity: combining national strength with
+the power of the times.
+- Ho Chi Minh’s ideology about the Communist Party of Vietnam.
+- Ho Chi Minh’s ideology on morality, humanity and culture.
+9.1.2 Marxist-Leninist philosophy
+Follow the current regulations of the Ministry of Education and Training.
+9.1.3 Marxist-Leninist Political Economy
+Follow the current regulations of the Ministry of Education and Training.
+22
+
+9.1.4 Scientific Socialism
+Follow the current regulations of the Ministry of Education and Training.
+9.1.5 History of Vietnamese communist party
+The course provides basic knowledge about revolution directions of the Communist Party of
+Vietnam, especially in the renovation period. The course consists of 8 sections:
+- The establishment of Communist Party of Vietnam and the first political platform of the
+Party.
+- Rise to power (1930-1945)
+- War for independence (1945 – 1975)
+- Industrialize direction.
+- Socialist-oriented market economy.
+- The way to build political, culture and foreign Policy systems.
+9.1.6 Introduction to Vietnamese Law
+Follow the current regulations of the Ministry of Education and Training
+9.1.7 Mathematical Analysis
+The course provides introductory knowledge to calculus. Contents include:
+- Complex number.
+- Integral calculation of multivariate functions: double integral, multiple integral, line
+integral, face integral.
+- The differential calculation of a multivariate function, Taylor's formula, derivatives in
+the direction.
+- The application of multivariate functions in extreme problems, in geometry.
+- Integral calculation of a one-variable function.
+- Number series, function series.
+- Differential equation one, differential equation two, differential equation system.
+9.1.8 Linear Algebra
+Some of the main contents of the course are:
+- Matrices, definitions, linear systems of equations. Solving linear equations using the
+Cramer method, Gaussian method.
+- Linear space, dependence, linear independence.
+- Cross-matrix and what it means.
+- Linear, global mapping; bring the holistic form to the official form.
+23
+
+9.1.9 Discrete structures
+This course provides students with the basics of
+- Discrete math: Logical basis; Counting methods; Relations; Bool algebra.
+- Graph Theory: The basic concepts of graph theory; Graphs and trees.
+- Graphs and trees and some basic concepts of graph theory.
+9.1.10 Probability Statistics
+This course provides students with the basics of
+- Probability: the basic concepts of probability, one-dimensional random quantities,
+multidimensional random quantities, some probability distributions.
+- Statistics: sample theory, estimation, statistical hypothesis testing, correlation and
+regression.
+9.1.11 Introduction to Digital Circuits
+This course provides students the following contents:
+- Basic theories of logical algebra
+- Number counting and coding system
+- Combinatorial Circuit Design and Analysis
+- Design basic digital circuits
+- Sequential Circuit Design and Analysis
+- Design counters.
+9.1.12 Introduction to Programming
+This course provides students the following contents:
+- Basic concepts such as algorithms, flowcharts, pseudocode, programming languages,
+programs, translators, executable programs, computer software.
+- Basic data types, operations, and basic control structures of a particular programming
+language (NNLT).
+- Write programs that install algorithms using NNLT C, translate, test, catch errors, and
+fix programs that have already been written.
+- Apply functions (or procedures, subprograms) to organize programs into units that can
+be reused many times in software projects.
+- Apply a few basic techniques (iteration processing, retrieval calculation, array
+browsing, using banners, etc.) to build algorithms and install programs to solve some
+common and not too complicated problems.
+24
+
+- ASCII text files can be used to store program data.
+9.2 IT Fundamental Courses
+9.2.1 Introduction to Computer Engineering Programs
+The course provides knowledge about the IT industry in general and Computer Engineering
+in particular. In which, it provides students with what they will study and what they will do
+after graduating, where to do it.
+9.2.2 Professional Skills
+The course provides the skills to support professional and professional competencies in the
+IT field that are necessary for students at the University of Information Technology. Based
+on a methodology approaching the system, the subject content directs students to actively
+carry out the process of studying and self-studying at university and graduate with good moral
+qualities, professional knowledge and skills to meet the working requirements of society. The
+knowledge provided includes:
+- Reading, listening, and note-taking skills
+- Conversation skills
+- Self-study skills
+- Teamwork skills
+- Observing, identifying, and problem-solving skills
+- Presentation and meeting control skills
+- Work organization skills
+- Practical skills
+- Writing and reporting skills
+9.2.3 Object-oriented programming
+This course covers object-oriented programming with the C++ language. The subject program
+consists of 2 basic parts divided into 9 chapters. Part 1 consists of the first 4 chapters that
+introduce basic C++ programming such as: Data Types, Control Flows, Functions,
+Parameters, Function Stacks, Arrays, Cursors, and Dynamic Arrays. Part 2 consists of the
+next 5 chapters on object-oriented programming such as: structure, class, constructor,
+destructor, overload, friend, reference, inheritance, multifunction, virtual function.
+9.2.4 Data structure and algorithm
+This course presents data structures and algorithms, designing algorithms, which is a
+necessary foundation course for information technology students in general and in the
+25
+
+direction of programming in particular. Chapter 1 presents an overview of algorithms and
+data structures. Chapter 2 provides a brief introduction to search and sorting algorithms.
+Chapter 3 presents dynamic data structures such as cursors and link lists. Chapter 4 presents
+tree structures, types of binary trees.
+9.2.5 Introduction to Database
+This course provides knowledge about databases such as: basic concepts of relational
+databases; Relational algebraic operations; SQL Language; New word language, Integrity
+constraints on a database; Governance inside the database, guest/host environment
+9.2.6 Introduction to computer networking
+This course provides an overview of computer networks, including OSI, TCP/IP reference
+models and network standards; basic concepts and principles of signal transmission and
+transmission. Students will gain an in-depth understanding of the TCP/IP model such as
+protocols in layers, especially the network layer and the transport layer. In addition, students
+are also familiar with basic network services, wireless network techniques and network
+security.
+9.2.7 Computer Architecture
+This course presents the basic knowledge of computer architecture including the history of
+the development of computers, the basic components of a computer, the basic concepts related
+to the numerical systems used in computers, the concept of computer architecture, etc
+instruction sets, computer architecture types, positioning types used in architecture,
+distinguishing between CISC (Complex Instruction Set Computer) and RISC (Reduced
+Instruction Set Computer) architectures, the structure of the central processor and the
+execution of a machine code instruction, memory knowledge, etc. about transmission lines
+and communication between parts of the computer.
+9.2.8 Operating System
+This course introduces concepts in order from simple to complex, the course consists of 9
+chapters corresponding to computer structures from simple to complex. The first six chapters
+introduce the basic concepts of an operating system. The next three chapters are high-
+performance.
+26
+
+9.3 CE Core Courses and Major Courses
+9.3.1 Microprocessors and microcontrollers
+- The course will provide knowledge of the concept, architecture and operating
+principles of a microprocessor, knowledge of x86 processors and methods of
+controlling data in and out of the microprocessor. At the same time, it introduces
+modern processors.
+- The course also provides knowledge of a microcontroller in which the X51
+microcontroller will be studied in terms of communication with devices and
+programming
+9.3.2 Digital Logic Design
+This course presents the next knowledge of the Introduction to Digital Circuits, including the
+content that goes deeper and has not been studied in the previous course. The main contents
+include the following 4 chapters:
++ Chapter I: Sequential Circuit
++ Chapter II: Storage Components
++ Chapter III: Register transfer design
++ Chapter IV: Processor design
+9.3.3 Computer Architecture Laboratory
+This course provides practical exercises for Computer Architecture including
+- Build a computer system on an FPGA based on Nios II soft processing cores, DE2 kits,
+and Quartus software powered by Altera.
+- Based on the computer system that can be built, the basic problems of computer
+architecture such as: assembly language programming, input/export engineering, bus
+structure... put into practice.
+9.3.4 Engineering Circuit Analysis
+- This course presents the basic concepts of electrical circuits; electrical circuits and
+equivalent transformations; correlation between voltage currents on circuit elements;
+- The course also introduces methods of analysis and decoding in the frequency and time
+domains.
+- Specifically, it will include the following contents:
+o Electrical Circuit Basics
+o Analyze the circuit in the conditioning establishment mode
+27
+
+o Circuit Analysis Methods
+o Time Domain Circuit Analysis
+o Frequency Domain Circuit Analysis
+o Practice analyzing some basic electrical circuits
+9.3.5 Electronic Devices and Circuits
+- This course presents the basic concepts of electronic circuits; amplifiers, filters,
+comparative circuits, oscillators and circuit equivalence transformations;
+- The course also introduces the characteristics of each type of component, the effects
+of each molecule in DC and AC modes.
+- For practice, this subject:
+o Introduces how to assemble electronic components together to form basic
+electronic circuits and applied electronic circuits.
+o Practice of designing and simulating electronic circuits
+o Practice PCB Design and Printed Circuit Making
+o Learn about electrical and electronic support tools such as VOM, DMM,
+Oscilloscope
+9.3.6 Digital System Design with HDL
+This course introduces the overview concepts of logical circuit design, front-end IC design
+methods, and the hardware description language of VHDL & Verilog
+9.3.7 Embedded Systems Design
+This course provides the following contents:
+- Introduction to general concepts of embedded, memory, and peripheral systems.
+- Introduces integrated methods of software (major) and hardware (small) development
+for embedded systems built on a family of microcontrollers and microprocessors.
+- Provides knowledge to analyze and design a simple embedded system that provides the
+C/C++ programming language for embedded systems.
+- Students can practice and design a simple application embedded system in practice
+9.3.8 Project 1
+This course provides basic electrical-electronic circuits or IC design skills for students as well
+as skills in developing embedded software, IC development software on circuits designed by
+students.
+28
+
+9.3.9 Project 2
+This course provides skills in embedded system design, IoT device design or SoC system
+design, and design the next IC in Project 1 for students. This course provides embedded
+programming, system programming, HDL programming skills to develop embedded
+software, and develop microchips according to a function that students need to design.
+9.3.10 Free Elective Course 1 & 2
+The course allows students to choose knowledge from other disciplines or technological
+expertise to gain an understanding of new social, technological and technical needs. The
+content of the subject directs students to actively carry out the process of self-study with good
+moral qualities, have professional knowledge and skills to meet the working requirements of
+society.
+9.3.11 Major Elective Course 1 & 2
+The course allows students to choose specialized knowledge in Computer Engineering that is
+up to date with technology and new techniques. Students need to grasp new knowledge,
+update new technologies and techniques to meet business needs. The content of the course
+can be combined with businesses to teach and provide students with the ability to solve
+practical problems and have a professional working attitude with professional skills to meet
+the working requirements of the industry.
+9.3.12 Major Project on Embedded System and IoT Design
+This course is for students studying a graduation topic. This project provides skills in
+embedded system design and IoT. Students who complete this course grasp
+- General or specialized knowledge of embedded systems and IoT.
+- Skills to learn, research and solve problems in the embedded systems industry,
+Computer Engineering and skills in presentations, communication and teamwork.
+- Positive working attitude in the embedded systems industry
+9.3.13 Major Project on IC and Computer Hardware Design
+This course is for students studying a graduation topic. This project provides skills in IC and
+computer hardware design, Computer Engineering. Students who complete this course grasp
+- General knowledge of IC and hardware design, computer engineering.
+- Skills to learn, research and solve problems of the IC design industry, the CE industry
+and the skills of presentation, communication and teamwork.
+- Positive working attitude in the environmental protection industry
+29
+
+9.3.14 Major Project on Robotics and AI
+This course is for students studying a graduation topic. This project provides design skills in
+integrating AI technology into the processors/controllers on Robots. Students who complete
+this course grasp
+- General knowledge of AI and Robotics, computer engineering.
+- Skills to learn, research and solve problems in AI and Robotics, STEM and skills in
+presentation, communication and teamwork.
+- Positive working attitude in the environmental protection industry
+9.3.15 VLSI Design
+This course provides students with the basics of IC design. Provides in-depth knowledge of
+CMOS technology, the dominant technology in today's IC design. In addition, functional
+analysis, timing, modeling, and design optimization methods will also be equipped for
+students.
+9.3.16 Mixed-Signal Integrated Circuit Design
+This course includes the following contents:
+- Present the basics of hybrid IC design:
+o The basic structure of a mixed microchip system.
+o Basic components of the system: Op-amps, D/A converters, S/H circuits, Analog
+Switches, Comparator, PLL, ...
+- Methods/methods for analyzing, designing, simulating, and laying out components or
+mixed circuits at the CMOS level.
+- The exercises follow the theoretical content to help students better understand the theory
+and have a practical view of hybrid IC design.
+9.3.17 Analog IC Design
+This course includes the following contents
+- Present the basics of analog IC design.
+- Methods for analyzing, designing, simulating, and laying out components or similar
+circuits at the CMOS level.
+- The exercises follow the theoretical content to help students better understand the theory
+and have a practical view of similar IC design.
+30
+
+9.3.18 SoC Design
+This course introduces SoC design methods. Provides students with the SoC design process
+and basic knowledge of SoC
+9.3.19 Digital Signal Processing and Applications
+English name: Digital Signal Processing and Applications
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The Digital Signal Processing course aims to provide modern signal
+processing concepts and techniques, system foundations from highly specialized
+military to consumer electronics industry applications. The course will guide students
+to learn more about
+o Discrete signals and systems over time, system representations using differential
+equations, and system analysis using the Fourier transform and Z transform.
+o Continuous signal sampling theory over time, analysis of invariant linear systems
+over time.
+o The Discrete Fourier Transform (DFT) and the FFT algorithm for fast DFT
+calculation will be explored along with methods of analyzing the discrete signal
+spectrum over time.
+o The main methods for designing FIR and IIR filters.
+o Application to design signal processing circuits, design signal processing
+algorithms on SoC systems, embedded systems, or Matlab simulation systems.
+Students can do applied subject projects depending on their desired major, such
+as: IC design or embedded system design.
+9.3.20 IC Design Seminar 1
+English name: Topics on IC and hardware design 1
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description:
+o Introduces the entire stages of designing an IP core or a processor chip in the
+direction of an FPGA or ASIC.
+o Give a specific design example, showing how to proceed with each design stage.
+o Using specialized software to realize the above design in each of the above stages
+31
+
+helps students have a realistic view of the design process in a company.
+9.3.21 IC Design Topic 2
+English name: Topics on IC and hardware design 2
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Description of the course content: The objective of this course is to combine with
+enterprises in training new technologies to meet the requirements of the labor market.
+Therefore, the detailed content of the subject will be issued specifically depending on
+each training semester. However, the main content is expected to include:
+o Introducing and updating epochal IC technologies.
+o Introducing the technology of designing, realizing, and testing an IP core or a
+VLSI-oriented IC.
+o Students need to implement an IP core, or an IC that applies new technology to
+grasp the design, realization and test process of design IC as in the enterprise.
+9.3.22 Wireless embedded system design
+English name: Wireless Embedded Systems Design
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description:
+o Introduction of peripheral integrated embedded system architecture. It introduces
+the architecture of an end node in the Internet of Things system.
+o Hardware and software integration model on peripheral integrated embedded
+systems: bootloader, kernel, OS, driver...
+o Introduction to peripheral integrated embedded system design methods.
+o Provides knowledge in analyzing and designing a complex embedded system
+with integrated memory, peripheral modules, and network communication
+modules/wireless communication modules.
+o Students know how to practice and design their own application embedded
+system in an Internet of Things solution.
+9.3.23 Human-machine interaction
+English name: Human-Computer Interaction
+- Number of credits: 3.1
+32
+
+- Prerequisites/Previous Course:
+- Course description:
+Students will learn how to design technologies/applications that bring excitement and
+convenience to users. Students will approach a number of rapid modelling techniques
+and evaluate communication options. At the same time, students will learn how to use
+the models they have created to get feedback from relevant people, from teammates,
+customers, users, etc. Throughout the semester, students will work on a project in groups
+of 3 to 4 students. The topic focuses on analyzing user habits, needs and building
+interfaces for mobile applications. The course focuses on the development of a number
+of necessary skills, such as ideation, evaluation, communication, development of testing
+and evaluation models. From there, it helps students gain principles and methods to
+create convenient ways of communicating with different technologies.
+9.3.24 IoT Technology and Applications
+English name: IoT Technology and Application
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description:
+This course content provides students with IoT concepts which focus on platforms
+(hardware and software platforms that can be applied in IoT), M2M protocols
+(communication protocols that can be applied in IoT: Zigbee, Bluetooth, IEEE 802.15.4,
+IEEE 802.15.6, IEEE 802.15.11) and data and information processing mechanisms.
+9.3.25 Artificial Intelligence for Embedded Systems
+English name: AI for embedded system
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description:
+Students are provided with concepts and principles of artificial intelligence on embedded
+systems. This course consists of 9 chapters with the following knowledge blocks:
+overview of artificial intelligence, basic machine learning algorithms, deep learning
+models, techniques for designing, realizing, executing and optimizing artificial
+intelligence applications on embedded systems. Accompanying the above knowledge
+blocks are practical exercises to provide more practical perspectives on the content that
+has been introduced.
+9.3.26 Intelligent System
+English Name: Smart Systems
+33
+
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description:
+In the era of Internet of Things (IoTs) and Industrial Revolution 4.0 (IR4.0), intelligent
+systems have become popular and become an important part of life and scientific
+research. The course is designed to provide students with the basic knowledge of
+designing and optimizing intelligent systems. The course consists of 8 chapters with the
+following knowledge blocks: an overview of smart systems in the context of the
+development of IoTs and IR4.0, platform technologies in smart systems, smart system
+design and optimization, and typical examples of smart systems such as smart homes,
+smart grid. The course also equips students with basic practical skills with projects on
+smart system design.
+9.3.27 Embedded System Design Seminar 1
+English name: Topics on Embedded systems 1
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The detailed content of this subject will be issued specifically
+according to the needs of the labor market, but the main content may include
+o Introduce all stages to design and implement an embedded system both in terms
+of hardware and software.
+o Give a specific design example, showing how to proceed with each design stage
+o Use specialized tools or software to realize the above design in each of the above
+stages 🡪 help students have a realistic view of how the process of designing,
+installing and realizing an embedded system in a company.
+9.3.28 Embedded System Design Topic 2
+English name: Topics on Embedded systems 2
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Description of the course content: The objective of this course is to combine with
+enterprises in training new technologies to meet the requirements of the labor market.
+Therefore, the detailed content of the subject will be issued specifically depending on
+each training semester. However, the main content is expected to include:
+o Introduce new technology in design, realize, and test an embedded system from
+34
+
+hardware to software.
+o Provide knowledge about the design process or practical methods, performance
+evaluation methods for new, up-to-date embedded systems
+o Students need to realize a practical application to grasp the process of designing,
+installing, and implementing an embedded system for enterprise applications.
+9.3.29 Automatic Control
+English name: Automatic Controls
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The course introduces students to physical models, equips students
+with knowledge of kinetic properties and practical guidance on the process of analysis,
+design, and consideration of the stability properties of the basic automatic control system
+according to specific requirements
+9.3.30 Robotics Engineering
+English name: Robot principle and design
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The course provides basic knowledge of robotics engineering, in
+which students are equipped with robotic computing techniques, design principles,
+selection of hardware parts and robot software. Students are also equipped with some
+knowledge of servo motors, accuracy, controllers, and sensors equipped in robots.
+Robots include many types corresponding to different fields: industrial robots,
+humanoid robots, wheeled platforms, unmanned aerial vehicles (UAV/drone). The
+robotic arm is equipped with knowledge of robot kinematics, stitching coordinate
+system setup, reverse kinematics, Jacobian matrix, control and programming system for
+the robotic arm. The mobile robotics section equips the knowledge and algorithms to
+develop a mobile robot capable of driving itself in a complex environment; equip them
+with knowledge of how to move, kinematics, cognitive ability, mapping, and tracking
+the movement trajectory of mobile robots. The drone robot equipment section provides
+knowledge about aircraft modeling, state estimation, control, and motion trajectory
+9.3.31 Intelligent Control for Robots
+English name: Robot Intelligent Control
+35
+
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course description: The subject creates a foundation for learners to learn about
+intelligent systems for robots. The course presents knowledge of methods for analyzing
+and designing robots and intelligent systems. Methods for modeling systems kinematics,
+measuring and controlling robots, and making decisions for robots. Numerical methods
+for evaluation as well as neural networks for classifying and controlling robots.
+9.3.32 Positioning system with AI application
+English Name: Indoor-and-Outdoor Localization System with AI Applications
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The location of people or objects (including Robots) for mobile,
+autonomous, safe and secure applications. Therefore, this issue has become important
+due to the increasing need as a part of daily life.
+For outdoor applications, where satellite waves are strong enough to be received,
+positioning relies mainly on waves from at least four satellites (GPS) with a
+maximum accuracy of a few meters and a sharp decline in accuracy in places where
+satellite waves are weak or not strong enough (indoor). Therefore, indoor location
+applications cannot be based on GPS positioning. Techniques that have been used for
+indoor positioning include RFID, Fingerprint, ultrawideband (UWB), RSSI/DOA,
+IMU, vision, etc..... and the combination of techniques together or in combination
+with GPS.
+This course provides general knowledge about Navigation Systems as above,
+especially focusing on indoor navigation systems because robots are often used in
+places where satellite waves are weak or there are no satellite waves. This course also
+describes common difficulties encountered by indoor navigation systems (e.g. line-
+of-sight, LOS) and provides solutions to overcome them. Finally, the subject helps
+learners experience practical indoor positioning systems from design to
+implementation with AI tools.
+9.3.33 System Programming
+English name: System programming
+- Number of credits: 3.1
+36
+
+- Prerequisites/Previous Course:
+- Course description:
+o This course presents the basic concepts of the Java language such as data types,
+control iterative structures, object-oriented concepts such as objects,
+representations, classes, inheritance, interfaces, polymorphisms. Concepts of
+interface programming such as applets, swing GUI. System programming
+concepts such as client-server model, socket, TCP, UDP.
+o Learn and practice basic programming, object-oriented programming, interface
+programming, and system programming through specific math problems.
+9.3.34 Robotics and AI 1
+English name: Special topics on Robotics and AI 1
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: The detailed content of this subject will be issued specifically
+according to the needs of the labor market, but the main content may include
+o Introducing technology to design and realize a Robotics application with
+integrated new control algorithms, artificial intelligence algorithms.
+o Give a specific design example, showing how to proceed with each stage of
+Robotics application design.
+9.3.35 Robotics and AI 2
+English name: Special topics on Robotics and AI 2
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Description of the course content: The objective of this course is to combine with
+enterprises in training new technologies to meet the requirements of the labor market.
+Therefore, the detailed content of the subject will be issued specifically depending on
+each training semester. However, the main content is expected to include:
+o Introducing new technologies in design, realization and testing of a Robotics
+system with integrated artificial intelligence algorithms.
+o Provide knowledge about the design process or practical methods, performance
+evaluation methods for Robotics systems that are new and up-to-date.
+o Students need to realize a practical application to grasp the process of designing,
+37
+
+installing and realizing a smart Robotics application for businesses.
+9.3.36 Sensor Technology
+English name: Sensor Technologies
+- Number of credits: 3.1
+- Prerequisites/Previous Course: Embedded System Design
+- Course description:
+Sensors are an important component in the design architecture of embedded systems.
+In particular, in the development orientation of IoT solutions, sensors have become even
+more important. The course is designed to equip students with the knowledge and skills
+to use a variety of sensors for the development of IoT solutions.
+In addition to providing knowledge about the principle of operation and techniques
+for using sensors, the subject updates techniques for using new sensors such as Lidar,
+Ultrasonic sensor, etc. for modern and accurate solutions.
+9.4 Graduation Knowledge Block
+9.4.1 Career Skills
+English name: Profession Skills
+- Number of credits: 2.0
+- Prerequisites/Previous Course:
+- Course Description: The course provides the skills to support professional and career
+competencies in the IT field necessary for students of the University of Information
+Technology. On the basis of a methodology approaching the system, the subject content
+directs students to actively carry out the process of studying and self-studying at
+university and graduate with good moral qualities, professional knowledge and skills to
+meet the working requirements of society. The knowledge provided includes:
+o Reading, listening, and note-taking skills
+o Conversation skills
+o Self-study skills
+o Teamwork skills
+o Observing, identifying, and problem-solving skills
+o Presentation and meeting control skills
+o Work organization skills
+o Practical skills
+38
+
+o Writing and reporting skills
+9.4.2 Business Internship
+English Name: Internship
+- Number of credits: 0.2
+- Prerequisites/Previous Course:
+- Course description: Provide students with skills to solve practical problems or
+participate in research, design or implement specific applications from businesses to
+develop communication skills, teamwork, and presentations in real environments at
+businesses. In addition, this subject helps students have a positive attitude in Computer
+Engineering and orient their professional development in the future. The internship
+period for the bachelor's program is determined to be at least 10 weeks (2.5 months) at
+the enterprise.
+9.4.3 Computer Systems Engineering
+English name: Computer System Engineering
+- Number of credits: 3.1
+- Prerequisites/Previous Course:
+- Course Description: Introduces general concepts of Computer Systems and the life cycle
+of developing a computer system in practice. The chapters in the course will present the
+steps in the system development process in turn, each chapter will have small exercises
+for students to practice. The subject will have a big assignment.
+9.4.4 Graduation thesis
+English Name: Capstone Project
+- Number of credits: 0.10
+- Prerequisites/Previous Course:
+- Course Description: This course is for students doing the Graduation Thesis. This thesis
+provides skills in embedded systems design and IoT or IC and computer hardware
+design. Students who complete this course grasp
+o General knowledge either of the embedded systems and IoT specialization or the
+hardware and IC design specialization.
+o Skills to learn, research and solve problems of the STEM industry and skills in
+presentation, communication and teamwork.
+o Positive working attitude in the CE industry and the ability to self-study for life.
+39
+
+40
+
+REFERENCES
+Domestic:
+i. Circular No. 08/2021/TT-BGDDT dated March 18, 2021 of the Ministry of Education
+and Training on the promulgation of regulations on training at the university level.
+ii. Circular No. 17/2021/TT-BGDDT dated June 22, 2021 of the Ministry of Education
+and Training on regulations on training program standards; developing, appraising and
+promulgating training programs of higher education levels.
+iii. Decree No. 99/2019/ND-CP dated 30/12/2019 of the Prime Minister on detailing and
+guiding the implementation of a number of articles of the Law amending and
+supplementing a number of articles of the Law on Higher Education (Decree 99)
+iv. Decision No. 1982/QD-TTg of the Prime Minister dated 18/10/2016 approving the
+Vietnam National Qualification Framework
+v. Official Letter No. 85/ĐHQG-ĐH dated 15/01/2020 on reviewing and updating the
+training program of specialized training disciplines specific to the university level at
+VNU-HCM in 2020.
+vi. Decision No. 1685/QD-ĐHQG dated 24/12/2020 on the pilot approval of the set of
+qualities and competencies of VNU-HCM graduates.
+vii. Decision No. 546/QD-ĐHCNTT dated 30/8/2019, of the University of Information
+Technology promulgating the Regulation on training under the credit system for the
+regular university system of the University of Information Technology.
+viii. Decision No. 185/QD-ĐHCNTT dated 30/3/2018, of the University of Information
+Technology promulgating the process of evaluating and updating the training program
+at the Undergraduate/Postgraduate level of the University of Information Technology.
+Domestic training programs:
+ix. Engineer training program in Computer Engineering, University of Science and
+Technology - VNU Ho Chi Minh City (139 TC, 8 HK). Source:
+http://www.cse.hcmut.edu.vn/site/vi/Page?item=82
+x. Engineer training program in Computer Engineering, Hanoi University of Science and
+Technology (including Bachelor's training (4 years), Bachelor's – Engineer integration
+(5 years), Bachelor's – Master's integration (5.5 years). Source:
+https://soict.hust.edu.vn/content/uploads/2019/07/IT2-KỸ-THUẬT-MÁY-TÍNH-
+2019.pdf
+41
+
+xi. Engineer training program in Computer Engineering, University of Technology,
+University of Science and Technology (155 TC, 9 HK). Source:
+https://uet.vnu.edu.vn/wp-content/uploads/2017/09/173.qd-ban-hành-CT-Kỹ-thuật-
+máy-tính.pdf
+xii. Training program in Computer Engineering Technology at the University of Technical
+Education (132 TC, 8 HK). Source: https://hcmute.edu.vn/ArticleId/155624e7-1680-
+4961-b825-c6c72ba2ce4c/cong-nghe-ky-thuat-may-tinh
+Foreign:
+xiii. Computer Engineering Program in University at Buffalo (122 TC, 8 HK). Source:
+https://engineering.buffalo.edu/computer-science-
+engineering/undergraduate/degrees-and-programs/bs-in-computer-engineering.html
+https://catalog.buffalo.edu/academicprograms/computer_engineering_bs_curricular_
+plan.html
+xiv. ACM. Computer Engineering Curriculum guidelines for undergraduate degree
+programs in Computer Engineering, 2020. Source:
+https://www.acm.org/binaries/content/assets/education/curricula-
+recommendations/cc2020.pdf
+xv. Computer Engineering Program in University of Michigan, USA. Source:
+http://www.eecs.umich.edu/eecs/undergraduate/ugce/computer_engineering.html
+xvi. Computer Engineering Program in Arkansas University, USA. Source:
+http://csce.uark.edu/4130.php
+xvii. Computer Engineering Program in The University of North Carolina at Charlotte.
+Source: http://www.ece.uncc.edu
+42

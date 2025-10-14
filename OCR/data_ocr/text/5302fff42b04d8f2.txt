@@ -1,0 +1,124 @@
+CHƯƠNG TRÌNH ĐÀO TẠO NGÀNH THƯƠNG MẠI ĐIỆN TỬ CLC
+
+1.1 Tỷ lệ các khối kiến thức:
+
+- Không kể Giáo dục thể chất, Giáo dục quốc phòng.
+
+1.2 Kiến thức giáo dục đại cương:
+
+- Tổng cộng 41 tín chỉ (không kể Giáo dục thể chất và Giáo dục quốc phòng).
+
+1.3 Kiến thức giáo dục chuyên nghiệp:
+
+- Tổng cộng 81 tín chỉ.
+
+1.3.1 Nhóm các môn học cơ sở nhóm ngành (26TC):
+
+- Bắt buộc cho tất cả sinh viên trường Đại học Công nghệ thông tin.
+
+1.3.2 Nhóm các môn học cơ sở ngành (18TC):
+
+- Các môn học bắt buộc đối với sinh viên ngànhThương mại điện tử.
+
+1.3.3 Nhóm môn học bắt buộc ngành Thương mại điện tử (20TC):
+
+1.3.4 Nhóm các môn tự chọn ngành Thương mại điện tử:
+
+- Số tín chỉ tự chọn tối thiểu là 10. Trong đó sinh viên có thể chọn học 7 tín chỉ các môn ngoài danh sách dưới đây của ngành khác.
+
+1.3.5 Khối kiến thức tốt nghiệp:
+
+- Tổng cộng 12 tín chỉ.
+
+1.3.6 Thực tập doanh nghiệp:
+
+- Sinh viên bắt buộc phải đi thực tập thực tế tại các doanh nghiệp và thực hiện báo cáo thực tập nộp về Khoa.
+
+- Thực tập doanh nghiệp: 2 tín chỉ
+
+1.3.7 Khóa luận tốt nghiệp:
+
+- Sinh viên bắt buộc phải làm khóa luận tốt nghiệp (10TC)
+Khối kiến thức | Khối kiến thức | Tổng số tín chỉ | Tỷ lệ (%)
+Khối kiến thức giáo dục đại cương (41TC) | Lý luận chính trị | 10 | 8%
+Khối kiến thức giáo dục đại cương (41TC) | Toán - Khoa học tự nhiên | 14 | 10%
+Khối kiến thức giáo dục đại cương (41TC) | Ngoại ngữ | 20 | 15%
+Khối kiến thức giáo dục đại cương (41TC) | Giáo dục thể chất - Giáo dục Quốc phòng | - | -
+Khối kiến thức giáo dục đại cương (41TC) | Môn học khác | 4 | 3%
+Khối kiến thức giáo dục chuyên nghiệp (74TC) | Cơ sở nhóm ngành | 26 | 20%
+Khối kiến thức giáo dục chuyên nghiệp (74TC) | Cơ sở ngành | 18 | 13%
+Khối kiến thức giáo dục chuyên nghiệp (74TC) | Chuyên ngành + Tự chọn | 30 | 22%
+Khối kiến thức tốt nghiệp (12TC) | Thực tập doanh nghiệp | 2 | 2%
+Khối kiến thức tốt nghiệp (12TC) | Khóa luận hoặc 03 môn học chuyên đề tốt nghiệp | 10 | 7%
+Tổng số tín chỉ tích lũy tối thiểu toàn khóa | Tổng số tín chỉ tích lũy tối thiểu toàn khóa | 134 | 100%
+STT | Mã môn học | Tên môn học | TC | LT | TH | % TH/TC
+Các môn lý luận chính trị | Các môn lý luận chính trị | Các môn lý luận chính trị | 11 |   |   |  
+1 | SS003 | Tư tưởng Hồ Chí Minh | 2 | 2 | 0 | 0%
+2 | SS007 | Triết học Mác – Lênin | 3 | 3 | 0 | 0%
+3 | SS008 | Kinh tế chính trị Mác – Lênin | 2 | 2 | 0 | 0%
+4 | SS009 | Chủ nghĩa xã hội khoa học | 2 | 2 | 0 | 0%
+5 | SS010 | Lịch sử Đảng Cộng sản Việt Nam | 2 | 2 | 0 | 0%
+Toán – Tin học – Khoa học tự nhiên | Toán – Tin học – Khoa học tự nhiên | Toán – Tin học – Khoa học tự nhiên | 14 |   |   |  
+6 | MA006 | Giải tích | 4 | 4 | 0 | 0%
+7 | MA003 | Đại số tuyến tính | 3 | 3 | 0 | 0%
+8 | MA004 | Cấu trúc rời rạc | 4 | 4 | 0 | 0%
+9 | MA005 | Xác suất thống kê | 3 | 3 | 0 | 0%
+Ngoại ngữ | Ngoại ngữ | Ngoại ngữ | 20 |   |   |  
+10 | ENG01 | Anh văn 1 | 4 | 4 | 0 | 0%
+11 | ENG02 | Anh văn 2 | 4 | 4 | 0 | 0%
+12 | ENG03 | Anh văn 3 | 4 | 4 | 0 | 0%
+13 | ENG04 | Anh văn 4 | 4 | 4 | 0 | 0%
+15 | ENG05 | Anh văn 5 | 4 | 4 | 0 | 0%
+Giáo dục thể chất – Giáo dục quốc phòng | Giáo dục thể chất – Giáo dục quốc phòng | Giáo dục thể chất – Giáo dục quốc phòng |   |   |   |  
+16 | PE001 | Giáo dục thể chất 1 |   |   |   |  
+17 | PE002 | Giáo dục thể chất 2 |   |   |   |  
+18 | ME001 | Giáo dục quốc phòng |   |   |   |  
+Môn học khác | Môn học khác | Môn học khác | 4 |   |   |  
+19 | SS004 | Kỹ năng nghề nghiệp | 2 | 2 | 0 | 0%
+20 | SS006 | Pháp luật đại cương | 2 | 2 | 0 | 0%
+STT | Mã môn học | Tên môn học | TC | LT | TH | % TH/TC
+18 | IT001 | Nhập môn lập trình | 4 | 3 | 1 | 25%
+19 | IT002 | Lập trình hướng đối tượng | 4 | 3 | 1 | 25%
+20 | IT003 | Cấu trúc dữ liệu và giải thuật | 4 | 3 | 1 | 25%
+21 | IT004 | Cơ sở dữ liệu | 4 | 3 | 1 | 25%
+22 | IT005 | Nhập môn mạng máy tính | 4 | 3 | 1 | 25%
+23 | IT009 | Giới thiệu ngành | 2 | 2 | 0 | 0%
+24 | SE104 | Nhập môn công nghệ phần mềm | 4 | 3 | 1 | 25%
+  | Tổng cộng | Tổng cộng | 26 | 20 | 6 |  
+STT | Mã môn học | Tên môn học | TC | LT | TH | % TH/TC
+25 | EC001 | Kinh tế học đại cương | 4 | 4 | 0 | 0%
+26 | EC003 | Tiếp thị căn bản | 3 | 3 | 0 | 0%
+27 | EC201 | Phân tích thiết kế quy trình nghiệp vụ doanh nghiệp | 4 | 3 | 1 | 25%
+28 | IS334 | Thương mại điện tử | 3 | 3 | 0 | 0%
+29 | IS207 | Phát triển ứng dụng web | 4 | 3 | 1 | 25%
+  | Tổng cộng | Tổng cộng | 18 | 16 | 2 |  
+STT | Mã môn học | Tên môn học | TC | LT | TH | %TH/TC
+30 | EC311 | Tiếp thị trực tuyến | 3 | 2 | 1 | 33%
+31 | EC312 | Thiết kế hệ thống TMĐT | 3 | 2 | 1 | 33%
+32 | EC213 | Quản trị quan hệ khách hàng và nhà cung cấp | 3 | 2 | 1 | 33%
+33 | EC337 | Hệ thống thanh toán trực tuyến | 3 | 3 | 0 | 0%
+34 | IS254 | Hệ hỗ trợ ra quyết định | 3 | 3 | 0 | 0%
+35 | EC229 | Pháp luật trong TMĐT | 2 | 2 | 0 | 0%
+36 | EC335 | An toàn và bảo mật TMĐT | 3 | 3 | 0 | 0%
+  | Tổng cộng | Tổng cộng | 20 | 17 | 3 |  
+STT | Mã môn học | Tên môn học | TC | LT | TH | %TH/TC
+37 | EC214 | Nhập môn quản trị chuỗi cung ứng(*) | 3 | 2 | 1 | 33%
+38 | EC331 | Quản trị chiến lược kinh doanh điện tử(*) | 3 | 3 | 0 | 0%
+39 | EC332 | Quản trị sản xuất | 3 | 3 | 0 | 0%
+40 | EC333 | Quản trị tài chính doanh nghiệp | 3 | 3 | 0 | 0%
+41 | EC334 | Quản trị kênh phân phối | 3 | 3 | 0 | 0%
+42 | EC338 | Quản trị bán hàng | 3 | 3 | 0 | 0%
+43 | EC336 | Quản trị nhân lực | 3 | 3 | 0 | 0%
+44 | EC002 | Quản trị doanh nghiệp | 3 | 3 | 0 | 0%
+45 | IS210 | Hệ quản trị cơ sở dữ liệu | 4 | 3 | 1 | 25%
+46 | NT118 | Phát triển ứng dụng trên thiết bị di động | 3 | 2 | 1 | 33%
+47 | IS336 | Hoạch định nguồn lực doanh nghiệp(*) | 4 | 3 | 1 | 25%
+48 | IS217 | Kho dữ liệu và OLAP | 3 | 3 | 0 | 0%
+49 | IS405 | Dữ liệu lớn(*) | 4 | 3 | 1 | 25%
+50 | IS403 | Phân tích dữ liệu kinh doanh(*) | 3 | 3 | 0 | 0%
+51 | IS353 | Mạng xã hội | 3 | 3 | 0 | 0%
+52 | IS105 | Hệ quản trị cơ sở dữ liệu Oracle | 4 | 3 | 1 | 25%
+53 | IS332 | Hệ thống thông tin quản lý | 3 | 3 | 0 | 0%
+54 | EC232 | Nguyên lý kế toán | 3 | 3 | 0 | 25%
+55 | EC208 | Quản trị dự án TMĐT | 3 | 3 | 0 | 0%
+56 | IS252 | Khai thác dữ liệu | 4 | 3 | 1 | 25%

@@ -1,0 +1,423 @@
+2025 NCKU AISSM
+Semiconductor
+Summer School
+Infosheet
+July. 23rd - August. 2nd, 2025
+
+AISSM Semiconductor Summer School
+The 2025 NCKU AISSM Semiconductor Summer School will offer three
+specialized courses focused on integrated circuit design, semiconductor
+manufacturing, and packaging and testing. These courses aim to provide
+essential, up-to-date knowledge for students aspiring to excel in these
+fields. This program continues NCKU AISSM's ongoing commitment to
+fostering international exchange and collaboration in semiconductor
+education and research, with strong support from industry and
+government.
+In addition to academic learning, participants will have the opportunity
+to explore Taiwan's rich cultural heritage, enhancing their overall
+experience. The program is open to international students from NCKU’s
+partner universities and domestic students of NCKU AISSM.
+2
+
+Contents
+1. AISSM Semiconductor Summer School
+…………………………….……… 02
+2. Course Selection ………………………………………………………………………….. 11
+3-1. Course A: Digital IC Design and Synthesis ……………………….……… 05
+3-2. Course B: Analog IC Design and Layout ………………..….…….………. 06
+3-3. Course C: Advanced Semiconductor Manufacturing and Packaging
+Testing ……..………………………………..………………….……………….08
+3. Cultural Tour-Taipei 101
+……………………………………………..…….………..16
+4. Important Dates ………………………………………………………………………….. 17
+5. Feeds Schedule……………………………………………………………………………..18
+3
+
+Course Offering
+*The participating students choose one course from this selection based on their subject of interest and
+background.
+4
+
+Course A: Digital IC Design and Synthesis
+Offered by the Program on Integrated Circuit Design
+Course Credit: 3, Course Spots: 30
+Prerequisite: C or C++ Programming Skills, Logic System Design, Computer Organization
+Appropriate level: senior undergraduate and fresh graduate students
+Language: Taught in English
+Format: In-person
+Completion: NCKU transcript and Certificate
+Lecturer: Prof. Lih-Yih Chiou
+PhD, VLSI and Circuit Design, Purdue University
+Dept. Electrical Engineering & Program on Integrated
+Circuit Design, NCKU
+Area: IC Design/Electrical Engineering
+Course Description
+The next-generation electronic system will have billions of transistors on a chip. To
+design such a complex system, designers must understand system design issues to
+cope with this daunting task. The course targets senior undergraduate or fresh
+graduate students to provide adequate background for designing a moderate-size
+system and emphasizes the balance between theory and hands-on. Upon completing
+this course, you shall have a. This course will teach you 1) VLSI system design flow, 2)
+primary EDA tools, and 3) moderate-size HDL coding.
+5
+
+Course A: Digital IC Design and Synthesis
+Offered by the Program on Integrated Circuit Design
+Topics and lab work include
+1. Verilog Basic 5. Sequential and Parallel Blocks
+2. Dataflow and Behavioral Modeling 6. Synthesis Basics and Examples
+3. Behavioral Modeling 7. Coding Style
+4. Combinational & Sequential Modules 8. Verification and Testing
+Course B: Analog IC Design and Layout
+Offered by the Program on Integrated Circuit Design
+Course Credit: 3, Course Spots: 30
+Prerequisite: C or C++ Programming Skills, Logic System Design, Computer Organization
+Appropriate level: senior undergraduate and fresh graduate students
+Language: Taught in English
+Format: In-person
+Completion: NCKU transcript and Certificate
+Lecturer: Prof. Shuenn-Yuh Lee
+PhD, Electrical Engineering, NCKU
+Dept. Electrical Engineering & Program on Integrated Circuit
+Design, NCKU
+Area: Implantable telemetry device/Bio-signal (ECG)
+acquisition system on a chip (SOC)/Low-power circuits for
+wireless biomedical circuits and systems/Digital system: DSP
+chip for feature extraction, baseband chip for healthcare
+system/Wearable device with internet of thing (IOT) system
+on a chip (SOC)
+6
+
+Course Description:
+Analog integrated circuits are integrated circuits that represent continuous signals in
+electrical form. They are circuits dealing with signals free to vary from zero to full power
+supply voltage. Analog integrated circuits include operational amplifiers, power
+management circuits, and sensors. To design such a circuit, designers must understand
+the device physics, transistor amplifier, differential amplifier, and operational amplifier.
+The course targets senior undergraduate or fresh graduate students to learn the basic
+design of analog integrated circuits and simulation. Upon completing this course, you
+shall learn the following skills: 1. Basic MOS Device Physics, 2. Single-stage amplifier, 3.
+Frequency response, 4. Operational amplifier.
+Topics include
+1. Basic MOS Device Physics and Single-Stage Amplifiers
+2. Current Mirrors and Frequency Response
+3. Ideal OPAMP and Finite gain and bandwidth effects
+4. Basic OPAMP Architecture
+5. Fully differential OPAMP and Advance Current Mirror
+6. Stability and Frequency Compensation
+7. Two-Stage OPAMP and Layout
+Lab work
+1. Basic MOS Device Physics and Single-Stage Amplifiers
+2. Current Mirrors and Frequency Response
+3. Ideal OPAMP and Finite gain and bandwidth effects
+4. Basic OPAMP Architecture
+5. Fully differential OPAMP and Advance Current Mirror
+6. Stability and Frequency Compensation7. Two-Stage OPAMP and Layout
+Tools include: HSPICE, Technology FileS
+7
+
+Course C
+Advanced Semiconductor Manufacturing and Packaging Testing
+Jointly offered by the Program on Semiconductor Manufacturing Technology,
+the Program on Semiconductor Packaging and Testing, and NARLabs Taiwan
+Semiconductor Research Institute (TSRI)
+Course Credit: 3, Course Spots: 30
+Appropriate level: senior undergraduate and fresh graduate students of science and
+engineering background
+Language: Taught in English
+Format: In-person
+Completion: NCKU transcript and Certificate
+Lecturer: Prof. Wen-Dung Hsu Lecturer: Prof.. Wei-Chen Tu
+Ph.D. of Materials Science and Engineering, PhD, Electronics Engineering, National Taiwan
+University of Florida, Gainesville, USA University
+Dept. Department of Materials Science and Dept. Electrical Engineering & Program on
+Engineering & Program on Key Materials, Semiconductor Manufacturing Technology,
+NCKU NCKU
+Area: molecular dynamics simulation/Monte Area: Low dimensional materials and
+Carlo simulation/first principle devices/Optical and electrical simulation of
+simulation/coarse-graining molecular nanomaterials and nanodevices
+dynamics simulation/nano-materials/carbon /Photodetectors/ Solar cells/Nanoscience
+based materials/transition metal and nanotechnology/Applications of
+clusters/nano-tribology/nano-mechanics. quantum dots
+8
+
+【Semiconductor Fabrication】
+Lecturer: Prof. Ying-Yuan Huang
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+PhD, Electrical and Computer Engineering, Georgia
+Engineering, Georgia Institute of Technology
+Institute of Technology
+Dept. Electrical Engineering and Institute of Microelectronics
+&Program on SemiconDdeuptc. tEolerc tMricaanl Eunfgainceteurrining ga nTde Icnhstnitoutleo ogfy , NCKU
+Microelectronics &Program on Semiconductor
+Area: Microelectronics, Electrical Engineering
+Manufacturing Technology, NCKU
+Area: Microelectronics, Electrical Engineering
+Course Description
+Semiconductor Fabrication delves into the heart of the microelectronics industry,
+focusing on the manufacturing process of semiconductor devices. This course offers
+students an essential understanding of the steps involved in the fabrication of
+semiconductors, including material preparation, chemical/physical vapor deposition,
+photolithography, etching, and ion implantation. Students will gain insight into the
+sophisticated processes and innovations that enable the production of ever-smaller
+and more powerful semiconductor devices.
+【Semiconductor-based nanophotonics and their applications】
+Lecturer: Prof. Jui-Nung Liu
+PhD, Electrical and Computer Engineering, University of
+Illinois at Urbana-Champaign
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+Engineering, Georgia Institute of Technology
+Dept. Electrical Engineering and Institute of
+Dept. Electrical Engineering and Institute of Microelectronics
+Microelectronics &Program on Semiconductor
+&Program on SemiconMduancutofarc tMurianng uTefcahcntoulorigny,g N TCeKUchnology, NCKU
+Area: Microelectronics, Electrical Engineering
+Area: Mid-infrared group-IV photonics/Optical
+nanocavity/ Surface-enhanced vibrational
+spectroscopy/Cavity QED
+9
+
+Course Description
+Semiconductor Fabrication delves into the heart of the microelectronics industry,
+focusing on the manufacturing process of semiconductor devices. This course offers
+students an essential understanding of the steps involved in the fabrication of
+semiconductors, including material preparation, chemical/physical vapor deposition,
+photolithography, etching, and ion implantation. Students will gain insight into the
+sophisticated processes and innovations that enable the production of ever-smaller
+and more powerful semiconductor devices.
+【Worldwide Innovative 3DHI Packaging Technology Trend】
+Lecturer: Mr. Albert Lan, Global Sr. Packaging Account TD
+Head, Applied Materials, USA
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+Over 30 years of job experience in semiconductor
+Engineering, Georgia Institute of Technology
+industry, esp. advanced packaging technologies.
+Dept. Electrical Engineering and Institute of Microelectronics
+Senior Engineering Center Director, 14 years, SPIL
+&Program on Semiconductor Manufacturing Technology, NCKU
+PD, Quality, & Sales, 6 years, Amkor Taiwan
+Area: Microelectronics, Electrical Engineering
+Area: Advanced 3D Heterogeneous Integration Packaging
+Technology Development
+Course Description
+• Worldwide Innovative 3DHI Packaging Technology Trend
+• Innovative 3DHI Packaging Technology Development Applied in AI/HPC – C2W/
+W2W Hybrid Bonding
+• Innovative 3DHI Packaging Technology Development Applied in AI/ HPC – FO-PLP
+and Advanced Substrate
+10
+
+【Applications of Numerical Simulation in the IC Packaging
+Industry】
+Lecturer: Dr. Li-Hsuan (Leo) Shen
+Lecturer: Prof. Ying-YuPah.nD .H Cuivail nEngg, inPeheDrin, gE, lNeacttiorincaal lT aaiwndan C Uonmiveprsuittyer
+Engineering, Georgia Institute of Technology
+Senior Manager of R&D and IC Packaging Product
+Dept. Electrical Engineering and Institute of Microelectronics
+Manager, Moldex3D (CoreTech System Co., Ltd.)
+&Program on Semiconductor Manufacturing Technology, NCKU
+Area: Microelectronics, Electrical Engineering
+Area: Computational fluid dynamics, Numerical
+simulation, Structural analysis for IC packaging
+applications
+Course Description
+This course provides an in-depth exploration of the challenges faced in IC packaging,
+focusing on innovative solutions by applying mechanical theory, material science, and
+numerical simulation. Participants will gain a conceptual understanding of how these
+disciplines interact to address and overcome industry-specific difficulties.
+【Photolithography and Patterning】
+Lecturer: Dr. Nikki Chang
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+Ph. D. Physics, National Taiwan University. MBA,
+Engineering, Georgia Institute of Technology
+National Taiwan University
+Dept. Electrical Engineering and Institute of Microelectronics
+&Program on Semiconductor Manufacturing Technology, NCKU
+Senior Sale Manager, TSMC Account, Applied Materials
+Area: MicroeleTacitwraonnics, Electrical Engineering
+Area: DLG & PDC
+Course Description
+• Basic lithography technology
+• Advance lithography technology
+• Q&A 11
+
+【Latest Innovations and Challenges of Semiconductor
+Technology for 3nm Node and Beyond】
+Lecturer: Dr. Samuel Chiu
+PhD, Materials Science and Engineering, University of
+California, Los Angeles (UCLA)
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+Engineering, Georgia Institute of Technology
+Senior Technical Director, Applied Materials Taiwan
+Dept. Electrical Engineering and Institute of Microelectronics
+&Program on SemicondAurecat:o Sre mMicaonnduufcatcotr ufarbinricga tTioenc hflonwo laongd yin, tNegCraKtUion/
+Plasma and thermal applications in semiconductor
+Area: Microelectronics, Electrical Engineering
+process technology/ Materials and Failure Analysis tools
+and applications/ Quality Assurance and Supplier Chain
+Engineering/ Large Scale product and project
+management.
+Course Description
+Moore’s Law described in 1965 will celebrate its 60th anniversary in 2025. It
+successfully predicted the economical benefits by continuous semiconductor scaling.
+We observed its amazing achievements in the past that had dramatically changed the
+way we lived. The recent explosive growth of Artificial Intelligence (AI), Machine
+Learning and AR/VR (Artificial Reality, Virtual Reality) require even more advanced
+semiconductor technology. Taiwan plays a critical role as hub of semiconductor R&D
+and manufacturing powerhouse to fulfill the needs.
+In this presentation, the latest innovation of semiconductor process to drive the
+success of advanced technology nodes will be described, including FinFET, lithography,
+and advanced films/etch integration.
+Furthermore, the future challenges and opportunities beyond 3nm nodes to keep
+Moore’s Law alive, such as Gate-All-Around (GAA) structure, backside power rails, and
+chiplet heterogeneous integration will also be presented.
+12
+
+【Corporate Courses of Taiwan Applied Materials】
+Lecturer: Mr. Goran Liu
+MS, Mechanical Engineering, National Cheng Kung University
+Senior Technical Manager, Moldex3D (CoreTech System Co., Ltd.)
+【Semiconductor Manufacturing and Advanced Equipment】
+at TSRI
+Lecturer: Dr. Ming-Tao Lee
+PhD, Department of Materials Science and Engineering,
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+National Chiao Tung University
+Engineering, Georgia Institute of Technology
+Dept. Electrical Engineering and Institute of Microelectronics
+Associate Researcher, National Applied Research
+&Program on SemicondLaubcotroatro rMiesa Tnauiwfaanc tSuerminicgon Tdeuccthonr oRelosegayr,c hN InCsKtiUtute
+Area: Microelectronics, Electrical Engineering
+Area: Resistive Random Access Memory,
+Semiconductor BEOL process, Gas sensor, ISFET pH
+sensor
+Lecturer: Dr. Pei-ling Li
+Lecturer: Prof. Ying-Yuan Huang, PhD, Electrical and Computer
+Engineering, GPheDo, rAgeirao nIanustticitsu atned oAsft rToencahutnicos,l oNgCyKU
+Dept. Electrical Engineering and Institute of Microelectronics
+Associate Research Fellow, Taiwan Semiconductor
+&Program on Semiconductor Manufacturing Technology, NCKU
+Research Institute
+Area: Microelectronics, Electrical Engineering
+Area: Electronic packaging, Semiconductor Processing
+13
+
+Lecturer: Mr. Yuming Yeh, PhD candidate, Institute of
+Lecturer: Prof. Ying-YuaMnic rHouelaecntgro,n Pichs DEn, gEinleeecrtinrigc, aNlC aKnUd Computer
+Engineering, Georgia Institute of Technology
+Assistant Researcher, Taiwan Semiconductor Research
+Dept. Electrical Engineering and Institute of Microelectronics
+Institute
+&Program on Semiconductor Manufacturing Technology, NCKU
+Area: MicroeleAcretar:o Sneimcsic,o Endleuccttorric Maal nEunfagcitnuerinegr iTnegchnology,
+Packaging technology
+Lecturer: Mr. WU TUNG-CHING, Master, Chemistry,
+Lecturer: Prof. Ying-YuaNnat iHonuaal nChgu,n Pgh HDsi,n gE lUencivterircsiatyl and Computer
+Engineering, Georgia Institute of Technology
+Assistant Engineer, Taiwan Semiconductor Research
+Dept. Electrical Engineering and Institute of Microelectronics
+Institute
+&Program on Semiconductor Manufacturing Technology, NCKU
+Area: Microelectronics, Electrical Engineering
+Area: Advanced Heterogeneous Integration process /
+Dry Etch process of thin film
+Course Description
+• Facility • Thin Film Deposition Process
+• Lithography Process • Wafer Thinning Process
+• Etching Process • Bonding Process
+【Institute Visit -TSMC Museum of Innovation】
+The TSMC Museum of Innovation encompasses three exhibition galleries: "A World of
+Innovation", "Unleashing Innovation", and "Dr. Morris Chang, TSMC Founder". Through
+interactive technology, digital content, and historical documents we will learn about
+the pervasiveness of ICs in our daily lives and about their continued advancement. In
+addition, we will learn how ICs are making our lives more fulfilling and how they are
+driving technology beyond our imagination. We will also learn how TSMC contributes
+to global IC innovation and to Taiwan's economy.
+14
+
+【Institute Visit -Industrial Technology Research Institute】
+ITRI is a world-leading applied technology research institute with more than 6,000
+outstanding employees. Its mission is to drive industrial development, create economic
+value, and enhance social well-being through technology R&D. Founded in 1973, it
+pioneered in IC development and started to nurture new tech ventures and deliver its
+R&D results to industries. ITRI has set up and incubated companies such as TSMC, UMC,
+Taiwan Mask Corp., Epistar Corp., Mirle Automation Corp., and Taiwan Biomaterial Co.
+15
+
+【Cultural Tour - Taipei 101】
+This is an extracurricular option open for sign-up by students across different courses. An extra charge
+applies, and there are limited to 30 spots.
+With this one-day trip to Taipei, we aim to provide the program students with a refreshing
+outing experience, allowing them to visit several iconic landmarks and cultural hotspots in
+Taipei.
+Our itinerary includes
+• Take a tour of the Office of the President, a symbol of Taiwan's governance and history
+• Marvel at Taipei 101, one of the world's tallest skyscrapers, and enjoy panoramic views
+• Explore the historic Longshan Temple, a spiritual and cultural gem
+• Enjoy Michelin Star 鼎泰豐小籠包
+• Travel by High-Speed Rail Train
+for the participants to gain insights into Taiwan’s political, modern, and traditional heritage.
+16
+
+Important Dates
+Application
+Early Bird: By March 31st, 2025 (Mon)
+Application Deadline: April 20th, 2025 (Sun) (Confirmation Letter will be sent within seven
+working days after the registration information is reviewed and confirmed.)
+Admission
+Admission Letter: May 2nd, 2025 (Sun) (Fri)
+*Apply for a visa to Taiwan based on this document
+Payment Deadline: May 18th, 2025 (Sun)
+Pre-Arrival Notification: May 30th, 2025 (Fri)
+Course Period
+• 7/22 (Tue): arrival in Tainan
+• 7/23 (Wed) morning: Opening Ceremony and Commencement of Classes
+• 7/26 (Sat): Cultural Tour-Taipei 101 (optional)
+• 7/28 (Mon): Institute Visit to Hsinchu of Course C
+• 8/2 (Sat) afternoon: Group Presentation and Closing Ceremony
+Completion
+Certificate: August 2nd, 2025 (Sat)
+Transcript: September 1st, 2025 (Mon)
+17
+
+Fees Schedule
+Special Rates for Strategic Partner University with Nomination
+Nomination Deadline: March 15th, 2025
+NCKU AISSM offers 4 seats with nominations at special rates for
+each strategic partner university by invitation.
+18
+
+Notes
+1. The application fee is not refundable.
+2. The program fee includes tuition, orientation, activities, and accident
+insurance of at least NT$1,000,000, valid for the entire program period.
+The program fee doesn’t include: meals and the accommodation.
+3. The program fee is refundable with different proportions depending on the
+time of cancellation by the applicants. (Details announced on the program
+website)
+4. The accommodation fee is NOT included. The participants will be responsible
+for their housing. Recommended off-campus housing is listed below:
+• Rolling Pin Homestay • Boléro Homestay
+• Small Island Homestay • Old Man Captain
+• My My Homestays • Roaders Hotel
+• Journey Hostel • Academy Hotel
+• 66 south
+*More accommodation options are available in Tainan City through various
+hotel websites. Participants are advised to book their accommodation early, as
+summer is a high season for visitors.
+Program Manager
+Kacie Liu 劉芝晴
+Academy of Innovative Semiconductor and Sustainable Manufacturing, NCKU
+https://ais2m.ncku.edu.tw/
+Tel: +886-6-2757575 ext.35000-105
+E-Mail: kacieliu@gs.ncku.edu.tw
+19
+
+X
+智慧半導體及永續製造學院
+Academy of Innovative Semiconductor
+and Sustainable Manufacturing
+2025 NCKU AISSM
+SEMICONDUCTOR SUMMER SCHOOL
+Official WEBSITE
+20

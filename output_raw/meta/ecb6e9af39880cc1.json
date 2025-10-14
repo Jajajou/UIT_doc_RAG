@@ -1,0 +1,22 @@
+{
+  "url": "https://dkhp.uit.edu.vn/",
+  "fetched_at": "2025-10-14T02:43:12.928842",
+  "status": null,
+  "content_type": null,
+  "file_path": null,
+  "html_path": "output_raw\\html\\ecb6e9af39880cc1.html",
+  "out_links": [
+    "internal",
+    "external",
+    "/_next/static/css/4fa32a8e952badff.css",
+    "/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js",
+    "/_next/static/chunks/757-0da784bc8fb1ae39.js",
+    "/_next/static/chunks/457-667d9b22d9170ce0.js",
+    "/_next/static/chunks/webpack-29a9703eeecc369c.js",
+    "/_next/static/chunks/framework-4f2dca8dc09b4164.js",
+    "/_next/static/chunks/488-5b39034b76f78cd5.js",
+    "/_next/static/chunks/main-app-7d8bfb9135f69cec.js"
+  ],
+  "domain": null,
+  "notes": null
+}

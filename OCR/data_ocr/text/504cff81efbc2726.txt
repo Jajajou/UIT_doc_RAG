@@ -1,0 +1,52 @@
+THESIS INFORMATION
+Title: Research on Opinion Mining Approaches for User Feedback
+Major Code: Computer Science
+Code: 9480101
+PhD Student: Đặng Văn Thìn
+Supervisor: Assoc.Prof.PhD. Nguyễn Lưu Thùy Ngân
+University: University of Information Technology – Vietnam National University
+HoChiMinh city
+ABSTRACT
+Opinion analysis (also known as sentiment analysis) is a research area that has garnered
+significant attention within both academic and industry communities, due to its potential
+to extract meaningful information from user-generated content. This dissertation aims to
+develop various approaches to address opinion analysis tasks on user feedback comments,
+with the objective of improving performance on Vietnamese datasets as well as those in
+other languages. The proposed methods leverage the capabilities of pre-trained language
+models and explore multiple paradigms, including classification-based approaches,
+generation-based approaches, and ensemble methods built upon language models.
+Additionally, the dissertation addresses the challenge of limited labeled data in low-
+resource scenarios by proposing strategies to mitigate data scarcity. The dissertation makes
+three key contributions, as outlined below:
+• Improving the performance for level-based opinion mining tasks: The dissertation
+proposes three approaches to improve prediction performance across diverse
+datasets: (1) Classification-based transfer learning leveraging pre-trained language
+models; (2) Generation-based transfer learning using generative language models;
+and (3) Ensemble methods based on language models, which integrate predictions
+from multiple model variants to enhance overall performance.
+• Developing enhanced approaches for regular and comparative opinion ming tasks:
+The dissertation introduces advanced modeling techniques for opinion mining under
+both regular and comparative perspectives. For regular opinions, a prompt-based
+generative language model is presented within a multi-task learning framework to
+jointly extract a quadruple of opinion elements. For comparative opinions, a two-
+
+stage architecture is proposed: the first stage identifies whether a comment
+expresses a comparative opinion, and the second stage extracts the quintuple of
+comparative opinion elements.
+• Proposing methods for addressing data scarcity in opinion mining for low-resource
+languages or domains: The dissertation introduces two different approaches to
+tackle the challenge of limited training data in opinion mining tasks within low-
+resource settings. (1) Leveraging multilingual pre-trained language models in
+combination with high-resource language data across various transfer learning
+scenarios to boost performance in low-resource languages or domains; (2)
+Designing instruction-based prompts tailored for modern large language models
+(LLMs) to enable effective learning under limited supervision.
+In addition, the PhD candidate also presented the results of a semantic survey study
+reviewing previous methods, approaches, and datasets related to the opinion mining task
+to identify limitations that need to be addressed within the dissertation's research scope.
+Regarding scientific publications, the PhD candidate has published 9 scientific papers,
+including 07 papers in reputable journals (comprising 03 articles in SCIE Q2-ranked
+journals, 02 in international Scopus-indexed journals, and 02 in domestic journals) and 02
+papers presented at C-ranked international conferences during the dissertation period.
+Supervisor PhD Student
+Nguyễn Lưu Thùy Ngân Đặng Văn Thìn

@@ -1,0 +1,142 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN Tp. Hồ Chí Minh, ngày tháng năm
+200
+CHƯƠNG TRÌNH ĐÀO TẠO KỸ SƯ HỆ THỐNG THÔNG TIN
+Trình độ đào tạo: Đại học
+Chuyên ngành đào tạo: Hệ thống thông tin
+Loại hình đào tạo: Chính quy tập trung
+Mã ngành đào tạo: 52480104
+Khóa đào tạo: Khóa 03 ( 2008-2013 )
+Tổng số tín chỉ của chương trình : 148 tín chỉ (9 học kỳ)
+Giai đoạn 1 : Chương trình chung các khoa.
+Tổng số tín chỉ các học kỳ 1, 2, 3, 4 : 65 tín chỉ
+(không tính các môn Giáo dục thể chất, Giáo dục quốc phòng, Anh Văn)
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+Học kỳ 1 CSC01 Tin học đại cương 4 3 1
+MAT01 Toán cao cấp A1 3 3 0
+Đại số tuyến tính 3 3 0
+MAT23
+PHY01 Vật lý Đại cương A1 3 3 0
+ENG01 Anh Văn 1
+PEDU1 Giáo dục thể chất 1
+MEDU1 Giáo dục quốc phòng
+Cộng 13 TC
+Học kỳ 2 DSAL1 Cấu trúc dữ liệu và giải 4 3 1
+thuật
+CARC1 Kiến trúc máy tính 3 3 0
+PHY02 Vật lý Đại cương A 2 3 3 0
+MAT02 Toán cao cấp A2 3 3 0
+DBSS1 Cơ sở dữ liệu 4 3 1
+CNET1 Mạng máy tính 4 3 1
+ENG02 Anh Văn 2
+PEDU2 Giáo dục thể chất 2
+Cộng 21 TC
+Học kỳ 3
+Lập trình hướng đối tượng 4 3 1
+OOPT1
+
+Hệ điều hành 4 3 1
+OSYS1
+Những nguyên lý CB của
+chủ nghĩa Mác Lênin 5 5 0
+PHIL1
+Xác suất thống kê 3 3 0
+STA01
+Anh Văn 3
+ENG03
+Cộng 16 TC
+Tư tưởng Hồ Chí Minh 2 2 0
+HCMT1
+Nhập môn công tác kỹ sư 2 2 0
+ITEW1
+Lập trình trên windows 4 3 1
+WINP1
+Cấu trúc rời rạc 4 4 0
+MAT04
+Đường lối cách mạng
+của Đảng CSVN 3 3 0
+VCPL1
+Anh Văn 4
+ENG03
+Học kỳ 4 Cộng 15 TC
+Giai đoạn 2 : Chương trình ngành Hệ Thống Thông Tin
+học kỳ 5, 6, 7, 8, 9 : 83 tín chỉ
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+Học kỳ IS202 Nhập môn công nghệ 4 3 1
+phần mềm
+5
+Thiết kế cơ sở dữ liệu 4 3 1
+IS101
+Nhậpmôn Hệthốngthông 4 3 1
+IS204
+tin địa lý
+Phân tích thiết kế hệ thống 4 3 1
+IS201
+thông tin
+Lập trình cơ sở dữ liệu 4 3 1
+IS203
+Nhập môn quản trị doanh
+nghiệp 2 2 0
+ITEM1
+Cộng 22 TC
+Học kỳ Phân tích thiết kế hướng
+đối tượng với UML 4 3 1
+6 IS205
+Hệ quản trị cơ sở dữ liệu 4 3 1
+IS103
+Quản lý dự án công nghệ
+IS208
+thô ng tin 4 3 1
+Oracle 4 3 1
+IS105
+Lập trình ứng dụng Web
+với Java 4 3 1
+IS206
+Các hệ cơ sở tri thức 3 3 0
+IS102
+Cộng 23 TC
+Khai thác dữ liệu 4 3 1
+IS106
+
+Hệ thống thông tin kế
+toán 5 5 0
+IS107
+Phát triển ứng dụng web 4 3 1
+IS207
+Cơ sở dữ liệu phân tán 4 3 1
+IS104
+IS 30* Môn tự chọn Tự chọn
+( Sinh viên chọn các (*)
+môn sau đây) 3
+IS301:Thương mại điện
+tử - 3 TC
+IS302: Phân tích không
+gian – 4 TC
+IS303: Hệ cơ sở dữ liệu
+không gian - 4 TC
+IS304: Kho dữ liệu và
+OLAP – 4 TC
+IS305 :An toàn và bảo
+mật HTTT – 3 TC
+IS306 :Hệ thống thông
+Học kỳ tin quản lý - 3TC
+7 Cộng 20 TC
+Phương pháp luận sáng
+tạo KH - CN 2 2 0
+SMET2
+Thực tập tốt nghiệp 3 3 0
+IS501
+Đồ án xây dựng một hệ
+Học kỳ thống thông tin 3 3 0
+IS311
+8 Cộng 8 TC
+Khóa luận tốt nghiệp
+(IS505) hoặc thi các
+môn chuyên đề tốt
+nghiệp 10 10
+IS505
+Học kỳ 9 Cộng 10 TC
+Tổng số tín chỉ tích lũy toàn khóa : 148
+HIỆU TRƯỞNG
+HOÀNG VĂN KIẾM

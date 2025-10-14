@@ -1,0 +1,165 @@
+Mẫu01-ĐA
+TRƯỜNG ĐH CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH TP.Hồ Chí Minh, ngày 22 tháng 02 năm 2023
+DANH SÁCH ĐỀ TÀI ĐỒ ÁN
+HK 2 Năm học 2022-2023
+Loại đồ Dùng cho
+GV hướng dẫn (ghi rõ
+Số SV
+án hệ đào
+STT Tên đề tài họ tên và địa chỉ Yêu cầu
+tối đa
+email) tạo?
+Ứng dụng máy học trong nhận dạng phương
+tiện giao thông và đo tốc độ bằng camera ghi Nắm vững kiến thức cơ bản xử lý
+CQĐT +
+1. hình. (Bài toán nhận dạng, theo vết, đo tốc PGS.TS. Vũ Đức Lung tín hiệu số, xử lý ảnh và khả năng 4 Đồ án 1,2
+CLC
+độ, kế thừa từ đề tài nhóm trước đã thực lập trình.
+hiện.)
+Lập trình tốt, kỹ năng đọc hiểu bài
+Hệ thống điều khiển các thiết bị trong nhà CQĐT +
+2. PGS.TS. Vũ Đức Lung báo và hiện thực hệ thống trên các 2 Đồ án 1,2
+bằng giọng nói tiếng Việt. CLC
+board nhúng.
+Tích hợp Hệ thống tự động phát hiện các dấu Nắm vững kiến thức cơ bản xử lý
+CQĐT +
+3. hiệu hư hỏng trên các BTS viễn thông bằng PGS.TS. Vũ Đức Lung tín hiệu số, xử lý ảnh và khả năng 2 Đồ án 1,2
+CLC
+Flycam lập trình.
+A Hardware/Software Co-Design TS. Phạm Hoài Luân
+Architecture for CRYSTALS-KYBER Post- Email:
+-Có kiến thức về ngôn ngữ Verilog
+Quantum Cryptography (Kiến trúc đồng luanph@uit.edu.vn
+4. và C/C++ 2 Đồ án 1 CLC
+thiết kế phần cứng/phần mềm cho mật mã
+-Có tinh thần ham học hỏi
+chống tấn công lượng tử CRYSTALS-
+KYBER)
+
+Mẫu01-ĐA
+Loại đồ Dùng cho
+GV hướng dẫn (ghi rõ
+Số SV
+STT Tên đề tài họ tên và địa chỉ Yêu cầu án hệ đào
+tối đa
+tạo?
+email)
+An energy-efficient CNN accelerator based TS. Phạm Hoài Luân -Có kiến thức về ngôn ngữ Verilog
+on stochastic computing (Máy gia tốc CNN Email: và Python
+5. tiết kiệm năng lượng dựa trên tính toán ngẫu luanph@uit.edu.vn -Kiến thức cơ bản về Machine 2 Đồ án 1 CLC
+nhiên) Learning
+-Có tinh thần ham học hỏi
+A High-Performance Multicore RISC-V- TS. Phạm Hoài Luân -Có kiến thức về ngôn ngữ Verilog
+based Cryptographic Processor (Bộ xử lý mã Email: và C/C++
+6. hóa dựa trên RISC-V đa lõi hiệu suất cao) luanph@uit.edu.vn -Có kiến thức về C compiler 2 Đồ án 1 CLC
+-Có tinh thần ham học hỏi
+A Flexible and High-Performance TS. Phạm Hoài Luân -Có kiến thức về ngôn ngữ Verilog
+Cryptographic Accelerator based on a Email: và C/C++
+Coarse-grained reconfigurable array (Bộ luanph@uit.edu.vn -Có kiến thức về C compiler
+7. 2 Đồ án 1 CLC
+tăng tốc mật mã linh hoạt và hiệu suất cao -Có tinh thần ham học hỏi
+dựa trên một mảng có thể cấu hình lại chi
+tiết thô)
+Nhận diện biển báo giao thông bằng các
+Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+8. thuật toán máy học trên kit Raspberry hoặc 2 Đồ án 1,2
+duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Jetson Nano
+Nghiên cứu áp dụng thuật toán SSD ứng
+Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+9. dụng trong xử lý ảnh trên kit Raspberry hoặc 2 Đồ án 1,2
+duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Jetson Nano
+Nghiên cứu áp dụng thuật toán Yolo ứng
+Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+10. dụng trong xử lý ảnh trên kit Raspberry hoặc 2 Đồ án 1,2
+duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Jetson Nano
+
+Mẫu01-ĐA
+Loại đồ Dùng cho
+GV hướng dẫn (ghi rõ
+Số SV
+STT Tên đề tài họ tên và địa chỉ Yêu cầu án hệ đào
+tối đa
+tạo?
+email)
+Nghiên cứu áp dụng thuật toán Mask_RCNN
+Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+11. ứng dụng trong xử lý ảnh trên kit Raspberry 2 Đồ án 1,2
+duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+hoặc Jetson Nano
+Phát triển hệ thống gương thông minh (smart Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+12. 2 Đồ án 1,2
+mirror) duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Hệ thống quản lý tưới cây quy mô lớn dùng Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+13. 2 Đồ án 1,2
+LoRa hoặc RF duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Hệ thống điều khiển DMX sử dụng cho điều Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+14. 2 Đồ án 1,2
+khiển nhạc nước duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Ứng dụng các thuật toán máy học vào máy Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+15. 2 Đồ án 1,2
+tính nhúng (edge computing) duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+Xây dựng hệ thống điểm danh ứng dụng Phan Đình Duy Có kiến thức cơ bản về CNTT và CQĐT +
+16. 2 Đồ án 1,2
+trong phòng học thông minh duypd@uit.edu.vn KTMT, nghiêm túc nghiên cứu CLC
+
+Mẫu01-ĐA
+Loại đồ Dùng cho
+GV hướng dẫn (ghi rõ
+Số SV
+STT Tên đề tài họ tên và địa chỉ Yêu cầu án hệ đào
+tối đa
+tạo?
+email)
+Đo tiêu thụ năng lượng cho Launchpad/Kit Lầu Phi Tường, Kiến thức lập trình C/C++, yêu CQĐT và
+17. 2 Đồ án 1,2
+phát triển sử dụng trong mạng IoT tuonglp@uit.edu.vn thích IoT CLC
+Đánh giá mức độ an toàn cho hệ điều hành Lầu Phi Tường, Kiến thức lập trình C/C++, yêu CQĐT và
+18. 2 Đồ án 1,2
+IoT tuonglp@uit.edu.vn thích IoT CLC
+Lầu Phi Tường, Kiến thức lập trình C/C++, yêu CQĐT và
+19. Phân tích báo cáo lỗi cho hệ điều hành IoT 2 Đồ án 1,2
+tuonglp@uit.edu.vn thích IoT CLC
+20. Tìm hiểu các giao thức mạng trong hệ điều Lầu Phi Tường, Kiến thức lập trình C/C++, yêu CQĐT và
+2 Đồ án 1,2
+hành IoT tuonglp@uit.edu.vn thích IoT CLC
+Nghiên cứu và thiết kế cánh tay robot 3
+Trần Quang Nguyên CQĐT và
+21. trục có thể tự học vị trí ban đầu - Ứng dụng Cần cù, chăm chỉ 4 1 và 2
+nguyentq@uit.edu.vn CLC
+vào robot hàn trong công nghiệp
+Nghiên cứu và thiết kế hệ thống tự cân
+Trần Quang Nguyên CQĐT và
+22. bằng - Ứng dụng cho xe cân bằng Cần cù, chăm chỉ 2 1 và 2
+nguyentq@uit.edu.vn CLC
+
+Mẫu01-ĐA
+Loại đồ Dùng cho
+GV hướng dẫn (ghi rõ
+Số SV
+STT Tên đề tài họ tên và địa chỉ Yêu cầu án hệ đào
+tối đa
+tạo?
+email)
+Nghiên cứu và thiết kế robot Scara 4 trục Trần Quang Nguyên CQĐT và
+23. Cần cù, chăm chỉ 4 1 và 2
+nguyentq@uit.edu.vn CLC
+Nghiên cứu và thiết kế hệ thống lưu kho
+Trần Quang Nguyên CQĐT và
+24. tự động Cần cù, chăm chỉ 2 1 và 2
+nguyentq@uit.edu.vn CLC
+Nghiên cứu và thiết kế hệ máy nhận dạng
+lỗi sản phẩm trong dây chuyền công Trần Quang Nguyên CQĐT và
+25. Cần cù, chăm chỉ 2 1 và 2
+nghiệp bằng camera. nguyentq@uit.edu.vn CLC
+Tối ưu hóa delta robot thông qua phần Trần Quang Nguyên CQĐT và
+26. Cần cù, chăm chỉ 2 1 và 2
+mềm giám sát nguyentq@uit.edu.vn CLC
+Nghiên cứu phương pháp nhận dạng khối Trần Quang Nguyên CQĐT và
+27. Cần cù, chăm chỉ 2 1 và 2
+u não bằng camera thông qua Matlab nguyentq@uit.edu.vn CLC
+• SV có thể trao đổi đăng ký đề tài trực tiếp với GV để làm 1 đề tài mới/lạ khác ngoài các đề tài có trong danh sách ở
+trên (hướng/lĩnh vực nghiên cứu của các GV vui lòng xem trên web khoa)

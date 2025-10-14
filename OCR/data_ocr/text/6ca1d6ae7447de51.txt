@@ -1,0 +1,126 @@
+
+============================================================
+SHEET: DS TÀI NĂNG
+============================================================
+
+DANH SÁCH TRÚNG TUYỂN TẠM THỜI CHƯƠNG TRÌNH TÀI NĂNG 2015 NGÀY 10/9/2015 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9 | Unnamed: 10
+--------------------------------------------------------------------------------
+AN TOÀN THÔNG TIN 2015 (ĐK: Tổng điểm chưa ưu tiên>=24 )
+STT | MSSV | HỌ TÊN | NV1 | NV2 | M1 | M2 | M3 | TỔNG  | Ưu tiên | TỔNG(có ƯT)
+1 | 15520988 | Vũ Hán Thanh Tùng | ATTT | 8.75 | 8.75 | 9.25 | 26.75 | 26.75
+2 | 15520695 | Hùynh Phú Qúi | ANTT | 8 | 8.5 | 9 | 25.5 | 25.5
+3 | 15520674 | Lê Phạm Minh Quân | ANTT | KHMT | 8.75 | 8.25 | 8.25 | 25.25 | 0.5 | 25.75
+4 | 15520379 | Trần Minh Khoa | ATTT | 8.25 | 8 | 8.25 | 24.5 | 1 | 25.5
+5 | 15520960 | Nguyễn Thanh Tú | ATTT | 7.25 | 8 | 9 | 24.25 | 0.5 | 24.75
+6 | 15520084 | Hồ Quốc Đại | ANTT | 7.5 | 8.5 | 8.25 | 24.25 | 24.25
+7 | 15520076 | Đỗ Xuân Cường | ANTT | 7.25 | 8.5 | 8.5 | 24.25 | 0.5 | 24.75
+8 | 15520208 | Nguyễn Hiền | ANTT | 8 | 7.75 | 8.5 | 24.25 | 1.5 | 25.75
+9 | 15520321 | Văn Minh Huy | ANTT | 7.75 | 7.75 | 8.5 | 24 | 24
+10 | 15520840 | Lưu Quốc Thịnh | ATTT | 8 | 7.5 | 8.5 | 24 | 1.5 | 25.5
+11 | 15520421 | Dương Hoàng Linh | ATTT | 8 | 7.5 | 8.5 | 24 | 24
+12 | 15520085 | Nguyễn Ngọc Hoàng Đại | ANTT | KHMT | 7.25 | 8 | 8.75 | 24 | 24
+13 | 15521034 | Trương Phi Vương | ANTT | 7.75 | 8.5 | 7.5 | 23.75 | 0.5 | 24.25
+14 | 15520737 | Phan Thanh Sơn | ANTT | 7.5 | 8.25 | 8 | 23.75 | 1 | 24.75
+15 | 15520425 | Võ Hoài Linh | ANTT | 8 | 7.75 | 8 | 23.75 | 1 | 24.75
+16 | 15520857 | Nguyễn Long Thống | ANTT | 7 | 7.75 | 8.75 | 23.5 | 1.5 | 25
+17 | 15521023 | Nguyễn Thế Vịnh | ATTT | 7 | 8 | 8.5 | 23.5 | 1 | 24.5
+18 | 15520886 | Nguyễn Minh Tiến | ANTT | 7.25 | 8 | 8 | 23.25 | 2.5 | 25.75
+19 | 15520347 | Trần Cao Khang | ANTT | 7.5 | 7.75 | 8 | 23.25 | 1 | 24.25
+20 | 15520677 | Nguyễn Hồng Quân | ANTT | 7.5 | 8.25 | 7.5 | 23.25 | 1 | 24.25
+21 | 15520828 | Nguyễn Vĩ Hà Thiên | ANTT | 7.5 | 7.5 | 8.25 | 23.25 | 1.5 | 24.75
+22 | 15520407 | Đặng Minh Lâm | ANTT | 6.75 | 8.25 | 8 | 23 | 1 | 24
+23 | 15521006 | Lê Hoàng Viễn | ANTT | 7.75 | 7 | 8.25 | 23 | 1 | 24
+24 | 15520735 | Nguyễn Hồng Sơn | ANTT | KHMT | 7.25 | 8.75 | 6.5 | 22.5 | 1.5 | 24
+KHOA HỌC MÁY TÍNH 2015 (ĐK: Tổng điểm chưa ưu tiên>=23.25 )
+STT | MSSV | HỌ TÊN | NV1 | NV2 | M1 | M2 | M3 | TỔNG  | Ưu tiên | TỔNG(có ƯT)
+1 | 15520363 | Trần Nguyên Khánh | KHMT | ANTT | 9 | 9.75 | 8.75 | 27.5 | 0.5 | 28
+2 | 15520182 | Lê Ngọc Hải | KHMT | 7 | 8.25 | 9 | 24.25 | 0.5 | 24.75
+3 | 15520197 | Lê Văn Hạnh | KHMT | 8.25 | 8.25 | 7.75 | 24.25 | 0.5 | 24.75
+4 | 15520696 | Nguyễn Văn Qúi | KHMT | 8 | 8 | 8.25 | 24.25 | 1 | 25.25
+5 | 15520804 | Phạm Duy Thanh | KHMT | 8 | 8.5 | 7.75 | 24.25 | 24.25
+6 | 15520307 | Nguyễn Quốc Huy | KHMT | 7.5 | 7.5 | 9 | 24 | 24
+7 | 15520339 | Lê Minh Khang | KHMT | 7.5 | 8.5 | 8 | 24 | 24
+8 | 15520461 | Phan Văn Lượm | KHMT | 7.5 | 8.25 | 8.25 | 24 | 1 | 25
+9 | 15520741 | Võ Nguyễn Hoài Sơn | KHMT | 7.25 | 8 | 8.5 | 23.75 | 1 | 24.75
+10 | 15520488 | Nguyễn Văn Minh | KHMT | 7.75 | 7.5 | 8.5 | 23.75 | 23.75
+11 | 15520864 | Trần Công Thức | KHMT | 8.75 | 8 | 6.75 | 23.5 | 23.5
+12 | 15520319 | Trần  Việt Huy | KHMT | 8.25 | 7.75 | 7.5 | 23.5 | 0.5 | 24
+13 | 15520134 | Dư Quốc Dũng | KHMT | 7.5 | 8.5 | 7.5 | 23.5 | 0.5 | 24
+14 | 15520854 | Đoàn Phạm Minh Thông | KHMT | 7.5 | 7.5 | 8.5 | 23.5 | 23.5
+15 | 15520588 | Tường Kim Quỳnh Như | KHMT | 8 | 7.25 | 8.25 | 23.5 | 0.5 | 24
+16 | 15520481 | Lê Trường Minh | KHMT | 8 | 7.25 | 8 | 23.25 | 23.25
+17 | 15520022 | Nguyễn Lê Quỳnh Anh | KHMT | 8.75 | 7.75 | 6.75 | 23.25 | 1.5 | 24.75
+18 | 15520175 | Huỳnh Vĩ Hà | KHMT | 7.5 | 8 | 7.75 | 23.25 | 1 | 24.25
+19 | 15520375 | Nguyễn Huỳnh Anh Khoa | KHMT | 7.25 | 7.5 | 8.5 | 23.25 | 0.5 | 23.75
+20 | 15520097 | Cao Quốc Đạt | KHMT | 8.25 | 7.5 | 7.5 | 23.25 | 23.25
+21 | 15520818 | Lê Nguyễn Ngọc Thảo | KHMT | 8 | 6.75 | 8.5 | 23.25 | 23.25
+22 | 15520585 | Nguyễn Tuyết Nhi | KHMT | 7.5 | 8.25 | 7.5 | 23.25 | 23.25
+23 | 15521042 | Hoàng Yến | KHMT | 7.5 | 8.25 | 7.5 | 23.25 | 23.25
+24 | 15520021 | Nguyễn Đức Anh | KHMT | ANTT | 7.5 | 7.75 | 8 | 23.25 | 23.25
+25 | 15521025 | Hồ Anh Vọng | KHMT | 7.75 | 7.75 | 7.75 | 23.25 | 0.5 | 23.75
+26 | 15520614 | Trần Khả Phiêu | KHMT | ANTT | 7.25 | 7.25 | 8.5 | 23 | 1 | 24
+27 | 15520659 | Đinh Duy Phương | KHMT | 7.75 | 7.25 | 8 | 23 | 0.5 | 23.5
+28 | 15520917 | Huỳnh Ngọc Thiên Trang | KHMT | 7.75 | 7.5 | 7.75 | 23 | 0.5 | 23.5
+29 | 15520289 | Võ Quốc Hưng | KHMT | 7 | 8 | 8 | 23 | 23
+30 | 15520570 | Nguyển Trọng Nhân | KHMT | 7.25 | 8 | 7.75 | 23 | 0.5 | 23.5
+31 | 15520194 | Nguyễn Thu Hằng | KHMT | 8 | 7.25 | 7.5 | 22.75 | 1.5 | 24.25
+32 | 15520259 | Nguyễn Trần Hoàng | KHMT | 7.25 | 7.75 | 7.75 | 22.75 | 0.5 | 23.25
+33 | 15520560 | Võ Hoài Nguyên | KHMT | 6.75 | 7.75 | 8.25 | 22.75 | 0.5 | 23.25
+34 | 15520241 | Huỳnh Long Hồ | KHMT | ANTT | 6.5 | 8 | 8 | 22.5 | 1 | 23.5
+35 | 15520373 | Nguyễn Đặng Anh Khoa | KHMT | 8 | 6.75 | 7.5 | 22.25 | 1 | 23.25
+36 | 15520159 | Lê Trịnh Minh Khánh | KHMT | 7.75 | 7.25 | 7.25 | 22.25 | 1 | 23.25
+37 | 15520159 | Lê Trịnh Khánh Duy | KHMT | 7.75 | 7.25 | 7.25 | 22.25 | 1 | 23.25
+38 | 15520138 | Nguyễn Minh Dũng | KHMT | 7.5 | 7.25 | 7.5 | 22.25 | 1 | 23.25
+39 | 15520262 | Trần Đức Hoàng | KHMT | 7.25 | 7.25 | 7.5 | 22 | 1.5 | 23.5
+40 | 15520975 | Trần Anh Tuấn | KHMT | 7.5 | 7.75 | 6.5 | 21.75 | 1.5 | 23.25
+35
+AN TOÀN THÔN TIN 2014 (ĐK: TB chung tích lũy>=7.5)
+STT | MSSV | HỌ TÊN | NV1 | NV2 | Điểm   tích lũy  | Ghi chú
+1 | 14520820 | Nguyễn Văn Thái | ANTT | 8.57
+2 | 14521162 | Huỳnh Huy Hiệp | ANTT | 8.44
+3 | 14520044 | Trịnh Nguyên Bác | ANTT | 8.14
+4 | 14520065 | Vũ Thái Bảo | ANTT | 8.12
+5 | 14521187 | Nguyễn Trần Hoàng Tôn | ANTT | 8.02
+6 | 14520249 | Nguyễn Hữu Hân | ANTT | 7.92
+7 | 14520479 | Nguyễn Thành Lộc | ANTT | 7.92
+8 | 14520574 | Lê Thị Châu Ngân | ANTT | 7.91
+9 | 14520686 | Trương Vĩnh Phú | ANTT | 7.84
+10 | 14520423 | Ngô Khánh Khoa | ANTT | 7.72
+11 | 14521101 | Nguyễn  Phi Hoàng Vũ | ANTT | 7.57
+KHOA HỌC MÁY TÍNH 2014 (ĐK: TB chung tích lũy>=7.5)
+STT | MSSV | HỌ TÊN | NV1 | NV2 | Điểm   tích lũy  | Ghi chú
+1 | 14520071 | Nguyễn Đức Bình | KHMT | ANTT | 9.22
+2 | 14520956 | Hoàng Hữu Tín | KHMT | 8.84
+3 | 14520070 | Nguyễn An Bình | KHMT | ANTT | 8.84
+4 | 14520320 | Trịnh Mẫn Hoàng | KHMT | 8.61
+5 | 14520002 | Đỗ Phú An | KHMT | 8.61
+6 | 14521106 | Lâm Hàn Vương | KHMT | 8.27
+7 | 14520608 | Phan Đình Nguyên | KHMT | 8.27
+8 | 14520602 | Nguyễn Thành Nguyên | KHMT | 8.21
+9 | 14521097 | Triệu Tráng Vinh | KHMT | ANTT | 8.18
+10 | 14520811 | Hoàng Ngọc Thạch | KHMT | 8.18
+11 | 14520247 | Trần Xuân Hải | KHMT | 7.98
+12 | 14520123 | Vũ Minh Đại | KHMT | ANTT | 7.81
+13 | 14520932 | Lê Thị Ngọc Thúy | KHMT | 7.76
+14 | 14520522 | Lê Anh Minh | KHMT | 7.75
+15 | 14520874 | Trương Vĩ Thiên | KHMT | 7.7
+16 | 14520478 | Lê Phước Lộc | KHMT | 7.65
+KHOA HỌC MÁY TÍNH 2013 (ĐK: TB chung tích lũy>=7.5)
+STT | MSSV | HỌ TÊN | NV1 | NV2 | Điểm   tích lũy  | Ghi chú
+1 | 13520045 | Trần Ngọc Bắc | KHMT | 8.34
+2 | 13520900 | Nguyễn Xuân Toản | KHMT | 7.59
+3 | 13520154 | Nguyễn Nhật Duy | KHMT | 7.53
+NGÀNH | KHÓA | TỔNG
+KHMT | 2015 | 40
+2014 | 16
+2013 | 3
+ANTT | 2015 | 24
+2014 | 11
+TỔNG | 94
+
+============================================================
+SHEET: Sheet3
+============================================================
+
+
+--------------------------------------------------------------------------------

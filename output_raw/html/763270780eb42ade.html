@@ -1,0 +1,11 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">/* Translation data for theme 8 (en)*/
+const data = {"en":{}};
+
+for (let lang in data){
+  let cursor = I18n.translations;
+  for (let key of [lang, "js", "theme_translations"]){
+    cursor = cursor[key] ??= {};
+  }
+  cursor[8] = data[lang];
+}
+</pre></body></html>

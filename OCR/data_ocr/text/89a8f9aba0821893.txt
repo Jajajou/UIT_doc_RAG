@@ -1,0 +1,43 @@
+ĐỀ TÀI
+THIẾT KẾ SOC TÍCH HỢP RISC-V VÀ BỘ ĐỒNG XỬ LÝ
+THẦN KINH CÓ KHẢ NĂNG HỌC THEO THỜI GIAN THỰC
+ỨNG DỤNG TRONG THIẾT BỊ PHÁT HIỆN NỒNG ĐỘ CỒN
+GẮN TRÊN PHƯƠNG TIỆN CÁ NHÂN
+I. GIỚI THIỆU
+Thiết bị được thiết kế với các khối chức năng chính bao gồm bộ phận
+cảm biến để thu thập tín hiệu từ môi trường, bộ xử lý trung tâm để phân
+tích dữ liệu. Dữ liệu sau khi được xử lý sẽ quyết định phản ứng của thiết
+bị, như phát cảnh báo hoặc ngắt hoạt động của phương tiện khi phát
+hiện dấu hiệu bất thường, góp phần nâng cao an toàn giao thông.
+II. NGUYÊN LÍ HOẠT ĐỘNG
+3. PHÂN LOẠI MỨC CỒN DỰA TRÊN NGƯỠNG LOGIC
+1. CẢM BIẾN NỒNG ĐỘ CỒN
+Hệ thống phân ba ngưỡng: ngưỡng dưới coi như
+Tín hiệu điện áp đầu ra từ cảm biến MQ-3,
+không có cồn, ngưỡng trên là vượt mức cho phép
+tương ứng với nồng độ cồn trong hơi thở.
+và sẽ khóa đề xe. Ngưỡng giữa được xem là vùng
+Thời điểm đo và trạng thái trước đó, hỗ trợ
+nghi ngờ, hệ thống sẽ dựa vào tín hiệu trước đó để
+PMU điều chỉnh tiết kiệm năng lượng.
+phân tích nhằm tránh nhiễu và phản ứng sai
+2. CHUYỂN ĐỔI TÍN HIỆU ANALOG THÀNH
+4. CẢNH BÁO VÀ NGẮT MẠCH ĐỀ
+DIGITAL BẰNG ADC TRONG VI ĐIỀU KHIỂN
+Hệ thống phân loại tình trạng theo hai mức: Mức 0
+Tín hiệu điện áp từ cảm biến được chuyển là bình thường, không can thiệp; Mức 1 sẽ cảnh
+sang dạng số qua ADC nội bộ của vi điều báo bằng đèn LED và ngắt rơle đề để tắt máy khi
+khiển. Sau đó, bộ so sánh ngưỡng tích hợp phát hiện nồng độ cồn vượt ngưỡng. Khi không có
+bên trong logic xác định mức độ nồng độ cồn, thiết bị tự chuyển sang chế độ tiết kiệm điện
+cồn theo các ngưỡng thiết lập sẵn để duy trì hoạt động lâu dài.
+III. KẾT LUẬN
+Thiết bị phát hiện nồng độ cồn tích hợp xử lý thông minh
+không chỉ góp phần nâng cao an toàn giao thông mà còn
+mở ra hướng đi mới trong việc ứng dụng công nghệ thần
+kinh nhân tạo vào đời sống. Với khả năng phản ứng nhanh,
+học thích nghi và tiết kiệm năng lượng, hệ thống là giải
+THỰC HIỆN
+pháp tiềm năng để giảm thiểu tai nạn do rượu bia và xây
+LÊ VĂN LỢI
+dựng một môi trường giao thông an toàn, hiện đại hơn.
+NGUYỄN NGỌC HỒNG NHƯ

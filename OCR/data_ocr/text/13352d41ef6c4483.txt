@@ -1,0 +1,165 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2 - NĂM HỌC 2024-2025
+CHƯƠNG TRÌNH CHẤT LƯỢNG CAO
+Thời gian bắt đầu Hội đồng chấm TTDN CLC: Chiều từ 13h30, thứ Ba ngày 08/07/2025
+Địa điểm: Phòng E6.1 và E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút/ đề tài 1-2 SV. Sinh viên có mặt trước giờ báo cáo 15 phút để chuẩn bị.
+STT báo
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Phòng
+cáo
+Phòng E6.1
+ThS. Phạm Minh STT 1
+1 19522004 Ngô Ngọc Phi FPT Software ( Fosft-FA) E6.1
+Quân 13h30
+ThS. Phạm Minh STT 2
+2 20522156 Võ Quốc Việt Nhận diện biển số xe bằng Python Công ty TNHH MẠCH SỐ NÉT E6.1
+Quân 13h40
+Thiết kế CMOS và ứng dụng trong dự án thực ThS. Phạm Minh STT 3
+3 21520240 Hà Việt Hoàng Mixel Việt Nam E6.1
+tế Quân 13h50
+Trần Nguyễn Nhựt Hệ thống giáo dục và đào tạo thông minh trong ThS. Phạm Minh STT 4
+4 21520441 Công ty TNHH MTV HDFPV E6.1
+Tâm lĩnh vực drone Quân 14h00
+Nghiên cứu vi điều khiển S32K144EVB và ứng ThS. Phạm Minh STT 5
+5 21520608 Lê Trần Thái Bảo FPT SOFTWARE E6.1
+dụng làm dự án máy đếm sản phẩm Quân 14h10
+Thiết kế giao diện trang web checksheet cho ThS. Phạm Minh STT 6
+6 21521011 Phạm Lê Minh Khôi Công ty cổ phần i-Soft E6.1
+nhà máy Quân 14h20
+ThS. Phạm Minh STT 7
+7 21521058 Phan Hoài Lâm Thiết kế vật lý cho khối SPI Wrapper Atron Technologies E6.1
+Quân 14h30
+XÂY DỰNG TAG MANAGEMENT, LINT CÔNG TY TNHH CÔNG NGHỆ ThS. Phạm Minh STT 8
+8 21521060 Trần Thái Nhât Lâm E6.1
+CHECK, SYNTHESIS VÀ DESIGN KIT FARADAY VIỆT NAM Quân 14h40
+Page 1 of 4
+
+STT báo
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Phòng
+cáo
+Bosch Global Software Technologies ThS. Phạm Minh STT 9
+9 21521068 Trương Tuấn Lân Phát triển Flash Bootloader trên hệ thống ô tô E6.1
+Vietnam Quân 14h50
+ThS. Phạm Minh STT 10
+10 21521208 Trần Lê Nguyễn Design Verification Fundamental TRESemi E6.1
+Quân 15h00
+TÌM HIỂU QUY TRÌNH PHÁT TRIỂN PHẦN
+EMTEK Electric Automobile ThS. Phạm Minh STT 11
+11 21521337 Lê Công Quang MỀM, VĂN HÓA LÀM VIỆC VÀ NỀN E6.1
+Technology Development Quân 15h10
+TẢNG KỸ THUẬT HỆ THỐNG NHÚNG
+PHÁT TRIỂN THIẾT BỊ KIỂM THỬ CAN Bosch Global Software Technologies ThS. Phạm Minh STT 12
+12 21521436 Đặng Minh Thành E6.1
+BOX CHO XE HAI BÁNH Vietnam Quân 15h20
+XÂY DỰNG HỆ THỐNG MÀN NƯỚC Công ty TNHH Smart Vision ThS. Phạm Minh STT 13
+13 21521854 Nguyễn Hoàng Bảo E6.1
+NGHỆ THUẬT Technology Quân 15h30
+ThS. Phạm Minh STT 14
+14 21521913 Lương Văn Đại Central Gateway Bosch Global Software Technologies E6.1
+Quân 15h40
+NGHIÊN CỨU XÂY DỰNG MÔI TRƯỜNG Công ty TNHH Công nghệ Faraday ThS. Phạm Minh STT 15
+15 21521966 Phạm Trí Đức E6.1
+KIỂM TRA THIẾT KẾ SỬ DỤNG UVM Việt Nam Quân 15h50
+Thái Bình Dương ThS. Phạm Minh STT 16
+16 21521206 E6.1
+Nguyên Quân 16h00
+XÂY DỰNG HỆ THỐNG ĐIỀU KHIỂN ĐÈN Công Ty TNHH Công nghệ Tầm
+DMX512 nhìn thông minh SmartVision
+Danh Nguyễn Thành ThS. Phạm Minh STT 17
+17 21522585 E6.1
+Thắng Quân 16h10
+ThS. Phạm Minh STT 18
+18 19521391 Lê Tiến Dũng E6.1
+Quân 16h20
+ThS. Phạm Minh STT 19
+19 19521413 Trần Ngô Nam Dương E6.1
+Quân 16h30
+ThS. Phạm Minh STT 20
+20 19521915 Nguyễn Lê Nguyên E6.1
+Quân 16h40
+ThS. Phạm Minh STT 21
+21 20520466 Cao Nhất Duy E6.1
+Quân 16h50
+ThS. Phạm Minh STT 22
+22 20521152 Võ Cao Cường E6.1
+Quân 17h00
+Page 2 of 4
+
+STT báo
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Phòng
+cáo
+Phòng E6.3
+Nghiên cứu xây dụng môi trường kiểm tra thiết ThS. Phạm Minh STT 1
+1 21521979 Nguyễn Xuân Dũng Synopsys Vietnam E6.3
+kế IP Watchdog Timer sử dụng UVM Quân 13h30
+XÂY DỰNG AXI 4 INTERCONNECTION, CÔNG TY TNHH CÔNG NGHỆ ThS. Phạm Minh STT 2
+2 21521980 Phạm Tiến Dũng E6.3
+LINT CHECK, SYNTHESIS VÀ DESIGN KIT FARADAY VIỆT NAM Quân 13h40
+ThS. Phạm Minh STT 3
+3 21522060 Lê Văn Hiển Testing Regression Radar Project for MMC Bosch Global Software Technology E6.3
+Quân 13h50
+Tìm hiểu về mạng 5G và thiết kế mạch nghịch TỔNG CÔNG TY CÔNG NGHIỆP ThS. Phạm Minh STT 4
+4 21522097 Phạm Duy Hoàng E6.3
+đảo ma trận phức CÔNG NGHỆ CAO VIETTEL Quân 14h00
+Tìm Hiểu – Xây Dựng Tổng Đài Issabel Và Công ty Cổ Phần Công Nghệ Time ThS. Phạm Minh STT 5
+5 21522264 Trần Gia Kiệt E6.3
+Các Thiết Bị Mạng True Life Quân 14h10
+HIỆN THỰC MÔ HÌNH HỆ THỐNG TƯỚI Công ty TNHH Thương Mại Kỹ ThS. Phạm Minh STT 6
+6 21522293 Nguyễn Minh Lộc E6.3
+CÂY TỰ ĐỘNG TRONG NHÀ thuật lạnh Khang Phát Quân 14h20
+AUTOMATION SOFTWARE FOR
+Bosch Global Software Technologies ThS. Phạm Minh STT 7
+7 21522459 Nguyễn Thanh Phong DIAGNOSTIC COMMUNICATION E6.3
+VietNam Quân 14h30
+MANAGER IN AUTOSAR
+SYNOPSYS INTENSIVE TRAINING ThS. Phạm Minh STT 8
+8 21522526 Nguyễn Anh Quốc Synopsys E6.3
+PROGRAM Quân 14h40
+TÌM HIỂU QUY TRÌNH THIẾT KẾ CHIP ThS. Phạm Minh STT 9
+9 21522554 Nguyễn Đình Sơn Global Unichip Corporation E6.3
+QUA CÁC GIAI ĐOẠN STA/PD/DFT Quân 14h50
+Trương Hữu Trường ĐIỀU KHIỂN ĐỘNG CƠ DC SỬ DỤNG ThS. Phạm Minh STT 10
+10 21522559 Công ty TNHH Phần mềm FPT E6.3
+Sơn FLEXTIMER VÀ UART Quân 15h00
+NGHIÊN CỨU VÀ THIẾT KẾ VI MẠCH
+Công Ty TNHH Công Nghệ Faraday ThS. Phạm Minh STT 11
+11 21522602 Phạm Công Thành PHỤC VỤ QUÁ TRÌNH KIỂM TRA CHIP E6.3
+Việt Nam Quân 15h10
+BỘ NHỚ
+TÌM HIỂU VÀ THIẾT KẾ HỆ THỐNG Công Ty Cổ Phần Công Nghệ ThS. Phạm Minh STT 12
+12 21522703 Lê Đức Trí E6.3
+CHATBOT HỖ TRỢ NGƯỜI DÙNG Neurond - Neurond Technology JSC Quân 15h20
+Page 3 of 4
+
+STT báo
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Phòng
+cáo
+Phạm Phương Minh XÂY DỰNG VÀ TRIỂN KHAI CHATBOT ThS. Phạm Minh STT 13
+13 21522708 VNG Corporation E6.3
+Trí PHỤC VỤ NỘI BỘ TẠI VNG Quân 15h30
+Thiết kế, lập trình, và kiểm thử hệ thống thanh ThS. Phạm Minh STT 14
+14 21522766 Vũ Anh Tuấn FPT Software E6.3
+toán Quân 15h40
+THIẾT KẾ UVM TESTBENCH CHO ThS. Phạm Minh STT 15
+15 21522805 Phạm Long Vũ TRESEMI ORGANIZATION E6.3
+MODULE SPI VÀ APB Quân 15h50
+ThS. Phạm Minh STT 16
+16 21520880 Nguyễn Sinh Học E6.3
+Quân 16h00
+Nguyễn Công Tuấn ThS. Phạm Minh STT 17
+17 21521828 E6.3
+Anh Quân 16h10
+Phan Nguyễn Quốc ThS. Phạm Minh STT 18
+18 21521908 E6.3
+Cường Quân 16h20
+ThS. Phạm Minh STT 19
+19 21522147 Lê Quang Huy E6.3
+Quân 16h30
+ThS. Phạm Minh STT 20
+20 21522450 Trần Văn Phát E6.3
+Quân 16h40
+ThS. Phạm Minh STT 21
+21 21522451 Trịnh Tiến Phát E6.3
+Quân 16h50
+Page 4 of 4

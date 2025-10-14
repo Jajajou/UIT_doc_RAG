@@ -1,0 +1,69 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH PHẢN BIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2023 - 2024
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN MÃ CBPB Ghi chú
+BIỆN
+Nghiên cứu thiết kế hệ thống giám Research and design of the
+18521380, Huỳnh Quang Thái, TS. Nguyễn Minh
+1 sát chất lượng công việc của thợ sửa monitoring system based on 80038 Phan Đình Duy CQĐT
+18521369 Nguyễn Văn Thiện Tâm Sơn
+chữa điện dựa trên nền tảng IoT IoT flatform for electrician
+Design an EDA tool to do
+Thiết kế một EDA Tool để thực hiện TS. Nguyễn Minh
+2 19521211 Tào Viễn Hoàng Anh the Scan insertion in DFT 80447 Đoàn Duy CLC-VN
+chèn Scan trong bước DFT Sơn
+step
+Traffic sign recognition
+Hệ thống nhận diện biển báo giao TS. Nguyễn Minh
+3 19520627 Phan Công Duy Khiêm system applying SoC 80337 Trịnh Lê Huy CLC-VN
+thông ứng dụng công nghệ SoC Sơn
+technology
+Research, design and
+Nghiên cứu, thiết kế, hiện thực giải
+19520369, Nguyễn Lê Hoài Ân, implementing Deep Q- TS. Nguyễn Minh
+4 thuật Deep Q-Network (DQN) sử 80337 Trịnh Lê Huy CLC-VN
+19522022 Nguyễn Đình Phú Network (DQN) algorithm Sơn
+dụng công nghệ SoC
+using SoC technology
+Determination of eggs
+19521831, Vũ Văn Mạnh, Xác định chất lượng trứng dùng cảm TS. Phạm Quốc
+5 quality using optical sensor 80038 Phan Đình Duy CLC-VN
+19522152 Nguyễn Duy Tài biến quang và AI Hùng
+and AI
+Page 1 of 2
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN MÃ CBPB Ghi chú
+BIỆN
+ThS. Trần Quang
+Thiết kế và xây dựng cánh tay robot Design and build 3 DOF
+Nguyên,
+6 19521249 Nguyễn Mạnh Bảo 3 trục - Ứng dụng trong dây chuyền robotic arm – Application in 80385 Phạm Minh Quân CLC-VN
+TS. Phạm Quốc
+công nghiệp production line
+Hùng
+ThS Trương Văn
+Hệ thống quản lý nhân viên bằng mã Employee Management Cương,
+7 19521333 Ngô Mẫn Đạt 80549 Trần Thị Điểm CLC-VN
+QR System by QR Code ThS. Hồ Ngọc
+Diễm
+Hệ thống giám sát, quản lý, kiểm System for monitoring, TS. Phạm Quốc
+soát các thiết bị điện, hướng tới managing, and controlling Hùng,
+8 20521349 Phan Nhật Hoàng 80447 Đoàn Duy CLC-VN
+phân tích dữ liệu và hành vi người electrical devices; analyze ThS. Phan Đình
+dùng data and user behavior Duy
+Thiết kế hệ thống phát hiện làn Design lane detector system
+9 19521200 Nguyễn Nguyễn Nhật Anh đường cho xe tự hành dựa trên phần for autonomous vehicles TS. Lâm Đức Khải 80385 Phạm Minh Quân CQĐT
+cứng based on hardware
+Design, fabrication and
+Lê Chu Khánh Toàn Thiết kế, chế tạo và đo đạc rectenna
+measurement of a
+20522023, (CLC), tái cấu hình và đề xuất cấu trúc vi
+10 reconfigurable rectenna and TS. Trịnh Lê Huy 80549 Trần Thị Điểm CLC-VN
+20520882 Phạm Ngọc Lan Anh mạch của mạch chỉnh lưu tái cấu
+a proposal of reconfigurable
+(CQĐT) hình.
+rectifier IC structure
+Page 2 of 2

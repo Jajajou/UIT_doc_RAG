@@ -1,0 +1,211 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">define("discourse-mf", ["@messageformat/runtime/messages", "@messageformat/runtime", "@messageformat/runtime/lib/cardinals"], function (_messages, _runtime, _cardinals) {
+  "use strict";
+
+  const msgData = {
+    en: {
+      "about.traffic_info_footer_MF": d =&gt; "In the last 6 months, this site has served content to an estimated " + (0, _runtime.plural)(d.total_visitors, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.total_visitors, 0) + " people",
+        other: (0, _runtime.number)("en", d.total_visitors, 0) + " people"
+      }) + " each month, with an estimated " + (0, _runtime.plural)(d.eu_visitors, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.eu_visitors, 0) + " people",
+        other: (0, _runtime.number)("en", d.eu_visitors, 0) + " people"
+      }) + " from the European Union.\n",
+      "about.activities.visitors_MF": d =&gt; (0, _runtime.plural)(d.total_count, 0, _cardinals.en, {
+        one: d.total_formatted_number + " visitor",
+        other: d.total_formatted_number + " visitors"
+      }) + ", about " + (0, _runtime.plural)(d.eu_count, 0, _cardinals.en, {
+        one: d.eu_formatted_number,
+        other: d.eu_formatted_number
+      }) + " from the EU\n",
+      "user.messages.read_more_group_pm_MF": d =&gt; (0, _runtime.select)(d.HAS_UNREAD_AND_NEW, {
+        true: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;",
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;"
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: " and &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; message remaining, or browse other messages in " + d.groupLink,
+          other: " and &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; messages remaining, or browse other messages in " + d.groupLink
+        }) + "\n  ",
+        false: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; message remaining, or browse other messages in " + d.groupLink,
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; messages remaining, or browse other messages in " + d.groupLink
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; message remaining, or browse other messages in " + d.groupLink,
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/group/" + d.groupName + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; messages remaining, or browse other messages in " + d.groupLink
+        }) + "\n  ",
+        other: ""
+      }) + "\n",
+      "user.messages.read_more_personal_pm_MF": d =&gt; (0, _runtime.select)(d.HAS_UNREAD_AND_NEW, {
+        true: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;",
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;"
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: " and &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; message remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;",
+          other: " and &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; messages remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;"
+        }) + "\n  ",
+        false: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; message remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;",
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; messages remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;"
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; message remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;",
+          other: "There are &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; messages remaining, or browse other &lt;a href=\"" + d.basePath + "/u/" + d.username + "/messages\"&gt;personal messages&lt;/a&gt;"
+        }) + "\n  ",
+        other: ""
+      }) + "\n",
+      "user.invited.invite.link_validity_MF": d =&gt; "Link is valid for up to " + (0, _runtime.plural)(d.user_count, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.user_count, 0) + " user",
+        other: (0, _runtime.number)("en", d.user_count, 0) + " users"
+      }) + " and expires in " + (0, _runtime.plural)(d.duration_days, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.duration_days, 0) + " day",
+        other: (0, _runtime.number)("en", d.duration_days, 0) + " days"
+      }) + ".\n",
+      "logs_error_rate_notice.reached_hour_MF": d =&gt; "&lt;b&gt;" + d.relativeAge + "&lt;/b&gt; – &lt;a href=\"" + d.url + "\" target=\"_blank\"&gt;" + (0, _runtime.plural)(d.rate, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.rate, 0) + " error/hour",
+        other: (0, _runtime.number)("en", d.rate, 0) + " errors/hour"
+      }) + "&lt;/a&gt; reached site setting limit of " + (0, _runtime.plural)(d.limit, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.limit, 0) + " error/hour",
+        other: (0, _runtime.number)("en", d.limit, 0) + " errors/hour"
+      }) + ".\n",
+      "logs_error_rate_notice.reached_minute_MF": d =&gt; "&lt;b&gt;" + d.relativeAge + "&lt;/b&gt; – &lt;a href=\"" + d.url + "\" target=\"_blank\"&gt;" + (0, _runtime.plural)(d.rate, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.rate, 0) + " error/minute",
+        other: (0, _runtime.number)("en", d.rate, 0) + " errors/minute"
+      }) + "&lt;/a&gt; reached site setting limit of " + (0, _runtime.plural)(d.limit, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.limit, 0) + " error/minute",
+        other: (0, _runtime.number)("en", d.limit, 0) + " errors/minute"
+      }) + ".\n",
+      "logs_error_rate_notice.exceeded_hour_MF": d =&gt; "&lt;b&gt;" + d.relativeAge + "&lt;/b&gt; – &lt;a href=\"" + d.url + "\" target=\"_blank\"&gt;" + (0, _runtime.plural)(d.rate, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.rate, 0) + " error/hour",
+        other: (0, _runtime.number)("en", d.rate, 0) + " errors/hour"
+      }) + "&lt;/a&gt; exceeded site setting limit of " + (0, _runtime.plural)(d.limit, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.limit, 0) + " error/hour",
+        other: (0, _runtime.number)("en", d.limit, 0) + " errors/hour"
+      }) + ".\n",
+      "logs_error_rate_notice.exceeded_minute_MF": d =&gt; "&lt;b&gt;" + d.relativeAge + "&lt;/b&gt; – &lt;a href=\"" + d.url + "\" target=\"_blank\"&gt;" + (0, _runtime.plural)(d.rate, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.rate, 0) + " error/minute",
+        other: (0, _runtime.number)("en", d.rate, 0) + " errors/minute"
+      }) + "&lt;/a&gt; exceeded site setting limit of " + (0, _runtime.plural)(d.limit, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.limit, 0) + " error/minute",
+        other: (0, _runtime.number)("en", d.limit, 0) + " errors/minute"
+      }) + ".\n",
+      "summary.description_time_MF": d =&gt; "There " + (0, _runtime.plural)(d.replyCount, 0, _cardinals.en, {
+        one: "is &lt;b&gt;" + (0, _runtime.number)("en", d.replyCount, 0) + "&lt;/b&gt; reply",
+        other: "are &lt;b&gt;" + (0, _runtime.number)("en", d.replyCount, 0) + "&lt;/b&gt; replies"
+      }) + " with an estimated read time of &lt;b&gt;" + (0, _runtime.plural)(d.readingTime, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.readingTime, 0) + " minute",
+        other: (0, _runtime.number)("en", d.readingTime, 0) + " minutes"
+      }) + "&lt;/b&gt;.\n",
+      "topic.read_more_MF": d =&gt; (0, _runtime.select)(d.HAS_UNREAD_AND_NEW, {
+        true: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;",
+          other: "There are &lt;a href=\"" + d.basePath + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt;"
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: " and &lt;a href=\"" + d.basePath + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; topic remaining,",
+          other: " and &lt;a href=\"" + d.basePath + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; topics remaining,"
+        }) + "\n  ",
+        false: "\n    " + (0, _runtime.plural)(d.UNREAD, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; topic remaining,",
+          other: "There are &lt;a href=\"" + d.basePath + "/unread\"&gt;" + (0, _runtime.number)("en", d.UNREAD, 0) + " unread&lt;/a&gt; topics remaining,"
+        }) + "\n    " + (0, _runtime.plural)(d.NEW, 0, _cardinals.en, {
+          "0": "",
+          one: "There is &lt;a href=\"" + d.basePath + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; topic remaining,",
+          other: "There are &lt;a href=\"" + d.basePath + "/new\"&gt;" + (0, _runtime.number)("en", d.NEW, 0) + " new&lt;/a&gt; topics remaining,"
+        }) + "\n  ",
+        other: ""
+      }) + "\n" + (0, _runtime.select)(d.HAS_CATEGORY, {
+        true: " or browse other topics in " + d.categoryLink,
+        false: " or &lt;a href=\"" + d.basePath + "/latest\"&gt;view latest topics&lt;/a&gt;",
+        other: ""
+      }) + "\n",
+      "flagging.delete_confirm_MF": d =&gt; "You are about to delete " + (0, _runtime.plural)(d.POSTS, 0, _cardinals.en, {
+        one: "&lt;b&gt;" + (0, _runtime.number)("en", d.POSTS, 0) + "&lt;/b&gt; post",
+        other: "&lt;b&gt;" + (0, _runtime.number)("en", d.POSTS, 0) + "&lt;/b&gt; posts"
+      }) + " and " + (0, _runtime.plural)(d.TOPICS, 0, _cardinals.en, {
+        one: "&lt;b&gt;" + (0, _runtime.number)("en", d.TOPICS, 0) + "&lt;/b&gt; topic",
+        other: "&lt;b&gt;" + (0, _runtime.number)("en", d.TOPICS, 0) + "&lt;/b&gt; topics"
+      }) + " from this user, remove their account, block signups from their IP address &lt;b&gt;" + d.ip_address + "&lt;/b&gt;, and add their email address &lt;b&gt;" + d.email + "&lt;/b&gt; to a permanent block list. Are you sure this user is really a spammer?\n",
+      posts_likes_MF: d =&gt; (0, _runtime.plural)(d.count, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.count, 0) + " reply,",
+        other: (0, _runtime.number)("en", d.count, 0) + " replies,"
+      }) + (0, _runtime.select)(d.ratio, {
+        low: " high like to post ratio,",
+        med: " very high like to post ratio,",
+        high: " extremely high like to post ratio,",
+        other: ""
+      }) + " jump to the first or last post…\n",
+      "chat.mention_warning.groups.too_many_members_MF": d =&gt; (0, _runtime.plural)(d.groupCount, 0, _cardinals.en, {
+        "1": "\n          " + (0, _runtime.select)(d.isAdmin, {
+          true: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning @" + d.group1 + " exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning @" + d.group1 + " exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          false: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning @" + d.group1 + " exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning @" + d.group1 + " exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          other: ""
+        }) + "\n        ",
+        "2": "\n          " + (0, _runtime.select)(d.isAdmin, {
+          true: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning @" + d.group1 + " and @" + d.group2 + " exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning @" + d.group1 + " and @" + d.group2 + " exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          false: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning @" + d.group1 + " and @" + d.group2 + " exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning @" + d.group1 + " and @" + d.group2 + " exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          other: ""
+        }) + "\n        ",
+        other: "\n          " + (0, _runtime.select)(d.isAdmin, {
+          true: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning these " + d.groupCount + " groups exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning these " + d.groupCount + " groups exceeds the &lt;a href=\"" + d.siteSettingUrl + "\" target=\"_blank\"&gt;notification limit&lt;/a&gt; of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          false: "\n              " + (0, _runtime.plural)(d.notificationLimit, 0, _cardinals.en, {
+            one: "Mentioning these " + d.groupCount + " groups exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " user.",
+            other: "Mentioning these " + d.groupCount + " groups exceeds the notification limit of " + (0, _runtime.number)("en", d.notificationLimit, 0) + " users."
+          }) + "\n            ",
+          other: ""
+        }) + "\n        "
+      }) + "\n",
+      "chat.create_channel.auto_join_users.warning_multiple_groups_MF": d =&gt; (0, _runtime.plural)(d.groupCount, 0, _cardinals.en, {
+        one: "\n          " + (0, _runtime.plural)(d.userCount, 0, _cardinals.en, {
+          one: "Automatically add " + d.userCount + " user from " + d.groupName + " and " + d.groupCount + " other group?",
+          other: "Automatically add " + d.userCount + " users from " + d.groupName + " and " + d.groupCount + " other group?"
+        }) + "\n        ",
+        other: "\n          " + (0, _runtime.plural)(d.userCount, 0, _cardinals.en, {
+          one: "Automatically add " + d.userCount + " user from " + d.groupName + " and " + d.groupCount + " other groups?",
+          other: "Automatically add " + d.userCount + " users from " + d.groupName + " and " + d.groupCount + " other groups?"
+        }) + "\n        "
+      }) + "\n",
+      "admin.user.penalty_history_MF": d =&gt; "In the past 6 months this user has been &lt;b&gt;suspended " + (0, _runtime.plural)(d.SUSPENDED, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.SUSPENDED, 0) + " time",
+        other: (0, _runtime.number)("en", d.SUSPENDED, 0) + " times"
+      }) + "&lt;/b&gt; and &lt;b&gt;silenced " + (0, _runtime.plural)(d.SILENCED, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.SILENCED, 0) + " time",
+        other: (0, _runtime.number)("en", d.SILENCED, 0) + " times"
+      }) + "&lt;/b&gt;.",
+      "admin.user.delete_all_posts_confirm_MF": d =&gt; "You are about to delete " + (0, _runtime.plural)(d.POSTS, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.POSTS, 0) + " post",
+        other: (0, _runtime.number)("en", d.POSTS, 0) + " posts"
+      }) + " and " + (0, _runtime.plural)(d.TOPICS, 0, _cardinals.en, {
+        one: (0, _runtime.number)("en", d.TOPICS, 0) + " topic",
+        other: (0, _runtime.number)("en", d.TOPICS, 0) + " topics"
+      }) + ". Are you sure?\n"
+    }
+  };
+  const messages = new _messages.default(msgData, "vi");
+  messages.defaultLocale = "en";
+  globalThis.I18n._mfMessages = messages;
+});
+require("discourse-mf");
+</pre></body></html>

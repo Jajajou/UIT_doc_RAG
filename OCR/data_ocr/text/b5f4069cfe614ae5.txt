@@ -1,0 +1,120 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH PHẢN BIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2024 - 2025
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Nghiên cứu và thiêt kế ứng dụng Edge Research and design of Edge AI
+ThS. Trương Văn Cương, TS. Phạm Quốc
+1 20521194 Nguyễn Anh Đức AI trong hệ thống báo cháy đa năng cho applications in multifunctional fire CLC-VN
+TS. Đỗ Trí Nhựt Hùng
+tòa nhà alarm systems for buildings
+20521195 Nguyễn Anh Đức Thiết kế cảm biến áp suất điện dung Design of MEMS capacitive pressure TS. Trần Quang
+2 ThS. Hồ Ngọc Diễm CLC-VN
+MEMS cho thiết bị đo huyết áp sensor for blood pressure monitor Nguyên
+20521283 Trần Văn Hải
+Thiết kế vậy lý vi điều khiển sử dụng Physical design of RISC-V ThS. Phạm Minh Quân,
+3 20521969 Trần Quốc Thịnh TS. Trần Thị Điểm CLC-VN
+lõi RISC-V microcontroller ThS. Tạ Trí Đức
+Design multiplanar data
+Thiết kế IP chuyển đổi dữ liệu đa mặt
+transformation IP for camera and TS. Phạm Quốc Hùng, ThS. Ngô Hiếu
+4 21521104 Võ Thành Long phẳng cho luồng dữ liệu tuần tự từ CLC-VN
+sensor serial streams in automotive ThS. Phan Đình Duy Trường
+camera và cảm biến trong chip ô tô
+system on chip
+Thiết kế bộ quản lý năng lượng, clock, Design power clock reset (PCR) TS. Phạm Quốc Hùng, ThS. Ngô Hiếu
+5 21521357 Lê Đại Quốc CLC-VN
+reset cho SoC trong xe hơi management for autommotive SoC ThS. Phan Đình Duy Trường
+Nghiên cứu, thử nghiệm hệ thống điểm Research and test the attendance
+19522185 Lê Trịnh Phong Thái TS. Phạm Quốc Hùng, ThS. Trần Hoàng
+6 danh bằng thẻ sinh viên và quét khuôn system using student cards and facial CLC-VN
+ThS. Phan Đình Duy Lộc
+mặt để nhận dạng scanning for identification
+19522320 Đỗ Trí Thức
+Using quantization aware training
+Ứng dụng kỹ thuật lượng tử hóa trong
+21521535 Bùi Anh Tiệp (CQĐT) technique to enhance performance of TS. Phạm Quốc Hùng, ThS. Phạm Minh
+7 huấn luyện cho mô hình học sâu trên hệ CQĐT
+deep learning model for ADAS ThS. Phan Đình Duy Quân
+Trần Thị Thanh Dung thống ADAS
+system
+21521984 (CLC)
+Page 1 of 3
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Xây dựng chương trình điều khiển màn
+21522764 Trần Anh Tuấn Building a program to control a water ThS. Phạm Minh
+8 nước nghệ thuật từ xa trên Kit ThS. Phan Đình Duy CQĐT
+curtain remotely on a Raspberry Quân
+Raspberry
+21522571 Lê Trần Mạnh Tâm
+Monitoring and rainfall prediction
+Hệ thống giám sát và dự báo lượng mưa
+9 21521548 Nguyễn Tiến Toàn system for the north central TS. Đoàn Duy ThS. Phan Đình Duy CQĐT
+các tỉnh bắc trung bộ
+provinces.
+Nguyễn Hoàng Khánh
+21522002 Duy Thiết kế thiết bị thu thập chất lượng Design of an indoor air quality ThS. Trương Văn CQĐT,
+10 TS.Trịnh Lê Huy
+không khí trong nhà acquisition device Cương Đổi tên đề tài
+21521036 Nguyễn Tuấn Kiệt
+Research and application of Antenna
+Nghiên cứu, ứng dụng công nghệ
+in Package (AIP) technology in the ThS. Trương Văn
+11 21522760 Phan Thanh Tuấn Antenna in Package (AIP) vào việc chế TS. Trịnh Lê Huy CQĐT
+manufacturing and packaging of Cương
+tạo và đóng gói module tinyGS
+tinyGS modules
+Research and innovation in human
+21522426 Lê Thị Phương Nhi Nghiên cứu và đổi mới thuật toán theo TS. Nguyễn Minh Sơn,
+12 tracking algorithm for Elderly Care ThS. Phan Đình Duy CQĐT
+dõi con người trong Elderly Care robot KS. Thân Thế Tùng
+robot
+21520457 Võ Đông Thành
+19521384 Vũ Anh Đức Thiết kế phần cứng nhận diện biển báo Hardware design for traffic sign
+13 TS. Lâm Đức Khải ThS. Tạ Trí Đức CQĐT
+giao thông recognition
+19522367 Trần Ngọc Toản
+Tối ưu hệ thống SoC cho bài toán phân Optimization of SoC system for
+ThS. Trần Văn
+14 20521590 Trần Quốc Lượng loại ảnh dựa trên thuật toán phân rã image classification problem based on TS. Trần Thị Điểm CLC-VN
+Quang
+Tucker Tucker decomposition algorithm
+Non-invasive blood glucose
+Đo đường huyết không xâm lấn sử dụng
+measurement using near – infrared ThS. Nguyễn Duy
+15 21522103 Võ Huy Hoàng quang phổ cận hồng ngoại và trí tuệ TS. Phạm Quốc Hùng CLC-VN
+(NIR) spectroscopy and artifical Xuân Bách
+nhân tạo
+intelligence (AI)
+Thiết kế IP phần cứng nhận diện biển Hardware IP design for traffic sign CLC-VN,
+16 20522078 Trần Tiến Trung TS. Lâm Đức Khải ThS. Tạ Trí Đức
+báo giao thông recognition Gia hạn
+Page 2 of 3
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Thiết kế và hiện thực IP phần cứng Design and implementation of license CQĐT,
+17 20521727 Trần Bảo Nhung TS. Lâm Đức Khải ThS. Hồ Ngọc Diễm
+nhận diện biển số xe plate recognition hardware IP Gia hạn
+20520646 Võ Nhật Nam
+Thiết kế và hiện thực IP phần cứng đo Design and implementation of vehicle CQĐT,
+18 TS. Lâm Đức Khải ThS. Hồ Ngọc Diễm
+tốc độ xe speed measurement hardware IP Gia hạn
+20521737 Nguyễn Thành Phát
+Building an agricutural support
+Xây dựng hệ thống hỗ trợ nông nghiệp ThS. Nguyễn Duy CQĐT,
+19 20520555 Trần Trọng Huy system for application in tomato ThS. Phan Đình Duy
+ứng dụng trong vườn cà chua Xuân Bách Gia hạn
+gardens
+20521738 Nguyễn Thịnh Phát
+Nghiên cứu và thiết kế robot vận Research and design of robot to TS. Phạm Quốc CQĐT,
+20 TS. Đỗ Trí Nhựt
+chuyển tài liệu trong không gian kín transport documents in closed spaces Hùng Gia hạn
+20522051 Nguyễn Hữu Trí
+Page 3 of 3

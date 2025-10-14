@@ -1,0 +1,149 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2024 - 2025 - Thời gian bảo vệ: 21/01/2025
+Thời
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú Phòng Thứ tự gian bảo
+BIỆN
+vệ
+Phòng E6.1
+Thiết kế cảm biến áp suất điện Design of MEMS capacitive
+20521195 Nguyễn Anh Đức TS. Trần Quang
+1 dung MEMS cho thiết bị đo huyết pressure sensor for blood ThS. Hồ Ngọc Diễm CLC-VN E6.1 S1 8h00
+Nguyên
+áp pressure monitor
+20521283 Trần Văn Hải
+Lê Trịnh Phong
+Nghiên cứu, thử nghiệm hệ thống Research and test the attendance TS. Phạm Quốc
+19522185 Thái ThS. Trần Hoàng
+2 điểm danh bằng thẻ sinh viên và system using student cards and Hùng, CLC-VN E6.1 S2 8h30
+Lộc
+quét khuôn mặt để nhận dạng facial scanning for identification ThS. Phan Đình Duy
+19522320 Đỗ Trí Thức
+Non-invasive blood glucose
+Đo đường huyết không xâm lấn sử
+measurement using near – TS. Phạm Quốc ThS. Nguyễn Duy
+3 21522103 Võ Huy Hoàng dụng quang phổ cận hồng ngoại và CLC-VN E6.1 S3 9h00
+infrared (NIR) spectroscopy and Hùng Xuân Bách
+trí tuệ nhân tạo
+artifical intelligence (AI)
+Xây dựng hệ thống hỗ trợ nông Building an agricutural support
+ThS. Nguyễn Duy CQĐT,
+4 20520555 Trần Trọng Huy nghiệp ứng dụng trong vườn cà system for application in tomato ThS. Phan Đình Duy E6.1 S4 9h30
+Xuân Bách Gia hạn
+chua gardens
+Nghiên cứu và thiêt kế ứng dụng Research and design of Edge AI ThS. Trương Văn
+TS. Phạm Quốc
+5 20521194 Nguyễn Anh Đức Edge AI trong hệ thống báo cháy applications in multifunctional Cương, CLC-VN E6.1 S5 10h00
+Hùng
+đa năng cho tòa nhà fire alarm systems for buildings TS. Đỗ Trí Nhựt
+Nguyễn Thịnh
+20521738 Nghiên cứu và thiết kế robot vận Research and design of robot to
+Phát TS. Phạm Quốc CQĐT,
+6 chuyển tài liệu trong không gian transport documents in closed TS. Đỗ Trí Nhựt E6.1 S6 10h30
+Hùng Gia hạn
+kín spaces
+20522051 Nguyễn Hữu Trí
+Page 1 of 3
+
+Thời
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú Phòng Thứ tự gian bảo
+BIỆN
+vệ
+Bùi Anh Tiệp Using quantization aware
+Ứng dụng kỹ thuật lượng tử hóa TS. Phạm Quốc
+21521535 (CQĐT) training technique to enhance ThS. Phạm Minh
+7 trong huấn luyện cho mô hình học Hùng, CQĐT E6.1 C1 13h30
+performance of deep learning Quân
+Trần Thị Thanh sâu trên hệ thống ADAS ThS. Phan Đình Duy
+model for ADAS system
+21521984 Dung (CLC)
+Xây dựng chương trình điều khiển Building a program to control a
+21522764 Trần Anh Tuấn ThS. Phạm Minh
+8 màn nước nghệ thuật từ xa trên Kit water curtain remotely on a ThS. Phan Đình Duy CQĐT E6.1 C2 14h00
+Quân
+Lê Trần Mạnh Raspberry Raspberry
+21522571 Tâm
+Thiết kế IP chuyển đổi dữ liệu đa Design multiplanar data
+TS. Phạm Quốc
+mặt phẳng cho luồng dữ liệu tuần transformation IP for camera ThS. Ngô Hiếu
+9 21521104 Võ Thành Long Hùng, CLC-VN E6.1 C3 14h30
+tự từ camera và cảm biến trong and sensor serial streams in Trường
+ThS. Phan Đình Duy
+chip ô tô automotive system on chip
+Design power clock reset (PCR) TS. Phạm Quốc
+Thiết kế bộ quản lý năng lượng, ThS. Ngô Hiếu
+10 21521357 Lê Đại Quốc management for autommotive Hùng, CLC-VN E6.1 C4 15h00
+clock, reset cho SoC trong xe hơi Trường
+SoC ThS. Phan Đình Duy
+Phòng E6.3
+Optimization of SoC system for
+Tối ưu hệ thống SoC cho bài toán
+image classification problem ThS. Trần Văn
+1 20521590 Trần Quốc Lượng phân loại ảnh dựa trên thuật toán TS. Trần Thị Điểm CLC-VN E6.3 S1 8h00
+based on Tucker decomposition Quang
+phân rã Tucker
+algorithm
+ThS. Phạm Minh
+Thiết kế vậy lý vi điều khiển sử Physical design of RISC-V TS. Trần Thị
+2 20521969 Trần Quốc Thịnh Quân, CLC-VN E6.3 S2 8h30
+dụng lõi RISC-V microcontroller Điểm
+ThS. Tạ Trí Đức
+Design and implementation of
+Thiết kế và hiện thực IP phần cứng ThS. Hồ Ngọc CQĐT,
+3 20521727 Trần Bảo Nhung license plate recognition TS. Lâm Đức Khải E6.3 S3 9h00
+nhận diện biển số xe Diễm Gia hạn
+hardware IP
+20520646 Võ Nhật Nam Design and implementation of
+Thiết kế và hiện thực IP phần cứng ThS. Hồ Ngọc CQĐT,
+4 vehicle speed measurement TS. Lâm Đức Khải E6.3 S4 9h30
+Nguyễn Thành đo tốc độ xe Diễm Gia hạn
+20521737 hardware IP
+Phát
+Page 2 of 3
+
+Thời
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú Phòng Thứ tự gian bảo
+BIỆN
+vệ
+Nguyễn Hoàng
+CQĐT,
+21522002 Khánh Duy Thiết kế thiết bị thu thập chất Design of an indoor air quality ThS. Trương Văn
+5 TS.Trịnh Lê Huy Đổi tên E6.3 S5 10h00
+lượng không khí trong nhà acquisition device Cương
+Nguyễn Tuấn đề tài
+21521036 Kiệt
+Research and application of
+Nghiên cứu, ứng dụng công nghệ
+Antenna in Package (AIP)
+Antenna in Package (AIP) vào ThS. Trương Văn
+6 21522760 Phan Thanh Tuấn technology in the manufacturing TS. Trịnh Lê Huy CQĐT E6.3 S6 10h30
+việc chế tạo và đóng gói module Cương
+and packaging of tinyGS
+tinyGS
+modules
+Monitoring and rainfall
+Nguyễn Tiến Hệ thống giám sát và dự báo lượng ThS. Phan Đình
+7 21521548 prediction system for the north TS. Đoàn Duy CQĐT E6.3 C1 13h30
+Toàn mưa các tỉnh bắc trung bộ Duy
+central provinces.
+Lê Thị Phương
+Nghiên cứu và đổi mới thuật toán Research and innovation in TS. Nguyễn Minh
+21522426 Nhi ThS. Phan Đình
+8 theo dõi con người trong Elderly human tracking algorithm for Sơn, CQĐT E6.3 C2 14h00
+Duy
+Care robot Elderly Care robot KS. Thân Thế Tùng
+21520457 Võ Đông Thành
+19521384 Vũ Anh Đức Thiết kế phần cứng nhận diện biển Hardware design for traffic sign
+9 TS. Lâm Đức Khải ThS. Tạ Trí Đức CQĐT E6.3 C3 14h30
+báo giao thông recognition
+19522367 Trần Ngọc Toản
+CLC-
+Thiết kế IP phần cứng nhận diện Hardware IP design for traffic
+10 20522078 Trần Tiến Trung TS. Lâm Đức Khải ThS. Tạ Trí Đức VN, E6.3 C4 15h00
+biển báo giao thông sign recognition
+Gia hạn
+Page 3 of 3

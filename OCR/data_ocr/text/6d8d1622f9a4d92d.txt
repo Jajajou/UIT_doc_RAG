@@ -1,0 +1,210 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH PHẢN BIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2022 - 2023
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN CÁN BỘ PHẢN BIỆN Ghi chú
+Design and implement hardware
+Thiết kế và hiện thực kiến trúc phần
+architecture for embedded
+1 19521022 Nguyễn Văn Tín cứng mạng máy tính nhúng – vi ThS. Phạm Minh Quân TS. Phạm Quốc Hùng CLC-VN
+computer – microcontroller
+điều khiển cho xe tự hành
+network on autonomous vehicle
+Thiết kế phần mềm mô phỏng Design platform for simulation of
+2 19521387 Cao Phan Tiến Dũng ThS. Phạm Minh Quân TS. Phạm Quốc Hùng CLC-VN
+chuyển động của xe tự hành autonomous vehicles
+Design and implement a RISC-V
+Thiết kế và hiện thực lõi vi xử lý
+RV32IF processor with 4-Way
+19520408, Cao Thanh Bình, RISC-V RV32IF hỗ trợ 4-Way Set ThS. Phạm Thanh Hùng
+3 Set Associative Cache and True ThS. Tạ Trí Đức CLC-VN
+19520573 Đặng Phi Hùng Associative Cache và bộ tạo số ThS. Hồ Ngọc Diễm
+Random Number Generator on
+ngẫu nhiên thực trên FPGA
+FPGA
+Hiện thực mô hình phát hiện và Implementation of obstacle
+19522043, Nguyễn Võ Hữu Phúc, ThS. Trần Hoàng Lộc,
+4 tránh vật cản trên đường trong điều detection and evasion on road in TS. Nguyễn Hoài Nhân CLC-VN
+19522084 Phạm Minh Quân ThS. Phạm Minh Quân
+khiển xe tự hành auto-driving car
+Ứng dụng phần mềm Comsol Comsol Multiphysics software ThS. Trần Quang
+19521989, Bùi Ngọc Phát,
+5 Multiphysics vào mô phỏng đặc application in I-V characteristics Nguyên, TS. Trần Quang Vinh CLC-VN
+19521611 Lạc Quốc Huy
+tuyến I-V của Diode simulation of Diode TS. Phạm Quốc Hùng
+Design robot Scara – Application ThS. Trần Quang
+19521669, Phạm Nguyễn Minh Khang, Thiết kế robot Scara - ứng dụng
+6 of product classification by Nguyên, TS. Nguyễn Hoài Nhân CLC-VN
+19521629 Nguyễn Văn Quốc Huy phân loại sản phẩm bằng xử lý ảnh
+image processing ThS. Hồ Ngọc Diễm
+Page 1 of 5
+
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN CÁN BỘ PHẢN BIỆN Ghi chú
+Thiết kế bàn cờ điện tử hỗ trợ tự Design an electronic chess board
+18521407, Nguyễn Công Thành,
+7 động ghi nhận và hướng dẫn nước supporting automatic recording TS. Đoàn Duy TS. Đỗ Trí Nhựt CLC-VN
+18521543 Trần Trương Trọng
+đi and right move guiding
+A study of applying Veins
+19520370, Nguyễn Phúc Khang An, Nghiên cứu sử dụng nền tảng Veins
+8 simulation framework to solve TS. Đoàn Duy ThS. Trần Văn Quang CLC-VN
+19521444 Đỗ Hoàng Giang để xây dựng giải pháp chống kẹt xe
+traffic jam situation
+Study on a common
+Nghiên cứu mô hình giao tiếp
+19521202, Nguyễn Quang Anh, communication model for IoT ThS. Nguyễn Duy Xuân
+9 chung cho thiết bị IoT trong ứng TS. Đoàn Duy CLC-VN
+19521297 Châu Chí Cường devices in smart home Bách
+dụng nhà thông minh
+applications
+Implementation of lossless image
+19521594, Nguyễn Thị Cẩm Hướng, Hiện thực hóa kỹ thuật nén ảnh
+10 compression by Dynamic TS. Lâm Đức Khải ThS. Trương Văn Cương CLC-VN
+19522014 Trần Thạch Tuấn Phong Dynamic Huffman Coding
+Huffman Coding algorithm
+18520651, Từ Thanh Dương, Nghiên cứu thiết kế bục giảng thông Research on designing smart
+11 TS. Nguyễn Minh Sơn ThS. Trần Hoàng Lộc CLC-VN
+19520379 Huỳnh Đức Anh minh cho lớp học Hybrid pulpit for Hybrid classrooms
+Tích hợp thuật toán trao đổi dữ liệu Integrating data exchange
+ThS. Chung Quang
+12 19522158 Trần Tấn Tài trên công nghệ tính toán biên cho algorithm on edge computing TS. Nguyễn Minh Sơn CLC-VN
+Khánh
+smart camera technology for smart camera
+Application of Near-Infrared
+Ứng dụng quang phổ hồng ngoại
+19521371, Châu Minh Đức, Spectroscopy (NIR) for Non- ThS. Nguyễn Duy Xuân
+13 gần (NIR) để đo đường huyết không TS. Phạm Quốc Hùng CLC-VN
+19522537 Trần Quang Vũ Invasive Blood Glucose Bách
+xâm lấn
+Monitoring
+19522301, La Quốc Thống, ThS. Trần Quang
+14 Robot vận chuyển hàng tự động Autonomous delivery robot TS. Phạm Quốc Hùng CLC-VN
+19522452 Nguyễn Hoài Tú Nguyên
+Design and implementation of
+Thiết kế và chế tạo trạm mặt đất
+18520927, Nguyễn Minh Khoa, ground station receive signal
+15 nhận tín hiệu từ vệ tinh LEO dựa TS. Trịnh Lê Huy TS. Trần Quang Vinh CLC-VN
+19522302 Lê Minh Thông from LEO satellite based on
+trên công nghệ LoRa
+LoRa technology
+Page 2 of 5
+
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN CÁN BỘ PHẢN BIỆN Ghi chú
+19521241, Huỳnh Lê Anh Bảo, Hiện thực RISC-V trên FPGA tích Implement RISC-V and integrate
+16 TS. Nguyễn Minh Sơn ThS. Tạ Trí Đức CLC-EN
+19521279 Trần Hữu Châu hợp thêm khối bảo mật with security block on FPGA
+19522352, Võ Hoàng Nguyên Tín, Hiện thực MIPS 32-bit Superscalar Implementation MIPS 32-bit
+17 TS. Nguyễn Hoài Nhân TS. Trịnh Lê Huy CLC-EN
+19522095 Nguyễn Phan Nhật Quang trên FPGA Superscalar processor on FPGA
+Nghiên cứu, thiết kế và hiện thực Research, design and
+19522048, Vũ Đình Bảo Phúc, thiết bị đo đạc và hệ thống hiển thị implementation of measuring
+18 TS. Trịnh Lê Huy TS. Đoàn Duy CLC-EN
+19522338 Nguyễn Quang Tiến mức độ bao phủ của gateway device and LoRaWan gateway's
+LoRaWan coverage display system
+19521653, Nguyễn Đức Hy, Thiết kế và hiện thực thuật toán mã Design and implement
+19 ThS. Hồ Ngọc Diễm ThS. Ngô Hiếu Trường CQĐT
+19520353 Trần Duy Quốc Việt hóa trên RISC-V encryption algorithm on RISC-V
+19520928, Viên Minh Tân, Nghiên cứu và xây dựng mô hình Research and implement serving ThS. Nguyễn Thanh ThS. Trần Quang
+20 CQĐT
+19520036 Phạm Quốc Đăng robot phục vụ quán cà phê robot for coffee shop Thiện Nguyên
+19520887, Phạm Trung Quốc, Thiết bị bay không người lái vận Drones transporting emergency
+21 ThS. Phạm Minh Quân TS. Nguyễn Hoài Nhân CQĐT
+19521651 Phạm Trọng Huỳnh chuyển túi sơ cứu y tế khẩn cấp medical bags
+Nghiên cứu giải thuật SLAM trong Research on 3D Mapping for
+19521414, Trịnh Đăng Dương,
+22 không gian 3D ứng dụng lên robot SLAM applying to the ThS. Phạm Minh Quân ThS. Phan Đình Duy CQĐT
+19522553 Huỳnh Ngọc Hiệp Ý
+tự hành leo thang autonomous stair-climbing robot
+Thiết kế và hiện thực lõi vi xử lý Design and implement a RISC-V
+18521357, Cao Tài, RISC-V RV64IF hỗ trợ 4-Way Set RV64IF processor with 4-Way
+23 ThS. Phạm Thanh Hùng ThS. Trương Văn Cương CQĐT
+18520424 Lê Hoài Ân Associative Cache và Branch Set Associative Cache and
+Prediction trên FPGA Branch Prediction on FPGA
+Thiết kế và hiện thực lõi vi xử lý Design and implement a
+RISC-V RV64IM theo kiến trúc Superscalar RISC-V RV64IM
+19520673, Phạm Thanh Lâm,
+24 superscalar, hỗ trợ 4-Way Set processor with 4-Way Set ThS. Phạm Thanh Hùng ThS. Ngô Hiếu Trường CQĐT
+19521687 Trần Tuấn Khanh
+Asscosiative Cache và Branch Asscosiative Cache and Branch
+Prediction trên FPGA Prediction on FPGA
+Page 3 of 5
+
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN CÁN BỘ PHẢN BIỆN Ghi chú
+Hệ thống điều khiển tự động cho Automatic control system for
+25 19522229 Lê Đình Thành ThS. Phan Đình Duy ThS. Phạm Minh Quân CQĐT
+căn hộ chung cư apartments
+19522034, Lưu Phúc, Nghiên cứu và thiết kế gương thông
+26 Research and design smart mirror ThS. Phan Đình Duy ThS. Phạm Minh Quân CQĐT
+19522493 Nguyễn Bách Tùng minh
+19520057, Nguyễn Ngọc Thùy Dương, Hệ thống nhận diện phương tiện Vehicle recognition system on
+27 ThS. Phan Đình Duy ThS. Trương Văn Cương CQĐT
+19522376 Quách Ngọc Trâm giao thông bằng FPGA FPGA
+19520963, Nguyễn Ngọc Thao, Nghiên cứu và xây dựng mô hình Research and build a restaurant
+28 ThS. Phan Đình Duy TS. Đoàn Duy CQĐT
+19520520 Danh Quốc Hào robot phục vụ nhà hàng serving robot
+Thiết kế và hiện thực các thiết bị Design and implementation of
+19521837, Lê Tuấn Minh, IoT ứng dụng cho việc giám sát và IoT devices for smart home ThS. Nguyễn Duy Xuân
+29 ThS. Phan Đình Duy CQĐT
+19521342 Nguyễn Tiến Đạt điều khiển nhà thông minh sử dụng control and monitoring using Bách
+BLE Mesh BLE Mesh Network
+Thiết kế và hiện thực mô hình học Design and implement deep
+19520158, Lê Hoàng Minh, ThS. Trương Văn
+30 sâu cho bài toán phân loại hình ảnh learning model for image TS. Trần Thị Điểm CQĐT
+19521007 Nguyễn Trần Trí Thức Cương
+trên FPGA classification in FPGA
+Thuật toán Cascade Association và Cascade Association and Camera-
+thuật toán bù đắp chuyển động motion compensation based ThS. Trương Văn
+31 19522491 Đỗ Thanh Tùng ThS. Phan Đình Duy CQĐT
+camera dựa trên Kalman Filter cho Kalman filter for multi-object Cương
+bài toán theo dấu đa đối tượng tracking
+Nghiên cứu và thiết kế hệ thống Research and design a car
+19520571, Tô Quang Huấn, quản lý bãi đỗ xe ô tô tại trung tâm parking management system at
+32 TS. Đoàn Duy ThS. Trần Hoàng Lộc CQĐT
+19522111 Đồng Quang Quyền thương mại ứng dụng công nghệ shopping mall using UHF
+UHF technology
+Nghiên cứu giải pháp đề xuất món Study on meal recommendation
+19522437, Trịnh Trấn Trung,
+33 ăn phù hợp theo cá nhân ứng dụng for user applying for smart TS. Đoàn Duy ThS. Hồ Ngọc Diễm CQĐT
+19521924 Trương Bảo Nguyên
+cho tủ lạnh thông minh refrigerator
+Page 4 of 5
+
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN CÁN BỘ PHẢN BIỆN Ghi chú
+Thiết kế và hiện thực phần cứng
+Design and implementation of
+tăng tốc giải thuật Integer Motion
+34 19520859 Nguyễn Hoàng Phước HEVC Integer Motion TS. Lâm Đức Khải ThS. Phan Thanh Hùng CQĐT
+Estimation trong hệ thống nén video
+Estimation on hardware
+HEVC
+Implement FPGA based
+19521208, Phạm Xuân Tuấn Anh, Hiện thực phương thức định hướng
+35 autonomous car with CNN TS. Lâm Đức Khải TS. Trần Thị Điểm CQĐT
+19521125 Võ Đăng Nhật Vỹ tự động cho xe tự hành bằng FPGA
+hardware
+Research improve the YOLOv2
+Nghiên cứu cải tiến khối nhận dạng
+19521716, Lê Hữu Kiên, identification block and
+36 YOLOv2 tích hợp trên board TS. Nguyễn Minh Sơn TS. Đỗ Trí Nhựt CQĐT
+19520542 Nguyễn Đình Đức Hiếu integrated on Ultra96v2 board
+Ultra96v2 cho smart camera.
+for smart camera.
+19522089, Trần Mạnh Quân, Thiết kế hệ thống nhận diện lòng An embedded palmprint ThS. Nguyễn Thanh
+37 TS. Phạm Quốc Hùng CQĐT
+19521936 Ngô Trọng Nhân bàn tay người recognition system Thiện
+Design and implementation of
+Thiết kế và chế tạo thiết bị định vị
+38 19520539 Lê Minh Đức Hiếu indoor positioning system using TS. Trịnh Lê Huy ThS. Trần Văn Quang CQĐT
+trong nhà sử dụng công nghệ LoRa
+LoRa technology
+Nghiên cứu và thiết kế bảng giá Research and design the
+19521838, Lê Xuân Minh, điện tử ứng dụng trong siêu thị electronic shelf label in the smart ThS. Chung Quang
+39 TS. Trịnh Lê Huy CQĐT
+19522142 Trần Quốc Sơn thông minh dựa trên công nghệ supermarket based on LoRa Khánh
+LoRa technology
+Nghiên cứu, thiết kế và hiện thực Research, design and
+19522345, Vũ Thủy Tiên, LoRaWAN Relay sử dụng năng implementation of solar-powered
+40 TS. Trịnh Lê Huy TS. Trần Quang Vinh CQĐT
+19520359 Võ Thị Tường Vy lượng mặt trời tích hợp hệ thống LoRaWAN Relay integrated with
+antenna đa hướng multi-directional antenna system
+Page 5 of 5

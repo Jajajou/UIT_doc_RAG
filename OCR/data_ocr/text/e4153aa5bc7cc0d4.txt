@@ -1,0 +1,636 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO ĐỀ CƯƠNG KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 2 - Năm học: 2024 - 2025
+Thời gian bắt đầu hội đồng: Sáng từ 8h00, chiều từ 13h15, thứ Hai ngày 03/03/2025
+Địa điểm: Phòng E6,1, E6.3, E3.4
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 10 phút hội đồng góp ý
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+Phòng E6.1
+Hội đồng: TS. Nguyễn Minh Sơn, ThS. Trần Văn Quang, ThS. Phạm Minh Quân
+https://drive.googl
+Thiết kế hệ thống SoC dựa trên bộ xử Design of a RISC-V 32-bit e.com/open?id=13
+21521391 Đào Phước Tài ThS. Ngô Hiếu
+1 lý RISC-V 32-bit với mã hoá H.264 processor-based SoC with H.264 CQĐT 8h00 HNDjvXe5PNgD
+Trường
+nội khung trên FPGA intra-frame encoding on FPGA J896KLqosii917U
+21520301 Nguyễn Anh Khôi lEYl
+https://drive.googl
+Research and development of
+Nghiên cứu và phát triển phương pháp e.com/open?id=1
+21522597 Mai Đức Thành efficient image compression ThS. Ngô Hiếu
+2 nén ảnh hiệu quả cho việc tối ưu hóa CQĐT 8h15 NjNsk48A-
+methods for optimizing storage Trường
+dung lượng và chất lượng hình ảnh vB6tfDD39Z9zcX
+and image quality
+21521985 Nguyễn Văn Dược 5Cz2bil_6
+https://drive.googl
+Thiết kế và tối ưu hóa Deep Design and optimization of Deep e.com/open?id=1e
+21520603 Đỗ Trí Gia Bảo ThS. Ngô Hiếu
+3 Processing Unit (DPU) cho mô hình Processing Unit (DPU) for YOLO CQĐT 8h30 yzY274Qn4CpxP
+Trường
+YOLO v3-Tiny trên nền tảng FPGA v3-Tiny model on FPGA platform P1vPCl6KeZqlQ
+21520615 Nguyễn Minh Bảo
+VayK0
+https://drive.googl
+Nguyễn Hà Nhật
+e.com/open?id=1
+21521343 Quang Tối ưu hóa mô hình CNNs trên FPGA Optimization of CNNs models on ThS. Ngô Hiếu
+4 CQĐT 8h45 MMl8o9RWdHD
+sử dụng OpenVINO FPGA using OpenVINO Trường
+zM29tSurRhUbY
+21520412 Nguyễn Minh Quân Tc1K8GoD
+https://drive.googl
+Hardware implementation for
+Hiện thực phần cứng hệ thống phân e.com/open?id=1
+traffic sign classification system
+5 21520752 Lê Công Khởi Dương loại biển báo giao thông sử dụng mạng TS. Lâm Đức Khải CQĐT 9h00 A5e4oaEtCT8LB
+using convolutional neural
+nơ ron tích chập wBg1f8xhz5qXT4
+network
+https:/v/dwriIv5er.googl
+Research, hardware design of e.com/open?id=1o
+21521330 Nguyễn Minh Quân Nghiên cứu, thiết kế ASIP cho bài toán
+6 ASIP for Deep Learning TS. Lâm Đức Khải CQĐT 9h15 y-
+Nguyễn Trần Xuân Deep Learning
+application. 2x6y7YO1PCQgi
+21520601 Bách
+NGqm2DolGnNm
+Page 1 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+Developing a RISC-V-based post- TS. Phạm Hoài
+Lê Nguyễn Hương Phát triển bộ đồng xử lý mật mã hậu e.com/open?id=1
+7 21521521 quantum cryptographic Luân, CQĐT 9h30
+Tiên lượng tử dựa trên RISC-V trên FPGA Yfd7JzyJ_eSAFX-
+coprocessor on FPGA TS. Lâm Đức Khải
+RQRvZFAJw9v4
+Developing a power-efficient, https://drive.googl
+Phát triển bộ tăng tốc mô phỏng lượng TS. Phạm Hoài
+configurable wave function-based e.com/open?id=1
+8 21522016 Đặng Quỳnh Duyên tử dựa trên hàm sóng có thể cấu hình, Luân, CQĐT 9h45
+quantum simulation accelerator on Ufci2tI8L2M1FM
+tiết kiệm năng lượng trên FPGA TS. Lâm Đức Khải
+FPGA 6i-1YPh-
+https://drive.googl
+Developing an energy-efficient TS. Phạm Hoài e.com/open?id=1
+Phát triển bộ tăng tốc mô phỏng lượng CLC-
+9 21522073 Lê Trần Xuân Hiếu quantum simulation accelerator on Luân, 10h00 LB7Bt22jVz4tOT
+tử tiết kiệm năng lượng trên FPGA VN
+FPGA TS. Lâm Đức Khải V1tW1wEgyddpV
+https://tdurpivvee.googl
+Developing a high-speed
+Phát triển bộ tăng tốc mã hóa hậu TS. Phạm Hoài e.com/open?id=1I
+SPHINCS+ post-quantum CLC-
+10 21522261 Phạm Anh Kiệt lượng tử SPHINCS+ tốc độ cao trên Luân, 10h15 hjsf8L3WQzXrqZ
+cryptography accelerator on VN
+FPGA TS. Lâm Đức Khải y0omQ08V7xitug
+FPGA
+https://dEr8ivre.googl
+Nguyễn Thân Chí
+Thiết kế phần cứng phát hiện nhịp tim Hardware design for abnormal e.com/open?id=17
+21520745 Dũng TS. Trần Thị Chưa có thời gian
+11 bất thường trong tín hiệu điện tâm đồ beat detection in ECG signal base CQĐT 10h30 oWeEGL7dov132
+Điểm thực hiện
+dựa trên thuật toán phân cụm mẫu on template cluster algorithm VGaDCRZbndlpd
+21522793 Nguyễn Thành Vinh
+Đề cương không https:/8/dhrqiQven.googl
+có chữ ký của e.com/open?id=11-
+Ứng dụng mô hình mạng inception để Application of inception net to TS. Trần Thị CLC-
+12 21521157 Lê Nguyễn Nhựt Nam GVHD và SV, 10h45 vIDVkXic_14PN
+phân loại nhịp tim trên SoC-FPGA classify heartbeat on SoC-FPGA Điểm EN
+xem lại lớp HVEyULq0L0lqE
+ĐKHP https://IdRrinv3e.googl
+Thiết kế vi xử lý RISC-V tối ưu cho RISC-V based microprocessor e.com/open?id=1c
+TS. Trần Thị Chưa có thời gian
+13 21521254 Nguyễn Quốc Pháp bài toán mạng thần kinh tích chập trên design optimize for convolutional CQĐT 11h00 je29nTwzsf7Ww
+Điểm thực hiện
+FPGA neural network on FPGA XQrx5WjDSae5q
+Yu0QH
+https://drive.googl
+Tổng hợp bậc cao từ Python đến RTL High-level synthesis from Python
+TS. Trần Thị e.com/open?id=1
+14 21521351 Võ Văn Quang cho mạng nơ-ron sâu trên hệ thống to RTL for deep neural network CQĐT 11h15
+Điểm MW9wyXhspoV
+SoC on SoC system
+mofhufyK4Nv9w
+https://drive.googl
+Đánh giá hiệu quả thiết kế hệ thống Evaluation of SoC system design
+TS. Trần Thị CLC- xem lại lớp e.com/open?id=14
+15 21521913 Lương Văn Đại SoC bằng phương pháp tự thiết kế và effiency using self-design and 13h15
+Điểm EN ĐKHP kBFlGYu961VXll
+HLS HLS methods
+1dCRTnSjtv0Wp
+https://drive.googl
+Hiện thực ứng dụng phân loại tín hiệu Phycical design for ECG e.com/open?id=1j
+21522580 Kha Quốc Thái TS. Trần Thị Đề cương chi tiết
+16 ECG dựa trên mạng học sâu từ mức classification application based on CQĐT 13h30 gqeb8BuAVYy5o
+Điểm quá mờ, nhỏ
+logic đến mức vật lý deep learning network mTHTG8Ielb-
+21520447 Nguyễn Hoàng Thân
+PCMoFIY
+Page 2 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+Xem lại thời gian https://drive.googl
+TS. Trần Thị
+thực hiện KLTN, e.com/open?id=1
+Thiết kế môi trường kiểm định kiến Design environment verify Điểm, CLC-
+17 21552012 Trần Quang Duy cần ghi rõ thông 13h45 Rm5rrs_WWZr5J
+trúc CPU RISC-V architecture CPU RISC-V KS. Nguyễn Cảnh VN
+tin công ty của uydygj1gpbuJzyR
+Hưng (Viettel)
+GVHD ngoài DN dDIA
+Research and develop an efficient https://drive.googl
+Nghiên cứu và xây dựng mô hình phân ThS. Phạm Minh
+model for drivable area e.com/open?id=1
+đoạn làn đường và nhận diện vạch kẻ Quân, CLC-
+18 21522703 Lê Đức Trí segmentation and lane detection 14h00 EnFLmm9nNgv0b
+làn đường thời gian thực cho bài toán KS. Chế Quang VN
+for edge-based autonomous wSYzO_I6bjLIc
+xe tự hành trên thiết bị biên Huy
+vehicle tasks M2y2bg
+Nguyễn Huỳnh Tuấn ThS. Phạm Minh https://drive.googl
+19522121 Sang Quân, CLC- e.com/open?id=1
+19 Phát triển bộ kiểm thử RISC-V RISC-V testsuite development 14h15
+KS. Trần Đại VN Pdb-
+20521078 Phạm Tuấn Anh Dương 6j5sbpATuxNUyk
+ThS. Phạm Minh https://drive.googl
+Nguyễn Gia Bảo Quân, e.com/open?id=1
+20 21520366 Phát triển trình mô phỏng SoC SoC simulator development CQĐT 14h30
+Ngọc KS. Trần Đại OKdlkhoqwP_d0
+Dương LFvgcZhzw4XV5
+Hoàng Phan Thành ThS. Phạm Minh https://drive.googl
+21520599 Bách Phát triển bộ tăng tốc trình tự phát sinh Phylogenetic sequence accelerator Quân, e.com/open?id=1y
+21 CQĐT 14h45
+loài development KS. Trần Đại TqfpQfBFgrhCra
+21520293 Nguyễn Thanh Khoa Dương _olhzJREqCpquU
+Nguyễn Quốc Trường ThS. Phạm Minh https://drive.googl
+21521810 An Phát triển trình điều khiển mạch lạc SoC Cache coherence controller Quân, e.com/open?id=1g
+22 CQĐT 15h00
+Cache trong hệ thống trên chip development KS. Trần Đại HsSCXcCSS9pJpl
+21522750 Dương Hoàng Tuấn Dương NantgM5JhUC-
+ThS. Phạm Minh https://drive.googl
+21521966 Phạm Trí Đức Multi-core RISC-V processor Quân, CLC- e.com/open?id=1
+23 Phát triển bộ vi xử lý RISC-V đa lõi 15h15
+development KS. Trần Đại VN NDzgpPsAQQD0
+21521393 Khưu Thành Tài Dương bvySw6MNHkvk
+ThS. Phạm Minh https://drive.googl
+21522216 Nguyễn Bính Khiêm Quân, e.com/open?id=1r
+24 Phát triển bộ đồng xử lý vector Vector coprocessor development CQĐT 15h30
+KS. Trần Đại GVZJyloghxAp7o
+21521612 Nguyễn Đức Tú Dương CUaoSw9DqsmtS
+https://drive.googl
+Nguyễn Thường ThS. Phạm Minh
+e.com/open?id=11
+21522498 Quân Phát triển trình mô phỏng hệ thống Quantum computer system Quân,
+25 CQĐT 15h45 lge0LgcQmzORu
+máy tính lượng tử simulator development KS. Trần Đại
+Nguyễn Vũ Anh atcEJbNZocac-
+Dương
+21520350 Minh VQtbd
+ThS. Phạm Minh https://drive.googl
+21522550 Đào Cao Sơn Multi-mode RISC-V processor Quân, CLC- e.com/open?id=17
+26 Thiết kế bộ xử lý RISC-V đa chế độ 16h00
+design KS. Trần Đại VN WmjCxw3xx_D9r
+21521060 Trần Thái Nhật Lâm Dương AOwRGH7fAHe
+Page 3 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+Nguyễn Đoàn Hoàng https://drive.googl
+Implement a low-power RISC-V ThS. Tạ Trí Đức,
+21521290 Phúc Thiết kế vi điều khiển RISC-V tiết CLC- e.com/open?id=1
+27 microcontroller with hardware ThS. Phạm Minh 16h15
+kiệm năng lượng tích hợp mã hóa cứng VN VtQIbo2WdsYB
+encryption Quân
+21521387 Lương Đình Sơn wKsPgiY-
+Phòng E6.3
+Hội đồng: TS. Đoàn Duy, ThS. Phan Đình Duy, ThS. Nguyễn Thanh Thiện
+https://drive.googl
+Bổ sung thêm 1
+21520558 Đỗ Duy Anh Xử lí ảnh nhận diện lỗi hư hỏng của Container damage detection using ThS. Nguyễn Duy CLC- e.com/open?id=1q
+1 GVHD đủ tiêu 8h00
+container image processing Xuân Bách VN wTfCMfpQsT2Si-
+chuẩn
+21521011 Phạm Lê Minh Khôi d3H8nez0B7klDL
+https://drive.goo
+Analyze the waves emitted from
+Phân tích sóng phát ra từ cây xanh và ThS. Nguyễn Duy gle.com/open?id
+2 21520622 Phạm Trần Gia Bảo trees and decode the condition of CQĐT 8h15
+giải mã tình trạng cây xanh Xuân Bách =12pg7N0Pk-
+trees
+1eCMLPSBgD7
+https://drive.googl
+Bổ sung thêm 1
+21521296 Phan Hoàng Phúc Embedded system for monitoring ThS. Nguyễn Duy CLC- e.com/open?id=1-
+3 Hệ thống chăm sóc, giám sát nhà yến GVHD đủ tiêu 8h30
+Nguyễn Phan Quang swiftlet birdhouses Xuân Bách VN cw_xcISGZeVDU
+chuẩn
+21521675 Vinh p8qFHpMKBbnz
+https://drive.googl
+Bổ sung thêm 1
+Phân biệt người trầm cảm bằng tín Depression detection using eeg ThS. Nguyễn Duy CLC- e.com/open?id=16
+4 21521337 Lê Công Quang GVHD đủ tiêu 8h45
+hiệu sóng não signals Xuân Bách VN bZM-zewLe0_-
+chuẩn
+cxaGt7owTscQp1
+https://drive.googl
+Bổ sung thêm 1
+21521459 Lê Đặng Thiên Hệ thống giám sát nhịp tim từ xa cho Family remote heart beat ThS. Nguyễn Duy CLC- e.com/open?id=1
+5 GVHD đủ tiêu 9h00
+gia đình monitoring system Xuân Bách VN Npe0xswNOMXy
+chuẩn
+21522060 Lê Văn Hiển lfN55jy6Lo8-
+ThS. Nguyễn https://drive.googl
+Hiện thực phát hiện bạo lực hiệu quả Implementing efficient violence Thanh Thiện, e.com/open?id=1h
+6 21521346 Nguyễn Minh Quang CQĐT 9h15
+trên camera quan sát detection on surveillance camera KS. Thân Thế grxJGUJK0ba4S
+Tùng YcXHBZ4H4uUb
+https://drive.googl
+21520684 Trần Lê Minh Đăng Hệ thống camera nhận dạng xe đi sai Camera system recognizes ThS. Phan Đình e.com/open?id=1
+7 CQĐT 9h30
+làn đường vehicles going in the wrong lane Duy EsSFp-
+21520697 Lê Hữu Đạt 1AGofslyZp_4U4
+https://drive.googl
+Nghiên cứu và thử nghiệm phương
+Research and testing quantization- e.com/open?id=1s
+21520825 Vũ Ngọc Hạnh pháp lượng tử hóa trong huấn luyện ThS. Phan Đình
+8 aware training method on CQĐT 9h45 bS-
+(Quantization-aware Training) cho mô Duy
+Phan Châu Thanh Raspberry Pi kit 5qxT5LfGtIW8dlI
+hình AI trên kit Raspberry Pi
+21522769 Tùng zgOsSuyfnbWGT
+ThS. Phan Đình https://drive.googl
+Nghiên cứu và thiết kế vi mạch phục Study on designing an test chip for Duy, e.com/open?id=1
+9 21521649 Nguyễn Xuân Tùng CQĐT 10h00
+vụ quá trình kiểm tra chip bộ nhớ memory testing process ThS. Hồ Nam NpaWzcQUPnM
+Tịnh (Fadaday) YPM1T21udDn_
+Page 4 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+ThS. Phan Đình
+e.com/open?id=1
+21522602 Phạm Công Thành Nghiên cứu và thiết kế vi mạch phục Study on designing a test chip for Duy, CLC- Xem lại lớp
+10 10h15 RoPHfFyhSIKkO
+vụ quá trình kiểm tra chip bộ nhớ memory testing process ThS. Hồ Nam EN ĐKHP
+bkSbFIqscngEWp
+Tịnh (Fadaday)
+21522664 Trần Thị Ngọc Thúy 6FzPj
+https://drive.googl
+21521860 Phùng Đức Bảo ThS. Phan Đình e.com/open?id=11
+11 Nghiên cứu, thiết kế gương thông minh Research and design smart mirror CQĐT 10h30
+Duy 49OGcmee_lJLFa
+21522727 Trần Triều Trung QcilBHj5XT65Cg
+https://drive.goo
+Nghiên cứu và ứng dụng công nghệ Research and apply technology to ThS. Phan Đình ĐCCT thiếu thời gle.com/open?id
+12 21521988 Hoàng Trọng Dương CQĐT 10h45
+vào smart home smart home systems. Duy gian thực hiện =1hGuLiZ43rx7L
+9SoMoQkKhQu
+https://drive.googl
+ThS. Phan Đình e.com/open?id=1t
+13 21522230 Nguyễn Phan Khoa Phát triển hệ thống gương thông minh Developing a smart mirror system CQĐT 11h00
+Duy j799NVa4lkcLSJI
+JXkQwEy_oXrHe-
+https://drive.googl
+e.com/open?id=1
+21522381 Nguyễn Tiến Ngọc ThS. Phan Đình
+14 Robot hút bụi sử dụng lidar Vacuum cleaner robot using lidar CQĐT 11h15 HXsuIZGuM-k-
+Duy
+HWR7vC1HEAv
+21522390 Nguyễn Bảo Nguyên
+DAJM5mDff
+https://drive.googl
+Nghiên cứu và thử nghiệm các phương Research and testing quantization
+ThS. Phan Đình e.com/open?id=1x
+15 21522768 Huỳnh Bảo Tùng pháp lượng tử hóa cho mô hình AI trên methods for AI models on CQĐT 13h15
+Duy Hd4PAEajYKF8e
+board nhúng. embedded boards.
+GoYJIA89W1-
+Hệ thống phát hiện sự bất thường trên A real-time anomaly detection https://drive.googl
+21522773 Cù Thanh Tường đường đi theo thời gian thực sử dụng system on the road using ThS. Phan Đình e.com/open?id=1
+16 CQĐT 13h30
+kỹ thuật lượng tử hóa trên Raspberry quantization techniques on Duy YoQ6BGGUwqP
+21520228 Nguyễn Minh Hiền Pi Raspberry Pi. hLfpS9KII04vXk
+ThS. Phan Đình https://drive.googl
+Đề xuất phương pháp sử dụng đặc Proposal of a method utilizing
+Duy, e.com/open?id=1b
+17 21520655 Nguyễn Lê Chương trưng đa góc nhìn cho bài toán tái định multi-view features for person re- CQĐT 13h45
+KS. Chế Quang qCMpqYSixnEG3
+danh con người identification
+Huy 1bL47ksTOhA53f
+ThS. Phan Đình https://drive.googl
+21522766 Vũ Anh Tuấn Xây dựng hệ thống điểm danh ứng Building a smart attendance Duy, CLC- e.com/open?id=1
+18 14h00
+Thái Bình Dương dụng trong phòng học thông minh. system TS. Phạm Quốc VN KSxPfRMCwoPX
+21521206 Nguyên Hùng 5DkdkO9Bc9Tck
+ThS. Phan Đình https://drive.googl
+ĐCCT chưa có
+21520608 Lê Trần Thái Bảo Duy, CLC- e.com/open?id=1
+19 Robot 6 chân Robot hexapod chữ ký của 14h15
+TS. Phạm Quốc VN KNlTlQzKWGW
+GVHD
+21522091 Mai Lê Việt Hoàng Hùng 6hunwNu-nCrg-R-
+Page 5 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+Trương Hữu Trường Hệ thống quản lý nhà thông minh tích Integrated smart home ThS. Phan Đình
+e.com/open?id=1
+21522559 Sơn hợp: điều khiển bằng giọng nói, ứng management system: voice Duy, CLC-
+20 14h30 YWQ2RiKlIIX8E
+dụng di động và giám sát qua trang control, mobile app, and web- TS. Phạm Quốc VN
+Phạm Phương Minh XZEmoA_wvR2p
+web based monitoring Hùng
+21522708 Trí h4QDcfb
+Danh Nguyễn Thành ThS. Phan Đình https://drive.googl
+21522585 Thắng Xây dựng hệ thống điểm danh ứng Attendance system using in smart Duy, CLC- e.com/open?id=1b
+21 14h45
+dụng trong phòng học class TS. Phạm Quốc VN rTOrf8pVtpe3U-
+21521822 Lê Nguyên Anh Hùng SBA6uLglvDdXE
+ThS. Phan Đình https://drive.googl
+Thiết kế và hiện thực thuật toán bảo Design and implementation of the
+21522606 Trương Công Thành Duy, CLC- e.com/open?id=1
+22 mật SHA-256 và bộ xử lý RISC-V trên SHA-256 security algorithm and 15h00
+TS. Phạm Quốc VN ExDydhdcnwBCh
+FPGA RISC-V core on FPGA
+21522554 Nguyễn Đình Sơn Hùng q1aTz7R0arBh7y
+Non-invasive pH measurement in TS. Phạm Quốc https://drive.googl
+Đo pH không xâm lấn trong nước sử
+21520979 Nguyễn Duy Khanh water using near-infrared Hùng, CLC- Xem lại thời gian e.com/open?id=15
+23 dụng quang phổ cận hồng ngoại và học 15h15
+spectroscopy and machine KS. Nguyễn EN thực hiện KLTN UPOoFX_LkAcZ
+máy
+21520240 Hà Việt Hoàng learning Thành Nhân V-rR248V0PQ-
+https://drive.googl
+Xác định chất lượng trứng không xấm Non-invasive egg quality
+TS. Phạm Quốc CLC- Xem lại thời gian e.com/open?id=1
+24 21521058 Phan Hoài Lâm lấn bằng cảm biến quang và kỹ thuật measurement with optical sensor 15h30
+Hùng VN thực hiện KLTN NfdbKjgtANcJVk
+máy học and machine learning
+wBlyEROrOVhka
+https://drive.googl
+TS. Phạm Quốc
+Automatic temperature controller e.com/open?id=1
+21522564 Lưu Tuấn Tài Mô hình hồ nước tự động điều chỉnh Hùng, Xem lại thời gian
+25 for water tank based on fuzzy CQĐT 15h45 BnpDSXH5DDiw
+nhiệt độ dựa trên logic mờ KS. Nguyễn thực hiện KLTN
+logic Fd4vxJN4LbbsIw
+21522688 Trần Đặng Toàn Thành Nhân
+https:D//dIbriNvJep.googl
+Measuring sweetness level of TS. Phạm Quốc
+Đo độ ngọt cà chua bi sử dụng quang e.com/open?id=1J
+21521085 Đinh Hữu Lộc cherry tomato using near-infrared Hùng, CLC- Xem lại thời gian
+26 phổ cận hồng ngoại và mô hình học 16h00 uTy9X3jMM09h
+spectroscopy and machine KS. Nguyễn VN thực hiện KLTN
+máy Vtql79IdFgBCvX
+21521672 Lâm Huỳnh Việt learning Thành Nhân
+https:/5/dXrGivrec.googl
+Hiện thực thiết bị camera tự động theo Implementation of camera device e.com/open?id=1
+21522251 Bành Trí Kiệt ThS. Trần Hoàng
+27 dõi diễn giả trong buổi hội thảo, thuyết for speaker auto-tracking in CQĐT 16h15 OlO8zFxUqXd_o
+Lộc
+trình conferences YqnVnLvpx3SJq
+21520152 Mai Hoàng Gia Bảo
+MB4A0S
+Phòng E3.4
+Hội đồng: TS. Phạm Quốc Hùng, ThS. Nguyễn Duy Xuân Bách, KS. Thân Thế Tùng
+https://drive.googl
+Thiết kế và mô phỏng mô hình điện di Comsol multiphysics software TS. Trần Quang
+e.com/open?id=1z
+21521970 Trương Duy Đức ion ngược bằng phần mềm Comsol dựa application in modeling reverse Nguyên, CLC-
+1 8h00 Xo3EaKGBuooc
+trên phương pháp theo dõi đường iontophoresis for noninvasive TS. Phạm Quốc VN
+Nguyễn Phúc Song NvN0rMQXwsM
+huyết không xâm lấn glycemic monitoring Hùng
+21522686 Toàn 1nMpSz4a
+Page 6 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+21522015 Võ Duy Thiết kế và điều khiển robot 5 trục Design and control 5 axis robot TS. Trần Quang CLC- e.com/open?id=1J
+2 8h15
+DOF- ứng dụng vẽ chân dung người for human portrait drawing Nguyên VN 52Jv2U_kHkh8q
+21521275 Trần Nguyên Phong OOt5gbYTKFwN
+https://drive.googl
+Thiết kế và tự động hóa hệ lắng động Design and automation of
+e.com/open?id=1
+21522061 Liêu Xuân Hiền hơi hóa học (CVD - chemical vapor chemical vapor deposition (CVD) TS. Trần Quang CLC-
+3 8h30 NCvNl-
+depostion) - ứng dụng trong quy trình system for black phosphorus Nguyên VN
+011MsEmrIRdNu
+tổng hợp vật liệu phốt pho đen material synthesis
+21522233 Trần Anh Khoa Usu9pcgDNZ_ef
+https://drive.googl
+Trần Trịnh Khôi
+Thiết kế và khảo sát các tính chất của Design and analysis of Đề cương không e.com/open?id=1
+21522399 Nguyên TS. Trần Quang CLC-
+4 cảm biến nhiệt độ bằng phần mềm temperature sensor properties by có chữ ký của 8h45 VA51IsaNSo2vRJ
+Nguyên VN
+Comsol using Comsol software GVHD g9e5MK9_A7e4g
+21522668 Đoàn Minh Tiến wbXSv
+https://drive.googl
+e.com/open?id=1d
+Nghiên cứu, thiết kế và triển khai mô Design a fire detection model for ThS. Trương Văn
+5 21521613 Nguyễn Lê Hoàng Tú CQĐT 9h00 fuXKNHjlWJy9P
+hình dự báo cháy trên thiết bị biên edge devices Cương
+FswNDplSSTsidf
+QnGJ
+https://drive.googl
+Research and implementation of a
+Nghiên cứu và hiện thực hệ thống cảnh e.com/open?id=1
+21521910 Vòng Chí Cường fire alarm system using a ThS. Trương Văn
+6 báo cháy nổ sử dụng mạng lưới cảm CQĐT 9h15 V87hLa6P_tHJBd
+bluetooth low energy sensor mesh Cương
+biến bluethooth low energy 4TswUsGb_qvwK
+network
+21521909 Trần Văn Cường 5w1d_
+https://drive.googl
+e.com/open?id=19-
+21521950 Phan Tuấn Đạt Thiết kế mô hình xác minh khuôn mặt Design of a face verification ThS. Trương Văn
+7 CQĐT 9h30 kuTIFWCuCSSz
+dựa trên SoC-FPGA model based on SoC-FPGA Cương
+V1PVXjaKMVm
+21521499 Huỳnh Hiếu Thuận 3In04gv
+https://drive.googl
+Thiết kế và hiện thực mô hình nơ-ron Design and implementation of a ThS. Trương Văn e.com/open?id=1
+CLC-
+8 21522526 Nguyễn Anh Quốc cho bài toán phân loại lửa trên phần neural network model for fire Cương, 9h45 TZF4N6-
+VN
+cứng classification on hardware TS. Đỗ Trí Nhựt qajeAYYOn3vNp
+4en-i0BAHnrQ
+https://drive.googl
+Nghiên cứu và phát triển hệ điều hành Research and develop embedded ThS. Trương Văn e.com/open?id=11
+CLC-
+9 21522347 Trịnh Hoàng Minh nhúng Linux tích hợp mô hình học sâu Linux OS integrated with Cương, 10h00 BFY_7O7ByJ1_5
+VN
+tinh gọn optimized deep learning model TS. Đỗ Trí Nhựt _cOWfuafbrsBxX
+B4Ij
+https://drive.googl
+ThS. Trương Văn e.com/open?id=1
+Thiết kế trình giả lập mạch lượng tử Design of quantum circuit CLC-
+10 21522408 Phan Trọng Nhân Cương, 10h15 XjoZDLQqD0Wd
+trên FPGA emulator on FPGA VN
+TS. Đỗ Trí Nhựt I6siuqAEH1-
+OqYhGA11H
+Page 7 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+Nghiên cứu, thiết kế và hiện thực lõi Research, design and ThS. Trương Văn e.com/open?id=1b
+21522805 Phạm Long Vũ CLC-
+11 IP lọc nhiễu âm thanh trên phần cứng implementation of an audio Cương, 10h30 vozXrbCO7_TQP
+VN
+FPGA denoise IP core on FPGA TS. Đỗ Trí Nhựt o-
+21522640 Nguyễn Ngọc Thọ K9372LJSj8Sy2O
+https://drive.googl
+e.com/open?id=1
+Thiết kế và thi công chatbox song ngữ Design of an IoT-based bilingual CLC-
+12 21521854 Nguyễn Hoàng Bảo TS. Đỗ Trí Nhựt 10h45 wgNgWPUuirXiO
+Anh-Việt trên nền tảng internet vạn vật English-Vietnamese chatbox VN
+W7SmyW30V3H
+pE_kV1b3
+https://drive.googl
+Thiết kế và thi công hệ thống tự hành e.com/open?id=18
+Design of an IMU-based self-
+13 21521927 Đặng Tấn Đạt với công nghệ IMU có hỗ trợ AI và TS. Đỗ Trí Nhựt CQĐT 11h00 tKA1Uk7WB0Yq
+drive system with AI-camera AID
+camera QRSE7FSIW_yG
+DCZ9zOC
+https://drive.googl
+Hệ thống nhận diện phương tiện và Vehicle recognition system and e.com/open?id=1
+21521960 Huỳnh Hữu Đức CLC-
+14 ước lượng khoảng cách thực tế để cảnh distance estimation for collision TS. Đỗ Trí Nhựt 11h15 L0n-
+VN
+báo va chạm trên ô tô warning in cars PJONpC33206IM
+21520763 Trần Văn Dương v-9y6yVS7hIuLeq
+https://drive.googl
+Nghiên cứu cải tiến mô hình nhận dạng Study on applying a speech e.com/open?id=1
+21521048 Nguyễn Trần Gia Kỳ
+15 giọng nói tiếng Việt với dữ liệu lớn recognition with big data for TS. Đoàn Duy CQĐT 13h15 HSaDd3ynTCya_
+trên nền tảng hệ thống nhúng embedded systems VMdrhqnZw9Vua
+21520938 Trần Quang Huy 53cnwg
+https://drive.googl
+Ứng dụng ROS2 trong xây dựng robot Study on applying ROS2 to indoor e.com/open?id=1s
+21522293 Nguyễn Minh Lộc CLC-
+16 tự hành và vẽ bản đồ không gian trong space mapping and autonomous TS. Đoàn Duy 13h30 t5T6G7ES7ELNV
+VN
+nhà robot designing Z1Vxmi6XVKTK
+21522568 Nguyễn Thành Tài 6x4Sg1
+https://drive.googl
+Study on designing a model of
+Nghiên cứu và thiết kế mô hình xe tự e.com/open?id=19
+21522459 Nguyễn Thanh Phong outdoor autonomous guided CLC-
+17 hành ngoài trời có hướng dẫn sử dụng TS. Đoàn Duy 13h45 SeTjIRfuvA5c-dR-
+vehicles using Multi-sensor VN
+kỹ thuật Multi-sensor Fusion 31abo2XudrvDGe
+Fusion technique
+21521436 Đặng Minh Thành J
+https://drive.googl
+e.com/open?id=1
+21522796 Hoàng Anh Vũ Nghiên cứu và thiết kế hệ thống hỗ trợ
+18 Study on a E-payment system TS. Đoàn Duy CQĐT 14h00 VXdDFoEzy0RY
+thanh toán điện tử
+8GSZJKNMmTR
+21520864 Đặng Vũ Hoàng KnHFU-OPI
+https://drive.googl
+Nghiên cứu và triển khai hệ thống SoC Research and build a secure SoC e.com/open?id=1
+TS. Nguyễn Minh
+19 21520416 Trần Hải Quang bảo mật với AES-128 trên nền tảng system with AES-128 on the RISC- CQĐT 14h15 DiNNdvnyFlp4H
+Sơn
+RISC-V V platform Yx259xJkzhXj8r
+M77GY
+Page 8 of 9
+
+Hệ
+Giảng viên Thời Link đề cương
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh đào Ghi chú
+hướng dẫn gian chi tiết
+tạo
+https://drive.googl
+Physical design and Linux OS
+Thiết kế vật lý và tái cấu hình hệ điều e.com/open?id=12
+21520686 Ninh Công Danh reconfiguration for SoC with TS. Nguyễn Minh CLC-
+20 hành Linux cho hệ thống SoC với lõi 14h30 kfci5W25yUNBH
+RISC-V core and AES-256 Sơn VN
+RISC-V và thuật toán AES-256 95MZaZ4v1Bing8
+algorithm
+21520918 Nguyễn Đăng Huy enxx
+https://drive.googl
+e.com/open?id=14
+21521811 Nguyễn Thành An Nghiên cứu và phát triển hệ thống Research and development of TS. Nguyễn Minh
+21 CQĐT 14h45 WVAbSJkuB6a8e
+thống xác minh RISC-V SoC RISC-V SoC verification system Sơn
+Nguyễn Đặng Anh G1VXcaTq4qmQ
+21520312 Kiệt YEK7jq
+https://drive.googl
+e.com/open?id=1b
+Thiết kế bộ gia tốc cho mạng CNN Design an accelerator for CNN on TS. Nguyễn Minh Sai thời gian thực
+22 21522570 Hoàng Minh Tâm CQĐT 15h00 km-
+trên FPGA FPGA Sơn hiện
+9Pktd5rs_wVE24
+vjG22wtaUiBMIE
+https://drive.googl
+TS. Nguyễn Minh
+Thiết kế và tích hợp thuật toán phát Studying and integration of fall Đề cương không e.com/open?id=1b
+21521362 Dương Mai Quý Sơn,
+23 hiện và cảnh báo té ngã cho người cao detection algorithm and alert for CQĐT có chữ ký của 15h15 wfHF24sojvNI52
+KS. Thân Thế
+tuổi trên mobile robot. the elderly on mobile robot. GVHD và SV Y-
+Tùng
+21522715 Kiều Thị Hiền Trinh wL9IqijiKEmeM
+https://drive.googl
+Design of a 32-bit RISC-V core e.com/open?id=18
+21521640 Vũ Hoàng Tuấn Thiết kế vi điều khiển 32 bit lõi RISC-
+24 microcontroller with NTRU ThS. Tạ Trí Đức CQĐT 15h30 dV1MpOjhKRsm
+V tích hợp mã hóa NTRU
+encryption KM9peSe8Wd_4
+21520936 Trần Hoàng Gia Huy RsHwJdB
+https://drive.googl
+e.com/open?id=1r
+Nghiện cứu và xây dựng robot tự động Research and development of
+25 21522209 Nguyễn Nhã Khanh ThS. Tạ Trí Đức CQĐT 15h45 LXJLBOQhmmV
+khám phá môi trường autonomous exploration robot
+pTWP4DfNbw_jS
+8A4YhMz
+https://drive.googl
+Bổ sung thêm 1 e.com/open?id=15
+21522612 Bùi Văn Thi Thiết kế vật lý hệ thống trên chip sử Physical design of system on chip CLC-
+26 ThS. Tạ Trí Đức GVHD đủ tiêu 16h00 XXb-
+dụng lõi RISC-V using RISC-V core VN
+chuẩn yP1nyC3MHoJlG
+21522631 Dương Gia Thiều THfp_MG0BeqJh
+Page 9 of 9

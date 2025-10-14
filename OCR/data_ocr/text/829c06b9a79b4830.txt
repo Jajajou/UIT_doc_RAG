@@ -1,0 +1,415 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO GIỮA KỲ KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 2 - Năm học: 2022 - 2023
+Thời gian bắt đầu hội đồng: 8h00, thứ 5 ngày 11/05/2023
+Địa điểm: Phòng E6.1, E6.3 và E6.8
+Thời gian tối đa cho 1 đề tài là 10 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 5 phút hội đồng góp ý
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Phòng E6.1
+TS. Nguyễn Minh Sơn, TS. Đỗ Trí Nhựt, ThS. Trần Hoàng Lộc
+18520651 Từ Thanh Dương Nghiên cứu thiết kế bục Research on designing Phát biểu mục tiêu đề tài; Đổi tên đề tài để cụ thể hơn
+TS. Nguyễn CLC-
+1 giảng thông minh cho lớp smart pulpit for Hybrid 8h00 (đặt trọng tâm ở đâu, giải quyết vấn đề cụ thể gì); Xác
+Minh Sơn VN
+học Hybrid classrooms định rõ làm những gì so với những đề tài cũ
+19520379 Huỳnh Đức Anh
+Bổ sung phương pháp và kịch bản đánh giá; Sửa lại sơ
+Integrating data exchange đồ "Chế độ tìm kiếm người theo yêu cầu", "Chế độ
+Tích hợp thuật toán trao đổi
+algorithm on edge TS. Nguyễn CLC- phát trực tiếp" (luồng gửi dữ liệu từ điện thoại —>
+2 19522158 Trần Tấn Tài dữ liệu trên công nghệ tính 8h10
+computing technology for Minh Sơn VN MQTT broker —> thiết bị biên); Xác định cơ chế giám
+toán biên cho smart camera
+smart camera sát tự động giữa cloud và thiết bị biên; Lưu ý tài liệu
+tham khảo
+Làm rõ điểm khác so với các đề tài kế thừa; Làm rõ
+Phan Công Duy Advanced video coding
+19520627 Nghiên cứu tích hợp thuật mục tiêu cụ thể của đề tài; Xác định phương pháp
+Khiêm based on H.264
+toán mã hóa video dựa trên TS. Nguyễn CLC- nghiên cứu; Bổ sung sơ đồ khối thiết kế tổng thể, từ đó
+3 compression standard 8h20
+chuẩn H.264 ứng dụng Minh Sơn VN làm rõ vài trò của khối H.264; H.264 kết nối với hệ
+Tào Viễn Hoàng integrated on smart camera
+19521211 trong hệ thống smart camera thống thông qua bus nào, luồng dữ liệu kết nối ở đâu;
+Anh system
+Đánh giá tài nguyên, tốc độ xử lý
+19521241 Huỳnh Lê Anh Bảo Hiện thực RISC-V trên Implement RISC-V and Clarify the specific target; Instead of stating limitation,
+TS. Nguyễn CLC-
+4 FPGA tích hợp thêm khối integrate with security 8h30 you should state the scope of thesis; Speed up base
+Minh Sơn EN
+19521279 Trần Hữu Châu bảo mật block on FPGA functions and try to implement the new one (AES)
+Thêm giới hạn đề tài (định lượng kết quả đạt được)
+Research improve the
+19521716 Lê Hữu Kiên Nghiên cứu cải tiến khối SV đề xuất 97% cho nhận khuôn mặt và người
+YOLOv2 identification
+nhận dạng YOLOv2 tích TS. Nguyễn Nên có thông tin cụ thể cho tập dataset (số lượng, môi
+5 block and integrated on CQĐT 8h40
+hợp trên board Ultra96v2 Minh Sơn trường,...)
+Nguyễn Đình Đức Ultra96v2 board for smart
+19520542 cho smart camera. Kịch bản đánh giá
+Hiếu camera.
+Nên làm việc lại với GVHD
+Page 1 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Nguyễn Công DSesign an electronic chess
+18521407 Thiết kế bàn cờ điện tử hỗ
+Thành board supporting automatic CLC-
+6 trợ tự động ghi nhận và TS. Đoàn Duy 8h50 Xem lại tên đề tài, xác định mục tiêu, kịch bản kiểm tra.
+Trần Trương recording and right move VN
+18521543 hướng dẫn nước đi
+Trọng guiding
+Đổi tên đề tài "Nghiên cứu và thiết kế hệ thống mô
+Nguyễn Phúc phỏng thắng xe ABS với LAB CAR"; Giới hạn đề tài
+19520370
+Khang An cần nêu rõ sẽ thực hiện đề tài trong các điều kiện nào;
+Nghiên cứu sử dụng nền A study of applying Veins
+CLC- Cần kiểm tra lại là LAB CAR có thể import được file
+7 tảng Veins để xây dựng giải simulation framework to TS. Đoàn Duy 9h00
+VN MATLAB không (trao đổi với GVHD); Tìm hiểu xem
+pháp chống kẹt xe solve traffic jam situation
+các đề tài khác đạt hệ số trượt là bao nhiêu, từ đó xác
+19521444 Đỗ Hoàng Giang
+định mục tiêu cụ thể của đề tài trong từng điều kiện
+môi trường; CẦN LƯU Ý KỸ KHI NỘP LẠI
+Tìm hiểu kỹ về các chuẩn và cách thức thực hiện của
+Nguyễn Quang
+19521202 các sản phẩm đã có (Apple, Google, các hãng Trung
+Anh Nghiên cứu mô hình giao Study on a common
+Quốc,…); Làm rõ các chuẩn sử dụng Bluetooh, Wifi,
+tiếp chung cho thiết bị IoT communication model for CLC-
+8 TS. Đoàn Duy 9h10 Echonet (những nhà sản xuất nào đang sử dụng chuẩn
+trong ứng dụng nhà thông IoT devices in smart home VN
+này); Xác lập lại mục tiêu rõ ràng và trao đổi lại với
+minh applications
+19521297 Châu Chí Cường GVHD; Đặt lại tên đề tài "Nghiên cứu mô hình giao
+tiếp chung cho thiết bị IoT trên nền tảng ECHONET"
+Làm rõ các vấn đề khoảng cách, giới hạn của đầu đọc,
+19520571 Tô Quang Huấn collision giữa các xe; Khảo sát thực trạng bài toán, từ
+Nghiên cứu và thiết kế hệ Research and design a car
+đó so sánh và đưa ra đề xuất và các mục tiêu tương
+thống quản lý bãi đỗ xe ô tô parking management
+9 TS. Đoàn Duy CQĐT 9h20 ứng; Làm rõ bối cảnh và kịch bản sử dụng, làm rõ
+tại trung tâm thương mại system at shopping mall
+application ở user layer là làm gì; Làm rõ tiêu chí đánh
+Đồng Quang ứng dụng công nghệ UHF using UHF technology
+19522111 giá; Giới hạn kiểm thử trên 50 xe thì triển khai như thế
+Quyền
+nào (50 xe khác nhau hay 1 xe gắn 50 tag khác nhau)
+19522437 Trịnh Trấn Trung Nghiên cứu giải pháp đề Study on meal Cần làm rõ thách thức về nhiệt độ cho các thiết bị; Cần
+xuất món ăn phù hợp theo recommendation for user làm rõ điểm cải tiến so với đề tài trước; Ghi rõ các thiết
+10 TS. Đoàn Duy CQĐT 9h30
+cá nhân ứng dụng cho tủ applying for smart bị sử dụng; Xác định lại kịch bản và giới hạn bài toán;
+Trương Bảo
+19521924 lạnh thông minh refrigerator Đánh giá hệ chuyên gia đề xuất thực đơn như thế nào
+Nguyên
+Thiết kế lại rõ hơn mô hình phần cứng và cách đặt các
+19521805 Vũ Đức Long thiết bị; Đề xuất thay cảm biến khác IR (khả năng lỗi
+Hệ thống bãi xe công nghệ cao); Làm rõ điểm khác biệt giữa đề tài và các nghiên
+11 Iot-based car park system TS. Đỗ Trí Nhựt CQĐT 9h40
+IoT cứu hiện có; Làm rõ lại nội dung thực hiện, tập trung
+Nguyễn Cao Quốc
+19520401 vào việc liên kết, quản lý các bãi đỗ xe, hướng dẫn vị
+Bảo
+trí đỗ xe
+Page 2 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Khi thực hiện cần xác định rõ độ ưu tiên giữa camera
+Nguyễn Võ Hữu và Lidar; Xác định các trường hợp xử lý trong các kịch
+19522043
+Phúc bản khác nhau; Thiết kế phần cứng kỹ lại; Làm sao thể
+Hiện thực mô hình phát ThS. Trần
+Implementation of obstacle hiện được Lidar trong phần mềm mô phỏng; Giải quyết
+hiện và tránh vật cản trên Hoàng Lộc, CLC-
+12 detection and evasion on 9h50 vấn đề tài nguyên, cần đảm bảo xử lý nổi cả camera và
+đường trong điều khiển xe ThS. Phạm VN
+road in auto-driving car Lidar; Làm rõ lý do cần phải kết hợp camera và Lidar;
+tự hành Minh Quân
+Sửa lại tên đề tài "Hiện thực mô hình phát hiện và tránh
+19522084 Phạm Minh Quân
+vật cản trên đường"; Khi bảo vệ cần làm rõ giải thuật
+kết hợp computer vision và lidar
+Cần làm rõ cách giải quyết vị trí của robot trong map
+19520928 Viên Minh Tân
+Nghiên cứu và xây dựng mô Research and implement cố định; Điều khiển tốc độ robot như thế nào để không
+ThS. Nguyễn
+13 hình robot phục vụ quán cà serving robot for coffee CQĐT 10h00 ảnh hưởng đến thực phẩm; Cơ cấu robot như thế nào;
+Thanh Thiện
+phê shop Xác định lại mục tiêu cho chi tiết; Đánh giá bài toán
+19520036 Phạm Quốc Đăng
+định vị, độ chính xác; Xử lý vật cản như thế nào
+Cần làm rõ 6lLoWPAN khác biệt như thế nào so với hệ
+thống IoT truyền thống; Khác biệt giữa WSN và mô
+Hiện thực mạng cảm biến Implement wireless sensor hình IoT truyền thống, WSN được sử dụng trong các
+ThS. Lầu Phi
+14 18521380 Huỳnh Quang Thái không dây chạy trên hệ điều network ported on Contiki- CQĐT 10h10 trường hợp/kịch bản nào; Xây dựng kịch bản đánh giá
+Tường
+hành Contiki-NG NG OS kiểm tra trên node đầu cuối, node trung gian; Đánh giá
+khoảng cách kết nối, công suất tiêu thụ; Nên sử dụng
+công cụ mô phỏng
+Phòng E6.3
+TS. Nguyễn Hoài Nhân, TS. Phạm Quốc Hùng, ThS. Phạm Minh Quân
+19520887 Phạm Trung Quốc Thiết bị bay không người Giới hạn kịch bản cụ thể. Tìm hiểu mô hình toán, thuật
+Drones transporting ThS. Phạm
+1 lái vận chuyển túi sơ cứu y CQĐT 8h00 toán điều khiển và cân bằng. Giảm bớt nội dung công
+Phạm Trọng emergency medical bags Minh Quân
+19521651 tế khẩn cấp việc. Cập nhật lại đề cương chi tiết
+Huỳnh
+Nghiên cứu giải thuật Research on 3D Mapping
+19521414 Trịnh Đăng Dương
+SLAM trong không gian 3D for SLAM applying to the ThS. Phạm Nên sử dụng mô hình có sẵn để hiện thực giải thuật, tập
+2 CQĐT 8h10
+ứng dụng lên robot tự hành autonomous stair-climbing Minh Quân trung giải thuật SLAM
+Huỳnh Ngọc Hiệp
+19522553 leo thang robot
+Ý
+Design and implement
+Thiết kế và hiện thực kiến
+hardware architecture for
+trúc phần cứng mạng máy ThS. Phạm CLC-
+3 19521022 Nguyễn Văn Tín embedded computer – 8h20 Không có góp ý.
+tính nhúng – vi điều khiển Minh Quân VN
+microcontroller network on
+cho xe tự hành
+autonomous vehicle
+Page 3 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Thiết kế phần mềm mô Design platform for
+Cao Phan Tiến ThS. Phạm CLC- Tập trung trả lời câu hỏi: đánh giá mô hình mô phỏng,
+4 19521387 phỏng chuyển động của xe simulation of autonomous 8h30
+Dũng Minh Quân VN cụ thể giải thuật gì. Cập nhật đề cương chi tiết.
+tự hành vehicles
+Cập nhật đề cương chi tiết, cụ thể mục tiêu đề tài. Xác
+định các tính năng thông minh và đưa vào đề tài. Kiểm
+Hệ thống điều khiển tự Automatic control system ThS. Phan Đình tra độ ổn định tin cậy của hệ thống sử dụng xác suất.
+5 19522229 Lê Đình Thành CQĐT 8h40
+động cho căn hộ chung cư for apartments Duy Có thể giới hạn đề tài cho các kịch bản tương tác thông
+minh giữa hệ thống và con người trong không gian cụ
+thể: cửa an ninh, check khuôn mặt; phòng khách.
+Cập nhật lại đề cương, xác định khối lượng công việc.
+19022034 Lưu Phúc Có thể tích hợp cảm biến độ ẩm, sấy gương, ứng dụng
+Nghiên cứu và thiết kế Research and design smart ThS. Phan Đình trò chuyện, trợ lý ảo, thêm màn hình 11 inches giúp
+6 CQĐT 8h50
+gương thông minh mirror Duy hiển thị nội dung tin tức rõ hơn. Có thể đặt gương tại
+19522493 Nguyễn Bách Tùng cửa ra vào và sử dụng gương như một bộ điều khiển
+chính cho nhà thông minh.
+Nguyễn Ngọc
+19520057 Cập nhật lại mục tiêu cụ thể lưu ý độ chính xác và tốc
+Thùy Dương Hệ thống nhận diện phương Vehicle recognition system ThS. Phan Đình
+7 CQĐT 9h00 độ xử lý so với các công trình trước đó. Xác định nhiều
+tiện giao thông bằng FPGA on FPGA Duy
+19522376 Quách Ngọc Trâm loại xe?
+Nguyễn Ngọc
+19520963
+Thao Nghiên cứu và xây dựng mô Research and build a ThS. Phan Đình Cập nhật lại đề cương, xác định lại mục tiêu đề tài, cụ
+8 CQĐT 9h10
+hình robot phục vụ nhà hàng restaurant serving robot Duy thể cải tiến gì?
+19520520 Danh Quốc Hào
+Thiết kế và hiện thực các Design and implementation
+19521837 Lê Tuấn Minh thiết bị IoT ứng dụng cho of IoT devices for smart
+ThS. Phan Đình Đưa ra kịch bản cụ thể, đổi tên đề tài phù hợp, cập nhật
+9 việc giám sát và điều khiển home control and CQĐT 9h20
+Duy đề cương chi tiết.
+nhà thông minh sử dụng monitoring using BLE
+19521342 Nguyễn Tiến Đạt
+BLE Mesh Mesh Network
+Application of Near- Xác định các mục tiêu và giới hạn của đề tài. Xác định
+19521371 Châu Minh Đức Ứng dụng quang phổ hồng
+Infrared Spectroscopy TS. Phạm Quốc CLC- rõ các bước để thực hiện đề tài. Nghiên cứu, tìm hiểu
+10 ngoại gần (NIR) để đo 9h30
+(NIR) for Non-Invasive Hùng VN các cơ sở khoa học để xác định phương pháp nghiên
+đường huyết không xâm lấn
+19522537 Trần Quang Vũ Blood Glucose Monitoring cứu cho phù hợp.
+Nên giới hạn đề tài: không sử dụng cánh tay robot, chỉ
+19522301 La Quốc Thống
+thực hiện phần robot di động có chức năng nhận diện
+Robot vận chuyển hàng tự TS. Phạm Quốc CLC-
+11 Autonomous delivery robot 9h40 hình ảnh, bám line kẽ sẵn sử dụng camera. Di chuyển
+động Hùng VN
+từ vị trí home, tới vị trí đặt hàng hóa và di chuyển tới
+19522452 Nguyễn Hoài Tú
+nơi yêu cầu.
+Page 4 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+19522089 Trần Mạnh Quân Đề nghị học 3 môn thay thế Hoặc đổi đề tài khác phù
+Thiết kế hệ thống nhận diện An embedded palmprint TS. Phạm Quốc
+12 CQĐT 9h50 hợp (vì đề tài này hàm lượng cần có thời gian nghiên
+lòng bàn tay người recognition system Hùng
+19521936 Ngô Trọng Nhân cứu dài, các kiến thức sâu về sinh trắc học)
+Ứng dụng phần mềm Comsol Multiphysics ThS. Trần
+19521989 Bùi Ngọc Phát Cập nhật đề cương, giới hạn đề tài mục tiêu cụ thể, đặc
+Comsol Multiphysics vào software application in I-V Quang Nguyên, CLC-
+13 10h00 tính mô hình mô phỏng so với thực tế. Định lượng
+mô phỏng đặc tuyến I-V characteristics simulation TS. Phạm Quốc VN
+dòng? áp????
+19521611 Lạc Quốc Huy của Diode of Diode Hùng
+Phạm Nguyễn Design robot Scara – ThS. Trần Đổi tay hút nam châm robot sang tay kẹp (hoặc hút
+19521669 Thiết kế robot Scara - ứng
+Minh Khang Application of product Quang Nguyên, CLC- chân không), thêm băng chuyền để di chuyển vật, phân
+14 dụng phân loại sản phẩm 10h10
+classification by image ThS. Hồ Ngọc VN loại vật thể dựa trên màu sắc, hình dạng. Xác định lại
+Nguyễn Văn Quốc bằng xử lý ảnh
+19521629 processing Diễm giới hạn của đề tài
+Huy
+Võ Hoàng Nguyên
+19522352 Implementation MIPS 32- Improve the presentation skill; Title does not match;
+Tín Hiện thực MIPS 32-bit TS. Nguyễn CLC-
+15 bit Superscalar processor 10h20 Clarify targets, point out clearly what you inherited and
+Nguyễn Phan Superscalar trên FPGA Hoài Nhân EN
+19522095 on FPGA improve; State the scope clearly
+Nhật Quang
+Phòng E6.8
+TS. Trịnh Lê Huy, ThS. Hồ Ngọc Diễm, ThS. Ngô Hiếu Trường
+Design and implementation
+Thiết kế và chế tạo thiết bị
+of indoor positioning TS. Trịnh Lê đề xuất dùng các giải thuật khác để tăng độ chính xác,
+1 19520539 Lê Minh Đức Hiếu định vị trong nhà sử dụng CQĐT 8h00
+system using LoRa Huy loại bỏ các giá trị không mong muốn, nhiễu
+công nghệ LoRa
+technology
+Nghiên cứu và thiết kế bảng Research and design the
+19521838 Lê Xuân Minh
+giá điện tử ứng dụng trong electronic shelf label in the TS. Trịnh Lê Bổ sung ngày tháng trên đề cương
+2 CQĐT 8h10
+siêu thị thông minh dựa trên smart supermarket based on Huy
+19522142 Trần Quốc Sơn
+công nghệ LoRa LoRa technology
+Nghiên cứu, thiết kế và hiện Research, design and
+19522345 Vũ Thủy Tiên thực LoRaWAN Relay sử implementation of solar-
+TS. Trịnh Lê Sửa tên đề tài cho phù hợp với nội dung, làm rõ kịch
+3 dụng năng lượng mặt trời powered LoRaWAN Relay CQĐT 8h20
+Huy bản demo.
+tích hợp hệ thống antenna integrated with multi-
+19520359 Võ Thị Tường Vy
+đa hướng directional antenna system
+Nguyễn Minh
+18520927 Thiết kế và chế tạo trạm Design and implementation
+Khoa
+mặt đất nhận tín hiệu từ vệ of ground station receive TS. Trịnh Lê CLC-
+4 8h30 Thêm giới hạn đề tài, cân nhắc khi dùng từ giao tiếp
+tinh LEO dựa trên công signal from LEO satellite Huy VN
+19522302 Lê Minh Thông nghệ LoRa based on LoRa technology
+Page 5 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Research, design and
+19522048 Vũ Đình Bảo Phúc Nghiên cứu, thiết kế và hiện
+implementation of
+thực thiết bị đo đạc và hệ TS. Trịnh Lê CLC- Làm rõ mục tiêu đề tài, dự kiến kết quả đạt được, thêm
+5 measuring device and 8h40
+thống hiển thị mức độ bao Huy EN giới hạn đề tài
+Nguyễn Quang LoRaWan gateway's
+19522338 phủ của gateway LoRaWan
+Tiến coverage display system
+so sánh LRU ít hơn bao nhiêu tài nguyên?
+Design and implement a
+Thiết kế và hiện thực lõi vi Định lượng tiêu chí đánh giá
+19520408 Cao Thanh Bình RISC-V RV32IF processor ThS. Phạm
+xử lý RISC-V RV32IF hỗ So sánh với các đề tài khác.
+with 4-Way Set Associative Thanh Hùng CLC-
+6 trợ 4-Way Set Associative 8h50 Làm rõ pipeline
+Cache and True Random ThS. Hồ Ngọc VN
+Cache và bộ tạo số ngẫu Đề xuất: nên dùng kiến trúc có sẵn rồi chỉnh sửa vài
+Number Generator on Diễm
+19520573 Đặng Phi Hùng nhiên thực trên FPGA function sẽ dễ hơn, hơn là xây dựng từ đầu
+FPGA
+Branch Prediction dự kiến %
+Thiết kế và hiện thực lõi vi Design and implement a
+18521357 Cao Tài Làm rõ phần định lượng trong tiêu chí đánh giá VD:
+xử lý RISC-V RV64IF hỗ RISC-V RV64IF processor
+ThS. Phạm xung đột thì bao nhiêu, bao nhiêu trường hợp demo,..so
+7 trợ 4-Way Set Associative with 4-Way Set Associative CQĐT 9h00
+Thanh Hùng sánh với các đề tài khác
+Cache và Branch Prediction Cache and Branch
+18520424 Lê Hoài Ân Đề nghị bổ sung/viết lại đề cương
+trên FPGA Prediction on FPGA
+Thiết kế và hiện thực lõi vi
+Design and implement a
+19520673 Phạm Thanh Lâm xử lý RISC-V RV64IM làm rõ phương pháp đánh giá superscalar với cơ chế
+Superscalar RISC-V
+theo kiến trúc superscalar, pipeline 1 lệnh.
+RV64IM processor with 4- ThS. Phạm
+8 hỗ trợ 4-Way Set CQĐT 9h10 Làm rõ khác biệt kiến trúc superscalar các năm trước
+Way Set Asscosiative Thanh Hùng
+Asscosiative Cache và Branch Prediction dự kiến %
+Cache and Branch
+19521687 Trần Tuấn Khanh Branch Prediction trên IM là bao nhiêu?
+Prediction on FPGA
+FPGA
+Thiết kế và hiện thực phần Nên thêm thông tin về giới hạn đề tài. Nên lượng hóa
+cứng tăng tốc giải thuật Design and implementation và đề xuất phương pháp đánh giá (so sánh với những
+Nguyễn Hoàng TS. Lâm Đức
+9 19520859 Integer Motion Estimation of HEVC Integer Motion CQĐT 9h20 công trình nào)
+Phước Khải
+trong hệ thống nén video Estimation on hardware Nên làm rõ kịch bản đánh giá đầu vào và đâu ra
+HEVC Sửa lại thuyết minh
+Phạm Xuân Tuấn
+19521208 Hiện thực phương thức định Implement FPGA based Đề nghị bổ sung sơ đồ kết nối giữa các khối (camera,
+Anh TS. Lâm Đức
+10 hướng tự động cho xe tự autonomous car with CNN CQĐT 9h30 jetson tx2, vc707, khối động cơ)
+Khải
+19521125 Võ Đăng Nhật Vỹ hành bằng FPGA hardware Giải thích rõ vì sao phải sử dụng 2 boards tx2 và vc707
+Nguyễn Thị Cẩm
+19521594 Implementation of lossless
+Hướng Hiện thực hóa kỹ thuật nén
+image compression by TS. Lâm Đức CLC- Xem xét nội dung 3 cần trao đổi với GVHD, cần thêm
+11 ảnh Dynamic Huffman 9h40
+Dynamic Huffman Coding Khải VN giới hạn đề tài
+Trần Thạch Tuấn Coding
+19522014 algorithm
+Phong
+Page 6 of 7
+
+ST Tên CB hướng Ghi Thời
+MSSV Họ và tên Tên đề tài tiếng việt Tên đề tài tiếng anh Ý kiến góp ý đề cương của HĐ
+T dẫn chú gian
+Cần làm rõ sai số khi chuyển đổi floating - fixed point,
+19520158 Lê Hoàng Minh Thiết kế và hiện thực mô
+Design and implement deep và ngược lại
+hình học sâu cho bài toán ThS. Trương
+12 learning model for image CQĐT 9h50 làm rõ kịch bản demo, đánh giá tài nguyên.
+phân loại hình ảnh trên Văn Cương
+Nguyễn Trần Trí classification in FPGA Giới hạn đề tài, định lượng độ chính xác
+19521007 FPGA
+Thức Làm rõ ảnh đầu vào, size ảnh
+Thuật toán Cascade
+Cascade Association and Dùng phần cứng gì? dataset?
+Association và thuật toán
+Camera-motion Đầu vào là gì? dự kiến kết quả đạt được
+bù đắp chuyển động camera ThS. Trương
+13 19522491 Đỗ Thanh Tùng compensation based CQĐT 10h00 Ngữ cảnh đánh giá đề tài
+dựa trên Kalman Filter cho Văn Cương
+Kalman filter for multi- Thông tin video đầu vào (size, fps,..)
+bài toán theo dấu đa đối
+object tracking Kịch bản đánh giá camera động
+tượng
+Nên giới hạn lại các loại thuật toán mã hóa, hội đồng
+đề xuất 1.
+19521653 Nguyễn Đức Hy
+Đánh giá thuật toán đó với các phần mềm khác, theo
+Design and implement
+Thiết kế và hiện thực thuật ThS. Hồ Ngọc chỉ tiêu cụ thể: tần số, tốc độ, kết quả,...
+14 encryption algorithm on CQĐT 10h10
+toán mã hóa trên RISC-V Diễm Xây dựng demo cho đề tài
+RISC-V
+Trần Duy Quốc Viết lại đề cương cho chi tiết thêm tài liệu tham khảo,
+19520353
+Việt thêm phần giới hạn đề tài để so sánh với các công trình
+liên quan (papers 2022)
+Page 7 of 7

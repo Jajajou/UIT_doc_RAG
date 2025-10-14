@@ -1,0 +1,272 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">/* Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+/*
+ * Widgetkit Slideshow: feature Style
+ */
+
+
+/* Background
+----------------------------------------------------------------------------------------------------*/
+
+.wk-slideshow-feature .bg {
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 100% 100%;
+}
+
+
+/* Navigation
+----------------------------------------------------------------------------------------------------*/
+
+.wk-slideshow-feature .nav {
+	margin: 0 auto;
+	text-align: center;
+	width: 100%;
+
+	position: absolute;
+	bottom: 0;
+	z-index: 100;
+}
+
+.wk-slideshow-feature .nav li {
+	display: inline-block;
+	margin-left: 5px;
+}
+.wk-slideshow-feature .nav li:first-child { margin-left: 0; }
+
+.wk-slideshow-feature .nav span {
+	width: 16px;
+	height: 15px;
+	background: url(images/nav.png) 0 0 no-repeat;
+	overflow: hidden;
+}
+.wk-slideshow-feature .nav span:hover { background-position: 0 -30px; }
+.wk-slideshow-feature .nav span:active { background-position: 0 -45px; }
+.wk-slideshow-feature .nav .active span { background-position: 0 -15px; }
+
+/* Buttons
+----------------------------------------------------------------------------------------------------*/
+
+.wk-slideshow-feature &gt; div { position: relative; }
+
+.wk-slideshow-feature &gt; div:hover .next,
+.wk-slideshow-feature &gt; div:hover .prev {
+	top: 50%;
+	width: 50px;
+	height: 50px;
+	margin-top: -25px;
+	background: url(images/buttons.png) 0 50px no-repeat;
+	z-index: 6;
+}
+
+.wk-slideshow-feature &gt; div:hover .next {
+	right: 30px;
+	background-position: 0 0;
+}
+
+.wk-slideshow-feature &gt; div:hover .prev {
+	left: 30px;
+	background-position: 0 -50px;
+}
+
+/* Captions
+----------------------------------------------------------------------------------------------------*/
+
+.wk-slideshow-feature .caption {
+	position: absolute;
+	top: 15%;
+	left: auto;
+	right: auto;
+	bottom: auto;
+	z-index: 5;
+	padding: 15px;
+	width: 38%;
+	height: auto;
+	border-radius: 6px
+}
+
+/* Caption positions: Left, Right, Bottom */
+
+.wk-slideshow-feature .caption.left {
+	left: 0;
+}
+
+.wk-slideshow-feature .caption.right {
+	right: 0;
+}
+
+
+.wk-slideshow-feature .caption.bottom {
+	top: auto;
+	bottom: 0;
+	width: 96%;
+	padding-left: 2%;
+	padding-right: 2%;
+}
+
+/* Caption background */
+
+.wk-slideshow-feature .caption.none {
+	background: none;	
+}
+
+.wk-slideshow-feature .caption.light {
+	background: rgba(255,255,255,0.5);	
+	border: 1px solid #ddd;
+}
+
+.wk-slideshow-feature .caption.right.light, .wk-slideshow-feature .caption.right.dark {
+	right: 10px;
+}
+
+.wk-slideshow-feature .caption.left.light, .wk-slideshow-feature .caption.left.dark {
+	left: 10px;
+}	
+
+.wk-slideshow-feature .caption.dark {
+	background: rgba(0,0,0,0.5);
+	border: 1px solid black;
+	box-shadow: inset 0 0 3px rgba(255,255,255,.7);
+	color: white;
+}
+
+
+.wk-slideshow-feature .caption.bottom.dark, .wk-slideshow-feature .caption.bottom.light {
+	border-radius: 0;
+	border-left: none;
+	border-right: none;
+}
+
+
+
+/* Caption text */
+
+.wk-slideshow-feature .caption h2 {
+	font-size: 36px;
+	line-height: 42px;
+	margin-top: 0;
+}
+
+.wk-slideshow-feature .caption p {
+	font-size: 20px;
+	line-height: 28px;
+	margin-top: 0;
+	color: #666;
+}
+
+.wk-slideshow-feature .caption.dark h2 {
+	color: white;
+}
+
+.wk-slideshow-feature .caption.dark p {
+	color: #e3e3e3;
+}
+
+.wk-slideshow-feature .caption.light, .wk-slideshow-feature .caption.light p {
+	color: #222;
+}
+
+.wk-slideshow-feature .caption.bottom {
+	text-align: center;
+}
+
+.wk-slideshow-feature .caption.bottom p {
+	margin-bottom: 0;
+}
+
+.wk-slideshow-feature .caption a.button-more {
+	font-size: 20px;
+	text-decoration: none;
+	margin: 0;
+}
+
+
+
+
+
+/* Responsive
+----------------------------------------------------------------------------------------------------*/
+
+/* Only Touch Devices */
+@media (max-device-width: 1024px) {
+
+	.wk-slideshow-feature .next,
+	.wk-slideshow-feature .prev { display: none; }
+
+	/*.wk-slideshow-feature {
+		background-size: 100% 100%;
+	}*/
+
+}
+
+/* Only Phones and Tablets (Portrait) */
+@media (max-width: 959px) {
+	.wk-slideshow-feature .caption h2 {
+		font-size: 30px;
+		line-height: 32px;
+	}
+	.wk-slideshow-feature .caption.right.light, .wk-slideshow-feature .caption.right.dark, 
+	.wk-slideshow-feature .caption.left.light, .wk-slideshow-feature .caption.left.dark {
+		top: 5%;
+	}
+}
+
+
+/* Only Tablets (Portrait) */
+@media (min-width: 768px) and (max-width: 959px) {
+
+	.wk-slideshow-feature .caption.left, 
+	.wk-slideshow-feature .caption.right {
+		top: 5px;
+		bottom: auto;
+	}
+	.wk-slideshow-feature .caption.right.light, 
+	.wk-slideshow-feature .caption.right.dark, 
+	.wk-slideshow-feature .caption.left.light, 
+	.wk-slideshow-feature .caption.left.dark {
+		bottom: 5px !important;
+		top: auto;
+	}
+}
+
+
+/* Only Phones (Portrait) */
+@media (max-width: 479px) {
+
+	.wk-slideshow-feature .caption.left, 
+	.wk-slideshow-feature .caption.right, 
+	.wk-slideshow-feature .caption.right.light, 
+	.wk-slideshow-feature .caption.right.dark, 
+	.wk-slideshow-feature .caption.left.light, 
+	.wk-slideshow-feature .caption.left.dark {
+		top: auto;
+		bottom: 0;
+		width: 96%;
+		padding-left: 2%;
+		padding-right: 2%;
+		text-align: center;
+		left: auto;
+		right: auto;
+		border-radius: 0;
+		border-left: none;
+		border-right: none;
+	}
+
+
+	.wk-slideshow-feature .caption.left, .wk-slideshow-feature .caption.right {
+		padding: 5px;
+	}
+
+	.wk-slideshow-feature .caption h2 {
+		font-size: 16px;
+		line-height: 18px;
+		margin-bottom: 0;
+	}
+	.wk-slideshow-feature .caption p, .wk-slideshow-feature .caption a.button-more {
+		font-size: 12px;
+		line-height: 14px;
+		margin-bottom: 0;
+	}
+
+}
+</pre></body></html>

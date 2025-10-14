@@ -1,0 +1,54 @@
+THÔNG TIN LUẬN ÁN
+Tên luận án:
+PHÁT HIỆN SỰ KIỆN BẤT THƯỜNG TRONG VIDEO
+Chuyên ngành: Khoa học máy tính
+Mã số: 9480101
+Họ tên: TRẦN MINH TÙNG
+Cán bộ hướng dẫn:
+1. TS. NGUYỄN TẤN TRẦN MINH KHANG
+2. PGS.TS. NGUYỄN VĂN TÂM
+Cơ sở đào tạo: TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC QUỐC
+GIA TP.HCM
+TÓM TẮT
+Phát hiện sự kiện bất thường trong video là một trong những chủ đề chính, thách thức
+và thu hút nhiều sự quan tâm của các nhà nghiên cứu trong lĩnh vực thị giác máy tính và
+học máy, đặc biệt là phát hiện sự kiện bất thường trong video trên không. Bài toán này được
+ứng dụng trong nhiều lĩnh vực khác nhau trong thế giới thực bao gồm: giám sát giao thông,
+an ninh biên giới, y khoa, nông nghiệp thông minh, giao hàng, cứu hộ cứu nạn, giám sát
+môi trường. Luận án tập trung vào nghiên cứu, khảo sát và hệ thống hóa các cách tiếp cận
+và phương pháp nghiên cứu, các bộ dữ liệu chuẩn công khai, đề xuất phương pháp phát
+hiện sự kiện bất thường ở mức khung hình trong video trên không với ngữ cảnh giao thông
+và xây dựng bộ dữ liệu cho bài toán phát hiện sự kiện bất thường trong video trên không
+với ngữ cảnh giao thông. Qua quá trình thực hiện các nội dung nghiên cứu trong luận án,
+nghiên cứu sinh (NCS) đã có ba đóng góp chính:
+(1) Đề xuất phương pháp phát hiện sự kiện bất thường ở mức khung hình trong video
+trên không với ngữ cảnh giao thông. Trong đóng góp thứ nhất, NCS đã đề xuất một phương
+pháp mới dựa trên kiến trúc Vision Transformer và huấn luyện mô hình theo chiến lược
+học không giám sát thông qua việc khai thác và tích hợp các đặc trưng không gian - thời
+gian để dự đoán khung hình tương lai cho nhiệm vụ phát hiện sự kiện bất thường trong
+
+video trên không. Bên cạnh đó, các thực nghiệm đã được tiến hành và chứng minh hiệu
+suất vượt trội của phương pháp đề xuất so với các phương pháp tối tân hiện tại trên hai bộ
+dữ liệu bất thường trong video trên không có quy mô lớn là UIT-ADrone và Drone-
+Anomaly.
+(2) Đóng góp một công trình nghiên cứu tổng quan cho bài toán phát hiện sự kiện bất
+thường trong video. Trong đóng góp thứ hai, NCS tập trung nghiên cứu, khảo sát và hệ
+thống hóa các cách tiếp cận và phương pháp nghiên cứu, các bộ dữ liệu chuẩn công khai,
+hiệu suất các phương pháp tối tân hiện tại, các độ đo phổ biến cho bài toán phát hiện sự
+kiện bất thường trong video. Bên cạnh đó, NCS đã tiến hành phân loại các bài toán bất
+thường trong phân tích video gồm: phát hiện bất thường, phân loại bất thường, dự đoán bất
+thường và định vị bất thường. Ngoài ra, NCS đã tiến hành các thực nghiệm mở rộng và so
+sánh hiệu suất của các phương pháp tối tân hiện tại cho nhiệm vụ phát hiện sự kiện bất
+thường trong video, thảo luận chuyên sâu các ưu điểm và hạn chế của các phương pháp tối
+tân hiện tại cũng như tiềm năng ứng dụng của bài toán này trong thực tế.
+(3) Công bố bộ dữ liệu UIT–ADrone với ngữ cảnh giao thông tại Thành phố Hồ Chí
+Minh cho bài toán phát hiện sự kiện bất thường trong video trên không: Trong đóng góp
+thứ ba, NCS đã tiến hành thu thập và xây dựng bộ dữ liệu video được quay bằng thiết bị
+bay không người lái có quy mô lớn nhất tính đến thời điểm hiện tại gồm thu thập dữ liệu,
+thống kê bộ dữ liệu và gán nhãn dữ liệu cho bài toán phát hiện sự kiện bất thường trong
+video trên không.
+Trong thời gian hoàn thành luận án, NCS đã công bố bảy bài báo khoa học, trong đó:
+ba bài báo đăng tại các tạp chí uy tín (tạp chí SCIE – Q1) và bốn bài báo khoa học đăng tại
+các hội nghị trong nước và quốc tế uy tín.
+CÁN BỘ HƯỚNG DẪN NGHIÊN CỨU SINH
+NGUYỄN TẤN TRẦN MINH KHANG NGUYỄN VĂN TÂM TRẦN MINH TÙNG

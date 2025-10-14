@@ -1,0 +1,190 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO TIẾN ĐỘ GIỮA KỲ KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 1 - Năm học: 2024 - 2025
+Thời gian bắt đầu hội đồng: Sáng từ 7h30, thứ Tư, ngày 06/11/2024
+Địa điểm: Phòng E6.3
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 5 phút hội đồng góp ý
+Họ tên sinh Giảng viên Hệ đào Thời
+STT MSSV Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú Ý kiến góp ý ĐCCT của Hội đồng
+viên hướng dẫn tạo gian
+Xem lại tập dữ liệu và tính ứng dụng, so sánh với
+Research and
+Nghiên cứu và hiện thực các đề tài trước. Tính ứng dụng của đề tài, tính
+implementation of a
+hệ thống nhận dạng độ mới của đề tài. Trao đổi lại với GVHD để chỉnh
+1 20520597 Hà Vĩnh Kiện mango ripeness TS. Đỗ Trí Nhựt CQĐT 7h30
+chín của xoài dựa trên sửa đề cương về nguồn dữ liệu các mức độ chín,
+detection system using
+thị giác máy tính thể hiện cách đánh giá, phân tích mô hình và kịch
+computer vision
+bản triển khai ứng dụng của đề tài.
+Research and design of
+Nghiên cứu và thiêt kế Thảo luận lại với GVHD về định hướng đề tài và
+Edge AI applications in ThS. Trương
+Nguyễn Anh ứng dụng Edge AI trong CLC- ứng dụng đề tài. Mô hình đề tài đưa ra chưa phù
+2 20521194 multifunctional fire Văn Cương, 7h40
+Đức hệ thống báo cháy đa VN hợp với hệ thống thực tế. Xác định rõ mục tiêu đề
+alarm systems for TS. Đỗ Trí Nhựt
+năng cho tòa nhà tài cảnh báo trước hay sau cháy.
+buildings
+Nguyễn Anh Design of MEMS Xác định rõ yêu cầu, mô hình mô phỏng. Nghiên
+Thiết kế cảm biến áp
+20521195 Đức capacitive pressure ThS. Hồ Ngọc CLC- cứu thực tiễn để đảm bảo thiết kế mô phỏng sử
+3 suất điện dung MEMS 7h50
+sensor for blood Diễm VN dụng được. Trao đổi lại với GVHD để xem xét đề
+cho thiết bị đo huyết áp
+pressure monitor tài phù hợp với định hướng của khoa hơn.
+20521283 Trần Văn Hải
+Thiết kế vậy lý vi điều ThS. Phạm Xem xét đề tài mở rộng ứng dụng để phát triển
+Trần Quốc Physical design of RISC- CLC-
+4 20521969 khiển sử dụng lõi RISC- Minh Quân, 8h00 khối mở rộng, xem xét khả năng hoàn thành đề tài
+Thịnh V microcontroller VN
+V ThS. Tạ Trí Đức trong 1 học kỳ.
+Thiết kế IP chuyển đổi Design multiplanar data
+TS. Phạm Quốc
+dữ liệu đa mặt phẳng transformation IP for Xác định rõ khối lượng công việc, nghiên cứu các
+Hùng, CLC-
+5 21521104 Võ Thành Long cho luồng dữ liệu tuần camera and sensor serial 8h10 khối DMA, DDR đa kênh và hệ thống. Xác định
+ThS. Phan Đình VN
+tự từ camera và cảm streams in automotive rõ cách đánh giá.
+Duy
+biến trong chip ô tô system on chip
+Page 1 of 3
+
+Họ tên sinh Giảng viên Hệ đào Thời
+STT MSSV Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú Ý kiến góp ý ĐCCT của Hội đồng
+viên hướng dẫn tạo gian
+Design power clock TS. Phạm Quốc
+Thiết kế bộ quản lý năng
+reset (PCR) Hùng, CLC-
+6 21521357 Lê Đại Quốc lượng, clock, reset cho 8h20 Xem xét kịch bản đánh giá, giới hạn đề tài.
+management for ThS. Phan Đình VN
+SoC trong xe hơi
+autommotive SoC Duy
+Nghiên cứu, thử nghiệm Research and test the
+Lê Trịnh TS. Phạm Quốc Xem xét kịch bản triển khai mô hình, kiểm tra và
+hệ thống điểm danh attendance system using
+19522185 Phong Thái Hùng, CLC- đánh giá. Xem xét lại mô hình, mục tiêu và giới
+7 bằng thẻ sinh viên và student cards and facial 8h30
+ThS. Phan Đình VN hạn đề tài. Xây dựng ứng dụng cho các đối tượng
+quét khuôn mặt để nhận scanning for
+Duy hợp lý. Xem xét kịch bản đánh giá kiểm thử.
+19522320 Đỗ Trí Thức dạng identification
+Using quantization
+Bùi Anh Tiệp Ứng dụng kỹ thuật TS. Phạm Quốc Xem xét các nghiên cứu trước, phương pháp so
+aware training technique
+21521535 (CQĐT) lượng tử hóa trong huấn Hùng, sánh đánh giá. Xem xét lại tiêu chí đánh giá. Xem
+8 Trần Thị to enhance performance CQĐT 8h40
+luyện cho mô hình học ThS. Phan Đình xét lại tên đề tài, tên đề tài rộng khó đánh giá, giới
+Thanh Dung of deep learning model
+sâu trên hệ thống ADAS Duy hạn.
+21521984 (CLC) for ADAS system
+Xây dựng chương trình
+Building a program to
+21522764 Trần Anh Tuấn điều khiển màn nước ThS. Phan Đình Xem xét chọn giải pháp giới hạn đề tài. Lưu ý
+9 control a water curtain CQĐT 8h50
+nghệ thuật từ xa trên Kit Duy kịch bản kiểm thử, báo cáo.
+Lê Trần Mạnh remotely on a Raspberry
+Raspberry
+21522571 Tâm
+Monitoring and rainfall
+Hệ thống giám sát và dự Xem xét lại mẫu và tập dữ liệu. Xem xét giới hạn
+Nguyễn Tiến prediction system for
+10 21521548 báo lượng mưa các tỉnh TS. Đoàn Duy CQĐT 9h00 và mục tiêu đề tài, còn nhiều lan man trong định
+Toàn the north central
+bắc trung bộ hướng. Xem xét tính khả thi của đề tài.
+provinces.
+Nguyễn Hoàng Giám sát chất lượng Xem xét lại mẫu, cách lấy mẫu và khu vực, độ
+Indoor air quality
+21522002 Khánh Duy không khí trong nhà cho TS.Trịnh Lê rộng, vị trí lấy mẫu. Xem lại mục tiêu và giới hạn
+11 monitoring for smart CQĐT 9h10
+ứng dụng tòa nhà thông Huy đề tài. Xem lại mô hình đánh giá chất lượng. Xem
+Nguyễn Tuấn building application
+minh lại định hướng đề tài và tên đề tài.
+21521036 Kiệt
+Research and
+Nghiên cứu, ứng dụng
+application of Antenna
+công nghệ Antenna in
+Phan Thanh in Package (AIP) TS. Trịnh Lê
+12 21522760 Package (AIP) vào việc CQĐT 9h20 Xem xét phương pháp đánh giá, kịch bản đánh giá.
+Tuấn technology in the Huy
+chế tạo và đóng gói
+manufacturing and
+module tinyGS
+packaging of tinyGS
+Lê Thị Phương Nghiên cứu và đổi mới Research and TS. Nguyễn
+Xem xét lại mô hình thiết kế cải tiến, xem xét lại
+21522426 Nhi thuật toán theo dõi con innovation in human Minh Sơn,
+13 CQĐT 9h30 mô hình nhận dạng, phương pháp đánh giá. Xem
+người trong Elderly tracking algorithm for KS. Thân Thế
+Võ Đông xét lại mục tiêu và giới hạn đề tài.
+Care robot Elderly Care robot Tùng
+21520457 Thành
+Page 2 of 3
+
+Họ tên sinh Giảng viên Hệ đào Thời
+STT MSSV Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú Ý kiến góp ý ĐCCT của Hội đồng
+viên hướng dẫn tạo gian
+19521384 Vũ Anh Đức Thiết kế phần cứng nhận Hardware design for TS. Lâm Đức
+14 CQĐT 9h40 Sinh viên nộp đề cương chi tiết sau ngày báo cáo
+diện biển báo giao thông traffic sign recognition Khải
+Trần Ngọc
+19522367 Toản
+Optimization of SoC
+Tối ưu hệ thống SoC
+system for image
+Trần Quốc cho bài toán phân loại TS. Trần Thị CLC- Xem xét lại cách đánh giá phần cứng, xem xét lại
+15 20521590 classification problem 9h50
+Lượng ảnh dựa trên thuật toán Điểm VN giới hạn và mục tiêu đề tài.
+based on Tucker
+phân rã Tucker
+decomposition algorithm
+Non-invasive blood
+Đo đường huyết không
+glucose measurement
+xâm lấn sử dụng quang TS. Phạm Quốc CLC-
+16 21522103 Võ Huy Hoàng using near – infrared 10h00 Sinh viên nộp đề cương chi tiết sau ngày báo cáo
+phổ cận hồng ngoại và Hùng VN
+(NIR) spectroscopy and
+trí tuệ nhân tạo
+artifical intelligence (AI)
+Gia hạn
+Thiết kế IP phần cứng
+Trần Tiến Hardware IP design for TS. Lâm Đức CLC- từ HK2,
+17 20522078 nhận diện biển báo giao 10h10
+Trung traffic sign recognition Khải VN 2023-
+thông
+2024
+Design and Gia hạn
+Thiết kế và hiện thực IP
+Trần Bảo implementation of TS. Lâm Đức từ HK2,
+18 20521727 phần cứng nhận diện CQĐT 10h20
+Nhung license plate recognition Khải 2023-
+biển số xe
+hardware IP 2024
+Design and
+Gia hạn
+20520646 Võ Nhật Nam implementation of
+Thiết kế và hiện thực IP TS. Lâm Đức từ HK2,
+19 vehicle speed CQĐT 10h30
+Nguyễn Thành phần cứng đo tốc độ xe Khải 2023-
+20521737 measurement hardware
+Phát 2024
+IP
+Building an agricutural Gia hạn
+Xây dựng hệ thống hỗ
+Trần Trọng support system for ThS. Phan Đình từ HK2,
+20 20520555 trợ nông nghiệp ứng CQĐT 10h40
+Huy application in tomato Duy 2023-
+dụng trong vườn cà chua
+gardens 2024
+Nguyễn Thịnh Research and design of Gia hạn
+20521738 Nghiên cứu và thiết kế
+Phát robot to transport từ HK2,
+21 robot vận chuyển tài liệu TS. Đỗ Trí Nhựt CQĐT 10h50
+Nguyễn Hữu documents in closed 2023-
+20522051 trong không gian kín
+Trí spaces 2024
+Page 3 of 3

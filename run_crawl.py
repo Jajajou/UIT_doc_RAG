@@ -5,6 +5,7 @@ import inspect
 import json
 import re
 import sys
+from collections import deque
 from datetime import datetime
 from pathlib import Path
 from typing import List, Set, Optional, Tuple, Any
@@ -264,6 +265,10 @@ async def main():
     allowed_domains: List[str] = domains_cfg.get("allowed_domains", [])
     file_exts: List[str] = domains_cfg.get("file_extensions", [".pdf", ".doc", ".docx"])
 
+    # BFS configuration
+    max_pages = crawler_cfg.get("max_pages", 10000)
+    max_depth = crawler_cfg.get("max_depth", 6)
+
     # 2) Ensure folders
     for p in [OUTPUT_HTML, OUTPUT_FILES, OUTPUT_META, LOG_PATH.parent]:
         p.mkdir(parents=True, exist_ok=True)
@@ -287,53 +292,60 @@ async def main():
         except Exception:
             pass
 
+    # 5) BFS Queue - (url, depth)
+    queue = deque([(url, 0) for url in seeds])
+    print(f"[BFS] Starting with {len(queue)} seed URLs, max_depth={max_depth}, max_pages={max_pages}")
+
     start_ts = datetime.utcnow().isoformat()
 
-    # 5) Crawl
+    # 6) BFS Crawl with link following
     async with AsyncWebCrawler() as crawler, ClientSession(headers=DEFAULT_HEADERS) as session:
-        for seed in seeds:
+        while queue and fetched_count < max_pages:
+            current_url, depth = queue.popleft()
+            
+            # Skip if already seen or max depth exceeded
+            if current_url in seen:
+                continue
+            if depth > max_depth:
+                print(f"[SKIP] max depth exceeded for {current_url} (depth={depth})")
+                continue
+            
+            # Check if URL is allowed
+            allowed = is_allowed(current_url, include_patterns, exclude_patterns)
+            if not allowed and allowed_by_domain(current_url, allowed_domains):
+                allowed = True
+            
+            if not allowed:
+                print(f"[SKIP] filtered by patterns: {current_url}")
+                continue
+            
+            seen.add(current_url)
+            fetched_count += 1
+            
+            # Progress indicator
+            if fetched_count % 10 == 0:
+                print(f"[PROGRESS] Fetched: {fetched_count}/{max_pages}, Queue: {len(queue)}, Files: {file_count}, Depth: {depth}")
+            
+            # Fetch the page
             pages = []
             try:
-                res = await crawler.arun(seed, config=run_cfg)  # Playwright
+                res = await crawler.arun(current_url, config=run_cfg)
                 pages = normalize_pages(res)
             except Exception as e:
                 error_msg = str(e)
-                print(f"[FALLBACK] Playwright error at {seed}: {error_msg}")
-                # Log the error for debugging
-                with open(LOG_PATH, "a", encoding="utf-8") as logf:
-                    logf.write(f"[{datetime.utcnow().isoformat()}] PlaywrightError {seed} -> {error_msg}\n")
-
-            # Fallback nếu rỗng hoặc Playwright thất bại
-            if not pages:
-                print(f"[FALLBACK] Attempting HTTP fallback for {seed}")
-                fp = await fetch_html_fallback(session, seed, crawler_cfg.get("timeout_ms", 30000))
+                # Try HTTP fallback
+                fp = await fetch_html_fallback(session, current_url, crawler_cfg.get("timeout_ms", 30000))
                 if fp:
                     pages = [fp]
-                    print(f"[FALLBACK] HTTP fallback succeeded for {seed} (status={fp.status})")
                 else:
-                    print(f"[FALLBACK] HTTP fallback also failed for {seed}")
-
-            print(f"[DEBUG] Seed {seed} -> {len(pages)} page(s) returned (after fallback)")
+                    with open(LOG_PATH, "a", encoding="utf-8") as logf:
+                        logf.write(f"[{datetime.utcnow().isoformat()}] Error {current_url} -> {error_msg}\n")
+                    continue
 
             for page in pages:
                 url = getattr(page, "url", None)
                 if not url:
-                    print("[SKIP] missing url on page object")
                     continue
-                if url in seen:
-                    print(f"[SKIP] seen {url}")
-                    continue
-
-                allowed = is_allowed(url, include_patterns, exclude_patterns)
-                if not allowed and allowed_by_domain(url, allowed_domains):
-                    allowed = True  # nới theo danh sách domain trắng
-
-                if not allowed:
-                    print(f"[SKIP] filtered by patterns: {url}")
-                    continue
-
-                seen.add(url)
-                fetched_count += 1
 
                 # --------- HTML ----------
                 if page_is_html(page):
@@ -360,10 +372,36 @@ async def main():
                         meta.model_dump_json(indent=2), encoding="utf-8"
                     )
 
+                    # Add HTML links to BFS queue for next depth level
+                    new_html_links = 0
+                    for link in out_links:
+                        if looks_like_file(link, file_exts):
+                            continue  # Skip file links, handle separately
+                        
+                        abs_link = urljoin(url, link)
+                        
+                        # Only add if within allowed domains
+                        if not allowed_by_domain(abs_link, allowed_domains):
+                            continue
+                        
+                        # Only add if not seen and not already in queue
+                        if abs_link not in seen:
+                            queue.append((abs_link, depth + 1))
+                            new_html_links += 1
+                    
+                    if new_html_links > 0:
+                        print(f"[BFS] Added {new_html_links} new links to queue from {url}")
+
                     # download files (absolute-ize relative URLs)
                     to_download = [l for l in out_links if looks_like_file(l, file_exts)]
                     for raw_url in to_download:
                         f_url = urljoin(url, raw_url)
+                        
+                        # Skip if already downloaded
+                        if f_url in seen:
+                            continue
+                        seen.add(f_url)
+                        
                         content, ctype, status = await download_file(
                             session, f_url, crawler_cfg.get("timeout_ms", 30000)
                         )
@@ -389,6 +427,7 @@ async def main():
                             f_meta.model_dump_json(indent=2), encoding="utf-8"
                         )
                         file_count += 1
+                        print(f"[FILE] Downloaded: {f_name} ({file_count} total)")
 
                 # --------- Direct file ----------
                 else:
@@ -451,9 +490,17 @@ async def main():
         pass
 
     end_ts = datetime.utcnow().isoformat()
-    print(f"Start: {start_ts}")
-    print(f"End  : {end_ts}")
-    print(f"Fetched pages: {fetched_count}, HTML saved: {html_count}, Files saved: {file_count}")
+    print("\n" + "="*70)
+    print("✅ CRAWL COMPLETE")
+    print("="*70)
+    print(f"Start:         {start_ts}")
+    print(f"End:           {end_ts}")
+    print(f"Pages fetched: {fetched_count}")
+    print(f"HTML saved:    {html_count}")
+    print(f"Files saved:   {file_count}")
+    print(f"URLs in queue: {len(queue)} (not processed)")
+    print(f"Total seen:    {len(seen)}")
+    print("="*70)
 
 
 if __name__ == "__main__":

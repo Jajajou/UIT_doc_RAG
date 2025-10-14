@@ -1,0 +1,251 @@
+TRƯỜNG ĐH CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+Số: 01 /QT-KTMT Tp. Hồ Chí Minh, ngày 24 tháng 8 năm 2020
+QUY TRÌNH
+Thực hiện học phần thực tập doanh nghiệp
+I. Qui định và phạm vi áp dụng
+– Quy định chung:
+• Thực tập doanh nghiệp là học phần bắt buộc và tiên quyết trước khi SV bảo vệ KLTN.
+• Sinh viên thực tập doanh nghiệp trong thời gian được quy định cụ thể trong Quy chế
+đào tạo theo học chế tín chỉ cho hệ đại học chính quy của Trường Đại học Công nghệ
+Thông tin (mục Thực tập doanh nghiệp), dưới sự hướng dẫn của một giảng viên do
+khoa/bộ môn quản lý ngành đào tạo phân công.
+• Khoa/bộ môn quản lý ngành đào tạo tổ chức báo cáo thực tập doanh nghiệp cuối mỗi
+học kỳ có mở môn thực tập
+• Điểm thực tập được tính như sau: 40% điểm quá trình do GVHD thực tập tại khoa cho
+điểm + 60% điểm do hội đồng đánh giá.
+• Sinh viên đăng ký thực tập doanh nghiệp trong học kỳ nào sẽ phải báo cáo kết quả thực
+tập vào cuối học kỳ đó theo kế hoạch của khoa/bộ môn quản lý ngành đào tạo. Nếu sinh
+viên không báo cáo vào đúng đợt báo cáo của học kỳ đã đăng ký thì xem như không
+đạt học phần này và nhận điểm không (0). Sinh viên phải đăng ký học lại vào các học
+kỳ tiếp theo.
+– Phạm vi áp dụng:
+Học phần CE502, CE501- Thực tập doanh nghiệp bao gồm cả hệ Chính quy đại trà và
+Chất lượng cao Khoa Kỹ thuật máy tính
+II. Thời gian áp dụng:
+Bắt đầu từ học kỳ I năm học 2020-2021 trở đi
+III. Quy trình, nội dung công việc cụ thể
+Các từ viết tắt:
+• TTDN: Thực tập Doanh nghiệp, TT: Thực tập, DN: Doanh nghiệp
+• BCTT: Báo cáo Thực tập
+• SV: Sinh viên
+• GVHD: giảng viên hướng dẫn
+• KTMT: Khoa Kỹ thuật Máy tính
+• P.ĐT ĐH : Phòng Đào tạo Đại học
+1
+
+Bộ phận/Cá
+STT nhân thực Nội dung công việc Mốc thời gian Lưu ý của Khoa Biểu mẫu
+hiện
+- Mỗi năm học Khoa KTMT sẽ
+mở Thực tập doanh nghiệp vào
+2 đợt, cụ thể là vào: học kỳ 1,
+Theo thời
+học kỳ 2 hàng năm.
+gian/kế hoạch
+Sinh viên đăng ký học phần CE501 trên hệ - SV Chú ý đăng ký đúng mã
+Đăng ký học
+1. Sinh viên thống https://daa.uit.edu.vn/ môn học của Khoa KTMT là
+phần từng học
+CE501(khóa 11 trở về trước)
+kỳ mà P.ĐT
+và CE502(khóa 12 trở đi) (vì
+ĐH công bố
+các Khoa khác cũng có học
+phần Thực tập nhưng dùng mã
+môn học khác nhau)
+- Bắt buộc tham gia đối với các
+SV đã đăng ký môn Thực tập
+- Khoa sẽ tổ chức 1 buổi seminar để giới thiệu doanh nghiệp trong HK đó
+Khoa Tuần đầu tiên
+phổ biến cho SV về môn học, công ty thực tập, - Khuyến khích tất cả SV khác
+2. KTMT, của từng học
+các quy định chung của môn học và giải đáp tham dự
+GVHD, SV kỳ chính
+các thắc mắc cho SV - Thời gian cụ thể sẽ được khoa
+thông báo theo từng học kỳ trên
+web khoa KTMT
+- Soạn thảo kế hoạch thực tập sau khi có Danh
+- Giấy giới thiệu thực tập sẽ để
+sách SV đăng ký Thưc tập của học kỳ đó và
+trống tên và địa chỉ công ty.
+thông báo rộng rãi cho SV trên web Khoa
+Khoa - GVHD yêu cầu tất cả SV trong
+KTMT Mục: THỰC TẬP – VIỆC LÀM Tuần đầu tiên
+3. KTMT và nhóm mình hướng dẫn lên
+(http://ce.uit.edu.vn/tin-tuc/thuc-tap-viec- của học kỳ
+GVHD nhận giấy giới thiệu để đưa tới
+lam)
+công ty
+- Phân công giảng viên hướng dẫn thực tập theo
+quy định của Trường (tối đa 15 SV/1 GV HD)
+2
+
+Bộ phận/Cá
+STT nhân thực Nội dung công việc Mốc thời gian Lưu ý của Khoa Biểu mẫu
+hiện
+- Làm và in giấy giới thiệu thực tập và mẫu
+phiếu đánh giá quá trình thực tập của doanh BM-CE501-01
+nghiệp cho từng sinh viên và chuyển cho
+GVHD
+- Khoa sẽ in sẵn phiếu đánh giá của doanh BM-CE501-04
+nghiệp cho từng SV mang đến công ty – nơi
+thực tập
+- Khoa KTMT khuyến khích
+sinh viên chủ động tìm nơi thực
+Nên tìm nơi TT tập.
+SV liên hệ với công ty để xin thực tập. ngay khi SV - Trong trường hợp SV không
+4. Sinh viên
+đăng ký học tìm được nơi thực tập có thể
+phần TTDN liên hệ với giảng viên hướng
+dẫn để được tư vấn, giúp đỡ.
+- Việc đưa giấy giới thiệu cho
+công ty nơi TT là bắt buộc đối
+với tất cả SV(mục đích là để
+- Liên hệ với GVHD để lấy giấy giới thiệu Thực các công ty/người hướng dẫn
+TT của SV tại DN biết được
+tập gửi đến doanh nghiệp
+thông tin của GVHD tại khoa BM-CE501-01
+5. Sinh viên - SV đưa giấy giới thiệu thực tập cho công để liên hệ khi cần thiết) BM-CE501-01A
+ty/người hướng dẫn thực tập tại doanh nghiệp -Trước khi đưa giấy giới thiệu
+Và xin lại Thông tin vào Phiếu thu thập thông cho công ty, SV chú ý điền tên
+tin nơi sinh viên thực tập đưa lại cho GVHD công ty và địa chỉ công ty vào
+giấy. Mục đích của giấy này để
+công ty biết được thông tin
+GVHD để liên hệ khi cần.
+3
+
+Bộ phận/Cá
+STT nhân thực Nội dung công việc Mốc thời gian Lưu ý của Khoa Biểu mẫu
+hiện
+- Khoa khuyến khích GV thường
+xuyên trao đổi liên hệ với
+người hướng dẫn thực tập của
+sinh viên tại công ty để trao đổi
+GVHD thu thập thông tin của SV theo mẫu BM-
+về nội dung thực tập của sinh
+CE501-02 để theo dõi được SV đã có địa chỉ
+viên.
+thực tập hay chưa, xác minh thông tin nơi SV
+6. GVHD - Nếu sinh viên thực tập full- BM-CE501-02
+thực tập và lưu thông tin nơi SV TT để trao đổi
+time, trước mỗi lần giảng viên
+khi cần thiết.
+hẹn gặp sinh viên để báo cáo
+Khoa KTMT sẽ tạo form để các GVHD nhập
+giảng viên nên liên hệ với
+thông tin này chung 1 mục
+người hướng dẫn của công ty
+để cho phép sinh viên về gặp
+mình.
+Bất kỳ lúc nào Yêu cầu sinh viên liên hệ với
+trong quá trình GVHD tối thiểu 3 lần trong quá
+SV liên hệ với GVHD để trao đổi về nội dung
+Sinh viên và thực tập – Liên trình thực tập cụ thể vào: đầu đợt
+7. thực tập hoặc khi cần được tư vấn- Mỗi lần trao BM-CE501-05
+GVHD hệ qua email thực tập, giữa đợt thực tập và
+đổi GVHD ghi lại nội dung trao đổi theo mẫu
+hoặc số điện cuối đợt thực tập (qua email/
+thoại điện thoại/gặp trực tiếp)
+Sau khi kết
+thúc đợt thực
+SV cần tham khảo ý kiến của
+tập dựa trên kế
+8. Sinh viên Viết báo cáo thực tập theo mẫu GVHD về cuốn báo cáo trước BM-CE501-03
+hoạch thực tập
+khi mang đi nôp BC tại Khoa
+mà Khoa công
+bố đầu học kỳ
+Khoa Khoa chuẩn bị “Thư cảm ơn” gửi đến Công ty Sau khi SV Lưu ý: GVHD cần thu thập đúng
+BM-CE501-02
+9. KTMT, nơi SV thực tập cho từng SV theo thông tin mà hoàn thành thông tin nơi TT của SV nhóm
+BM-CE501-10
+GVHD, SV GVHD thu thâp được ở STT 6, in các thư cảm thực tập mình hướng dẫn
+4
+
+Bộ phận/Cá
+STT nhân thực Nội dung công việc Mốc thời gian Lưu ý của Khoa Biểu mẫu
+hiện
+ơn, gửi lại cho GVHD đưa cho SV, sau đó SV
+chuyển thư cảm ơn đến công ty đã thực tập
+Nếu nhóm thực tập >= 2SV các
+SV xin nhận xét của công ty nơi thực tập. Nhận
+bạn làm chung 1 đề tài sẽ làm
+xét của công ty được niêm phong kín và chỉ Sau khi hoàn
+10. S inh viên chung 1 cuốn báo cáo trong nội BM-CE501-04
+được mở do chủ tịch hội đồng chấm thực tập tại thành thực tập
+dung báo cáo ghi rõ nội dung
+hội đồng trong buổi báo cáo thực tập doanh
+công việc của từng bạn.
+nghiệp
+SV nhập nội dung theo mẫu BM-CE501-08
+Trước khi SV Nếu nhóm thực tập >= 2SV , các
+bằng cách điền nội dung này vào link Khoa
+11. S inh viên lên Khoa nộp bạn chỉ cần cử 1 bạn đại diện BM-CE501-08
+thông báo (yêu cầu này sẽ được khoa mô tả cụ
+BCTT điền vào link
+thể trong thông báo nộp báo cáo thực tập)
+Nộp báo cáo thực tập gồm:
+-Ba cuốn báo cáo Thực tập doanh nghiệp
+-Phiếu đánh giá quá trình thực tập của công ty Lưu ý quan trọng: Phiếu đánh giá
+(SV sử dụng mẫu đánh giá của khoa hoặc có thể quá trình thực tập phải được
+Theo kế hoạch BM-CE501-03
+sử dụng mẫu đánh giá thực tập của công ty nơi niêm phong kín và chỉ được mở
+12. S inh viên Khoa đã thông BM-CE501-04
+thực tập, SV kẹp nhận xét này sau trang bìa báo do chủ tịch hội đồng chấm thực
+báo BM-CE501-05
+cáo thực tập (không đóng chung cùng báo báo) tập tại hội đồng trong buổi báo
+-Phiếu Bảng theo dõi quá trình thực tập của cáo thực tập doanh nghiệp
+giảng viên hướng dẫn thực tập theo DS mà khoa
+đã phân công đâù học kỳ
+Điểm quá trình chiếm trọng số
+Trước ngày 40% của môn học thực tập,
+Giảng viên
+13. GV cho điểm quá trình gửi bảng điểm về Khoa diễn ra hội Bảng điểm có chữ ký, họ tên BM-CE501-09
+hướng dẫn
+đồng BCTT của GVHD
+5
+
+Bộ phận/Cá
+STT nhân thực Nội dung công việc Mốc thời gian Lưu ý của Khoa Biểu mẫu
+hiện
+Tổng hợp thông tin đề tài của SV sau đó tiến Thông báo sau
+14. K hoa hành lập danh sách hội đồng và thông báo cho ngày SV nộp
+SV trên web Khoa BCTT
+SV soạn slide báo cáo sao cho
+thời gian trình bày 1 báo cáo thực
+Sinh viên và
+tập + demo tối đa 10 phút) BM-CE501-06
+15. H ội đồng Chấm báo cáo thực tập của SV
+BM-CE501-07
+chấm TTDN
+Điểm của hội đồng chiếm trọng
+số 60% của môn học CE501
+Tổng hợp điểm gửi cho P.ĐT ĐH cập nhật lên
+16. K hoa
+hệ thống
+6
+
+IV. BIỂU MẪU ÁP DỤNG
+STT Ký hiệu biểu mẫu Tên biểu mẫu
+1. BM-CE501-01 Giấy giới thiệu thực tập
+2. BM-CE501-01A Phiếu thu thập thông tin nơi sinh viên thực tập
+Tổng hợp thông tin nơi sinh viên thực tập (Dùng cho
+3. BM-CE501-02
+GVHD)
+4. BM-CE501-03 Mẫu báo cáo thực tập doanh nghiệp
+5. BM-CE501-04 Bảng đánh giá quá trình thực tập (dùng cho doanh nghiệp)
+6. BM-CE501-05 Bảng theo dõi quá trình thực tập (dùng cho GVHD)
+7. BM-CE501-06 Phiếu chấm điểm thực tập doanh nghiệp CE501
+8. BM-CE501-07 Bảng điểm tổng hợp hội đồng TTDN
+9. BM-CE501-08 Thông tin đề tài thực tập của sinh viên
+10. BM-CE501-09 Bảng điểm quá trình thực tập
+11. BM-CE501-10 Thư cảm ơn
+Thành phố Hồ Chí Minh, ngày 24 tháng 8 năm 2020
+TRƯỞNG KHOA
+Nơi nhận:
+- Giảng viên Khoa KTMT;
+- Sinh viên Khoa KTMT;
+- Lưu: KTMT.
+Nguyễn Minh Sơn
+7

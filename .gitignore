@@ -1,5 +1,24 @@
-﻿.venv/
-logs/
+﻿# Python
+.venv/
 __pycache__/
-playwright/.cache/
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# Playwright cache
+playwright/.cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp
+*.tmp
+*.bak

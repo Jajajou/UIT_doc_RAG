@@ -1,0 +1,104 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO GIỮA KỲ KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 1 - Năm học: 2023 - 2024
+Thời gian bắt đầu hội đồng: 8h30, thứ Hai, ngày 13/11/2023
+Địa điểm: Phòng E6.3
+Thời gian tối đa cho 1 đề tài là 10 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 5 phút hội đồng góp ý
+ST TÊN ĐỀ TÀI TIẾNG TÊN ĐỀ TÀI TIẾNG TÊN CB GHI THỜI Link Đề cương Ý KIẾN GÓP Ý ĐCCT CỦA
+MSSV HỌ TÊN
+T VIỆT ANH HƯỚNG DẪN CHÚ GIAN chi tiết HĐ
+Có phương án tập trung vào phần
+https://drive.goo
+18521380 Huỳnh Quang Thái Nghiên cứu thiết kế hệ thống Research and design of cứng cụ thể. Giám sát công việc
+gle.com/open?id
+giám sát chất lượng công the monitoring system TS. Nguyễn tuân theo quy trình như thế nào?
+1 CQĐT 8h30 =1olmxjjf3P6ynZ
+việc của thợ sửa chữa điện based on IoT flatform for Minh Sơn Làm rõ chất lượng công việc của
+Nguyễn Văn Thiện zbOhfHeC8SJuK
+18521369 dựa trên nền tảng IoT electrician người thợ cũng như có kịch bản
+Tâm kh1x7T
+cụ thể.
+https://drive.goo Cần có kịch bản kiểm tra đánh giá
+Thiết kế một EDA Tool để Design an EDA tool to do gle.com/open?id tool đã xây dựng, lưu đồ giải
+Tào Viễn Hoàng TS. Nguyễn CLC-
+2 19521211 thực hiện chèn Scan trong the Scan insertion in DFT 8h40 =1_Zu_h1LvFk6l thuật. Cụ thể tính đúng đắn của đề
+Anh Minh Sơn VN
+bước DFT step 7F5f7d7uftbEnit8 tài, kiểm tra tool và chức năng của
+jJbs tool so với sản phẩm có sẳn.
+https://drive.goo
+gle.com/open?id
+Hệ thống nhận diện biển báo Traffic sign recognition Kịch bản kiểm thử. Giới hạn đề
+Phan Công Duy TS. Nguyễn CLC- =1L-
+3 19520627 giao thông ứng dụng công system applying SoC 8h50 tài cho phù hợp. Chọn dataset cụ
+Khiêm Minh Sơn EN tef6qW9PMECY
+nghệ SoC technology thể.
+cjymwAMGfHcN
+wiQG0C
+https://drive.goo
+19521831 Vũ Văn Mạnh Xây dựng kịch bản, làm rõ chất
+Determination of eggs gle.com/open?id
+Xác định chất lượng trứng TS. Phạm Quốc CLC- lượng trứng ở đây là gì? Thiết kế
+4 quality using optical 9h00 =1ntogpZhCx9C
+dùng cảm biến quang và AI Hùng VN hệ thống. Thêm sơ đồ vào đề
+sensor and AI gYywjLdENqwaP
+19522152 Nguyễn Duy Tài cương chi tiết làm rõ mục tiêu.
+I2LrzgtR
+https://drive.goo
+Thiết kế và xây dựng cánh ThS. Trần
+Design and build 3 DOF gle.com/open?id
+tay robot 3 trục - Ứng dụng Quang Nguyên, CLC- Cần có kịch bản rõ ràng, hướng
+5 19521249 Nguyễn Mạnh Bảo robotic arm – Application 9h10 =1iLyUvqEZdjMe
+trong dây chuyền công TS. Phạm Quốc VN test cánh tay robot như thế nào.
+in production line qUHYICm027kg
+nghiệp Hùng
+64d62n1A
+Page 1 of 2
+
+ST TÊN ĐỀ TÀI TIẾNG TÊN ĐỀ TÀI TIẾNG TÊN CB GHI THỜI Link Đề cương Ý KIẾN GÓP Ý ĐCCT CỦA
+MSSV HỌ TÊN
+T VIỆT ANH HƯỚNG DẪN CHÚ GIAN chi tiết HĐ
+ThS Trương https://drive.goo
+Xem lại tính thực tế của đề tài,
+Hệ thống quản lý nhân viên Employee Management Văn Cương, CLC- gle.com/open?id
+6 19521333 Ngô Mẫn Đạt 9h20 điểm danh chấm công, nhận dạng
+bằng mã QR System by QR Code ThS. Hồ Ngọc VN =1jjEe4Z_GZHh
+khuôn mặt độ chính xác.
+Diễm GhYL7631VjHLY
+vCNsl7lb
+Hệ thống giám sát, quản lý, System for monitoring, TS. Phạm Quốc https://drive.goo Cần có kịch bản cụ thể test, bổ
+kiểm soát các thiết bị điện, managing, and controlling Hùng, CLC- gle.com/open?id sung mô hình hệ thống, chú ý các
+7 20521349 Phan Nhật Hoàng 9h30
+hướng tới phân tích dữ liệu electrical devices; analyze ThS. Phan VN =1tFuN1jfa6DTC thông số đánh giá. Xem xét giả
+và hành vi người dùng data and user behavior Đình Duy U1uplK6Ix4tSj0w lập mô hình hành vi người dùng.
+tLkDv
+https://drive.goo
+Design lane detector
+Thiết kế hệ thống phát hiện gle.com/open?id
+Nguyễn Nguyễn system for autonomous TS. Lâm Đức Nộp ĐCCT trễ sau khi Khoa tổ
+8 19521200 làn đường cho xe tự hành CQĐT 9h40 =1BYjJhr6gdhBS
+Nhật Anh vehicles based on Khải chức báo cáo đề cương
+dựa trên phần cứng kbVh9wgYpuXkp
+hardware
+MQm4oLA
+Research, design and https://drive.goo
+19520369 Nguyễn Lê Hoài Ân Nghiên cứu, thiết kế, hiện
+implementing Deep Q- gle.com/open?id
+thực giải thuật Deep Q- TS. Nguyễn CLC- Nộp ĐCCT trễ sau khi Khoa tổ
+9 Network (DQN) 9h50 =1GqR4a3gl0i63
+Network (DQN) sử dụng Minh Sơn VN chức báo cáo đề cương
+algorithm using SoC EtZSEpMJnZL0v
+19522022 Nguyễn Đình Phú công nghệ SoC
+technology D_SxRIl
+Design, fabrication and
+Lê Chu Khánh Toàn CLC- https://drive.goo
+20522023 Thiết kế, chế tạo và đo đạc measurement of a
+(CLC) VN gle.com/open?id
+rectenna tái cấu hình và đề reconfigurable rectenna TS. Trịnh Lê Nộp ĐCCT trễ sau khi Khoa tổ
+10 10h00 =1LHIFlICJvd4Oj
+xuất cấu trúc vi mạch của and a proposal of Huy chức báo cáo đề cương
+Phạm Ngọc Lan Anh 7TxILeeaqjgG7C
+20520882 mạch chỉnh lưu tái cấu hình. reconfigurable rectifier IC CQĐT
+(CQĐT) U1mnI
+structure
+Page 2 of 2

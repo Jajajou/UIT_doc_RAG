@@ -1,0 +1,291 @@
+<!DOCTYPE html><html lang="vi"><head>
+    <title>360 UIT - Trường Đại học Công nghệ thông tin ĐHQG Hồ Chí Minh by Việt Panorama</title>
+    <link rel="icon" href="img/logos/logo-company-mini.png">
+    <meta name="description" content="Website 360 UIT - Trường Đại học Công nghệ thông tin mang đến cái nhìn mới lạ và sự tiện ích tham quan không gian ban ngày. 360 UIT với mục tiêu giới thiệu trường qua nhiều không gian từ lớp học, giảng đường cho đến các phòng thí nghiệm, sân chơi, dịch vụ">
+    <meta name="author" content="Việt Panorama">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta id="viewport" name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tuyensinh.uit.edu.vn/uit-tour-360/">
+    <meta property="og:image" content="https://tuyensinh.uit.edu.vn/uit-tour-360/img/uit-tour.jpg">
+    <meta property="og:image:url" content="https://tuyensinh.uit.edu.vn/uit-tour-360/img/uit-tour.jpg">
+    <meta property="og:image:secure_url" content="https://tuyensinh.uit.edu.vn/uit-tour-360/img/uit-tour.jpg">
+    <style>
+    @-ms-viewport {
+        width: device-width;
+    }
+    </style>
+    <style>
+    /* width */
+
+    ::-webkit-scrollbar {
+        width: 15px;
+    }
+    /* Track */
+
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1;
+    }
+    /* Handle */
+
+    ::-webkit-scrollbar-thumb {
+        background: #888;
+    }
+    /* Handle on hover */
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: #555;
+    }
+    </style>
+    <link rel="stylesheet" href="vendor/reset.min.css">
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="css/tooltip.min.css">
+    <link rel="stylesheet" href="css/preloader.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-L00RELVETK&amp;cx=c&amp;gtm=4e5a81"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-119013536-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-119013536-1');
+    </script>
+</head>
+
+<body class="multiple-scenes view-control-buttons">
+    <!--CSS Spinner-->
+    <div class="spinner-wrapper" style="opacity: 0.972532;">
+        <div class="sk-cube-grid">
+            <div class="sk-cube sk-cube1"></div>
+            <div class="sk-cube sk-cube2"></div>
+            <div class="sk-cube sk-cube3"></div>
+            <div class="sk-cube sk-cube4"></div>
+            <div class="sk-cube sk-cube5"></div>
+            <div class="sk-cube sk-cube6"></div>
+            <div class="sk-cube sk-cube7"></div>
+            <div class="sk-cube sk-cube8"></div>
+            <div class="sk-cube sk-cube9"></div>
+        </div>
+    </div>
+    <script>
+    $(document).ready(function() {
+        /*Preloader*/
+        $(window).load(function() {
+            preloaderFadeOutTime = 500;
+
+            function hidePreloader() {
+                var preloader = $('.spinner-wrapper');
+                var preloaderFadeout = preloader.fadeOut(preloaderFadeOutTime);
+                setTimeout(preloaderFadeout, 4000);
+            }
+            hidePreloader();
+        });
+    });
+    </script>
+    <div id="pano"></div>
+    <img alt="" src="https://tuyensinh.uit.edu.vn/uit-tour-360/img/uit-tour.jpg" style="display: none;">
+    <div id="sceneList">
+        <ul class="scenes">
+            <a href="#" class="scene" data-id="0-cng-trc-uit">
+                <li class="text">Cổng trước UIT</li>
+            </a>
+            <a href="#" class="scene" data-id="1-vo-cng-uit">
+                <li class="text">Vào cổng UIT</li>
+            </a>
+            <a href="#" class="scene" data-id="2-trc-nh-a---e">
+                <li class="text">Trước nhà A - E</li>
+            </a>
+            <a href="#" class="scene" data-id="3-hnh-lang-nh-e">
+                <li class="text">Hành lang nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="4-nh-gi-xe-nh-e">
+                <li class="text">Nhà gửi xe nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="5-nh-c">
+                <li class="text">Nhà C</li>
+            </a>
+            <a href="#" class="scene" data-id="6-tng-2-nh-c">
+                <li class="text">Tầng 2 nhà C</li>
+            </a>
+            <a href="#" class="scene" data-id="7-phng-hc-nh-c">
+                <li class="text">Phòng học nhà C</li>
+            </a>
+            <a href="#" class="scene" data-id="8-hc-hc-clc-nh-c">
+                <li class="text">Học học CLC nhà C</li>
+            </a>
+            <a href="#" class="scene" data-id="9-phng-thc-hnh">
+                <li class="text">Phòng thực hành</li>
+            </a>
+            <a href="#" class="scene" data-id="10-sn-bng">
+                <li class="text">Sân bóng</li>
+            </a>
+            <a href="#" class="scene" data-id="11-sn-gch">
+                <li class="text">Sân gạch</li>
+            </a>
+            <a href="#" class="scene" data-id="12-nh-dch-v">
+                <li class="text">Nhà dịch vụ</li>
+            </a>
+            <a href="#" class="scene" data-id="13-nh-gi-xe">
+                <li class="text">Nhà gửi xe</li>
+            </a>
+            <a href="#" class="scene" data-id="14-nh-a-t-cng">
+                <li class="text">Nhà A từ cổng</li>
+            </a>
+            <a href="#" class="scene" data-id="15-nh-a-t-nh-xe">
+                <li class="text">Nhà A từ nhà xe</li>
+            </a>
+            <a href="#" class="scene" data-id="16-th-vin-nh-a">
+                <li class="text">Thư viện nhà A</li>
+            </a>
+            <a href="#" class="scene" data-id="17-tng-2-nh-a">
+                <li class="text">Tầng 2 nhà A</li>
+            </a>
+            <a href="#" class="scene" data-id="18-ging-ng-nh-a">
+                <li class="text">Giảng đường nhà A</li>
+            </a>
+            <a href="#" class="scene" data-id="19-tng-1-nh-e">
+                <li class="text">Tầng 1 nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="20-nh-v-sinh-nh-e">
+                <li class="text">Nhà vệ sinh nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="21-tng-2-nh-e">
+                <li class="text">Tầng 2 nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="22-th-vin-nh-e">
+                <li class="text">Thư viện nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="23-tng-5-khoa-khoa-hc-my-tnh">
+                <li class="text">Tầng 5 Khoa Khoa học máy tính</li>
+            </a>
+            <a href="#" class="scene" data-id="24-mmlab-uit">
+                <li class="text">MMLab UIT</li>
+            </a>
+            <a href="#" class="scene" data-id="25-tng-6-khoa-k-thut-my-tnh">
+                <li class="text">Tầng 6 Khoa Kỹ thuật máy tính</li>
+            </a>
+            <a href="#" class="scene" data-id="26-tng-7-khoa-cng-ngh-phn-mm">
+                <li class="text">Tầng 7 Khoa Công nghệ phần mềm</li>
+            </a>
+            <a href="#" class="scene" data-id="27-tng-8-khoa-mng-my-tnh-v-truyn-thng">
+                <li class="text">Tầng 8 khoa Mạng máy tính và truyền thông</li>
+            </a>
+            <a href="#" class="scene" data-id="28-tng-9-khoa-h-thng-thng-tin">
+                <li class="text">Tầng 9 khoa Hệ thống thông tin</li>
+            </a>
+            <a href="#" class="scene" data-id="29-trc-hi-trng-nh-e">
+                <li class="text">Trước hội trường nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="30-cng-sau-uit">
+                <li class="text">Công sau UIT</li>
+            </a>
+            <a href="#" class="scene" data-id="31-nh-a-data-center">
+                <li class="text">Nhà A Data Center</li>
+            </a>
+            <a href="#" class="scene" data-id="32-snh-nh-b">
+                <li class="text">Sảnh nhà B</li>
+            </a>
+            <a href="#" class="scene" data-id="33-nh-b---check-in-1">
+                <li class="text">Nhà B - Check In 1</li>
+            </a>
+            <a href="#" class="scene" data-id="34-nh-b---check-in-2">
+                <li class="text">Nhà B - Check In 2</li>
+            </a>
+            <a href="#" class="scene" data-id="35-nh-b---check-in-3">
+                <li class="text">Nhà B - Check In 3</li>
+            </a>
+            <a href="#" class="scene" data-id="36-nh-b-phng-hc">
+                <li class="text">Nhà B Phòng học</li>
+            </a>
+            <a href="#" class="scene" data-id="37-nh-b-phng-hc-ln">
+                <li class="text">Nhà B Phòng học lớn</li>
+            </a>
+            <a href="#" class="scene" data-id="38-nh-b-phng-my-clc">
+                <li class="text">Nhà B Phòng máy CLC</li>
+            </a>
+            <a href="#" class="scene" data-id="39-nh-b-phng-my-clc-2">
+                <li class="text">Nhà B Phòng máy CLC 2</li>
+            </a>
+            <a href="#" class="scene" data-id="40-nh-b-tng-3">
+                <li class="text">Nhà B Tầng 3</li>
+            </a>
+            <a href="#" class="scene" data-id="41-nh-a---ni-xe-a-n">
+                <li class="text">Nhà A - Xe đưa đón</li>
+            </a>
+            <a href="#" class="scene" data-id="42-tng-11-khu-vc-doanh-nghip-nghin-cu">
+                <li class="text">Nhà A - Khu vực doanh nghiệp nghiên cứu</li>
+            </a>
+            <a href="#" class="scene" data-id="43-tng-11-cng-ty-rosen">
+                <li class="text">Công ty Rosen</li>
+            </a>
+            <a href="#" class="scene" data-id="44-tng-12-hi-trng-e">
+                <li class="text">Hội trường nhà E</li>
+            </a>
+            <a href="#" class="scene" data-id="45-tng-thng-nh-e">
+                <li class="text">Tầng thượng nhà E</li>
+            </a>
+        </ul>
+    </div>
+    <a id="logoUit" href="https://www.uit.edu.vn/">
+        <img id="logoCompany" src="img/logos/logouit.png" alt="https://www.uit.edu.vn/">
+    </a>
+    <a id="logoCompanyMini" href="https://vietpano.com/">
+        <img id="logoCompany" src="img/logos/logo-company-mini.png" alt="https://vietpano.com">
+    </a>
+    <a href="#" id="sceneListToggle">
+   <img class="icon off" src="img/expand.png">
+   <img class="icon on" src="img/collapse.png">
+ </a>
+    <div id="titleBar">
+        <h1 class="sceneName"></h1>
+    </div>
+    <a href="#" id="musicToggle">
+  <img class="icon off" src="img/play-music.png">
+  <img class="icon on" src="img/pause-music.png">
+</a>
+    <a href="#" id="autorotateToggle">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
+</a>
+    <a href="#" id="fullscreenToggle">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
+</a>
+    <a href="#" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="img/up.png">
+</a>
+    <a href="#" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="img/down.png">
+</a>
+    <a href="#" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="img/left.png">
+</a>
+    <a href="#" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="img/right.png">
+</a>
+    <a href="#" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="img/plus.png">
+</a>
+    <a href="#" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="img/minus.png">
+</a>
+    <audio id="musicbg" autoplay="true" preload="none" loop="true">
+        <source src="./music/backgroundaudio.mp3" type="audio/mp3">
+    </audio>
+    
+    <script src="vendor/es5-shim.js"></script>
+    <script src="vendor/eventShim.js"></script>
+    <script src="vendor/classList.js"></script>
+    <script src="vendor/requestAnimationFrame.js"></script>
+    <script src="vendor/screenfull.min.js"></script>
+    <script src="vendor/bowser.min.js"></script>
+    <script src="vendor/marzipano.js"></script>
+    <script src="js/data.min.js"></script>
+    <script src="js/index.min.js"></script>
+
+
+</body></html>

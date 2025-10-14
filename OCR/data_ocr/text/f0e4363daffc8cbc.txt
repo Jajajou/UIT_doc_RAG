@@ -1,0 +1,120 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO ĐỀ CƯƠNG KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 1 - Năm học: 2024 - 2025
+Thời gian bắt đầu hội đồng: Sáng từ 8h00, thứ Tư, ngày 18/09/2024
+Địa điểm: Phòng E6.3
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 10 phút hội đồng góp ý
+Giảng viên Hệ đào Thời Link đề cương chi
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú
+hướng dẫn tạo gian tiết
+Phòng E6.3 - Buổi sáng
+Đoàn Duy, Trịnh Lê Huy, Phan Đình Duy
+https://drive.google.co
+Nghiên cứu và hiện thực hệ thống Research and implementation of
+m/open?id=1Keh5FIA
+1 20520597 Hà Vĩnh Kiện nhận dạng độ chín của xoài dựa a mango ripeness detection TS. Đỗ Trí Nhựt CQĐT 8h00
+3HBseaxlqfij0EBYRX
+trên thị giác máy tính system using computer vision
+2dwnZ3o
+https://drive.google.co
+Nghiên cứu và thiêt kế ứng dụng Research and design of Edge AI ThS. Trương
+CLC- ĐCCT không có m/open?id=1WuOcsS
+2 20521194 Nguyễn Anh Đức Edge AI trong hệ thống báo cháy applications in multifunctional Văn Cương, 8h15
+VN chữ ký của GVHD 4L_fF4EPs8eXZ02hL
+đa năng cho tòa nhà fire alarm systems for buildings TS. Đỗ Trí Nhựt
+wmTac4szK
+https://drive.google.co
+Thiết kế cảm biến áp suất điện Design of MEMS capacitive
+20521195 Nguyễn Anh Đức ThS. Hồ Ngọc CLC- Hải không đủ đk m/open?id=1XBAJ2Y
+3 dung MEMS cho thiết bị đo huyết pressure sensor for blood 8h30
+Diễm VN (nợ AV45, CE502) TtBBhtoYx0CQYCClj
+áp pressure monitor
+20521283 Trần Văn Hải uljGWbvTy
+https://drive.google.co
+ThS. Phạm
+Thiết kế vậy lý vi điều khiển sử Physical design of RISC-V CLC- m/open?id=1NG0CO
+4 20521969 Trần Quốc Thịnh Minh Quân, 8h45
+dụng lõi RISC-V microcontroller VN Qe57z2Hqm5uTLPm0
+ThS. Tạ Trí Đức
+yWozc66CyGL
+Chuyển đổi dữ liệu đa mặt phẳng Multiplanar data transformation https://drive.google.co
+cho luồng dữ liệu tuần tự từ for camera and sensor serial ThS. Phan Đình CLC- ĐCCT có thêm m/open?id=1IkZPMq
+5 21521104 Võ Thành Long 9h00
+camera và cảm biến trong chip ô streams in automotive system on Duy VN NĐHD tại DN BLS4KVjruARXAbh2
+tô chip 0aLxv4VzAo
+https://drive.google.co
+Design power clock reset (PCR)
+Thiết kế bộ quản lý năng lượng, ThS. Phan Đình CLC- ĐCCT có thêm m/open?id=1j0IytYeL
+6 21521357 Lê Đại Quốc management for autommotive 9h15
+clock, reset choSoC trong xe hơi Duy VN NĐHD tại DN y0au1hHY4N7p3ghto
+SoC
+pO00Tdm
+Page 1 of 2
+
+Giảng viên Hệ đào Thời Link đề cương chi
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú
+hướng dẫn tạo gian tiết
+Lê Trịnh Phong TS. Phạm Quốc https://drive.google.co
+Nghiên cứu, thử nghiệm hệ thống Research and test the attendance
+19522185 Thái Hùng, CLC- Thái không đủ đk m/open?id=1vi6I9I3aq
+7 điểm danh bằng thẻ sinh viên và system using student cards and 9h30
+ThS. Phan Đình VN (nợ AV45, IT001) eMuGTHhFknifSq9T
+quét khuôn mặt để nhận dạng facial scanning for identification
+Duy XHREpmI
+19522320 Đỗ Trí Thức
+Using quantization aware
+Bùi Anh Tiệp Ứng dụng kỹ thuật lượng tử hóa https://drive.google.co
+training technique to enhance
+21521535 (CQĐT) trong huấn luyện cho mô hình học ThS. Phan Đình m/open?id=1bMO9LX
+8 real-time detection performance CQĐT 9h45
+sâu nhận diện thời gian thực triển Duy sKafZrzyGZ7dvTZ38
+Trần Thị Thanh of deep learning model on Jetson
+khai trên Jetson Orin Nano DdvQ5mqgy
+21521984 Dung (CLC) Orin Nano dev kit
+https://drive.google.co
+Xây dựng chương trình điều Building a program to control a m/open?id=17-
+21522764 Trần Anh Tuấn ThS. Phan Đình
+9 khiển màn nước nghệ thuật từ xa water curtain remotely on a CQĐT 10h00 0e7mf2q-
+Lê Trần Mạnh Duy
+trên Kit Raspberry Raspberry hd8DsWmX_qFETDr
+21522571 Tâm
+Cdp3e2z
+Hệ thống giám sát và dự báo Rainfall monitoring and https://drive.google.co
+lượng mưa khu đô thị Đại học prediction system of Vietnam m/open?id=111Nqgvix
+10 21521548 Nguyễn Tiến Toàn TS. Đoàn Duy CQĐT 10h15
+Quốc gia Thành phố Hồ Chí National University, Ho Chi yUAnrwYmBif5pTuG
+Minh Minh city urban area KfpN-nJy
+https://drive.google.co
+Nguyễn Hoàng
+Giám sát chất lượng không khí m/open?id=1qPm5Do
+21522002 Khánh Duy Indoor air quality monitoring for TS.Trịnh Lê
+11 trong nhà cho ứng dụng tòa nhà CQĐT 10h30 6-
+smart building application Huy
+thông minh cy1nLctOW3SEoLruR
+21521036 Nguyễn Tuấn Kiệt
+EOKyjHO
+Research and application of
+Nghiên cứu, ứng dụng công nghệ https://drive.google.co
+Antenna in Package (AIP)
+Antenna in Package (AIP) vào TS. Trịnh Lê m/open?id=1IJ6cxclz
+12 21522760 Phan Thanh Tuấn technology in the manufacturing CQĐT 10h45
+việc chế tạo và đóng gói module Huy G1KO_22I1NSg0bXs
+and packaging of tinyGS
+tinyGS ZbN6sMko
+modules
+TS. Nguyễn https://drive.google.co
+Nghiên cứu và cải tiến thuật toán Research and enhancement in a
+21522426 Lê Thị Phương Nhi Minh Sơn, m/open?id=1aHY1ZY
+13 theo dõi con người trong Elderly- human tracking algorithm for an CQĐT 11h00
+KS. Thân Thế VnmhNnAQo8K69rSd
+Care Robot Elderly-Care Robot
+21520457 Võ Đông Thành Tùng ygvoZ5k7mo
+https://drive.google.co
+thiết kế hệ thống soc cho bài toán a soc design for image
+TS. Trần Thị CLC- Bổ sung ngày m/open?id=1sZeRheM
+14 20521590 Trần Quốc Lượng phân loại ảnh dựa trên thuật toán classification problem based on 11h15
+Điểm VN 17/9/2024 XSBll1rUBxSfZDRZs
+phân rã tucker tucker decomposition algorithm
+HnEUivP3
+Page 2 of 2

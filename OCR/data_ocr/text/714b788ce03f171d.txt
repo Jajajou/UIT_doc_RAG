@@ -1,0 +1,153 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2 - NĂM HỌC 2022-2023
+CHƯƠNG TRÌNH CHẤT LƯỢNG CAO
+Thời gian bắt đầu Hội đồng chấm TTDN CLC: Chiều từ 13h00, thứ Ba ngày 11/07/2023
+Địa điểm: Phòng E6.1, E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút/ đề tài 1-2 SV
+ST
+MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+T
+Phòng E6.1
+STT 1
+1 18520772 Nguyễn Đức Hoàn Lập trình hướng thanh ghi S32K144 FPT Software Hồ Ngọc Diễm
+13h00
+Chung đề
+STT 2
+2 18521366 Đoàn Văn Minh Tâm Lập trình hướng thanh ghi S32K144 FPT Software Academy Hồ Ngọc Diễm tài và
+13h10
+báo cáo
+STT 3
+3 19521549 Trần Bửu Hội Lập trình hướng thanh ghi S32K144 Công ty Cổ phần FPT Hồ Ngọc Diễm
+13h20
+STT 4
+4 19521594 Nguyễn Thị Cẩm Hướng AMBA Fabric UVM-based verification Marvell Technology - Viet Nam Hồ Ngọc Diễm
+13h30
+STT 5
+5 19521611 Lạc Quốc Huy Báo cáo Thực tập Doanh nghiệp CÔNG TY TNHH SYNOPSYS VN Hồ Ngọc Diễm
+13h40
+Công ty Cổ phần Công nghệ STT 6
+6 19521629 Nguyễn Văn Quốc Huy Thực tập về Physical Design Hồ Ngọc Diễm
+VNCHIP Chung đề 13h50
+tài và
+Công ty cổ phần Công nghệ báo cáo STT 7
+7 19521669 Phạm Nguyễn Minh Khang Thực tập về Physical Design Hồ Ngọc Diễm
+VNCHIP 14h00
+Page 1 of 4
+
+ST
+MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+T
+STT 8
+8 19521989 Bùi Ngọc Phát Báo cáo thực tập doanh nghiệp TNHH Synopsys VN Hồ Ngọc Diễm
+14h10
+Implement place & route and STA for STT 9
+9 19522014 Trần Thạch Tuấn Phong Công ty TNHH Uniquify Việt Nam Hồ Ngọc Diễm
+project UNQ_VIN 14h20
+Công Ty TNHH Bosch Global
+Kiểm thử hệ thống trong kiến trúc mô- STT 10
+10 19522043 Nguyễn Võ Hữu Phúc Software Technologies Limited Hồ Ngọc Diễm
+đun trên xe Mercedes 14h30
+Vietnam
+Nợ nhận
+Bosch Global Software STT 11
+11 19522084 Phạm Minh Quân In Vehicle Communication Hồ Ngọc Diễm xét công
+Technologies Company 14h40
+ty
+Tìm hiểu kiến trúc mạng IMS và phát STT 12
+12 19522158 Trần Tấn Tài DEK Technologies Viet Nam Hồ Ngọc Diễm
+triễn ứng dụng sử dụng dịch vụ IMS 14h50
+Thiết lập kiến trúc mạng IMS trên nền
+Công ty TNHH DEK Technologies STT 13
+13 19522302 Lê Minh Thông tảng Openstack và xây dựng và áp dụng Hồ Ngọc Diễm
+Việt Nam 15h00
+quy trình CI/CD vào hệ thống IMS
+Tìm hiểu về kiến trúc 5g, kiến thức Công ty Giải Pháp Phần Mềm STT 14
+14 19522452 Nguyễn Hoài Tú Hồ Ngọc Diễm
+ngôn ngữ lập trình và các công cụ hỗ trợ Tường Minh (TMA Solutions) 15h10
+Chưa
+STT 15
+15 19522022 Nguyễn Đình Phú Báo cáo thực tập doanh nghiệp ADT & SNST Vietnam Hồ Ngọc Diễm nộp bảng
+15h20
+file
+Tìm hiểu và phát triển quy trình CI -
+Continuous Integration tự động hóa cho Công Ty TNHH Bosch Global Nộp
+STT 16
+16 19521387 Cao Phan TIến Dũng ứng dụng Android tìm hiểu quy trình Software Technologies Limited Tạ Trí Đức BCTT trễ
+15h30
+làm việc của Devops trong triển khai Vietnam 10/07/23
+ứng dụng trên nền tảng Android
+Nộp
+Tìm hiểu và xây dựng ứng dụng sử dụng STT 17
+17 19522150 Đỗ Hữu Tài DEK Technologies VN Hồ Ngọc Diễm BCTT trễ
+Opensaf mã nguồn mở chạy trên Linux 15h40
+07/07/23
+Page 2 of 4
+
+ST
+MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+T
+Phòng E6.3
+Thực tập về lập trình hướng thanh ghi STT 1
+1 17520408 Vũ Ngọc Duy FPT Software Academy Tạ Trí Đức
+S32K144 13h00
+Chung đề
+STT 2
+2 18521303 Trương Minh Quang Lập trình hướng thanh ghi FPT software Tạ Trí Đức tài và
+13h10
+báo cáo
+Thực tập về lập trình hướng thanh ghi STT 3
+3 18521548 Lê Đình Bảo Trung FPT Software Academy Tạ Trí Đức
+S32K144 13h20
+Thực tập về lập trình hướng thanh ghi STT 4
+4 18520612 Kim Anh Đức FPT Software Academy Tạ Trí Đức
+S32K144 13h30
+Thực tập về lập trình hướng thanh ghi STT 5
+5 18521407 Nguyễn Công Thành FPT Software Academy Tạ Trí Đức
+S32K144 Chung đề 13h40
+tài và
+báo cáo
+Thực tập về lập trình hướng thanh ghi STT 6
+6 18521543 Trần Trương Trọng FPT Software Academy Tạ Trí Đức
+S32K144 13h50
+Thực tập về lập trình hướng thanh ghi STT 7
+7 19521301 Nguyễn Văn Cường FPT Software Academy Tạ Trí Đức
+S32K144 14h00
+STT 8
+8 17520572 Lê Nguyễn Anh Huy Thực tập về quy trình design for test ADT & SNST Vietnam Tạ Trí Đức
+14h10
+Phát triển ứng dụng cho Android Công Ty TNHH Bosch Global STT 9
+9 18520587 Phan Phước Đạt Tạ Trí Đức
+Automotive OS bằng Software Technologies 14h20
+Tìm hiểu về mạng nhạy cảm với thời STT 10
+10 18520706 Trần Long Hải Công ty VB Tech Tạ Trí Đức
+gian (TSN) 14h30
+Page 3 of 4
+
+ST
+MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+T
+Tìm hiểu kiến trúc mạng IMS và phát DEK TECHNOLOGIES STT 11
+11 18520927 Nguyễn Minh Khoa Tạ Trí Đức
+triển ứng dụng sử dụng dịch vụ IMS VIETNAM 14h40
+Thiết kế UVM Testbench và bộ xử lý CÔNG TY TNHH SYNOPSYS STT 12
+12 19520627 Phan Công Duy Khiêm Tạ Trí Đức
+Round Robin Arbiter 4-BIT VIETNAM 14h50
+Thực tập về quy trình Thiết kế Vật lý Công ty Cổ phần Công nghệ STT 13
+13 19520921 Nguyễn Hữu Tân Tạ Trí Đức
+(Physical Design) VNCHIP 15h00
+Xây dựng và phát triển mô hình xe tự Phòng thí nghiệm UIT - FSOFT STT 14
+14 19521022 Nguyễn Văn Tín Tạ Trí Đức
+hành Automotive 15h10
+Phát triển ứng dụng trên Android Công Ty TNHH Bosch Global STT 15
+15 19521371 Châu Minh Đức Tạ Trí Đức
+Automotive OS Software Technologies 15h20
+STT 16
+16 19520369 Nguyễn Lê Hoài Ân Tìm hiểu về quy trình design for test ADT & SNST Vietnam Tạ Trí Đức
+15h30
+Chưa
+STT 17
+17 19521211 Tào Viễn Hoàng Anh Quy trình design for test Tạ Trí Đức nộp bảng
+15h40
+file
+Page 4 of 4

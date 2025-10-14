@@ -1,0 +1,71 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC Độc lập – Tự do – Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+Tp.Hồ Chí Minh, ngày 15 tháng 01 năm 2009
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: Cử nhân khoa học
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Khoa học máy tính
+Loại hình đào tạo: Cử nhân tài năng
+Khóa đào tạo: 2007-2011 (Khóa 2)
+Số tín chỉ: 146
+Mã môn học Học phần Số TC LT TH
+Tin học đại cương 5 4 1
+Triết học Mác-Lênin 5 5 0
+Toán cao cấp A1 4 4 0
+Kiến trúc máy tính 1 3 3 0
+Vật lý đại cương A1 3 3 0
+Anh văn 1 8 8 0
+Giáo dục Quốc phòng
+Giáo dục thể chất 1
+HK1 T ổn g cộ ng HK 1 20
+thuật 1 4 3 1
+Hệ điều hành 1 3 3 0
+Cơ sở dữ liệu 4 3 1
+Toán cao cấp A2 4 4 0
+Anh văn 2 8 8 0
+Giáo dục thể chất 2
+HK2 T ổng cộ n g H K2 15
+tượng 4 3 1
+Mạng máy tính 4 3 1
+Toán cao cấp A3 4 4 0
+Vật lý đ ại cươ ng A2 3 3 0
+Lênin 4 4 0
+Anh văn 3 6 3 0
+HK3 Tổng cộng HK3 19
+Lập trình trên Windows 4 3 1
+Cấu trú c rờ i rạc 4 4 0
+Đảng CSV N 3 3 0
+nghiệp 2 2 0
+Nhập môn công tác kỹ sư 2 2 0
+Anh văn 4 6 3 0
+
+HK4 Tổng cộng HK4 15
+Tổng số tín chỉ giai đoạn 1 69
+Trí tuệ nhân tạo 4 3 1
+Đồ họa máy tính 4 3 1
+Cơ s ở lập trì nh 4 4 0
+thuật nâng cao 4 3 1
+Xác xuất thống kê 3 3 0
+Lý thuyết thông tin 3 3 0
+Tư tưởng Hồ Chí Minh 2 2 0
+HK5 Tổng cộng HK5 24
+Máy học 4 4 0
+toán 3 3 0
+buộc 1 4 4 0
+khoa học 1 4 4 0
+học 3 3 0
+HK6 Tổn g cộn g H K6 18
+tạo k hoa học 2 2 0
+buộc 2 4 4 0
+khoa học 2 4 4 0
+Seminar chuyên đề 1 2
+Các môn tự chọn 8
+HK7 T ổng c ộng HK 7 20
+trình 3 3 0
+Semiar chuyên đề 2 2
+Khóa luận tốt nghiệp 10
+HK8 Tổng cộng HK8 15
+Tổng số tín chỉ giai đoạn 2 77
+Hiệu trưởng
+Hoàng Văn Kiếm

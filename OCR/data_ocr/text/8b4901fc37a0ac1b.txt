@@ -1,0 +1,202 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2(2024-2025)
+LỚP CE502.P21
+Thời gian bắt đầu Hội đồng chấm thực tập CE502.P21: Sáng từ 8h00, ngày 03/07/2025 (Thứ 5)
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3, E03.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+AMPERE
+Kiểm thử phần mềm trên nền tảng máy ThS.Nguyễn Thanh E6.3-STT Thiếu
+1 Nguyễn Lê Hoàng Tú 21521613 COMPUTING
+chủ Thiện 01 (08g00) NXCT
+VIETNAM
+ThS.Nguyễn Thanh E6.3-STT Thiếu
+2 Vũ Hoàng Tuấn 21521640 Design Verification VIETTEL
+Thiện 01 (08g00) NXCT
+XÂY DỰNG VÀ HỖ TRỢ PHÁT
+Công ty Trách nhiệm
+TRIỂN TÍNH NĂNG HỒ SƠ NGƯỜI ThS.Nguyễn Thanh E6.3-STT
+3 Phùng Đức Bảo 21521860 hữu hạn Kỹ thuật số
+DÙNG TRONG ỨNG DỤNG NGÂN Thiện 02 (08g10)
+Tyme
+HÀNG DI ĐỘNG
+Công ty Cổ phần Spring ThS.Nguyễn Thanh E6.3-STT
+4 Vòng Chí Cường 21521910 Mobile App Developer
+Knowledge Global Thiện 03 (08g20)
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 1
+
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+Bosch Global Software
+Phát triển thiết bị kiểm thử CAN Box ThS.Nguyễn Thanh E6.3-STT
+5 Đặng Tấn Đạt 21521927 Technologies Company
+cho xe hai bánh Thiện 04 (08g30)
+Limited
+Phát triển firmware bộ điều khiển hệ máy Công ty TNHH Giải ThS.Nguyễn Thanh E6.3-STT
+6 Phan Tuấn Đạt 21521950
+lạnh VRV Daikin pháp IOT Việt Thiện 05 (08g40)
+NGHIÊN CỨU KIẾN TRÚC AUTOSAR Bosch Global Software
+ThS.Nguyễn Thanh E6.3-STT
+7 Nguyễn Tiến Ngọc 21522381 VÀ PHÁT TRIỂN PHẦN MỀM KIỂM Technologies Company
+Thiện 06 (08g50)
+THỬ FBL Limited
+Hệ thống upload firmware từ xa - Over ThS.Nguyễn Thanh E6.3-STT
+8 Võ Quang Nhật 21522421 Công ty cổ phần XSolar
+The Air (OTA) Thiện 07 (09g00)
+ThS.Nguyễn Thanh
+9 Mai Đức Thành 21522597
+Thiện
+HOÀN THIỆN MÔI TRƯỜNG KIỂM ASIC Lab (CE-
+E6.3-STT
+10 Nguyễn Hà Nhật Quang 21521343 THỬ CHUẨN UVM CHO SPI UIT)(Tresemi TS. Phạm Quốc Hùng
+08 (09g10)
+MASTER CORE ĐƠN GIẢN Organization)
+ThS.Nguyễn Thanh
+11 Đoàn Minh Tiến 21522668
+Thiện
+XÂY DỰNG BỘ GIAO TIẾP AXI 4
+INTERCONNECTION, THỰC THI
+ThS.Nguyễn Thanh E6.3-STT
+12 Trần Nhật Trung 21522726 CÁC CÔNG CỤ FARADAY VIỆT NAM
+Thiện 09 (09g20)
+KIỂM TRA VÀ HƯỚNG TỚI TẠO KIT
+HOÀN CHỈNH
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 2
+
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+Xây dựng môi trường kiểm thử thiết kế ThS.Nguyễn Thanh E6.3-STT
+13 Dương Hoàng Tuấn 21522750 Truechip Việt Nam
+bằng UVM Thiện 10 (09g30)
+Thiết kế phần cứng phát hiện nhịp tim
+ThS.Nguyễn Thanh E6.3-STT Thiếu
+14 Nguyễn Thành Vinh 21522793 bất thường trong tín hiệu điện tâm đồ dựa ASIC Lab (CE-UIT)
+Thiện 11(09g40) NXCT
+trên thuật toán phân cụm mẫu.
+Phân tích hệ thống xDMS và quy trình
+Công nghệ Việt Số ThS.Nguyễn Thanh E6.3-STT
+15 Nguyễn Gia Bảo 22520110 phê duyệt tích hợp SAP ERP tại doanh
+(VISOTECH) Thiện 12 (09g50)
+nghiệp
+PHÁT TRIỂN TRANG WEB BẰNG Công Ty TNHH TM & ThS.Nguyễn Thanh E6.3-STT
+16 Trần Quang Dũng 22520292
+PHP VÀ FRAMEWORK REACTJS DV NiNa Thiện 13 (10g00)
+Xây dựng testbench cho thiết kế Module ThS.Nguyễn Thanh E6.3-STT
+17 Trần Nguyên Giáp 22520365 ASIC Lab (CE-UIT)
+RAM có Bus kết nối Wishbone Thiện 14 (10g10)
+ThS.Nguyễn Thanh E6.3-STT
+18 Lương Ngọc Huy 22520551 Real Time Object Tracking Football TMA Solutions
+Thiện 15 (10g20)
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 3
+
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+LẬP TRÌNH NHÚNG TRÊN THIẾT BỊ E03.3-STT
+1 Phan Duy Thông 20520789 FPT Software TS. Phạm Quốc Hùng
+S32K144EVB 01 (08g00)
+2 Nguyễn Thanh Khoa 21520293 TS. Phạm Quốc Hùng
+ASIC Lab (CE-
+DESIGN VERIFICATION ADVANCED E03.3-STT
+UIT)(Tresemi
+COURSE 02 (08g10)
+Organization)
+3 Huỳnh Hiếu Thuận 21521499 TS. Phạm Quốc Hùng
+NGHIÊN CỨU XÂY DỰNG MÔI
+E03.3-STT
+4 Nguyễn Anh Khôi 21520301 TRƯỜNG KIỂM TRA THIẾT KẾ SỬ Tresemi Organization TS. Phạm Quốc Hùng
+03 (08g20)
+DỤNG UVM
+THIẾT KẾ VÀ TRIỂN KHAI CÔNG
+E03.3-STT
+5 Nguyễn Đặng Anh Kiệt 21520312 CỤ HỖ TRỢ GIÁM SÁT QUY TRÌNH FARADAY VIỆT NAM TS. Phạm Quốc Hùng
+04 (08g30)
+KIỂM ĐỊNH CHẤT LƯỢNG
+XÂY DỰNG MÔI TRƯỜNG KIỂM E03.3-STT
+6 Nguyễn Vũ Anh Minh 21520350 FARADAY VIỆT NAM TS. Phạm Quốc Hùng
+TRA THIẾT KẾ SỬ DỤNG UVM 05 (08g40)
+NGHIÊN CỨU XÂY DỰNG MÔI
+E03.3-STT
+7 Đỗ Trí Gia Bảo 21520603 TRƯỜNG KIỂM TRA THIẾT KẾ SỬ FARADAY VIỆT NAM TS. Phạm Quốc Hùng
+06 (08g50)
+DỤNG UVM
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 4
+
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+ƯỚC TÍNH GÓC NGHIÊNG GIỮA
+E03.3-STT
+8 Nguyễn Lê Chương 21520655 ĐÈN XE VÀ MẶT ĐƯỜNG SỬ DỤNG VinAI Research TS. Phạm Quốc Hùng
+07 (09g00)
+BỘ LỌC KALMAN
+Thiết kế hệ thống ngoại vi PWM điều E03.3-STT
+9 Nguyễn Thân Chí Dũng 21520745 Semicon TS. Phạm Quốc Hùng
+khiển bởi AHB Master 08 (09g10)
+Công ty TNHH Công
+Xây dựng hệ thống điều khiển đèn
+10 Trần Văn Dương 21520763 nghệ Tầm nhìn Thông TS. Phạm Quốc Hùng
+DMX512 E03.3-STT
+mcôinngh tSym TaNrtH VHis Cioônng
+XÂY DỰNG HỆ THỐNG ĐIỀU KHIỂN 09 (09g20)
+11 Dương Mai Quý 21521362 nghệ Tầm nhìn Thông TS. Phạm Quốc Hùng
+ĐÈN DMX512
+minh Smart Vision
+NGHIÊN CỨU PHƯƠNG PHÁP
+Smart Vision E03.3-STT
+12 Vũ Ngọc Hạnh 21520825 LƯỢNG TỬ HÓA ỨNG DỤNG TS. Phạm Quốc Hùng
+Technology 10 (09g30)
+TRONG XỬ LÝ ẢNH
+GIAO TIẾP LOW POWER SPI GIỮA
+E03.3-STT
+13 Trần Quang Huy 21520938 BOARD S32K144 VÀ MODULE LED FPT Software TS. Phạm Quốc Hùng
+11(09g40)
+MAX7219
+SYNOPSYS VIỆT E03.3-STT
+14 Nguyễn Quốc Pháp 21521254 Quy trình tổng hợp trong thiết kế vi mạch TS. Phạm Quốc Hùng
+NAM 12 (09g50)
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 5
+
+Địa điểm-
+ST Mã số Sinh GV hướng dẫn
+Họ và tên Sinh viên Tên đề tài Thực tập Tên công ty thực tập STT Báo Ghi chú
+T viên thực tập
+cáo
+E03.3-STT
+15 Nguyễn Minh Quân 21521330 Kĩ thuật thiết kế kiểm tra FARADAY VIỆT NAM TS. Phạm Quốc Hùng
+13 (10g00)
+SYNOPSYS VIỆT E03.3-STT Thiếu
+16 Võ Văn Quang 21521351 Quy trình tổng hợp trong thiết kế ASIC TS. Phạm Quốc Hùng
+NAM 14 (10g10) NXCT
+Nghiên cứu và cải tiến mô hình nhận Trường Đại học Công
+E03.3-STT
+17 Nguyễn Trần Gia Kỳ 21521048 dạng giọng nói tiếng việt với dữ liệu lớn nghệ Thông tin, Khoa TS. Phạm Quốc Hùng
+15 (10g20)
+trên nền tảng hệ thống nhúng KTMT
+Đại học Công nghệ
+Khóa học VLSI Physical Design E03.3-STT
+18 Hoàng Minh Tâm 21522570 Thông tin khoa Kĩ thuật TS. Phạm Quốc Hùng
+Fundermentals 16 (10g30)
+Máy tính
+Phân tích sóng phát ra từ cây xanh và E03.3-STT
+19 Phạm Trần Gia Bảo 21520622 ASIC Lab (CE-UIT) TS. Phạm Quốc Hùng
+giải mã tình trạng cây xanh 17 (10g40)
+cập nhật 30/6/2025 TP.Hồ Chí Minh, ngày 20 tháng 06 năm 2025
+TRƯỞNG KHOA
+Nguyễn Minh Sơn
+Hội đồng TTDN -HK2-2024-2025-CE502.P21 6

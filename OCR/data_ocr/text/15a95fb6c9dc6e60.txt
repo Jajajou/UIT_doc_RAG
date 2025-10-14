@@ -1,0 +1,108 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2 (2022-2023)
+CHÍNH QUY ĐẠI TRÀ - CE502.N21
+Thời gian bắt đầu Hội đồng chấm TTDN CQĐT: Sáng từ 8h00, ngày 11/7/2023 (Thứ 3)
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+ST Mã số Sinh GV hướng dẫn Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên thực tập Báo cáo
+ThS.Phạm Minh
+1 Nguyễn Đình Huy 14520369
+Báo cáo thực tập doanh nghiệp IT TNHH Thương mại và dịch Quân E6.3-STT 01
+HELPDESK vụ Vũ Minh Anh (08g00)
+ThS.Phạm Minh
+2 Huỳnh Vũ Hưng 17520538
+Quân
+Dương Thị Nguyệt Công ty TNHH Đầu Tư & ThS.Phạm Minh E6.3-STT 02
+3 18521095 Báo cáo thực tập doanh nghiệp
+Minh Giải Pháp Công Nghệ Eplus Quân (08g10)
+Kiểm tra và cải thiện tính năng cho hệ
+Real-time Robotics Việt ThS.Phạm Minh E6.3-STT 03
+4 Phạm Quốc Đăng 19520036 thống stream video của thiết bị bay
+Nam Quân (08g20)
+không người lái
+ThS.Phạm Minh E6.3-STT 04
+5 Trần Duy Quốc Việt 19520353 Memory Circuit Design FARADAY VIỆT NAM
+Quân (08g30)
+ThS.Phạm Minh E6.3-STT 05
+6 Võ Thị Tường Vy 19520359 Báo cáo thực tập doanh nghiệp SYNOPSYS VIỆT NAM
+Quân (08g40)
+Nguyễn Đình Đức Quy trình thiết kế vật lý trong thiết kế ThS.Phạm Minh E6.3-STT 06
+7 19520542 UNIQUIFY VIETNAM
+Hiếu vi mạch Quân (08g50)
+1/3 Hội đồng TTDN-CQĐT-HK 2(2022-2023) CE502.N21
+
+ST Mã số Sinh GV hướng dẫn Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên thực tập Báo cáo
+ThS.Phạm Minh E6.3-STT 07
+8 Phạm Thanh Lâm 19520673 Tìm hiểu quy trình thiết kế vi mạch SYNOPSYS VIỆT NAM
+Quân (09g00)
+Tìm hiểu và làm việc với một số mô
+ThS.Phạm Minh E6.3-STT 08
+9 Viên Minh Tân 19520928 đun thuộc lớp MCAL trong FPT Software
+Quân (09g10)
+AUTOSAR
+Không
+Nguyễn Trần Hoàng ThS.Phạm Minh
+10 18520902 nộp
+Khánh Quân
+BCTT
+Không
+ThS.Ngô Hiếu
+11 Trần Văn Lợi 19521773 nộp
+Trường
+BCTT
+Tìm hiểu quy trình thiết kế vi mạch
+ThS.Ngô Hiếu E6.3-STT 09
+12 Lê Minh Giang 19521446 tại công ty TNHH Synopsys Việt SYNOPSYS VIỆT NAM
+Trường (09g20)
+Nam
+ThS.Ngô Hiếu E6.3-STT 10
+13 Trần Tuấn Khanh 19521687 Thiết kế RTL Renesas Design Vietnam
+Trường (09g30)
+Quy trình thiết kế vật lý trong thiết kế ThS.Ngô Hiếu E6.3-STT 11
+14 Lê Hữu Kiên 19521716 HCLTech VietNam
+vi mạch (physical design) Trường (09g40)
+Nghiên cứu và thiết kế bảng giá điện ThS.Ngô Hiếu E6.3-STT 12
+15 Lê Xuân Minh 19521838 RFThings VietNam
+tử ứng dụng công nghệ LORAWAN Trường (09g50)
+Phát triển tính năng trong hệ thống ip DEK Technologies Việt ThS.Ngô Hiếu E6.3-STT 13
+16 Lưu Phúc 19522034
+multimedia subsystem Nam Trường (10g00)
+Tìm hiểu nghiên cứu về giao thức
+ThS.Ngô Hiếu E6.3-STT 14
+17 Trần Mạnh Quân 19522089 Autosar và giao thức CAN trong Share Work
+Trường (10g10)
+Automotive
+ThS.Ngô Hiếu E6.3-STT 15
+18 Trần Quốc Sơn 19522142 Thiết kế Analog & Mixed-Signal SYNOPSYS VIỆT NAM
+Trường (10g20)
+2/3 Hội đồng TTDN-CQĐT-HK 2(2022-2023) CE502.N21
+
+ST Mã số Sinh GV hướng dẫn Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên thực tập Báo cáo
+Thiếu
+Nguyễn Cao Quốc ThS.Phạm Minh
+19 19520401 nhận xét
+Bảo Quân
+GVHD
+ThS.Phạm Minh
+20 Danh Quốc Hào 19520520
+Quân
+Lập trình hướng thanh ghi cho vi điều ThS.Ngô Hiếu E6.3-STT 16
+21 Vũ Đức Long 19521805 FPT Software
+khiển S32K144 Trường (10g30)
+ThS.Ngô Hiếu
+22 Lê Đình Thành 19522229
+Trường
+ThS.Ngô Hiếu
+23 Nguyễn Bách Tùng 19522493
+Trường
+TP.Hồ Chí Minh, ngày 5 tháng 7 năm 2023
+TRƯỞNG KHOA
+Nguyễn Minh Sơn
+3/3 Hội đồng TTDN-CQĐT-HK 2(2022-2023) CE502.N21

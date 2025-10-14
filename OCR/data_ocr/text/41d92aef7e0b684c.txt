@@ -1,0 +1,232 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2023-2024 - Thời gian bảo vệ: 23-24/07/2024
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian bảo
+viên dẫn biện tự
+vệ
+Phòng E4.1
+Nghiên cứu tích hợp công Research the integration of
+Phan Ái Linh,
+20520614, nghệ tính toán biên cho thiết edge computing technology TS. Nguyễn TS. Trịnh Lê
+1 Lê Thị Thu CQĐT 23/07/2024 E4.1 S1 8h00
+20521422 bị bục giảng trong lớp học for lectern device in the Minh Sơn Huy
+Huyền
+Hybrid Hybrid classroom
+Hoàng Anh
+Cải tiến giải thuật Deep Q- Update Deep Q-Network
+16521558, Minh, TS. Nguyễn TS. Trịnh Lê CLC-
+2 Network (DQN) sử dụng (DQN) algorithm using SoC 23/07/2024 E4.1 S2 8h30
+19522212 Nguyễn Văn Minh Sơn Huy VN
+công nghệ SoC technology
+Thắng
+Võ Phan Hoàng
+Mô phỏng và hiện thực hệ Simulation and
+20521428, Kha (CLC), TS. Nguyễn TS. Trịnh Lê CLC-
+3 thống SoC với RISC-V 32-bit implementation SoC with 32- 23/07/2024 E4.1 S3 9h00
+20521596 Phan Lê Min Minh Sơn Huy VN
+CPU trên FPGA bit RISC-V CPU on FPGA
+(CQĐT)
+Hiện thực khối floating point Implementation RISC-V 32-
+ThS. Hồ Ngọc TS. Lâm Đức CLC-
+4 20521991 Đỗ Tuấn Thuận tích hợp vào bộ xử lý RISC-V bit processor with floating 23/07/2024 E4.1 S4 9h30
+Diễm Khải VN
+32-bit point unit
+Võ Đông Hưng
+Thiết kế IP cho bộ tính toán
+20521376, (CLC), IP design for FFT caculation TS. Trần Quang TS. Lâm Đức CLC-
+5 FFT sử dụng thuật toán 23/07/2024 E4.1 S5 10h00
+20521395 Lê Nguyễn Tín base on Butterfly algorithm Nguyên Khải VN
+Butterfly
+Huy (CQĐT)
+ThS. Nguyễn
+Nguyễn Hồng Building an electronic
+20521843, Xây dựng thiết bị đọc đồng Duy Xuân Bách, ThS. Ngô Hiếu CLC-
+6 Sơn, mechanical water meter 23/07/2024 E4.1 C1 13h30
+20522053 hồ nước cơ bằng điện tử ThS. Phạm Minh Trường VN
+Phạm Minh Trí reading device
+Quân
+Page 1 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian bảo
+viên dẫn biện tự
+vệ
+Application of extended
+Ứng dụng bộ lọc Kalman mở
+Kalman filter and design
+rộng và xây dựng các tầng ThS. Phạm Minh
+higher layers of controller TS. Đỗ Trí
+7 20520217 Đặng Anh Khoa cao hơn của CAN cho hệ Quân, CQĐT 23/07/2024 E4.1 C2 14h00
+area network for GPS-based Nhựt
+thống điều khiển xe tự hành ThS. Tạ Trí Đức
+autonomous vehicle control
+dựa trên định vị GPS
+system
+Nguyễn Chí
+Nghiên cứu hành vi học sinh Research about student
+20521948, Thiện, TS. Nguyễn TS. Đỗ Trí CLC-
+8 và tích hợp trong bộ điều behavior and implement into 23/07/2024 E4.1 C3 14h30
+20522045 Đào Ngọc Minh Minh Sơn Nhựt VN
+khiển của bàn học thông minh the controller of smart desk
+Trí
+Xây dựng hệ thống lưu kho tự
+Đào Tuấn Anh, Established automatic storage
+19520377, động bằng phương pháp quét TS. Trần Quang TS. Đỗ Trí CLC-
+9 Nguyễn Bách system by scanning QR code 23/07/2024 E4.1 C4 15h00
+19521424 mã QR thông qua camera Nguyên Nhựt VN
+Duy through surveillance camera
+giám sát
+Design the error detection
+Thiết kế hệ thống phát hiện
+system in missing TS. Trần Quang TS. Đỗ Trí
+10 20520788 Lê Thế Thông các lỗi thiếu linh kiện trên CQĐT 23/07/2024 E4.1 C5 15h30
+components on board using Nguyên Nhựt
+board mạch sử dụng camera
+cameras
+Phòng E4.2
+Hệ thống thu thập tín hiệu Brain wave signal collection
+ThS. Nguyễn ThS. Phan
+1 20521615 Thân Nhật Minh sóng não với module Nano 33 system with Nano 33 BLE CQĐT 23/07/2024 E4.2 S1 8h00
+Duy Xuân Bách Đình Duy
+BLE module
+Nguyễn Hoàng Design and control of
+20520752, Tân, Thiết kế và điều khiển thiết bị automated teller machine for TS. Nguyễn ThS. Phan
+2 CQĐT 23/07/2024 E4.2 S2 8h30
+20521607 Nguyễn Đình quản lý và bán hàng tự động management and selling of Hoài Nhân Đình Duy
+Nhật Minh goods
+Điều khiển thiết bị robot tự Robot control for picking and
+TS. Nguyễn ThS. Phan
+3 19521850 Phạm Nhật Minh động gắp và lắp ráp linh kiện placing of electronic CQĐT 23/07/2024 E4.2 S3 9h00
+Hoài Nhân Đình Duy
+điện tử component
+Thiết kế phần cứng cho việc Hardware design for
+20521550, Phạm Duy Lộc, phát hiện nhịp tim bất thường abnormal beat detection in TS. Trần Thị ThS. Phan
+4 CQĐT 23/07/2024 E4.2 S4 9h30
+20521930 Văn Ngọc Thành trong tín hiệu điện tâm đồ dựa ECG signal based on Điểm Đình Duy
+trên thuật toán phân cụm mẫu template cluster algorithm
+Page 2 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian bảo
+viên dẫn biện tự
+vệ
+Nguyễn Văn Nghiên cứu, thiết kế và hiện Research, hardware design
+20521007, TS. Lâm Đức ThS. Tạ Trí
+5 Duy Phông, thực IP phần cứng phát hiện and implementation of IP CQĐT 23/07/2024 E4.2 S5 10h00
+20521557 Khải Đức
+Ngô Xuân Lợi làn đường hardware for lane detection
+Hệ thống phát hiện và nhận
+20520933, Võ Ngọc Thiện, Detecting and classifying ThS. Ngô Hiếu ThS. Nguyễn
+6 diện biển báo giao thông CQĐT 23/07/2024 E4.2 C1 13h30
+20521216 Lê Dương road traffic signs system. Trường Thanh Thiện
+đường bộ
+Phan Mạnh The system for detecting and
+20521485, Hệ thống phát hiện theo dõi ThS. Ngô Hiếu ThS. Nguyễn
+7 Khương, tracking people on SoC- CQĐT 23/07/2024 E4.2 C2 14h00
+20521564 người trên SoC-FPGA Trường Thanh Thiện
+Lê Ngọc Long FPGA
+Ngô Lê Tuyết
+Thiết kế thiết bị nhận dạng Implementing a finger
+20521333, Hoa, ThS. Nguyễn CLC-
+8 bàn tay hỗ trợ phát triển các detection box for automated TS. Đoàn Duy 23/07/2024 E4.2 C3 14h30
+20521630 Nguyễn Hữu Thanh Thiện VN
+giải pháp điều khiển tự động control applications
+Nam
+Applying machine learning
+Võ Quốc Việt, Ứng dụng kỹ thuật máy học
+20522155, techniques to extract medical ThS. Nguyễn CLC-
+9 Nguyễn Quốc để trích xuất thông tin toa TS. Đoàn Duy 23/07/2024 E4.2 C4 15h00
+20522172 information from image of Thanh Thiện VN
+Vương thuốc từ ảnh chụp
+prescription
+Hệ thống điểm danh kết hợp Attendance system combines
+thẻ RFID và nhận diện khuôn RFID card and face ThS. Phan Đình ThS. Phạm
+10 20521215 Võ Sỹ Dũng CQĐT 23/07/2024 E4.2 C5 15h30
+mặt sử dụng CNN, Facenet, recognition using CNN, Duy Minh Quân
+SVM Facenet, SVM
+Phòng E4.3
+Nhận diện khuôn mặt real- Real-time face recognition PGS.TS. Vũ
+Phạm Nguyễn time dùng HOG-SVM ứng using HOG-SVM Đức Lung, ThS. Nguyễn CLC-
+1 20521739 23/07/2024 E4.3 S1 8h00
+Tấn Phát dụng trong việc điều khiển architecture for room door ThS. Phan Đình Duy Xuân Bách VN
+cửa phòng application Duy
+ThS. Phan Đình
+Hệ thống phân loại và phát
+Dương Thành Lane-change violation Duy, ThS. Nguyễn CLC-
+2 20521165 hiện phương tiện giao thông 23/07/2024 E4.3 S2 8h30
+Đạt detection and classification TS. Phạm Quốc Duy Xuân Bách VN
+di chuyển sai làn đường
+Hùng
+Page 3 of 4
+
+Thời
+Họ và tên sinh Tên CB hướng Tên CB phản Thứ
+STT MSSV Tên đề tài tiếng Việt Tên đề tài tiếng Anh Ghi chú Ngày Phòng gian bảo
+viên dẫn biện tự
+vệ
+TS. Phạm Quốc
+Hệ thống IoT quản lý vườn A smart IoT system for Hùng, ThS. Nguyễn CLC-
+3 20521448 Lê Hoàng Khanh 23/07/2024 E4.3 S3 9h00
+cây thông minh garden management ThS. Phan Đình Duy Xuân Bách VN
+Duy
+Nguyễn Phạm TS. Phạm Quốc
+Xây dựng hệ thống điểm danh
+20521647, Thanh Ngân, Implementation of attendance Hùng, ThS. Trần CLC-
+4 ứng dụng trong phòng học 23/07/2024 E4.3 S4 9h30
+20521664 Nguyễn Kim system in smart classrooms ThS. Phan Đình Hoàng Lộc VN
+thông minh
+Ngọc Duy
+TS. Phạm Quốc
+Nguyễn Hải
+20520642, Thiết kế hệ thống tưới cây sử Design an irrigation system Hùng, ThS. Trần CLC-
+5 Nam, 23/07/2024 E4.3 S5 10h00
+20521944 dụng cho vườn thông minh for smart gardens ThS. Phan Đình Hoàng Lộc VN
+Cao Hoàng Thiện
+Duy
+Nghiên cứu tích hợp thuật
+Research on itegrating license
+toán nhận dạng biển số xe
+plate recognition in garage TS. Nguyễn ThS. Hồ Ngọc CLC-
+6 20521983 Thái Quốc Thông trong nhà xe trên camera 23/07/2024 E4.3 C1 13h30
+algorithms on smart camera Minh Sơn Diễm VN
+thông minh sử dụng công
+using SoC technology
+nghệ SoC
+Customizing and developing
+Tùy chỉnh và phát triển bộ TS. Phạm Hoài
+a flexible and fast CGRA-
+Nguyễn Quốc tăng tốc dựa trên CGRA linh Luân, ThS. Hồ Ngọc
+7 19521103 based accelerator for CQĐT 23/07/2024 E4.3 C2 14h00
+Viễn hoạt và nhanh chóng cho TS. Lâm Đức Diễm
+convolutional neural
+mạng thần kinh tích chập. Khải
+networks.
+TS. Phạm Hoài
+Thiết kế và hiện thực bộ đồng Design and implementation
+20521048, Lê Đức Hồng Ân, Luân, ThS. Hồ Ngọc CLC-
+8 xử lý RISC-V tốc độ cao hỗ high-speed RISC-V 23/07/2024 E4.3 C3 14h30
+20521063 Hồ Viết Anh TS. Lâm Đức Diễm VN
+trợ các thuật toán mật mã hóa cryptographic co-processor
+Khải
+Developing a flexible and
+Phát triển bộ tăng tốc mật mã TS. Phạm Hoài
+fast next-generation
+thế hệ tiếp theo linh hoạt và Luân, ThS. Hồ Ngọc CLC-
+9 20521299 Nguyễn Hải Hậu cryptographic accelerator 23/07/2024 E4.3 C4 15h00
+nhanh chóng dựa trên mảng TS. Lâm Đức Diễm VN
+based on a coarse-grained
+có thể cấu hình lại chi tiết thô Khải
+reconfigurable array
+Thân Quán
+Thiết kế và chế tạo hệ thống Design and build pick and
+20521682, Nguyên, TS. Trần Quang ThS. Ngô Hiếu CLC-
+10 gắp thả linh kiện trong quy place component in creating 23/07/2024 E4.3 C5 15h30
+20521757 Vũ Hoàng Thiên Nguyên Trường VN
+trình làm mạch điện tử electronic circuit
+Phú
+Page 4 of 4

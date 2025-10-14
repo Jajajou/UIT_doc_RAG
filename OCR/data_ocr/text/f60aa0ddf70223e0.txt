@@ -1,0 +1,297 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 1 (20243-2025)
+CHÍNH QUY ĐẠI TRÀ - CE502.P11
+Thời gian bắt đầu Hội đồng chấm TTDN CQĐT: Sáng từ 8h00, ngày 13/01/2025 (Thứ 2)
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3, E6.1(ASIC Lab), E03.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+NGHIÊN CỨU QUÁ TRÌNH KIỂM TRA
+E6.3-STT 01
+1 Lê Công Khởi Dương 21520752 THIẾT KẾ TRONG QUY TRÌNH THIẾT BOS Semiconductors KS.Thân Thế Tùng
+(08g00)
+KẾ SOC
+Nghiên cứu và hiện thực hệ thống điểm danh E6.3-STT 02
+2 Đặng Vũ Hoàng 21520864 Finviet KS.Thân Thế Tùng
+sử dụng thẻ SSC (08g10)
+QUÁ TRÌNH THIẾT KẾ FRONT-END E6.3-STT 03
+3 Lê Nhật Quang 21521340 SYNOPSYS VIỆT NAM KS.Thân Thế Tùng
+ASIC DIGITAL (ITP 2024) (08g20)
+HỆ THỐNG BẢO VỆ VÀ PHẦN MỀM E6.3-STT 04
+4 Nguyễn Minh Quang 21521346 Việt Nhật Tech KS.Thân Thế Tùng
+VMS (08g30)
+E6.3-STT 05
+5 Lê Đặng Thiên 21521459 Tìm hiểu về dòng vi điều khiển HT32 Combros KS.Thân Thế Tùng
+(08g40)
+TÌM HIỂU VÀ NGHIÊN CỨU PHƯƠNG AMPERE COMPUTING E6.3-STT 06
+6 Lê Nguyễn Hương Tiên 21521521 KS.Thân Thế Tùng
+PHÁP KIỂM TRA THIẾT KẾ BẰNG UVM VIETNAM (08g50)
+1 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+BỔ SUNG THAM SỐ THEO CHUẨN Bosch Global Software
+E6.3-STT 07
+7 Bùi Anh Tiệp 21521535 WWH-OBD VÀ XUẤT TỚI THIẾT BỊ Technologies Company KS.Thân Thế Tùng
+(09g00)
+CHUẨN ĐOÁN Limited
+THIẾT KẾ VÀ HIỆN THỰC MÁY NGHE E6.3-STT 08
+8 Nguyễn Tiến Toàn 21521548 ITR VN KS.Thân Thế Tùng
+NHẠC MP3 (09g10)
+NGHIÊN CỨU QUY TRÌNH THIẾT KẾ E6.3-STT 09
+9 Nguyễn Đúc Tú 21521612 SYNOPSYS VIỆT NAM KS.Thân Thế Tùng
+ASIC VÀ CHI TIẾT VỀ PNR VÀ STA (09g20)
+Tìm hiểu thiết kế kiểm tra bằng Công ty TNHH BOS E6.3-STT 10
+10 Nguyễn Xuân Tùng 21521649 KS.Thân Thế Tùng
+SystemVerilog có sử dụng UVM Semiconductors Việt Nam (09g30)
+Nguyễn Quốc Trường AMPERE COMPUTING E6.3-STT
+11 21521810 KIỂM TRA THIẾT KẾ RTL BẰNG UVM KS.Thân Thế Tùng
+An VIETNAM 11(09g40)
+Tìm hiểu và nghiên cứu về các giai đoạn E6.3-STT 12
+12 Nguyễn Thành An 21521811 FARADAY VIỆT NAM KS.Thân Thế Tùng
+DFT/STA trong quy trình thiết kế chip (09g50)
+NGHIÊN CỨU VÀ PHÁT TRIỂN E6.3-STT 13
+13 Trần Văn Cường 21521909 TMA Solutions KS.Thân Thế Tùng
+MODULE P-CSCF TRONG MẠNG IMS (10g00)
+TÌM HIỂU TỔNG QUAN VỀ CÁC GIAI
+E6.3-STT 14
+14 Nguyễn Văn Dược 21521985 ĐOẠN TRONG QUY TRÌNH THIẾT KẾ SYNOPSYS VIỆT NAM KS.Thân Thế Tùng
+(10g10)
+ASIC
+TÌM HIỂU CƠ BẢN VỀ QUY TRÌNH
+E6.3-STT 15
+15 Đặng Quỳnh Duyên 21522016 THIẾT KẾ ASIC VÀ CHI TIẾT VỀ PNR SYNOPSYS VIỆT NAM KS.Thân Thế Tùng
+(10g20)
+VÀ STA
+2 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+Bosch Global Software
+16 Nguyễn Nhã Khanh 21522209 Technologies Company KS.Thân Thế Tùng
+TÌM HIỂU VÀ TRIỂN KHAI
+E6.3-STT 16
+Limited
+INNOVATION FOTA VÀ THU THẬP DỮ
+Bosch Global Software (10g30)
+Hoàng Phan Thành LIỆU TRÊN Ô TÔ
+17 21520599 Technologies Company Ths.Tạ Trí Đức
+Bách
+Limited
+Tìm hiểu triển khai của thiết kế RTL hard E6.3-STT 17
+18 Nguyễn Bính Khiêm 21522216 BOS Semiconductors KS.Thân Thế Tùng
+macro phát hiện sụt áp (10g40)
+NGHIÊN CỨU VÀ ỨNG DỤNG
+UNIVERSAL VERIFICATION E6.3-STT 18
+19 Nguyễn Phan Khoa 21522230 ASIC Lab (CE-UIT) KS.Thân Thế Tùng
+METHODOLOGY CHO VIỆC KIỂM THỬ (10g50)
+KIẾN TRÚC RISC-V
+ỨNG DỤNG VÀ PHÁT TRIỂN CÁC KỸ
+Bosch Global Software
+THUẬT KIỂM THỬ PHẦN MỀM TRONG E6.3-STT 19
+20 Bành Trí Kiệt 21522251 Technologies Company KS.Thân Thế Tùng
+AUTOSAR CHO DỰ ÁN CỦA CÁC NHÀ (11g00)
+Limited
+SẢN XUẤT Ô TÔ
+SV không
+21 Trần Văn Dương 21520763 KS.Thân Thế Tùng nộp báo
+cáo
+PHÂN TÍCH DỮ LIỆU PHÂN BỔ DOANH
+THU CÔNG TY CỔ PHẦN E6.1-STT 01
+22 Nguyễn Công Kiên 19521717 Ths.Tạ Trí Đức
+XÂY DỰNG BÁO CÁO DOANH THU TỰ GALAXY EDUCATION (08g00)
+ĐỘNG
+NGHIÊM CỨU CÔNG NGHỆ GPON VÀ
+E6.1-STT 02
+23 Nguyễn Thế Nhân 20520257 WIFI TRONG HẠ TẦNG MẠNG VIỄN FPT telecom Ths.Tạ Trí Đức
+(08g10)
+THÔNG
+E6.1-STT 03
+24 Huỳnh Trí Hiếu 20520503 Xây dựng màn nước nghệ thuật SmartVision Ths.Tạ Trí Đức
+(08g20)
+PHÂN TÍCH DỮ LIỆU PHÂN HỆ HÀNH
+CHÍNH CÔNG VÀ TRỰC QUAN HÓA DỮ
+Trung tâm Công nghệ số E6.1-STT 04
+25 Hà Vĩnh Kiện 20520597 LIỆU QUA POWER BI, NGHIÊN CỨU VÀ Ths.Tạ Trí Đức
+tỉnh Sóc Trăng (08g30)
+XÂY DỰNG MÔ HÌNH DỰ ĐOÁN
+CHUỖITHỜI GIAN
+3 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+TÌM HIỂU HỌ GIAO THỨC AMBA PHỤC
+E6.1-STT 05
+26 Phạm Duy Lộc 20521550 VỤ THIẾT KẾ IMAGE (INPUT) DMA BOS Semiconductors Ths.Tạ Trí Đức
+(08g40)
+CHO VIDEO POST PROCESSOR
+27 Lê Quang Phong 20521744 FUNCTIONAL VERIFICATION ASIC Lab (CE-UIT) Ths.Tạ Trí Đức
+E6.1-STT 06
+(08g50)
+28 Nguyễn Thanh Linh 20521535 FUNCTIONAL VERIFICATION ASIC Lab (CE-UIT) Ths.Tạ Trí Đức
+Thi công và bảo trì hệ thống máy tính, mạng Công Ty TNHH Tư Vấn & E6.1-STT 07
+29 Thân Nhân Thọ 20521975 Ths.Tạ Trí Đức
+và điện tại các trường học Đào Tạo Đại Dương (09g00)
+E6.1-STT 08
+30 Hoàng Xuân Việt 20522149 Pulse Oximetry on STM32 ITR VN Ths.Tạ Trí Đức
+(09g10)
+Static Timing Analysis Flow with PrimeTime E6.1-STT 09
+31 Bùi Đăng Huy 21520039 SYNOPSYS VIỆT NAM Ths.Tạ Trí Đức
+Tool (09g20)
+Bosch Global Software
+Tìm hiểu và tạo các kịch bản kiểm thử trong E6.1-STT 10
+32 Mai Hoàng Gia Bảo 21520152 Technologies Company Ths.Tạ Trí Đức
+quá trình phát triển hệ thống trên xe oto (09g30)
+Limited
+Công nghệ Tầm nhìn
+33 Nguyễn Minh Hiền 21520228 Xây dựng hệ thống màn nước nghệ thuật Ths.Tạ Trí Đức
+Thông minh Smart Vision E6.1-STT
+11(09g40)
+34 Lê Hữu Đạt 21520697 Xây dựng hệ thống màn nước nghệ thuật Smart Vision KS.Thân Thế Tùng
+NGHIÊN CỨU THIẾT KẾ BỘ CHUẨN
+E6.1-STT 12
+35 Nguyễn Gia Bảo Ngọc 21520366 HÓA DỮ LIỆU TIỀN XỬ LÍ TRÍ TUỆ BOS Semiconductors VN Ths.Tạ Trí Đức
+(09g50)
+NHÂN TẠO TRONG XỬ LÍ ẢNH
+NGHIÊN CỨU VỀ MBIST TRONG QUY E6.1-STT 13
+36 Nguyễn Minh Quân 21520412 FARADAY VIỆT NAM Ths.Tạ Trí Đức
+TRÌNH THỰC HIỆN TEST – CHIP (10g00)
+4 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+37 Trần Hải Quang 21520416 Tìm hiểu tổng quan về quy trình thiết kế chip SYNOPSYS VIỆT NAM Ths.Tạ Trí Đức
+E6.1-STT 14
+(10g10)
+38 Hồ Tấn Huy 21520258 Tìm hiểu tổng quan về quy trình thiết kế chip SYNOPSYS VIỆT NAM Ths.Tạ Trí Đức
+Công ty TNHH một thành
+TÌM HIỂU VÀ HIỆN THỰC HÓA MÔ E6.1-STT 15
+39 Nguyễn Hoàng Thân 21520447 viên Ứng dụng Kỹ thuật và Ths.Tạ Trí Đức
+HÌNH ZL30100 (10g20)
+Sản xuất (Tecapro)
+Công Ty TNHH Sản Xuất
+TÍCH HỢP HẠ TẦNG MẠNG NB-IOT E6.1-STT 16
+40 Võ Đông Thành 21520457 Và Thương Mại Điện Tử Ths.Tạ Trí Đức
+CHO ĐỒNG HỒ NƯỚC (10g30)
+EPCB
+TỰ ĐỘNG HÓA KIỂM THỬ CHO PHẦN Bosch Global Software
+E6.1-STT 17
+41 Trần Lê Minh Đăng 21520684 MỀM THÔNG TIN GIẢI TRÍ TRÊN XE Ô Technologies Company Ths.Tạ Trí Đức
+(10g40)
+TÔ Limited
+SV không
+42 Nguyễn Minh Bảo 21520615 Ths.Tạ Trí Đức nộp báo
+cáo
+Nghiên cứu xây dựng môi trường kiểm tra ThS.Phạm Minh E03.3-STT 01
+43 Đào Phước Tài 21521391 FARADAY VIỆT NAM
+thiết kế sử dụng UVM Quân (08g00)
+NGHIÊN CỨU VÀ TÍCH HỢP ROS2 ĐỂ
+Công Ty TNHH ThS.Phạm Minh E03.3-STT 02
+44 Nguyễn Bảo Nguyên 21522390 ĐIỀU KHIỂN ROBOT VẼ BẢN ĐỒ KHU
+SmartVision Technology Quân (08g10)
+VỰC SỬ DỤNG LIDAR
+NGHIÊN CỨU VÀ TÍCH HỢP JENKINS Bosch Global Software
+ThS.Phạm Minh E03.3-STT 03
+45 Lê Thị Phương Nhi 21522426 PIPELINE VÀO QUY TRÌNH EMBEDDED Technologies Company
+Quân (08g20)
+SYSTEM TESTING. Limited
+TÌM HIỂU SYSTEMVERILOG CHO
+VERIFICATION & ỨNG DỤNG KIỂM ThS.Phạm Minh E03.3-STT 04
+46 Nguyễn Thường Quân 21522498 XLINK IC VN
+THỬ ENCODER 8B/10B, AHB MULTI- Quân (08g30)
+LAYER INTERCONNECT
+5 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+NGHIÊN CỨU VÀ PHÁT TRIỂN DỰ ÁN
+Công ty TNHH ACTE ThS.Phạm Minh E03.3-STT 05
+47 Lưu Tuấn Tài 21522564 QUẢN LÝ, THEO DÕI CHẤT LƯỢNG
+TECHNOLOGY Quân (08g40)
+PHÒNG THÍ NGHIỆM
+Công Ty TNHH Công
+XÂY DỰNG HỆ THỐNG MÀN NƯỚC ThS.Phạm Minh E03.3-STT 06
+48 Lê Trần Mạnh Tâm 21522571 nghệ Tầm nhìn thông minh
+NGHỆ THUẬT Quân (08g50)
+SmartVision
+VIETTEL THÀNH PHỐ
+XÂY DỰNG TRANG WEB THƯƠNG MẠI
+HỒ CHÍ MINH – CHI
+ĐIỆN TỬ ThS.Phạm Minh E03.3-STT 07
+49 Kha Quốc Thái 21522580 NHÁNH TẬP ĐOÀN
+CÓ TÍCH HỢP CỔNG THANH TOÁN Quân (09g00)
+CÔNG NGHIỆP – VIỄN
+VIETTEL MONEY - VIETQR
+THÔNG QUÂN ĐỘI
+ThS.Phạm Minh E03.3-STT 08
+50 Huỳnh Nhật Tín 21522675 Training ITP Synopsys 2024 SYNOPSYS VIỆT NAM
+Quân (09g10)
+THIẾT KẾ KHỐI CHỨC NĂNG BLENDER
+Nguyễn Phúc Song Công ty TNHH BOS ThS.Phạm Minh E03.3-STT 09
+51 21522686 SỬ DỤNG PHÉP TOÁN TRỘN
+Toàn Semiconductors Việt Nam Quân (09g20)
+PORTER/DUFF TRONG XỬ LÝ ẢNH
+ThS.Phạm Minh E03.3-STT 10
+52 Trần Triều Trung 21522727 Thiết kiểm kiểm tra cho RISC-V ASIC Lab (CE-UIT)
+Quân (09g30)
+NGHIÊN CỨU VỀ AN NINH CHO GIAO
+ThS.Phạm Minh E03.3-STT 11
+53 Phạm Minh Tuấn 21522759 THỨC CAN VỚI S32K144 VÀ FPT Software
+Quân (09g40)
+RASPBERRY PI
+THIẾT KẾ, MÔ PHỎNG VÀ CHẾ TẠO
+ANTENNA TÍCH HỢP TRONG CÁC Công ty TNHH Giải pháp ThS.Phạm Minh E03.3-STT 12
+54 Phan Thanh Tuấn 21522760
+MODULE DỰA TRÊN CÔNG NGHỆ không dây RFThings Quân (09g50)
+ANTENNA-IN-PACKAGE (AIP)
+LẬP TRÌNH BLOCKCHAIN VỚI NGÔN Công ty Cổ phần Công ThS.Phạm Minh E03.3-STT 13
+55 Trần Anh Tuấn 21522764
+NGỮ MOVE ON SUI nghệ và Đầu tư UPGROUP Quân (10g00)
+6 Hội đồng TTDN-CE502.P11
+
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn Địa điểm-STT
+Tên đề tài Thực tập Tên công ty thực tập Ghi chú
+T viên viên thực tập Báo cáo
+NGHIÊN CỨU PHƯƠNG PHÁP LƯỢNG Công Ty TNHH Công
+ThS.Phạm Minh E03.3-STT 14
+56 Huỳnh Bảo Tùng 21522768 TỬ HÓA ỨNG DỤNG TRONG XỬ LÝ nghệ Tầm nhìn thông minh
+Quân (10g10)
+ẢNH SmartVision
+Bosch Global Software
+PHÁT TRIỂN VÀ KIỂM THỬ HỆ THỐNG ThS.Phạm Minh E03.3-STT 15
+57 Phan Châu Thanh Tùng 21522769 Technologies Company
+CHẨN ĐOÁN LỖI TRÊN XE Quân (10g20)
+Limited
+Giao tiếp giữa hai bo mạch S32K144 qua ThS.Phạm Minh E03.3-STT 16
+58 Cù Thanh Tường 21522773 FPT Software Thiếu NXCT
+CAN để điều khiển động cơ Servo DC Quân (10g30)
+NGHIÊN CỨU VÀ TRIỂN KHAI LUỒNG
+ThS.Phạm Minh E03.3-STT 17
+59 Hoàng Anh Vũ 21522796 CI-DEV DỰ ÁN CRM VINASOY TRÊN Viettel Solutions
+Quân (10g40)
+HẠ TẦNG K8S
+DESIGN VERIFICATION TỪ CƠ BẢN
+ĐẾN NÂNG CAO & PHÁT TRIỂN TÍNH Công ty TNHH Truechip ThS.Phạm Minh E03.3-STT 18
+60 Nguyễn Văn Linh 22520774
+NĂNG 3DS CỦA DDR5 TRÊN DỰ ÁN Solution Quân (10g50)
+THỰC TẾ
+XÂY DỰNG ỨNG DỤNG WPF CSHARP ThS.Phạm Minh E03.3-STT 19
+61 Kiều Thị Hiền Trinh 21522715 FPT Software Thiếu NXCT
+THEO KIẾN TRÚC MVVM Quân (11g00)
+ThS.Phạm Minh SV không
+62 Nguyễn Tiến Ngọc 21522381
+Quân nộp báo cáo
+ThS.Phạm Minh SV không
+63 Hoàng Minh Tâm 21522570
+Quân nộp báo cáo
+TP.Hồ Chí Minh, ngày 09 tháng 01năm 2025
+TRƯỞNG KHOA
+(đã ký)
+7 Nguyễn Minh Sơn Hội đồng TTDN-CE502.P11

@@ -1,0 +1,682 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO TIẾN ĐỘ GIỮA KỲ KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 2 - Năm học: 2024 - 2025
+Thời gian bắt đầu hội đồng: Sáng từ 8h00, chiều từ 13h15, thứ Sáu, ngày 25/04/2025.
+Địa điểm: Phòng E6,1, E6.3, E4.3
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 10 phút hội đồng góp ý
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Phòng E6.1
+Tìm hiểu lại các tín hiệu bus AXI.
+Thiết kế hệ thống SoC dựa trên Design of a RISC-V 32-bit Thiết kế lại mô hình SoC đề xuất.
+21521391 Đào Phước Tài bộ xử lý RISC-V 32-bit với mã processor-based SoC with ThS. Ngô Hiếu Xem lại sai số của bộ Transform và
+1 CQĐT E6.1 8h00
+hoá H.264 nội khung trên H.264 intra-frame encoding Trường Quantization.
+Nguyễn Anh FPGA on FPGA Kiểm tra cách đánh giá: tốc độ, tỉ lệ nén và
+21520301 Khôi chỉ số PSNR
+Research and development
+Nghiên cứu và phát triển
+of an efficient image Viết lại đề cương, đưa ra mục tiêu mong
+21522597 Mai Đức Thành phương pháp nén ảnh hiệu quả ThS. Ngô Hiếu
+2 compression method for CQĐT E6.1 8h15 muốn cụ thể và chính xác. Kết quả mong
+cho việc tối ưu hóa dung lượng Trường
+Nguyễn Văn optimizing storage capacity muốn khi so sánh với các bài báo tham khảo.
+và chất lượng hình ảnh
+21521985 Dược and image quality
+Optimizing the YOLO v3-
+21520603 Đỗ Trí Gia Bảo Tối ưu hóa mô hình YOLO v3- ThS. Ngô Hiếu Tìm hiểu kịch bản đánh giá độ chính xác của
+3 tiny model using DPU on CQĐT E6.1 8h30
+Nguyễn Minh tiny sử dụng DPU trên FPGA Trường giải thuật.
+FPGA
+21520615 Bảo
+Nguyễn Hà Nhật
+Cập nhật lại đề cương, cập nhật giới hạn các
+21521343 Quang Tối ưu hóa mô hình CNNs trên Optimizing CNN models on ThS. Ngô Hiếu
+4 CQĐT E6.1 8h45 mô hình CNN dùng để tối ưu, cập nhật giới
+Nguyễn Minh FPGA sử dụng OpenVINO FPGA using OpenVINO Trường
+hạn về dataset
+21520412 Quân
+Hardware implementation
+Hiện thực phần cứng hệ thống
+Lê Công Khởi for traffic sign classification TS. Lâm Đức Kiểm tra lại cách tối ưu mô hình, cách đánh
+5 21520752 phân loại biển báo giao thông CQĐT E6.1 9h00
+Dương system using convolutional Khải giá độ chính xác
+sử dụng mạng nơ ron tích chập
+neural network
+Nguyễn Minh
+Research, hardware design Tìm hiểu về mô hình dự định áp dụng cho đề
+21521330 Quân Nghiên cứu, thiết kế ASIP cho TS. Lâm Đức
+6 of ASIP for Deep Learning CQĐT E6.1 9h15 tài, giải thuật để chia dữ liệu vào các core
+Nguyễn Trần bài toán Deep Learning Khải
+application. DNN-SIP phụ thuộc vào input và mô hình
+21520601 Xuân Bách
+Page 1 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Developing a RISC-V- TS. Phạm Hoài
+Phát triển bộ đồng xử lý mật Kiểm tra lại số chu kỳ của các giải thuật khác
+Lê Nguyễn based post-quantum Luân,
+7 21521521 mã hậu lượng tử dựa trên CQĐT E6.1 9h30 chạy trên ALU so với số chu kỳ của khối
+Hương Tiên cryptographic coprocessor TS. Lâm Đức
+RISC-V trên FPGA Specialized Unit.
+on FPGA Khải
+Developing a power-
+Phát triển bộ tăng tốc mô TS. Phạm Hoài
+efficient, configurable wave
+Đặng Quỳnh phỏng lượng tử dựa trên hàm Luân,
+8 21522016 function-based quantum CQĐT E6.1 9h45 Đã trình bày đề cương
+Duyên sóng có thể cấu hình, tiết kiệm TS. Lâm Đức
+simulation accelerator on
+năng lượng trên FPGA Khải
+FPGA
+Developing an energy- TS. Phạm Hoài
+Phát triển bộ tăng tốc mô
+Lê Trần Xuân efficient quantum Luân, CLC-
+9 21522073 phỏng lượng tử tiết kiệm năng E6.1 10h00 Đã trình bày đề cương
+Hiếu simulation accelerator on TS. Lâm Đức VN
+lượng trên FPGA
+FPGA Khải
+Developing a high-speed TS. Phạm Hoài
+Phát triển bộ tăng tốc mã hóa
+SPHINCS+ post-quantum Luân, CLC- Xem xét triển khai trên phần cứng, nêu lên
+10 21522261 Phạm Anh Kiệt hậu lượng tử SPHINCS+ tốc E6.1 10h15
+cryptography accelerator on TS. Lâm Đức VN những nét nổi bật của phương pháp thực hiện
+độ cao trên FPGA
+FPGA Khải
+Applying the Inception
+Ứng dụng mô hình mạng Tìm hiểu kĩ lại các đặc tính của dữ liệu và
+Lê Nguyễn Nhựt Network Model for TS. Trần Thị CLC-
+11 21521157 Inception để phân loại nhịp tim E6.1 10h30 kiến trúc của mô hình CNN, kiểm tra lại mục
+Nam Heartbeat Classification on Điểm VN
+trên SoC-FPGA tiêu về Hardware Resource Efficiency
+an SoC-FPGA
+Evaluation of SoC System
+Đánh giá hiệu quả thiết kế hệ
+Design Efficiency Using TS. Trần Thị CLC- Viết lại đề cương, mục tiêu đề tài, làm rõ
+12 21521913 Lương Văn Đại thống SoC bằng phương pháp E6.1 10h45
+Manual Design and High- Điểm VN phương pháp để cải tiến , tối ưu thiết kế
+tự thiết kế và HLS
+Level Synthesis
+Design of a Verification
+Thiết kế môi trường kiểm định TS. Trần Thị CLC-
+13 21522012 Trần Quang Duy Environment for RISC-V E6.1 11h00 Đã trình bày đề cương
+kiến trúc CPU RISC-V Điểm VN
+CPU Architecture
+Nguyễn Thân Thiết kế phần cứng phát hiện Hardware design for
+21520745 Chí Dũng nhịp tim bất thường trong tín abnormal beat detection in TS. Trần Thị
+14 CQĐT E6.1 11h15 Đã trình bày đề cương
+hiệu điện tâm đồ dựa trên thuật ECG signal base on Điểm
+Nguyễn Thành
+toán phân cụm mẫu template cluster algorithm
+21522793 Vinh
+Design of an Optimized
+Thiết kế vi xử lý RISC-V tối
+Nguyễn Quốc RISC-V Processor for TS. Trần Thị Viết lại đề cương, xác định chi tiết mục tiêu,
+15 21521254 ưu cho bài toán mạng thần CQĐT E6.1 11h30
+Pháp Convolutional Neural Điểm giới hạn của đề tài.
+kinh tích chập trên FPGA
+Network Tasks on FPGA
+Page 2 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+High-level synthesis from
+Tổng hợp bậc cao từ Python
+Python to RTL for deep TS. Trần Thị Cập nhật đề cương, cập nhật chi tiết giới hạn
+16 21521351 Võ Văn Quang đến RTL cho mạng nơ-ron sâu CQĐT E6.1 13h15
+neural network on SoC Điểm của đề tài
+trên hệ thống SoC
+system
+Implementation of an ECG
+Hiện thực ứng dụng phân loại Cần làm chi tiết hơn về mục tiêu đề tài, các
+Signal Classification
+21522580 Kha Quốc Thái tín hiệu ECG dựa trên mạng TS. Trần Thị ràng buộc cần đạt được khi thiết kế physical,
+17 Application Based on Deep CQĐT E6.1 13h30
+học sâu từ mức logic đến mức Điểm các phương pháp đánh giá để cải tiến theo
+Learning from the Logic
+Nguyễn Hoàng vật lý mục tiêu.
+Level to the Physical Level
+21520447 Thân
+Xem xét lại cơ chế quản lý bộ nhớ, mối quan
+ThS. Phạm Minh
+hệ MMU và DMA, sự khác biệt giữa
+Nguyễn Gia Bảo Quân,
+18 21520366 Phát triển trình mô phỏng SoC SoC simulator development CQĐT E6.1 13h45 interconnect và sub-interconnect. Xây dựng
+Ngọc KS. Trần Đại
+kịch bản các script để kiểm tra, đánh giá hệ
+Dương
+thống. Cập nhật chi tiết về giới hạn đề tài.
+Hoàng Phan ThS. Phạm Minh
+Đánh giá việc triển khai trên phần cứng so với
+21520599 Thành Bách Phát triển bộ tăng tốc trình tự Phylogenetic sequence Quân,
+19 CQĐT E6.1 14h00 phần mềm. Bổ sung kịch bản kiểm tra, đánh
+phát sinh loài accelerator development KS. Trần Đại
+Nguyễn Thanh giá tốc độ với error. Xem xét bộ dữ liệu input.
+Dương
+21520293 Khoa
+Nguyễn Quốc ThS. Phạm Minh
+Phát triển trình điều khiển Vẽ lại kiến trúc Cache, xem xét cách
+21521810 Trường An SoC Cache Coherence Quân,
+20 Cache Coherence trong hệ CQĐT E6.1 14h15 mapping, hiện thực cache trên phần cứng. Bổ
+controller development KS. Trần Đại
+thống trên chip sung kịch bản kiểm tra.
+Dương Hoàng Dương
+21522750 Tuấn
+Đánh giá tốc độ thực thi của các vector, kịch
+Nguyễn Bính ThS. Phạm Minh
+bản đánh giá cho các dữ liệu 8, 16, 32 bit,
+21522216 Khiêm Thiết kế bộ điều khiển phân Vector data distribution Quân,
+21 CQĐT E6.1 14h30 hiện thực trên fpga khi truy xuất các vùng
+phối dữ liệu cho vector controller design KS. Trần Đại
+nhớ, đổi tên đề tài: "Thiết kế bộ điều khiển
+Dương
+phân phối dữ liệu cho các lệnh vector"
+21521612 Nguyễn Đức Tú
+Nguyễn Thường ThS. Phạm Minh
+21522498 Quân Thiết kế bộ tăng tốc xử lý Design quantum processing Quân, Viết lại đề cương chi tiết, so sánh tốc độ mô
+22 CQĐT E6.1 14h45
+lượng tử operator accelerator KS. Trần Đại phỏng và trên fpga, đổi tên đề tài
+Nguyễn Vũ Anh
+Dương
+21520350 Minh
+Chứng minh việc song song hóa các lệnh mới
+21521966 Phạm Trí Đức Phát triển bộ vi xử lý RISC-V Multi-core RISC-V ThS. Phạm Minh CLC- trên pipeline, kịch bản đánh giá kiểm tra sự
+23 E6.1 15h00
+đa lõi processor development Quân VN đồng bộ data, thiết kế lại bus connect cho
+đúng chuẩn
+21521393 Khưu Thành Tài
+Page 3 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Nghiên cứu và xây dựng mô Research and develop an
+hình phân đoạn làn đường và efficient model for drivable
+ThS. Phạm Minh CLC-
+24 21522703 Lê Đức Trí nhận diện vạch kẻ làn đường area segmentation and lane E6.1 15h15 Đã trình bày đề cương
+Quân VN
+thời gian thực cho bài toán xe detection for edge-based
+tự hành trên thiết bị biên autonomous vehicle tasks
+Xem xét cách kiểm tra, đánh giá và so sánh
+RISC-V testsuite ThS. Phạm Minh CLC-
+25 20521078 Phạm Tuấn Anh Phát triển bộ kiểm thử RISC-V E6.1 15h30 với các model kiểm tra khác. Bổ sung chi tiết
+development Quân VN
+giới hạn đề tài.
+Designing exception Vẽ lại kiến trúc CPU có khối exception, đặt
+21522550 Đào Cao Sơn Thiết kế bộ xử lý ngoại lệ cho ThS. Phạm Minh CLC-
+26 handling for an RV32i E6.1 15h45 lại tên đề tài: "Thiết kế exception cho bộ xử lý
+bộ xử lý RISC-V RV32i Quân VN
+Trần Thái Nhật processor RISC-V 32 bit", gom lại mục tiêu đề tài
+21521060 Lâm
+Implement a RISC-V
+Thiết kế vi điều khiển RISC-V microcontroller with ThS. Tạ Trí Đức,
+Nguyễn Đoàn CLC- Hiệu chỉnh đề cương, thiết kế các kịch bản
+27 21521290 tích hợp mã hóa cứng hướng hardware encryption aimed ThS. Phạm Minh E6.1 16h00
+Hoàng Phúc VN kiểm tra, đổi tên đề tài
+đến tiết kiệm năng lượng at reducing power Quân
+consumption
+Phòng E6.3
+- Bổ sung thêm 1 GVHD đủ tiêu chuẩn
+ThS. Nguyễn - Cần xác định rõ sản phẩm phần cứng dự
+21520558 Đỗ Duy Anh Xử lí ảnh nhận diện lỗi hư Container damage detection Duy Xuân Bách, CLC- kiến, các giới hạn ứng dụng, giới hạn mục tiêu
+1 E6.3 8h00
+hỏng của container using image processing PGS.TS. Trịnh VN của đề tài.
+Phạm Lê Minh Lê Huy - Cần tham khảo rõ các công trình nghiên cứu
+21521011 Khôi đã có.
+Phan Hoàng ThS. Nguyễn
+Embedded system for
+21521296 Phúc Hệ thống chăm sóc, giám sát Duy Xuân Bách, CLC- Giới hạn lại các nội dung, muc tiêu và địa chỉ
+2 monitoring swiftlet E6.3 8h15
+nhà yến PGS.TS. Trịnh VN dự kiến khảo sát để đánh giá
+Nguyễn Phan birdhouses
+Lê Huy
+21521675 Quang Vinh
+Nghiên cứu về mặt giải pháp và quy trình là
+ThS. Nguyễn khả thi.
+Phân biệt người trầm cảm bằng Depression detection using Duy Xuân Bách, CLC- Cần đảm bảo tính xác thực của dữ liệu sử
+3 21521337 Lê Công Quang E6.3 8h30
+tín hiệu sóng não EEG signals PGS.TS. Trịnh VN dụng cho quá trình huấn luyện, việc gán nhãn,
+Lê Huy độ chính xác của thiết bị, kịch bản kiểm tra,
+đánh giá
+Page 4 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Lê Đặng Thiên ThS. Nguyễn Cần giới hạn lại nội dung thực hiện của đề tài.
+21521459 (CQĐT) Hệ thống giám sát nhịp tim từ Family remote heart beat Duy Xuân Bách, CLC- Cần tập trung khảo sát sai số của cảm biến
+4 E6.3 8h45
+xa cho gia đình monitoring system PGS.TS. Trịnh VN theo các ngữ cảnh khác nhau, làm tiền đề cho
+Lê Huy việc phát triển giải pháp ứng dụng.
+21522060 Lê Văn Hiển
+Development of a low-cost
+Trần Nguyễn Xây dựng trạm quan trắc môi
+21520441 local environmental ThS. Nguyễn
+Nhựt Tâm trường cục bộ chi phí thấp và - Cân nhắc đổi tên đề tài, tập trung vào việc
+monitoring station and Duy Xuân Bách, CLC-
+5 hệ thống lưu trữ dữ liệu thời E6.3 9h00 xây dựng module thu thập dữ liệu quan trắc
+weather data storage system PGS.TS. Trịnh VN
+Trương Tuấn tiết cho mục đích nghiên cứu môi trường
+21521068 for research and forecasting Lê Huy
+Lân và phát triển dự báo
+purposes
+- Cần xác định lại giới hạn nội dung của đề
+tài: phân tích mối liên hệ giữa sóng phát ra từ
+Phân tích sóng phát ra từ cây Analyze the waves emitted cây trồng và tình trạng sinh trưởng; xây dựng
+Phạm Trần Gia ThS. Nguyễn
+6 21520622 xanh và giải mã tình trạng cây from trees and decode the CQĐT E6.3 9h15 thành công bộ dữ liệu sóng sinh trưởng của
+Bảo Duy Xuân Bách
+xanh condition of trees cây trồng.
+- Cần làm rõ chủng loại cây để thuận lợi cho
+việc đánh giá kết quả
+ThS. Nguyễn
+Implementing violence - Mô hình tham chiếu Garchia-Cobo (2023)
+Nguyễn Minh Hiện thực phát hiện bạo lực Thanh Thiện,
+7 21521346 detection on embedded CQĐT E6.3 9h30 - Xem xét điều chỉnh các tiêu chí, thông số,
+Quang trên hệ thống nhúng KS. Thân Thế
+system giới hạn của đề tài
+Tùng
+Hệ thống phát hiện và phân Wrong-lane vehicle
+Trần Lê Minh
+loại phương tiện đi sai làn detection and classification - Làm rõ kết quả/nghiên cứu làm tham chiếu
+21520684 Đăng ThS. Phan Đình
+8 đường sử dụng kỹ thuật lượng system using post-training CQĐT E6.3 9h45 so sánh
+Duy
+tử hóa sau huấn luyện trên quantization technique on - Tập trung vào tính năng nào cần cải tiến
+Raspberry Pi Raspberry Pi
+21520697 Lê Hữu Đạt
+Nghiên cứu và thử nghiệm
+phương pháp lượng tử hóa Research and testing
+Phan Châu ThS. Phan Đình Phân tích các kỹ thuật tiềm năng để có thể cải
+9 21522769 trong huấn luyện (Quantization-quantization-aware training CQĐT E6.3 10h00
+Thanh Tùng Duy tiến tốc độ xử lý
+aware Training) cho mô hình method on Raspberry Pi kit
+AI trên kit Raspberry Pi
+ThS. Phan Đình
+Nghiên cứu và thiết kế vi mạch Study on designing a test
+Nguyễn Xuân Duy,
+10 21521649 phục vụ quá trình kiểm tra chip chip for memory testing CQĐT E6.3 10h15
+Tùng ThS. Hồ Nam
+bộ nhớ process
+Tịnh (Fadaday)
+Page 5 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Design and implementation - Ưu tiên xử lý giọng nói
+21521860 Phùng Đức Bảo Thiết kế và hiện thực bộ hiển ThS. Phan Đình
+11 of a multifunctional display CQĐT E6.3 10h30 - Đổi tên đề tài, hướng tới hiển thị thông minh
+thị đa chức năng Duy
+Trần Triều unit (không chỉ là gương)
+21522727 Trung
+- Xác định rõ mục tiêu: cải tiến mô hình đã có
+Research and Application (từ 1 node thành nhiều node)
+Hoàng Trọng Nghiên cứu và ứng dụng công ThS. Phan Đình
+12 21521988 of BLE Technology in CQĐT E6.3 10h45 - Chú ý kịch bản demo, phương pháp đánh giá
+Dương nghệ BLE vào smarthome Duy
+Smart Homes - Giới hạn đề tài: 3 phòng, số lượng thiết bị cố
+định (không thêm mới)
+- Đánh giá: So sánh với nhóm trước (Bảo +
+Trung)
+Development of Intelligent - Nên giới hạn công nghệ sử dụng: cử chỉ tay
+Nguyễn Phan Phát triển hệ thống hiển thị ThS. Phan Đình
+13 21522230 Display Systems CQĐT E6.3 11h00 hoặc giọng nói
+Khoa thông minh Duy
+- Tăng cường sự tương tác với người dùng
+- Xác định rõ ngữ cảnh (môi trường, vị trí) đặt
+gương để hiển thị nội dung cho phù hợp
+Nguyễn Tiến
+- Nên tập trung vào hiệu suất đường đi của
+21522381 Ngọc Vacuum cleaner robot using ThS. Phan Đình
+14 Robot hút bụi sử dụng lidar CQĐT E6.3 11h15 robot (tránh chồng lấn giữa những lần di
+lidar Duy
+chuyển), có thể bỏ app mobile
+Nguyễn Bảo
+21522390 Nguyên
+- Chỉ nên tập trung 1 phương pháp
+Research and testing quantization
+Nghiên cứu và thử nghiệm các
+quantization methods for AI ThS. Phan Đình - Trao đổi, sắp xếp công việc với nhóm cùng
+15 21522768 Huỳnh Bảo Tùng phương pháp lượng tử hóa cho CQĐT E6.3 11h30
+models on embedded Duy thực hiện (gom lại)
+mô hình AI trên board nhúng.
+boards - Đánh giá mức độ phức tạp của quá trình
+lượng tử hóa (bước nào phức tạp nhất)
+- Nên đổi tên đề tài, ghi rõ nhận diện ổ gà
+Hệ thống phát hiện ổ gà trên A real-time pothole
+(road damage)
+đường đi theo thời gian thực sử detection system on the ThS. Phan Đình
+16 21522773 Cù Thanh Tường CQĐT E6.3 13h15 - Xem lại mục tiêu ứng dụng của đề tài, nên
+dụng kỹ thuật lượng tử hóa road using quantization Duy
+tập trung vào việc triển khai mô hình sẵn có
+trên Raspberry Pi techniques on Raspberry Pi
+trên hệ thống nhúng.
+ThS. Phan Đình
+Đề xuất phương pháp sử dụng Proposal of a method
+Nguyễn Lê Duy, - Chú ý việc triển khai lên hệ thống nhúng:
+17 21520655 đặc trưng đa góc nhìn cho bài utilizing multi-view features CQĐT E6.3 13h30
+Chương KS. Chế Quang mức độ tính toán, bộ nhớ, lưu trữ
+toán tái định danh con người for person re-identification
+Huy
+Page 6 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Phạm Công TS. Phạm Quốc
+Nghiên cứu và thiết kế vi mạch Study on designing a test
+21522602 Thành Hùng, CLC-
+18 phục vụ quá trình kiểm tra chip chip for memory testing E6.3 13h45
+ThS. Hồ Nam VN
+bộ nhớ process
+Trần Thị Ngọc Tịnh (Fadaday)
+21522664 Thúy
+- Sự khác biệt so với nhóm (Thắng + Anh):
+Xây dựng hệ thống điểm danh
+21522766 Vũ Anh Tuấn Building a smart attendance TS. Phạm Quốc CLC- chức năng gửi mail (gửi cho SV => có thật sự
+19 ứng dụng trong phòng học E6.3 14h00
+system Hùng VN cần thiết, nên gửi cho đối tượng khác ?), vì
+thông minh
+Thái Bình sao sử dụng thư viện nhận diện khuôn mặt đó?
+21521206 Dương Nguyên
+- Cân nhắc ngữ cảnh ứng dụng mà đề tài
+hướng tới
+Lê Trần Thái TS. Phạm Quốc CLC-
+20 21520608 Robot 6 chân Robot hexapod E6.3 14h15 - Cân nhắc thay đổi mục tiêu: di chuyển tự
+Bảo Hùng VN
+nhiên, vượt chướng ngại vật
+- Phân chia lại nội dung cho 2 bạn SV
+Hệ thống quản lý nhà thông
+Trương Hữu Integrated smart home - Cần làm rõ mô hình thiết bị (cách thức hoạt
+minh tích hợp: Điều khiển
+21522559 Trường Sơn management system: Voice TS. Phạm Quốc CLC- động, điều khiển, số lượng thiết bị kết nối),
+21 bằng giọng nói, ứng dụng di E6.3 14h30
+control, mobile app, and Hùng VN mô hình điều khiển bằng giọng nói (có ngữ
+động và giám sát qua trang
+Phạm Phương web-based monitoring cảnh hay phi ngữ cảnh)
+web
+21522708 Minh Trí
+- Cần phân tích rõ vấn đề cần giải quyết (gian
+lận khi xác thực) và phương pháp giải quyết
+Danh Nguyễn
+- Xác định rõ những nhóm người dùng, quyền
+21522585 Thành Thắng Xây dựng hệ thống điểm danh Attendance system using in PGS.TS. Trịnh CLC-
+22 E6.3 14h45 của từng nhóm người dùng, các thiết bị được
+ứng dụng trong phòng học class Lê Huy VN
+sử dụng và cách triển khai các thiết bị này
+- Cần hiểu rõ luồng dữ liệu giữa các thiết bị
+21521822 Lê Nguyên Anh - Cân nhắc kịch bản thử nghiệm 3 lớp,
+Trương Công Design and implementation
+Thiết kế và hiện thực thuật - Đánh giá SHA-256 trên phần cứng và phần
+21522606 Thành of the SHA-256 security TS. Phạm Quốc CLC-
+23 toán bảo mật SHA-256 và bộ E6.3 15h00 mềm?
+algorithm and RISC-V core Hùng VN
+xử lý RISC-V trên FPGA - Bỏ phần RISC-V trong đề tài
+Nguyễn Đình on FPGA
+21522554 Sơn
+Nguyễn Duy Non-invasive pH
+Đo pH không xâm lấn trong - Cân nhắc giới hạn đề tài ở việc thiết kế hệ
+21520979 Khanh measurement in water using TS. Phạm Quốc CLC-
+24 nước sử dụng quang phổ cận E6.3 15h15 thống nhúng thu thập dữ liệu và công bố bộ
+near-infrared spectroscopy Hùng EN
+hồng ngoại và học máy dữ liệu.
+and machine learning
+21520240 Hà Việt Hoàng
+Page 7 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+- Cân nhắc thay đổi mục tiêu đề tài thành giảm
+Xác định chất lượng trứng Non-invasive egg quality
+TS. Phạm Quốc CLC- thiểu ảnh hưởng của loại vỏ trứng
+25 21521058 Phan Hoài Lâm không xấm lấn bằng cảm biến measurement with optical E6.3 15h30
+Hùng VN - Đánh giá ảnh hưởng của việc chiếu tia lên
+quang và kỹ thuật máy học sensor and machine learning
+chất lượng của trứng?
+Measuring sweetness level - Màu vỏ cà chua bi có ảnh hưởng đến kết
+Đo độ ngọt cà chua bi sử dụng
+21521085 Đinh Hữu Lộc of cherry tomato using near- TS. Phạm Quốc CLC- quả?
+26 quang phổ cận hồng ngoại và E6.3 15h45
+infrared spectroscopy and Hùng VN - Căn cứ xác định độ ngọt của cà chua có liên
+mô hình học máy
+machine learning quan đến quang phổ hồng ngoại đo được?
+21521672 Lâm Huỳnh Việt
+TS. Phạm Quốc
+Mô hình hồ nước tự động điều Automatic temperature - Chú ý làm rõ nguồn nhiệt, sự phân bổ của
+21522564 Lưu Tuấn Tài Hùng,
+27 chỉnh nhiệt độ dựa trên logic controller for water tank CQĐT E6.3 16h00 nhiệt trong hồ, sự cần thiết của fuzzy logic
+KS. Nguyễn
+mờ based on fuzzy logic trong đề tài này, quy mô của hồ ?
+Trần Đặng Toàn Thành Nhân
+21522688 (CLC)
+Phòng E4.3
+Comsol multiphysics Chứng minh cơ sở khoa học của phương pháp
+Thiết kế và mô phỏng mô hình
+software application in TS. Trần Quang đề xuất
+21521970 Trương Duy Đức điện di ion ngược bằng phần
+modeling reverse Nguyên, CLC- Cần bổ sung kết quả dự kiến
+1 mềm Comsol dựa trên phương E4.3 8h00
+iontophoresis for TS. Phạm Quốc VN Sự khác biệt so với đề tài trước đó
+pháp theo dõi đường huyết
+Nguyễn Phúc noninvasive glycemic Hùng Cần giới hạn đề tài
+không xâm lấn
+Song Toàn monitoring Đánh giá được kết quả, dựa vào các thực
+21522686 (CQĐT) nghiệm đã có sẵn.
+Tìm hiểu chi tiết các nghiên cứu sử dung
+robot vẽ mạch người
+Nên bổ sung tính mới, cải thiện những hạn
+Thiết kế và điều khiển robot 5 Design and control 5 axis chế những nghiên cứu hiện có
+21522015 Võ Duy TS. Trần Quang CLC-
+2 trục DOF- ứng dụng vẽ chân robot for human portrait E4.3 8h15 Bổ sung lý do cho việc chọn 5 trục trong vẽ
+Nguyên VN
+dung người drawing ảnh người
+Bổ sung cách đánh giá độ chính xác rõ rang
+Trần Nguyên Áp dụng các thuật toán khác nhau để đánh giá
+21521275 Phong các thuật toán nhằm tối ưu đường đi
+Thiết kế và tự động hóa hệ Design and automation of
+Cần bổ sung các nghiên cứu hiện có.
+lắng đọng hơi hóa học (CVD - chemical vapor deposition
+21522061 Liêu Xuân Hiền TS. Trần Quang CLC- Nên thu hẹp khối lượng đề tài, giới hạn đề tài.
+3 chemical vapor depostion) - (CVD) system for black E4.3 8h30
+Nguyên VN Đề tài nên tập trung chế tạo lò nung, điều
+ứng dụng trong quy trình tổng phosphorus material
+khiển nhiệt độ.
+hợp vật liệu phốt pho đen synthesis
+21522233 Trần Anh Khoa
+Page 8 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Design and analysis of Nên bổ sung các kiến thức về lập trình, ví dụ
+Thiết kế và khảo sát các tính
+temperature sensor TS. Trần Quang lập trình tìm kiếm, khảo sát, đánh giá hiệu
+4 21522668 Đoàn Minh Tiến chất của cảm biến nhiệt độ CQĐT E4.3 8h45
+properties by using Comsol Nguyên suất vật liệu nhanh chóng.
+bằng phần mềm Comsol
+software Bổ sung thêm khối lượng cho đề tài KLTN
+Khảo sát thêm tỉ lệ cháy ở các môi trường
+Nghiên cứu, thiết kế và triển khác nhau để xác định đúng môi trường.
+Nguyễn Lê Design a fire detection ThS. Trương Văn
+5 21521613 khai mô hình dự báo cháy trên CQĐT E4.3 9h00 Bổ sung ưu điểm của mô hình đề xuất với các
+Hoàng Tú model for edge devices Cương
+thiết bị biên mô hình hiện có.
+Tên đề tài tiếng anh chưa đúng
+Research and
+Nghiên cứu và hiện thực hệ
+implementation of a fire Cần đánh giá, khảo sát kỹ hơn về việc đặt vị
+21521910 Vòng Chí Cường thống cảnh báo cháy nổ sử ThS. Trương Văn
+6 alarm system using a CQĐT E4.3 9h15 trí đặt cảm biến, các loại cảm biến, ...
+dụng mạng lưới cảm biến Cương
+bluetooth low energy sensor Bổ sung thêm các thông số đánh giá
+bluethooth low energy
+21521909 Trần Văn Cường mesh network
+Thiết kế mô hình xác minh Bổ sung phương pháp đánh giá, bộ dataset sử
+21521950 Phan Tuấn Đạt Design of a face verification ThS. Trương Văn
+7 khuôn mặt dựa trên SoC- CQĐT E4.3 9h30 dung
+model based on SoC-FPGA Cương
+Huỳnh Hiếu FPGA
+21521499 Thuận
+Design and implementation Chỉnh sửa tên đề tài cho phù hợp với mục
+Thiết kế và hiện thực mô hình ThS. Trương Văn
+Nguyễn Anh of a neural network model CLC- đích phát hiện lửa
+8 21522526 nơ-ron cho bài toán nhận diện Cương, E4.3 9h45
+Quốc for fire detection on VN Cần bổ sung dataset uy tín
+lửa trên phần cứng TS. Đỗ Trí Nhựt
+hardware Bổ sung tính khả thi của các mô hình nền tảng
+Sửa lại tên tiêu đề mang tính tích hợp học sâu
+Research and develop xuống HỆ ĐIỀU HÀNH NHÚNG LINUX
+Nghiên cứu và phát triển hệ ThS. Trương Văn
+Trịnh Hoàng embedded Linux OS CLC- Xem lại giới hạn đề tài về độ chính xác
+9 21522347 điều hành nhúng Linux tích Cương, E4.3 10h00
+Minh integrated with optimized VN SV nên tập trung nhiều hơn vào mục tiêu:
+hợp mô hình học sâu tinh gọn TS. Đỗ Trí Nhựt
+deep learning model TÍCH HỢP MÔ HÌNH HỌC SÂU TINH
+GỌN.
+Nên có đánh giá so sánh với các nghiên cứu
+ThS. Trương Văn
+Phan Trọng Thiết kế trình giả lập mạch Design of quantum circuit CLC- khác.
+10 21522408 Cương, E4.3 10h15
+Nhân lượng tử trên FPGA emulator on FPGA VN
+TS. Đỗ Trí Nhựt
+Nên có ứng dụng cụ thẻ cho Giải thuật Grover
+Nên xác định mục tiêu, kịch bản cụ thể: loại
+Nghiên cứu, thiết kế và hiện Research, design and ThS. Trương Văn
+21522805 Phạm Long Vũ CLC- nhiễu nào, môi trường nhất định nào.
+11 thực lõi IP lọc nhiễu âm thanh implementation of an audio Cương, E4.3 10h30
+VN Xem xét bổ sung phần dataset và metric đánh
+trên phần cứng FPGA denoise IP core on FPGA TS. Đỗ Trí Nhựt
+Nguyễn Ngọc giá.
+21522640 Thọ
+Page 9 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Thiết kế và thi công chatbox Design of an IoT-based Tìm hiểu sự khác biệt ứng dụng thuật toán
+Nguyễn Hoàng CLC-
+12 21521854 song ngữ Anh-Việt trên nền bilingual English- TS. Đỗ Trí Nhựt E4.3 10h45 Raspberry Pi với trên app mobile, từ đó tìm ra
+Bảo VN
+tảng internet vạn vật Vietnamese chatbox được ưu điểm của đề tài và phát triển.
+- Nên thay đổi mục tiêu thành camera lùi cảnh
+Distance estimation to the báo va chạm
+Ước lượng khoảng cách đến xe
+front vehicle using - Giới hạn đề tài
+21521960 Huỳnh Hữu Đức
+phía trước bằng camera đơn sử CLC-
+13 monocular camera with TS. Đỗ Trí Nhựt E4.3 11h00 - Bổ sung các dataset, metric đánh giá, so
+dụng Pose Estimation và VN
+Pose Estimation and sánh với các pp khác.
+RANSAC
+Trần Văn Dương RANSAC - Nên bổ sung cảm biến đo khoảng cách, công
+21520763 (CQĐT) thức đo khoảng cách chưa chính xác.
+- Xem lại phương pháp sử dung AI trong việc
+Thiết kế và thi công hệ thống Design of an IMU-based cải thiện hệ thống xe tự hành
+14 21521927 Đặng Tấn Đạt tự hành với công nghệ IMU có self-driving car system with TS. Đỗ Trí Nhựt CQĐT E4.3 11h15 - Nên có kịch bản cụ thể cho thực nghiệm
+hỗ trợ AI và camera AI-camera AID - Nên có bộ metric để so sánh với các phương
+pháp khác.
+- Cần Xác định rõ mục tiêu chính của đề tài
+Nghiên cứu và cải tiến mô hình - Cần có các số liệu để chứng minh điểm hạn
+Nguyễn Trần Study on applying a speech
+nhận dạng giọng nói tiếng Việt chế của các nghiên cứu hiện nay.
+15 21521048 Gia Kỳ recognition with big data TS. Đoàn Duy CQĐT E4.3 11h30
+với dữ liệu lớn trên nền tảng hệ - Bổ sung các dataset, metric đánh giá để so
+for embedded systems
+thống nhúng sánh với các pp khác.
+21520938 Trần Quang Huy
+- Cần trình bày thêm tính tiện dụng của hệ
+Thiết kế hệ thống hỗ trợ đặt Designing an Electronic
+21522796 Hoàng Anh Vũ thống
+16 thức ăn và thanh toán điện tử Food Ordering and Payment TS. Đoàn Duy CQĐT E4.3 13h15
+- Cần bổ sung thêm khối lượng cho phù hợp
+cho căn tin System for Canteen
+với khóa luận tốt nghiệp
+21520864 Đặng Vũ Hoàng
+Nguyễn Minh
+Ứng dụng ROS2 trong xây Study on applying ROS2 to
+21522293 Lộc CLC- Nên đưa phần thực hiện Gazebo lên thực hiện
+17 dựng robot tự hành và vẽ bản indoor space mapping and TS. Đoàn Duy E4.3 13h30
+Nguyễn Thành VN trước trong kế hoạch
+đồ không gian trong nhà autonomous robot designing
+21522568 Tài
+Nguyễn Thanh Nghiên cứu và thiết kế mô Study on designing a model
+- Cần hiểu rõ hơn về giải thuật đề xuất
+21522459 Phong hình xe tự hành ngoài trời có of outdoor autonomous CLC-
+18 TS. Đoàn Duy E4.3 13h45 - Cần xác định rõ hơn về mô hình động học
+hướng dẫn sử dụng kỹ thuật guided vehicles using Multi- VN
+Đặng Minh điều khiển robot.
+Multi-sensor Fusion sensor Fusion technique
+21521436 Thành
+Thiết kế vật lý và tái cấu hình Physical design and Linux
+21520686 Ninh Công Danh hệ điều hành Linux cho hệ OS reconfiguration for SoC TS. Nguyễn CLC- - Cần có kịch bản dánh giá các tiêu chí cụ thể
+19 E4.3 14h00
+thống SoC với lõi RISC-V và with RISC-V core and AES- Minh Sơn VN và so sánh với các đề tài trước đó.
+Nguyễn Đăng
+thuật toán AES-256 256 algorithm
+21520918 Huy
+Page 10 of 11
+
+Giảng viên Hệ đào Thời
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Phòng Ý kiến góp ý ĐCCT của Hội đồng
+hướng dẫn tạo gian
+Nghiên cứu và triển khai hệ Research and build a secure Cần xem xét lại kịch bản cụ thể của đề tài.
+TS. Nguyễn
+20 21520416 Trần Hải Quang thống SoC bảo mật với AES- SoC system with AES-128 CQĐT E4.3 14h15 Các phương pháp đánh giá cũng như mục tiêu
+Minh Sơn
+128 trên nền tảng RISC-V on the RISC-V platform cần đạt được.
+Nguyễn Thành
+Nghiên cứu và phát triển hệ Research and development - So sánh kết quả tối ưu với các kết quả cũ
+21521811 An TS. Nguyễn
+21 thống thống xác minh RISC-V of RISC-V SoC verification CQĐT E4.3 14h30 (RV328). Kịch bản đánh giá mô hình hệ thống
+Minh Sơn
+Nguyễn Đặng SoC system sau khi xây dựng được?
+21520312 Anh Kiệt
+Làm rõ kịch bản kiểm thử và các tiêu chí đánh
+Hoàng Minh Thiết kế bộ gia tốc cho mạng Design an accelerator for TS. Nguyễn
+22 21522570 CQĐT E4.3 14h45 giá thực thi trên phần mềm và phần cứng của
+Tâm CNN trên FPGA CNN on FPGA Minh Sơn
+hệ thống đã thiết kế.
+Thiết kế và tích hợp thuật toán Studying and integration of TS. Nguyễn
+Cần xem xét lại tính khả thi của đề tài, có kịp
+21521362 Dương Mai Quý phát hiện và cảnh báo té ngã fall detection algorithm and Minh Sơn,
+23 CQĐT E4.3 15h00 thời gian bảo vệ.
+cho người cao tuổi trên mobile alert for the elderly on KS. Thân Thế
+Kiều Thị Hiền Cần xem lại lý do thực hiện đề tài.
+robot. mobile robot Tùng
+21522715 Trinh
+Thiết kế vi điều khiển 32 bit Design of a 32-bit RISC-V Cần xem lại phương pháp đánh giá đã bao
+21521640 Vũ Hoàng Tuấn
+24 lõi RISC-V tích hợp mã hóa core microcontroller with ThS. Tạ Trí Đức CQĐT E4.3 15h15 quát hết mục tiêu đề tài chưa?
+Trần Hoàng Gia NTRU NTRU encryption
+21520936 Huy
+Cân nhắc xem lại môi trường hoạt động, thêm
+Research and development các môi trường phức tạp hơn.
+Nguyễn Nhã Nghiện cứu và xây dựng robot
+25 21522209 of autonomous exploration ThS. Tạ Trí Đức CQĐT E4.3 15h30 Nên có các kịch bản cụ thể để đánh giá: thay
+Khanh tự động khám phá môi trường
+robots đổi độ khó môi trường (vật cản, ...), thay đổi
+nguồn âm thanh.
+Sử dụng Opensource sẽ có rủi ro, có vấn đề
+ThS. Tạ Trí Đức, phát sinh, ko hiểu bản chất sẽ không fix được
+21522612 Bùi Văn Thi Thiết kế vật lý hệ thống trên Physical design of system CLC-
+26 TS. Trần Quang E4.3 15h45 hệ thống. Warning các bạn cần nắm rõ, tìm
+chip sử dụng lõi RISC-V on chip using RISC-V core VN
+Nguyên hiểu thêm bản chất công nghệ để có thể tiếp
+Dương Gia
+nhận từ opensource cho hợp lý.
+21522631 Thiều
+Hiện thực thiết bị camera tự Implementation of camera
+21522251 Bành Trí Kiệt ThS. Trần Hoàng - Xử lý khi có nhiều hơn 1 diễn giả (lựa chọn
+27 động theo dõi diễn giả trong device for speaker auto- CQĐT E4.3 16h00
+Lộc người nào để tracking)?
+buổi hội thảo, thuyết trình tracking in conferences
+Mai Hoàng Gia
+21520152 Bảo
+Page 11 of 11

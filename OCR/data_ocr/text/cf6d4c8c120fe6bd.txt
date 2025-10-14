@@ -1,0 +1,126 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC Độc lập – Tự do – Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+Tp.Hồ Chí Minh, ngày 17 tháng 09 năm 2011
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: Cử nhân khoa học
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Khoa học máy tính
+Loại hình đào tạo: Cử nhân tài năng
+Khóa đào tạo: 2008-2012 (Khóa 4)
+Số tín chỉ: 140
+Mã môn học Học phần Số TC LT TH Ghi chú
+CSC01 Tin học đại cương 4 3 1
+MAT01 Toán cao cấp A1 3 3 0
+LIA01 Toán cao cấp A3 3 3 0
+PHY01 Vật lý đại cương A1 3 3 0
+Tính
+ENG01 Anh văn 1 8 8 0 riêng
+PEDU1 Giáo dục thể chất 1
+Giáo dục quốc phòng
+HK1 Tổng cộng HK1 13
+DSAL1 Cấu trúc dữ liệu & giải 4 3 1
+DBSS1 Cơ sở dữ liệu 4 3 1
+MAT02 Toán cao cấp A2 4 4 0
+PHY02 Vật lý đại cương A2 3 3 0
+CARC1 Kiến trúc máy tính 3 3 0
+Những nguyên lý cơ bản
+PHIL1 của chủ nghĩa Marx 5 5 0
+Tính
+ENG02 Anh văn 2 8 8 0 riêng
+PEDU2 Giáo dục thể chất 2
+HK2 Tổng cộng HK2 23
+OOPT1 Lập trình hướng đối 4 3 1
+OSYS1 Hệ điều hành 3 3 0
+MAT04 Cấu trúc rời rạc 4 4 0
+STA01 Xác suất thống kê 3 3 0
+VCPL1 Đường lối CM của Đảng 3 3 0
+Tính
+ENG03 Anh văn 3 6 3 0 riêng
+HK3 Tổng cộng HK3 17
+WINP1 Lập trình trên Windows 4 3 1
+CNET1 Mạng máy tính 4 3 1
+
+HCMT1 Tư tưởng Hồ Chí Minh 2 2 0
+Tính
+ENG04 Anh văn 4 6 3 0 riêng
+HK4 Tổng cộng HK4 10
+Tổng số tín chỉ giai đoạn 1 63
+CS106 Trí tuệ nhân tạo 4 3 1
+CS105 Đồ họa máy tính 4 3 1
+CS103 Cơ sở lập trình 4 4 0
+DSAL2 Cấu trúc dữ liệu & giải 4 3 1
+CS108 Lý thuyết thông tin 3 3 0
+HK5 Tổng cộng HK5 19
+CS109 Máy học 4 4 0
+CS102 Phân tích & thiết kế 3 3 0
+CS107 Các hệ cơ sở tri thức 4 4 0
+CS210 Môn chuyên ngành bắt 4 4 0
+CS351 Chuyên đề nghiên cứu 4 4 0
+HK6 Tổng cộng HK6 19
+SMET2 Phương pháp luận sáng 2 2 0
+CS211 Môn chuyên ngành bắt 4 4 0
+CS352 Chuyên đề nghiên cứu 4 4 0
+CS371 Seminar chuyên đề 1 2
+CS36* Các môn tự chọn 8
+HK7 Tổng cộng HK7 20
+CS101 Nguyên lý ngôn ngữ lập 3 3 0
+CS372 Semiar chuyên đề 2 2
+CS501 Khóa luận tốt nghiệp 10
+CS36* Các môn tự chọn 4
+HK8 Tổng cộng HK8 19
+Tổng số tín chỉ giai đoạn 2 77
+ Nhóm môn học theo chuyên ngành và tự chọn
+a. Các môn học bắt buộc theo chuyên ngành
+Chuyên ngành Môn học TC LT TH
+Hệ suy diễn mờ 4 0 0
+Mạng Neural và
+Tính toán mềmthuật giải di truyền 4 0 0
+Trí tuệ nhân tạo
+Máy học và nâng cao 4 0 0
+Công nghệ tri Biểu diễn tri thức
+thức và ứng dụng 4 0 0
+Đồ họa và xử Xử lý tín hiệu số 4 0 0
+lý ảnh Trực quan máy tính 4 0 0
+Xử lý ngôn ngữ tự
+nhiên 4 0 0
+
+Ngôn ngữ học máy
+Xử lý Ngôn ngtí nh 3 0 0
+b. Các môn chọn chung
+STT Môn học TC LT TH
+Lý thuyết automat
+1 và ứng dụng 4 0 0
+Fuzzy Logic: lý
+2 thuyết và ứng dụng 4 0 0
+Trích xuất thông tin
+(Information
+3 Extraction) 4 0 0
+4 Web ngữ nghĩa 4 0 0
+5 Nhận dạng 4 0 0
+6 Mã hóa thông tin 4 0 0
+Ngôn ngữ lập trình
+7 Java 4 3 1
+8 Công nghệ JEEE 4 3 1
+Ngôn ngữ lập trình
+9 C# 4 3 1
+10 Hệ điều hành Linux 4 3 1
+Lập trình cơ sở dữ
+11 liệu 4 3 1
+12 Công nghệ .NET 4 3 1
+Phân tích thiết kế
+13 hệ thống thông tin 4 3 1
+Xây dựng phần
+mềm hướng đối
+14 tượng 4 4 0
+Phân tích thiết kế
+hướng đối tượng
+15 với UML 4 3 1
+16 Công nghệ JAVA 3 3 0
+Các công nghệ web
+17 và ứng dụng 4 3 1
+Lập trình symbolic
+trong trí tuệ nhân
+18 tạo 4 3 1
+Hiệu trưởng
+Hoàng Văn Kiếm

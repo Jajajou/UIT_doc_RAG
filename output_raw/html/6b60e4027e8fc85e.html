@@ -1,0 +1,106 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">/**
+ * @file
+ * CKEditor Accordion functionality.
+ */
+
+(function ($) {
+  'use strict';
+  Drupal.behaviors.ckeditorAccordion = {
+    attach: function (context, settings) {
+
+      // Create accordion functionality if the required elements exist is available.
+      var $ckeditorAccordion = $('.ckeditor-accordion');
+      if ($ckeditorAccordion.length &gt; 0) {
+        // Create simple accordion mechanism for each tab.
+        $ckeditorAccordion.each(function () {
+          var $accordion = $(this);
+          if ($accordion.hasClass('styled')) {
+            return;
+          }
+
+          // The first one is the correct one.
+          if (typeof Drupal.settings.ckeditor_accordion == 'undefined' ||
+             (typeof Drupal.settings.ckeditor_accordion != 'undefined' &amp;&amp; Drupal.settings.ckeditor_accordion.collapseAll != 1)) {
+            $accordion.children('dt:first').addClass('active');
+            $accordion.children('dd:first').addClass('active');
+            $accordion.children('dd:first').css('display', 'block');
+          }
+
+          // Turn the accordion tabs to links so that the content is accessible &amp; can be traversed using keyboard.
+          $accordion.children('dt').each(function () {
+            var $tab = $(this);
+            var tabText = $tab.text().trim();
+            var toggleClass = $tab.hasClass('active') ? ' active' : '';
+            $tab.html('&lt;span class="ckeditor-accordion-toggle' + toggleClass + '"&gt;&lt;/span&gt;&lt;a class="ckeditor-accordion-toggler" href="#"&gt;' + tabText + '&lt;/a&gt;');
+          });
+
+          // Wrap the accordion in a div element so that quick edit function shows the source correctly.
+          $accordion.addClass('styled').removeClass('ckeditor-accordion').wrap('&lt;div class="ckeditor-accordion-container"&gt;&lt;/div&gt;');
+
+          // Fire an event so other modules know when the accordion has been created.
+          $accordion.trigger('ckeditorAccordionAttached');
+        });
+
+        // Add click event to body once because quick edits &amp; ajax calls might reset the HTML.
+        $('body').once('ckeditorAccordionToggleEvent').on('click', '.ckeditor-accordion-toggler', function (e) {
+          var $t = $(this).parent();
+          var $parent = $t.parent();
+
+          // Clicking on open element, close it.
+          if ($t.hasClass('active')) {
+            $t.removeClass('active');
+            $t.next().slideUp();
+          }
+          else {
+            // Remove active classes.
+            $parent.children('dt.active').removeClass('active').children('a').removeClass('active');
+            $parent.children('dd.active').slideUp(function () {
+              $(this).removeClass('active');
+            });
+
+            // Show the selected tab.
+            $t.addClass('active');
+            $t.next().slideDown(300).addClass('active');
+          }
+
+          // Don't add hash to url.
+          e.preventDefault();
+        });
+      }
+    }
+  };
+})(jQuery);
+;
+(function ($) {
+	Drupal.behaviors.backtotop = {
+		attach: function(context) {
+			var exist= jQuery('#backtotop').length;
+      if(exist == 0) {
+        $("body", context).once(function() {
+          $(this).append("&lt;button id='backtotop'&gt;"+Drupal.t(Drupal.settings.back_to_top.back_to_top_button_text)+"&lt;/button&gt;");
+        });
+      }
+			$(window).scroll(function() {
+				if($(this).scrollTop() &gt; Drupal.settings.back_to_top.back_to_top_button_trigger) {
+					$('#backtotop').fadeIn();
+				} else {
+					$('#backtotop').stop(true).fadeOut();
+				}
+			});
+
+      $('#backtotop', context).once(function() {
+			  $(this).click(function() {
+			    $("html, body").bind("scroll mousedown DOMMouseScroll mousewheel keyup", function() {
+            $('html, body').stop();
+          });
+          $('html,body').animate({ scrollTop: 0 }, 1200, 'easeOutQuart', function() {
+            $("html, body").unbind("scroll mousedown DOMMouseScroll mousewheel keyup");
+          });
+          return false;
+			  });
+			});
+		}
+	};
+})(jQuery);
+;
+</pre></body></html>

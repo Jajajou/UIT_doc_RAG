@@ -1,0 +1,216 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 2 (2023-2024)
+CHÍNH QUY ĐẠI TRÀ - CE502.O21
+Thời gian bắt đầu Hội đồng chấm TTDN CQĐT: Sáng từ 8h00, ngày 02/07/2024 (Thứ 3)
+NXCT- nhận xét
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3, E6.1(ASIC Lab)
+của công ty
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+Họ và tên Sinh Mã số Sinh Tên Công ty thực GV hướng dẫn thực Địa điểm-
+STT Tên đề tài Thực tập Ghi chú
+viên viên tập tập STT Báo cáo
+ThS. Ngô Hiếu
+1 Bùi Minh Thùy 19520292 Thiếu NXCT
+Tìm hiểu nghiên cứu về CAN BUS và Trường E6.1-STT 01
+FPT Software
+GPT trong phát triển AUTOSAR ThS. Ngô Hiếu (08g00)
+2 Tạ Duy Huy 20520550 Thiếu NXCT
+Trường
+Công ty TNHH
+Phạm Ngọc TÌM HIỂU VÀ NGHIÊN CỨU VỀ ThS. Ngô Hiếu E6.1-STT 02
+3 19520965 TMDV Tư Vấn Tiến
+Thanh Thảo GIAO THỨC ESP-NOW TRÊN ESP Trường (08g10)
+Phát
+TÌM HIỂU VỀ CÁC THIẾT BỊ
+Ứng Trọng THÔNG MINH TRONG NHÀ YẾN ThS. Ngô Hiếu E6.1-STT 03
+4 19521903 iStudent
+Nghĩa VÀ WORDPRESS ĐỂ TẠO TRANG Trường (08g20)
+WEB QUẢN LÝ
+ThS. Ngô Hiếu E6.1-STT 04
+5 Trần Ngọc Toản 19522367 THIẾT KẾ BỘ VI XỬ LÝ RISC-V 32I ASIC Lab (CE-UIT)
+Trường (08g30)
+Công Ty TNHH Phát
+Trương Trọng Kinh nghiệm thực tế trong sửa chữa, ThS. Ngô Hiếu E6.1-STT 05
+6 20520185 Triển Công Nghệ
+Hiếu lắp ráp và nâng cấp máy tính cá nhân Trường (08g40)
+Trường Thịnh Group
+Hội đồng TTDN-CQĐT-HK 2(2023-2024) CE502.021 1
+
+Họ và tên Sinh Mã số Sinh Tên Công ty thực GV hướng dẫn thực Địa điểm-
+STT Tên đề tài Thực tập Ghi chú
+viên viên tập tập STT Báo cáo
+TÌM HIỂU PHÁT TRIỂN CHIP Công ty TNHH Công
+Trương Hữu ThS. Ngô Hiếu E6.1-STT 06
+7 20520211 TRUYỀN DẪN DỮ LIỆU TỐC ĐỘ Nghệ Marvell Việt
+Khang Trường (08g50)
+CAO Nam
+Bosch Global
+Kiểm thử tích hợp các thành phần Software ThS. Ngô Hiếu E6.1-STT 07
+8 Đặng Anh Khoa 20520217
+trong hệ thống trợ lực lái điện trên ô tô Technologies Trường (09g00)
+Company Limited
+HỆ THỐNG TỐI ƯU ĐƯỜNG ĐI
+CÔNG TY TNHH
+Nguyễn Linh DỰA VÀO CÁC ĐIỀU KIỆN (RẼ ThS. Ngô Hiếu E6.1-STT 08
+9 20520219 MTV CNTT THẾ
+Anh Khoa PHẢI HOẶC RẼ TRÁI HOẶC QUA Trường (09g10)
+GIỚI DI ĐỘNG
+VÒNG XOAY)
+Công ty TNHH Tư
+Phạm Minh ThS. Ngô Hiếu E6.1-STT 09
+10 20520340 Hỗ trợ kỹ thuật Công nghệ thông tin Vấn & Đào Tạo Đại
+Trường Trường (09g20)
+Dương
+TÌM HIỂU NGHIÊN CỨU VỀ
+Công ty cổ phần dịch
+CYBER SECURITY ThS. Ngô Hiếu E6.1-STT 10
+11 Lê Hữu Vinh 20520349 vụ An ninh mạng
+VÀ FDO (FIDO2 DEVICE Trường (09g30)
+VinCSS
+ONBOARD)
+Nghiên các giải pháp, sản phẩm viễn
+ThS. Ngô Hiếu E6.1-STT
+12 Trần Trọng Huy 20520555 thông dựa trên công nghệ VoIP – TMA Solutions Thiếu NXCT
+Trường 11(09g40)
+Voice over Internet Protocol
+Bosch Global
+Software ThS. Ngô Hiếu E6.1-STT 12
+13 Phan Ái Linh 20520614 Complete software project responsible
+Technologies Trường (09g50)
+Company Limited
+Hội đồng TTDN-CQĐT-HK 2(2023-2024) CE502.021 2
+
+Họ và tên Sinh Mã số Sinh Tên Công ty thực GV hướng dẫn thực Địa điểm-
+STT Tên đề tài Thực tập Ghi chú
+viên viên tập tập STT Báo cáo
+XÂY DỰNG HỆ THỐNG IOT DỰA Công ty TNHH
+Nguyễn An TRÊN NỀN TẢNG ADAFRUIT IO Thương mại dịch vụ ThS. Ngô Hiếu E6.1-STT 13
+14 20520622
+Long VÀ THI CÔNG, KIỂM NGHIỆM sản xuất ABC Trường (10g00)
+BKIT ARM 4 SOLUTIONS
+Công ty TNHH ThS. Ngô Hiếu
+15 Võ Nhật Nam 20520646 TÌM HIỂU NGHIÊN CỨU VỀ ESP32 Thiếu NXCT
+Nghiên cứu và Phát Trường E6.1-STT 14
+VÀ THIẾT KẾ MOBILE
+triển công nghệ ThS. Ngô Hiếu (10g10)
+16 Nguyễn Hữu Trí 20522051 APPLICATION Thiếu NXCT
+IoTVision Trường
+TÌM HIỂU NGHIÊN CỨU ỨNG
+Công ty Cổ phần Tép ThS. Ngô Hiếu E6.1-STT 15
+17 Chu Thành Nhân 20520665 DỤNG CÁC THIẾT BỊ IOT VÀO
+Bạc Trường (10g20)
+NUÔI TRỒNG THỦY SẢN
+Ngô Tạ Đình ThS. Ngô Hiếu E6.1-STT 16
+18 20520688 Triển khai Hệ thống Dữ liệu King Elong Group
+Phong Trường (10g30)
+Công ty TNHH Công
+ThS. Ngô Hiếu E6.1-STT 17
+19 Vũ Duy Phương 20520705 Thực tập doanh nghiệp nghệ Tin học Sài
+Trường (10g40)
+Gòn
+Phạm Nhật Tìm hiểu về kiểu dữ liệu nâng cao TS. Phạm Quốc E6.3-STT 01
+20 20520721 TMA Solutions
+Quang trong C++17 Hùng (08g00
+TÌM HIỂU KIẾN TRÚC AUTOSAR
+VÀ QUY TRÌNH THỰC HIỆN VÀ Renesas Design TS. Phạm Quốc E6.3-STT 02
+21 Đỗ Thành Tôn 20520814
+TÍCH HỢP PHẦN MỀM TRONG Vietnam Hùng (08g10)
+AUTOSAR
+Hội đồng TTDN-CQĐT-HK 2(2023-2024) CE502.021 3
+
+Họ và tên Sinh Mã số Sinh Tên Công ty thực GV hướng dẫn thực Địa điểm-
+STT Tên đề tài Thực tập Ghi chú
+viên viên tập tập STT Báo cáo
+TÌM HIỂU VỀ KIẾN TRÚC
+TS. Phạm Quốc E6.3-STT 03
+22 Võ Ngọc Thiện 20520933 AUTOSAR VÀ LẬP TRÌNH VI ĐIỀU FPT Software Thiếu NXCT
+Hùng (08g20)
+KHIỂN S32K144
+Nguyễn Văn ASIC DESIGN FLOW AND DESIGN SYNOPSYS VIỆT TS. Phạm Quốc E6.3-STT 04
+23 20521007 Thiếu NXCT
+Duy Phông FOR TEST NAM Hùng (08g30)
+TS. Phạm Quốc
+24 Lê Dương 20521216
+Hùng
+Phan Mạnh XÂY DỰNG MÔI TRƯỜNG KIỂM TS. Phạm Quốc E6.3-STT 05
+25 20521485 Nanologic Solution
+Khương THỬ CHỨC NĂNG CỦA THIẾT KẾ. Hùng (08g40)
+TS. Phạm Quốc
+26 Lê Ngọc Long 20521564
+Hùng
+QUY TRÌNH THIẾT KẾ ASIC VÀ
+HỆ THỐNG QUẢN LÍ POWER BOS TS. Phạm Quốc E6.3-STT 06
+27 Trần Đăng Hậu 20521302
+RESET CLOCK TRONG HỆ THỐNG Semiconductors Hùng (08g50)
+SOC
+Nguyễn Minh TS. Phạm Quốc
+28 20521327 Thiếu NXCT
+Hiếu Hùng
+NGHIÊN CỨU TRIỂN KHAI CAN E6.3-STT 07
+FPT Software
+PROTOCOL VÀ AUTOSAR (09g00)
+TS. Phạm Quốc
+29 Trần Quang Huy 20521416 Thiếu NXCT
+Hùng
+Nguyễn Đình DEK Technologies TS. Phạm Quốc E6.3-STT 08
+30 20521607 Radio Base Station
+Nhật Minh Việt Nam Hùng (09g10
+Bosch Global
+Tìm hiểu quy trình thực hiện và tích
+Software TS. Phạm Quốc E6.3-STT 09
+31 Thân Nhật Minh 20521615 hợp phần mềm cho hệ thống túi khí
+Technologies Hùng (09g20)
+trong xe ô tô
+Company Limited
+Hội đồng TTDN-CQĐT-HK 2(2023-2024) CE502.021 4
+
+Họ và tên Sinh Mã số Sinh Tên Công ty thực GV hướng dẫn thực Địa điểm-
+STT Tên đề tài Thực tập Ghi chú
+viên viên tập tập STT Báo cáo
+Nguyễn Thịnh Công ty TNHH TS. Phạm Quốc
+32 20521738 NGHIÊN CỨU VÀ THIẾT KẾ HỆ
+Phát Nghiên cứu và Phát Hùng E6.3-STT 10
+THỐNG KHÓA CỬA TỰ ĐỘNG SỬ
+triển Công nghệ (09g30
+Nguyễn Thành TS. Phạm Quốc
+DỤNG HMI KẾT HỢP XỬ LÝ ẢNH
+33 20521737
+IoTVision
+Phát Hùng
+Công ty Cổ phần
+HIỆU CHUẨN CAMERA FISHEYE
+Nguyễn Đình Nghiên cứu và Ứng TS. Phạm Quốc E6.3-STT
+34 20521766 CHO HỆ THỐNG GIÁM SÁT TOÀN
+Phúc dụng Trí tuệ nhân tạo Hùng 11(09g40)
+CẢNH
+VinAI
+Tìm hiểu về các giao thức Bus trong họ BOS TS. Phạm Quốc E6.3-STT
+35 Văn Ngọc Thành 20521930
+AMBA và Bus System Semiconductors Hùng 12(09g50)
+NGHIÊN CỨU PHƯƠNG ÁN PHÁT
+TRIỂN HỆ THỐNG IOT GIÁM SÁT TS. Phạm Quốc E6.3-STT 13
+36 Lê Hoàng Thịnh 20521959 ASIC Lab (CE-UIT)
+CHẤT LƯỢNG NƯỚC TRONG HỒ Hùng (10g00)
+CÁ CẢNH
+TS. Phạm Quốc
+37 Lê Xuân Việt 20522151 Thiếu NXCT
+Tìm hiểu nghiên cứu và phát triển giao Hùng E6.3-STT 14
+FPT Software
+thức CAN và AUTOSAR TS. Phạm Quốc (10g10)
+38 Võ Sĩ Dũng 20521215 Thiếu NXCT
+Hùng
+Nguyễn Tuấn TS. Phạm Quốc
+SV nộp trễ,Thiếu
+39 21521036 THIẾT KẾ THẺ ĐEO ĐIỆN TỬ
+Kiệt Hùng E6.3-STT 15 NXCT
+QUẢN LÍ VỊ TRÍ SỬ DỤNG CÔNG RFThings
+Nguyễn Hoàng TS. Phạm Quốc (10g20)
+SV nộp trễ,Thiếu
+40 21522002 NGHỆ LORA
+Khánh Duy Hùng NXCT
+TP.Hồ Chí Minh, ngày 25 tháng 06
+TRƯỞNG KHOA
+(đã ký)
+Nguyễn Minh Sơn
+Hội đồng TTDN-CQĐT-HK 2(2023-2024) CE502.021 5

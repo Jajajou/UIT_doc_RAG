@@ -1,0 +1,133 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH PHẢN BIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2022 - 2023
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+TS. Đoàn Duy,
+Thiết kế và hiện thực IP Ethernet Design and implementation ThS. Phạm
+1 18520702 Nguyễn Ngọc Hải ThS. Ngô Hiếu CLC
+1Gbit/s trên FPGA Ethernet IP 1Gbit/s on FPGA Thanh Hùng
+Trường
+Lane detection and navigation TS. Đoàn Duy,
+Nhận diện làn đường và điều
+2 18520706 Trần Long Hải for autonomous vehicles on ThS. Ngô Hiếu ThS. Tạ Trí Đức CLC
+hướng cho xe tự hành trên FPGA
+FPGA Trường
+Ứng dụng nền tảng android
+Applying android automotive to
+automotive trong thiết kế ứng dụng TS. Đoàn Duy TS. Phạm Quốc
+3 18520756 Trịnh Trọng Hiếu design camera application for 2 CLC
+camera cho đồng hồ số của xe hai ThS. Bùi Lê Thuận Hùng
+wheelers cluster
+bánh
+Design a semi-automatic ThS. Trần Quang
+Thiết kế và xây dựng bộ điều khiển
+glovebox machine controller Nguyên, ThS. Phan Đình
+4 18521246 Nguyễn Trí Phú hệ máy glovebox - ứng dụng chế CLC
+and an application to make films ThS. Hồ Ngọc Duy
+tạo màng vật liệu cho cảm biến khí
+for gas-sensitive materials Diễm
+ThS. Trần Quang
+Thiết kế và xây dựng cánh tay Design and construction delta
+18521296, Nguyễn Đăng Quang, Nguyên, TS. Nguyễn Hoài
+5 robot delta ứng dụng trong phân robot arm application in product CLC
+18521416 Văn Vĩ Thành ThS. Hồ Ngọc Nhân
+loại sản phẩm theo màu sắc classification by color
+Diễm
+ThS. Trần Quang
+Automatic fire extinguisher
+Hệ thống chữa cháy tự động - nhận Nguyên, ThS. Phạm Minh
+6 18521393 Nguyễn Đức Thắng system - fire detection using CLC
+dạng lửa bằng camera TS. Phạm Quốc Quân
+camera
+Hùng
+Page 1 of 3
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Hệ thống định lượng chất béo trong Fats quantification system in
+18520801, Nguyễn Minh Hưng, TS. Phạm Quốc ThS. Phan Đình
+7 sản phẩm xúc xích dựa trên cảm sausage products based on NIR CLC
+18520772 Nguyễn Đức Hoàn Hùng Duy
+biến quang phổ cận hồng ngoại spectroscopy
+Xây dựng hệ thống nhận dạng lòng TS. Phạm Quốc ThS. Phan Đình
+8 18521526 Lương Văn Trí Palmprint recognition system CLC
+bàn tay Hùng Duy
+Land cover classification by
+ThS. Phạm Thanh
+Phân loại bề mặt đất bằng mạng nơ designing and implementing
+18520877, Trần Cao Khải, Hùng,
+9 ron tích chập hiện thực trên FPGA convolutional neural network on TS. Trịnh Lê Huy CLC
+18521143 Nguyễn Hoàng Nghĩa ThS. Hồ Ngọc
+sử dụng kiến trúc DeeplabV3+ FPGA using DeeplabV3+
+Diễm
+architecture
+Cải thiện về năng lượng cho bộ Improvement power
+18520928, Nguyễn Tuấn Khoa, TS. Nguyễn Minh
+10 tăng tốc AI tích hợp trên Ultra96- performance for AI accelerator TS. Đỗ Trí Nhựt CLC
+18521109 Trần Doãn Minh Sơn
+V2 cho smart camera on Ultra96-V2 for smart camera
+Tối ưu streaming cho bộ tăng tốc Streaming optimization for AI
+17520621, Võ Phúc Vinh Khang, TS. Nguyễn Minh
+11 AI tích hợp trên Ultra96-v2 cho acceleration on FPGA Ultra96- TS. Đỗ Trí Nhựt CLC
+18520770 Lê Hoài Sơn
+smart camera v2 for smart camera
+Automatic mini shop vending
+Máy bán hàng siêu thị mini tự
+machine: Calculation, design,
+18521049, Phạm Gia Long, động: Tính toán, thiết kế, lập trình TS. Nguyễn Hoài
+12 programing of control and TS. Đoàn Duy CLC
+18521264 Trần Hoàng Phước điều khiển và thực hiện giao dịch Nhân
+implementation of automatic
+tự động
+transactions
+Hiện thực phương pháp nén ảnh Design hardware for Discrete
+18521593, Đỗ Chí Tuấn, ThS. Trương
+13 mất mát Discrete Cosine Transform Cosine Transform image TS. Lâm Đức Khải CLC
+18521400 Chế Minh Thành Văn Cương
+(DCT) trên phần cứng compression
+Designing a robotic hand with
+18521175, Ngô Thanh Nhân, Thiết kế bàn tay robot tích hợp TS. Nguyễn Hoài
+14 integrated camera to simulate TS. Đoàn Duy CQĐT
+18521472 Trương Tài Thuận camera mô phỏng bàn tay người Nhân
+human hand behaviors
+Page 2 of 3
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Thiết kế AXI bus và kiểm tra bằng Design AXI bus and verify with ThS. Phạm
+15 17520842 Phạm Đình Nhân TS. Đoàn Duy CQĐT
+phương pháp UVM UVM Thanh Hùng
+Tích hợp tính toán biên và máy chủ Edge-to-cloud integration for
+cho bài toán tìm kiếm phương tiện vehicle and person search ThS. Trương Văn ThS. Ngô Hiếu
+16 18520819 Chế Quang Huy CQĐT
+và con người trên khuôn khổ problems on smart camera Cương Trường
+camera thông minh. framework.
+18520127, Mai Anh Phong, Thiết kế hệ thống tìm kiếm khuôn Design and implementation of ThS. Trương Văn ThS. Ngô Hiếu
+17 CQĐT
+18520151 Lưu Quyết Thắng mặt trên FPGA face search engine on FPGA Cương Trường
+Thiết kế hệ thống giám sát và điều Design the controlling and
+ThS. Trần Quang ThS. Phạm Minh
+18 18521398 Phùng Quốc Thắng khiển Aquaponics dựa trên nền monitoring Aquaponics systerm CQĐT
+Nguyên Quân
+tảng IoT based on IoT platform
+Nghiên cứu, hiện thực giải thuật FPGA implementation of a face ThS. Phan Đình ThS. Trương
+19 19520165 Nguyễn Ngọc Minh CQĐT
+phát hiện khuôn mặt trên FPGA detection Duy Văn Cương
+Xây dựng hệ thống giám sát, điều Building remote monitoring and
+18521310, Nguyễn Kim Quốc, khiển từ xa các thiết bị nhà thông control system of Zigbee smart ThS. Phan Đình
+20 TS. Đoàn Duy CQĐT
+18521513 Nguyễn Tấn Tới minh Zigbee thông qua website và home devices using website and Duy
+giọng nói voice
+Deploy autonomous vehicles
+Triển khai các tác vụ nhận dạng và
+perception and planning tasks ThS. Phạm Minh TS. Phạm Quốc
+21 18520331 Lý Hồng Phong lập kế hoạch cho xe tự hành trên hệ CQĐT
+on an embedded multi- Quân Hùng
+thống đa máy tính nhúng
+computers system
+Page 3 of 3

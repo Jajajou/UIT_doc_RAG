@@ -1,0 +1,56 @@
+PHỤ LỤC 1
+
+QUY TRÌNH TRIỂN KHAI VÀ THỰC HIỆN
+
+Trường hợp đặc biệt, đề tài khoá luận cần phải làm những thí nghiệm, khảo sát kéo dài thì CBHD có thể giao đề tài sớm hơn.
+Bước | Qui trình | Mô tả chi tiết công việc | Thời gian thực hiện  | Đơn vị thực hiện | Đơn vị phối hợp | Biểu mẫu
+1 | Kêu gọi và xét duyệt đề tài KLTN | Khoa kêu gọi giảng viên đăng ký các đề tài.
+Khoa xét duyệt và thống nhất danh sách đề tài. | Tối thiểu 1 tháng trước thời điểm bắt đầu thực hiện KLTN | Khoa |  | 
+2 | Đăng ký thực hiện KLTN | Sinh viên đăng ký thực hiện KLTN trên hệ thống ĐKHP như các môn học khác. | Các đợt ĐKHP của Trường | SV | VPĐB,
+CVHT | 
+3a | Xét duyệt SV được làm KLTN | VPĐB xét duyệt SV đủ điều kiện làm KLTN trên danh sách SV đã đăng ký học phần.
+VPĐB sẽ hủy kết quả ĐKHP của SV không đủ điều kiện.
+VPĐB gửi danh sách đủ điều kiện thực hiện KLTN về cho Khoa | Trong vòng 1 tuần sau khi kết thúc ĐKHP | VPĐB | Khoa | 
+3b | Đăng ký môn chuyên đề thay thế | SV không được làm KLTN đăng ký lại vào các môn chuyên đề tốt nghiệp thay thế | Trong vòng 1 tuần sau khi có kết quả xét duyệt | SV | VPĐB | 
+4 | Giao đề tài cho sinh viên | Khoa tiến hành giao đề tài KLTN cho sinh viên theo danh sách VPĐB cung cấp
+Khoa gửi danh sách kết quả giao KLTN cho VPĐB | Trong vòng 2 tuần sau khi có kết quả xét duyệt | Khoa | VPĐB | 
+
+
+
+KLTN-1
+5 | Ra quyết định giao KLTN | VPĐB làm quyết định giao đề tài KLTN trình Hiệu trưởng ký ban hành theo danh sách Khoa cung cấp | Trong vòng 1 tuần sau khi nhận danh sách từ Khoa | VPĐB | Khoa | KLTN-QĐ-1
+6 | Thực hiện KLTN | Sinh viên thực hiện KLTN dưới sự hướng dẫn của CBHD |  | SV, CBHD |  | 
+7 | Báo cáo giữa kỳ | Sinh viên báo cáo tiến độ giữa kỳ.
+CBHD ký xác nhận việc tiếp tục hoặc dừng việc thực hiện KLTN của SV theo danh sách VPĐB cung cấp
+Khoa gửi danh sách có chữ ký xác nhận của CBHD cho VPĐB | Theo kế hoạch của Trường | Khoa, SV, CBHD | VPĐB | 
+
+
+
+
+KLTN-2
+8 | Đăng ký thay đổi tên đề tài KLTN | Sinh viên làm đơn xin đổi tên đề tài KLTN, có xác nhận của CBHD nộp về cho Khoa.
+Khoa gửi danh sách các đề tài thay đổi tên cho VPĐB
+VPĐB làm quyết định đổi tên đề tài KLTN trình Hiệu trưởng ký ban hành theo danh sách Khoa cung cấp | Trong vòng 1 tuần sau khi báo cáo giữa kỳ | SV, Khoa | VPĐB | KLTN-3
+
+
+KLTN-4
+
+
+KLTN-QĐ-2
+
+9 | Chuẩn bị bảo vệ KLTN | Khoa gửi danh sách SV sẽ bảo vệ KLTN, có chữ ký xác nhận của CBHD cho VPĐB
+VPĐB xét duyệt SV đủ điều kiện bảo vệ KLTN và gửi danh sách cho Khoa.
+Khoa gửi danh sách đề nghị hội đồng bảo vệ KLTN cho VPĐB | 2 tuần trước thời gian bảo vệ KLTN | Khoa | VPĐB | KLTN-5
+
+
+
+
+
+KLTN-6
+10 | Ra quyết định hội đồng bảo vệ KLTN | VPĐB ra quyết định hội đồng bảo vệ KLTN trình Hiệu trưởng ký và gửi về cho Khoa | 1 tuần trước thời gian bảo vệ KLTN | VPĐB | Khoa | KLTN-QĐ-3
+11 | Tổ chức bảo vệ KLTN | Khoa tổ chức lễ bảo vệ KLTN | Theo kế hoạch của Trường | Khoa |  | KLTN-7
+KLTN-8
+12  | Nộp điểm KLTN | Sinh viên nộp cuốn khóa luận chính thức theo mẫu quy định cho Khoa.
+Khoa nộp điểm KLTN về cho VPĐB | Trong vòng 1 tuần sau lễ bảo vệ | Khoa | VPĐB | 
+
+KLTN-9

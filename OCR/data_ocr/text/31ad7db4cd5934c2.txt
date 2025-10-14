@@ -1,0 +1,83 @@
+KẾ HOẠCH GIẢNG DẠY
+
+Ngành Kỹ thuật Phần mềm - Hệ đào tạo: Chất lượng cao
+
+- Kế hoạch được áp dụng từ khóa 2017 trở về sau
+
+- Sinh viên cần thường xuyên theo dõi chương trình đào tạo để có kế hoạch học tập hợp lý.
+GIAI ĐOẠN I | GIAI ĐOẠN I | GIAI ĐOẠN I | GIAI ĐOẠN I | GIAI ĐOẠN I | GIAI ĐOẠN I
+  | Mã HP | Học phần | TC | LT | TH
+Học kỳ 1 | IT001 | Nhập môn lập trình | 4 | 3 | 1
+Học kỳ 1 | MA006 | Giải tích | 4 | 4 | 0
+Học kỳ 1 | MA003 | Đại số tuyến tính | 3 | 3 | 0
+Học kỳ 1 | PH002 | Nhập môn mạch số | 4 | 3 | 1
+Học kỳ 1 | EN004 | Anh văn 1 | 4 | 0 | 0
+Học kỳ 1 | IT009 | Giới thiệu ngành | 2 | 2 | 0
+Học kỳ 1 | PE001 | Giáo dục thể chất 1 |   |   |  
+Học kỳ 1 | ME001 | Giáo dục Quốc phòng |   |   |  
+Học kỳ 1 |   | Tổng số tín chỉ HK1 | 21 |   |  
+Học kỳ 2 | IT002 | Lập trình hướng đối tượng | 4 | 3 | 1
+Học kỳ 2 | IT003 | Cấu trúc dữ liệu và giải thuật | 4 | 3 | 1
+Học kỳ 2 | MA004 | Cấu trúc rời rạc | 4 | 3 | 1
+Học kỳ 2 | MA005 | Xác suất thống kê | 3 | 3 | 0
+Học kỳ 2 | EN005 | Anh văn 2 | 4 | 4 | 0
+Học kỳ 2 | PE002 | Giáo dục thể chất 2 |   |   |  
+Học kỳ 2 |   | Tổng số tín chỉ HK2 | 19 |   |  
+Học kỳ 3 | IT004 | Cơ sở dữ liệu | 4 | 3 | 1
+Học kỳ 3 | IT005 | Nhập môn mạng máy tính | 4 | 3 | 1
+Học kỳ 3 | IT006 | Kiến trúc máy tính | 3 | 3 | 0
+Học kỳ 3 | EN006 | Anh văn 3 | 4 | 4 | 0
+Học kỳ 3 | SS004 | Kỹ năng nghề nghiệp | 2 | 0 | 2
+Học kỳ 3 | IT008 | Lập trình trực quan | 4 | 3 | 1
+Học kỳ 3 |   | Tổng số tín chỉ HK3 | 21 |   |  
+GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm | GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm | GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm | GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm | GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm | GIAI ĐOẠN II
+Chuyên ngành Kỹ thuật phần mềm
+ 
+Học kỳ 4
+ 
+  | SS001 | Những nguyên lý cơ bản của chủ nghĩa Mác Lênin | 5 | 5 | 0
+ 
+Học kỳ 4
+ 
+  | IT007 | Hệ điều hành | 4 | 3 | 1
+ 
+Học kỳ 4
+ 
+  | SE101 | Phương pháp mô hình hóa | 3 | 3 | 0
+ 
+Học kỳ 4
+ 
+  | SE104 | Nhập môn Công nghệ Phần mềm | 4 | 3 | 1
+ 
+Học kỳ 4
+ 
+  |   | Tổng số tín chỉ HK4 | 16 |   |  
+Học kỳ 5 | SS002 | Đường lối cách mạng của Đảng Cộng sản Việt Nam | 3 | 3 |  
+Học kỳ 5 | SE102 | Nhập môn phát triển Game | 3 | 2 | 1
+Học kỳ 5 | SE114 | Nhập môn ứng dụng di động | 3 | 2 | 1
+Học kỳ 5 | SE100 | Phương pháp Phát triển phần mềm hướng đối tượng | 4 | 3 | 1
+Học kỳ 5 |   | Các học phần tự chọn chuyên ngành | 4 |   |  
+Học kỳ 5 |   | Tổng số tín chỉ HK5 | 17 |   |  
+Học kỳ 6 | SE106 | Đặc tả hình thức | 4 | 4 |  
+Học kỳ 6 | SS003 | Tư tưởng Hồ Chí Minh | 2 | 2 |  
+Học kỳ 6 | SS006 | Pháp luật đại cương | 2 | 2 | 0
+Học kỳ 6 |   | Các học phần tự chọn chuyên ngành | 4 |   |  
+Học kỳ 6 | SE121 | Đồ án 1 | 2 | 2 |  
+Học kỳ 6 | Chọn 1 trong 2 môn | Chọn 1 trong 2 môn | Chọn 1 trong 2 môn | Chọn 1 trong 2 môn | Chọn 1 trong 2 môn
+Học kỳ 6 | SE214 | Công nghệ phần mềm chuyên sâu | 4 | 3 | 1
+Học kỳ 6 | SE221 | Lập trình game nâng cao | 4 | 3 | 1
+Học kỳ 6 |   | Tổng số tín chỉ HK6 | 18 |   |  
+Học kỳ 7 |   | Các học phần tự chọn chuyên ngành | 14 | 3 | 1
+Học kỳ 7 | SE122 | Đồ án 2 | 2 | 2 |  
+Học kỳ 7 |   | Tổng số tín chỉ HK7 | 16 |   |  
+Học kỳ
+8 | SE501 | Thực tập tốt nghiệp | 2 | 2 |  
+Học kỳ
+8 | SE501 | Khóa luận tốt nghiệp | 10 |  | 
+Học kỳ
+8 |  | Tổng số tín chỉ HK8 | 12 |  |

@@ -1,0 +1,19 @@
+{
+  "url": "http://mail.uit.edu.vn/",
+  "fetched_at": "2025-10-14T01:56:30.427470",
+  "status": null,
+  "content_type": null,
+  "file_path": null,
+  "html_path": "output_raw\\html\\f6ec22724cfd9dc2.html",
+  "out_links": [
+    "internal",
+    "external",
+    "https://accounts.google.com/v3/signin/",
+    "//www.gstatic.com",
+    "https://www.gstatic.com/_/mss/boq-identity/_/ss/k=boq-identity.AccountsSignInUi.f-qphmlR_RM.L.B1.O/am=CQcATBlOBmDXAABD_P-TzkB7FkgCQgYAAAAAABAAAGwAACDQMQAE/d=1/ed=1/rs=AOaEmlEivSNyMJhQ-9bQ6Q4WfQN-mExsMw/m=identifierview,_b,_tp",
+    "https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInUi.en_US.Y8V71AHnk20.es5.O/am=CQcATBlOBmDXAABD_P-TzkB7FkgCQgYAAAAAABAAAGwAACDQMQAE/d=1/excm=_b,_tp,identifierview/ed=1/dg=0/wt=2/ujg=1/rs=AOaEmlEqTlK_ktYxPr3NKuV-NQJBOUqwLA/dti=1/m=_b,_tp",
+    "https://support.google.com/chrome/answer/6130773?hl=en-US"
+  ],
+  "domain": null,
+  "notes": null
+}

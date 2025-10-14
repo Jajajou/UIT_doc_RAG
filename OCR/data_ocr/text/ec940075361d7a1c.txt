@@ -1,0 +1,177 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 1 (2022-2023)
+CHÍNH QUY ĐẠI TRÀ CE502.N11
+Thời gian bắt đầu Hội đồng chấm TTDN CQĐT: Sáng từ 8h00, ngày 21/02/2023 (Thứ 3) NXCT- nhận xét của công ty.
+NXGV- Nhận xét của giảng
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm : E6.1, E6.3
+viên hướng dẫn.
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+Địa điểm-
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn
+Tên đề tài Thực tập Tên Công ty thực tập STT Báo Ghi chú
+T viên viên thực tập
+cáo
+Bổ sung tính năng và kiểm thử hệ Công Ty TNHH Real-Time
+TS.Phạm Quốc E6.1-STT
+1 Phạm Trung Quốc 19520887 thống stream video từ thiết bị bay Robotics Việt Nam (RtR
+Hùng 01 (08g00)
+không người lái VietNam)
+Công ty TNHH Real-time
+Đánh giá chất lượng stream video TS.Phạm Quốc E6.1-STT
+2 Nguyễn Ngọc Thao 19520963 Robotics Việt Nam (RTR
+cho hệ thống bay không người lái Hùng 02 (08g10)
+VietNam)
+Tìm hiểu và thực hành quy trình thiết
+Nguyễn Trần Trí TS.Phạm Quốc E6.1-STT
+3 19521007 kế vi mạch tại công SYNOPSYS SYNOPSYS VIỆT NAM
+Thức Hùng 03 (08g20)
+VIỆT NAM
+TS.Phạm Quốc E6.1-STT
+4 Võ Đăng Nhật Vỹ 19521125 Synopsys Intensive Training Program SYNOPSYS VIỆT NAM
+Hùng 04 (08g30)
+Nguyễn Nguyễn Tìm hiểu nghiên cứu kỹ thuật thiết kế TS.Phạm Quốc E6.1-STT
+5 19521200 Uniquify Việt Nam Thiếu NXCT
+Nhật Anh luận lý số Hùng 05 (08g40)
+1 Hội đồng thực tập CQĐT-HK1(2022-2023)
+
+Địa điểm-
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn
+Tên đề tài Thực tập Tên Công ty thực tập STT Báo Ghi chú
+T viên viên thực tập
+cáo
+Tìm hiểu và thực hành quy trình thiết
+Phạm Xuân Tuấn TS.Phạm Quốc E6.1-STT
+6 19521208 kế vi mạch tại công ty Synopsys Việt SYNOPSYS VIỆT NAM
+Anh Hùng 06 (08g50)
+Nam
+Xây dựng và kiểm tra hệ thống
+công ty TNHH REAL- TS.Phạm Quốc E6.1-STT
+7 Nguyễn Tiến Đạt 19521342 stream video cho thiết
+TIME ROBOTICS Hùng 07 (09g00)
+bị bay không người lái
+MICROCHIP
+Quy trình thiết kế vi mạch tại TS.Phạm Quốc E6.1-STT
+8 Cao Ngọc Đông 19521369 TECHNOLOGY (VIỆT
+Microchip Technology VietNam Hùng 08 (09g10)
+NAM)
+Quy trình thiết kế vật lý trên chip - TS.Phạm Quốc E6.1-STT
+9 Phạm Công Huy 19521631 SNST Finger Vina
+(physical design) Hùng 09 (09g20)
+: Công Ty TNHH Real-
+Đánh giá chất lượng stream video TS.Phạm Quốc E6.1-STT
+10 Phạm Trọng Huỳnh 19521651 Time Robotics Việt Nam
+cho hệ thống bay không người lái Hùng 10 (09g30)
+(RtR VietNam)
+Báo cáo Thực tập doanh nghiệp ThS.Nguyễn Thanh E6.1-STT
+11 Phùng Quốc Thắng 18521398 TMA Solutions
+TMA Solutions Thiện 11 (09g40)
+MICROCHIP
+Nguyễn Ngọc Thùy Tìm hiểu quy trình và thực hành thiết ThS.Nguyễn Thanh E6.1-STT
+12 19520057 TECHNOLOGY (VIỆT
+Dương kế vi mạch công ty MICROCHIP Thiện 12 (09g50)
+NAM)
+2 Hội đồng thực tập CQĐT-HK1(2022-2023)
+
+Địa điểm-
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn
+Tên đề tài Thực tập Tên Công ty thực tập STT Báo Ghi chú
+T viên viên thực tập
+cáo
+Tìm hiểu và thực hành quy trình thiết
+ThS.Nguyễn Thanh E6.1-STT
+13 Lê Hoàng Minh 19520158 kế vi mạch tại công ty Synopsys Việt SYNOPSYS VIỆT NAM
+Thiện 13 (10g00)
+Nam
+Tìm hiểu nghiên cứu kỹ thuật thiết kế TNHH GIẢI PHÁP ThS.Nguyễn Thanh E6.1-STT Thiếu NX
+14 Lê Minh Đức Hiếu 19520539
+kiểm tra antenna KHÔNG DÂY RFTHINGS Thiện 14 (10g10) GVHD
+Thuật toán nhận diện biển số xe trên ThS.Phạm Minh
+15 Trương Bảo Nguyên 19521924
+raspberry pi 4 cho bãi đỗ xe thông Công Ty Cổ Phần Công Quân E6.1-STT
+minh RASPBERRY PI 4 CHO BÃI Nghệ TK 25 15 (10g20)
+ThS.Nguyễn Thanh
+16 Tô Quang Huấn 19520571
+ĐỖ XE THÔNG MINH
+Thiện
+Nguyễn Hoàng ThS.Nguyễn Thanh E6.3-STT
+17 19520859 Logic Designer tại Uniquify Uniquify VietNam
+Phước Thiện 01 (08g00)
+ThS.Nguyễn Thanh E6.3-STT
+18 Nguyễn Ngọc Hiên 16520365 Thực tập IT HelpDesk Bệnh viện JW Hàn Quốc
+Thiện 02 (08g10)
+Quy trình thiết kế phần cứng trong ThS.Nguyễn Thanh E6.3-STT
+19 Chướng Sec Váy 17521252 HCL Technologies Vietnam
+thiết kế vi mạch Thiện 03 (08g20)
+Tìm hiểu quy trình và thực hành thiết ThS.Nguyễn Thanh E6.3-STT
+20 Mai Anh Phong 18520127 HANATEC VIỆT NAM
+kế vi mạch công ty hanatec Thiện 04 (08g30)
+3 Hội đồng thực tập CQĐT-HK1(2022-2023)
+
+Địa điểm-
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn
+Tên đề tài Thực tập Tên Công ty thực tập STT Báo Ghi chú
+T viên viên thực tập
+cáo
+Tìm hiểu về các concepts sta trong
+Lê Phước Nhật ThS.Nguyễn Thanh E6.3-STT Sai tên
+21 18521122 quy trình thiết kế soc và phân tích ADT & SNST Vietnam
+Nam Thiện 05 (08g40) GVHD
+timing trên nand3 block
+ThS.Nguyễn Thanh E6.3-STT
+22 Giang Minh Nhật 18521187 Lập trình web app với vuejs và nuxtjs Smarty Process Solution
+Thiện 06 (08g50)
+Asic Design Flow tại công ty ThS.Nguyễn Thanh E6.3-STT
+23 Cao Tài 18521357 SYNOPSYS VIỆT NAM
+Synopsys Thiện 07 (09g00)
+Tìm hiểu và thực hành quy trình thiết ThS.Phạm Minh E6.3-STT
+24 Nguyễn Đức Hy 19521653 SYNOPSYS VIỆT NAM
+kế vi mạch Quân 08 (09g10)
+Ứng dụng nhắn tin và gọi điện thông DEK Technologies Việt ThS.Phạm Minh E6.3-STT
+25 Lê Tuấn Minh 19521837
+qua mạng IMS Nam Quân 09 (09g20)
+Phát triển và cải tiến ứng dụng viễn DEK Technologies Việt ThS.Phạm Minh E6.3-STT
+26 Vũ Thủy Tiên 19522345
+thông Nam Quân 10 (09g30)
+Kiến thức về các ngôn ngữ C,
+ThS.Phạm Minh E6.3-STT
+27 Quách Ngọc Trâm 19522376 shellscript và hệ thống nhúng qua HCLTech VietNam
+Quân 11 (09g40)
+STM32
+Công Ty Cổ Phần Công ThS.Phạm Minh
+28 Trịnh Trấn Trung 19522437 Bãi giữ xe thông minh sử dụng UHF
+Nghệ TK 25 Quân E6.3-STT
+Công Ty Cổ Phần Công ThS.Phạm Minh 12 (09g50)
+29 Đồng Quang Quyền 19522111 Bãi giữ xe thông minh sử dụng UHF
+Nghệ TK 25 Quân
+4 Hội đồng thực tập CQĐT-HK1(2022-2023)
+
+Địa điểm-
+ST Họ và tên Sinh Mã số Sinh GV hướng dẫn
+Tên đề tài Thực tập Tên Công ty thực tập STT Báo Ghi chú
+T viên viên thực tập
+cáo
+Giới thiệu, tìm hiểu quy trình thiết kế
+ThS.Phạm Minh E6.3-STT
+30 Nguyễn Hữu Tứ 19522453 vi mạch tại công ty HANATEC Việt HANATEC VIETNAM
+Quân 13 (10g00)
+Nam
+Thiết kế ứng dụng nhắn tin có tính DEK Technologies Việt TS.Phạm Quốc
+31 Trịnh Đăng Dương 19521414
+sẵn sàng trên nền tảng Linux Nam Hùng E6.3-STT
+Huỳnh Ngọc Hiệp Thiết kế ứng dụng nhắn tin có tính DEK Technologies Việt ThS.Phạm Minh 14 (10g10)
+32 19522553
+Ý sẵn sàng trên nền tảng Linux Nam Quân
+ThS.Phạm Minh E6.3-STT SV không
+33 Ngô Trọng Nhân 19521936
+Quân 15 (10g20) nộp báo cáo
+Phạm Huỳnh Tấn ThS.Phạm Minh E6.3-STT SV không
+34 19522000
+Phát Quân 16 (10g30) nộp báo cáo
+ThS.Phạm Minh E6.3-STT SV không
+35 Trần Mạnh Quân 19522089
+Quân 17 (10g40) nộp báo cáo
+TP.Hồ Chí Minh, ngày 17 tháng
+TRƯỞNG KHOA
+Nguyễn Minh Sơn
+5 Hội đồng thực tập CQĐT-HK1(2022-2023)

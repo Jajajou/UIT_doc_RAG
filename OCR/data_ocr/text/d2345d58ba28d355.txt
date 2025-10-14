@@ -1,0 +1,367 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO ĐỀ CƯƠNG KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 2 - Năm học: 2022 - 2023
+Thời gian bắt đầu hội đồng: 8h00, thứ 5 ngày 09/03/2023
+Địa điểm: Phòng E6.1, E6.3 và E6.8
+Thời gian tối đa cho 1 đề tài là 10 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 5 phút hội đồng góp ý
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+Phòng E6.1
+CLC-VN
+18520651 Từ Thanh Dương https://drive.google.com/o
+Nghiên cứu thiết kế bục giảng Research on designing smart TS. Nguyễn Minh ĐCCT không có
+1 8h00 pen?id=1pZrWn5qiJdmA
+thông minh cho lớp học hybrid pulpit for hybrid classrooms Sơn chữ ký của
+19520379 Huỳnh Đức Anh B7lqDl6cHs8Vs6P4LP4D
+GVHD
+CLC-EN https://drive.google.com/o
+19521241 Huỳnh Lê Anh Bảo Implement RISC-V and
+Hiện thực RISC-V trên FPGA TS. Nguyễn Minh ĐCCT không có pen?id=1EoU3PEo7WW2
+2 integrate with security block 8h10
+tích hợp thêm khối bảo mật Sơn chữ ký của Ct_RImRzfcwVIgilXY5d
+19521279 Trần Hữu Châu on FPGA
+GVHD và SV 0
+Integrating data exchange
+19522158 Trần Tấn Tài Tích hợp thuật toán trao đổi dữ https://drive.google.com/o
+algorithm on edge TS. Nguyễn Minh
+3 liệu trên công nghệ tính toán CLC-VN 8h20 pen?id=1jkwktBqpi1QRl
+computing technology for Sơn
+17521131 Trần Ngọc Tiến biên cho smart camera VlmfLQaXkymJb02_BH_
+smart camera
+Võ Hoàng Nguyên https://drive.google.com/o
+19522352 Implementation MIPS 32-bit
+Tín Hiện thực MIPS 32-bit TS. Nguyễn Minh pen?id=1EpDYRf3pk3-
+4 Superscalar processor on CLC-EN 8h30
+Superscalar trên FPGA Sơn ggyzXfJ85ZNPm4jweKL
+19522212 Nguyễn Văn Thắng FPGA
+1o
+Advanced video coding
+Phan Công Duy Nghiên cứu tích hợp thuật toán https://drive.google.com/o
+19520627 based on H.264
+Khiêm mã hóa video dựa trên chuẩn TS. Nguyễn Minh pen?id=1lsRxPBjiH-
+5 Compression standard CLC-EN 8h40
+H.264 trên hệ thống smart Sơn MKzBKEjzJ9mwkN7km
+integrated on smart camera
+19521211 Tào Viễn Hoàng Anh camera ThxaS
+system
+Nguyễn Phúc Khang https://drive.google.com/o
+19520370
+An Nghiên cứu và thiết kế hệ thống Research and design brake TS. Đoàn Duy, pen?id=1QO055LGeK2oo
+6 CLC-VN 8h50
+mô phỏng thắng xe với abs system simulation with abs ThS. Bùi Lê Thuận 8peGeoZG5vPlUngMGU
+19521444 Đỗ Hoàng Giang
+yY
+Page 1 of 6
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+Study on meal
+Nghiên cứu giải pháp đề xuất
+19521924 Trương Bảo Nguyên
+recommendation system https://drive.google.com/o
+món ăn phù hợp theo cá nhân
+7 with personal adaption TS. Đoàn Duy CQĐT 9h00 pen?id=1ya932DHzlIiNc
+ứng dụng cho tủ lạnh thông
+model applying for smart Mo9ARSQWI-sk15s73Gx
+19522437 Trịnh Trấn Trung minh
+refrigerators
+Research and design a non-
+19522111 Đồng Quang Quyền Nghiên cứu và thiết kế hệ thống
+stop electronic check- https://drive.google.com/o
+quản lý vào-ra không dừng cho
+8 in/check-out gate system TS. Đoàn Duy CQĐT 9h10 pen?id=1ZrFnqgzr1LrnuS
+xe ô tô ứng dụng công nghệ
+using UHF-RFID TTpaVLdg_iAKXz8xqi
+19520571 Tô Quang Huấn UHF-RFID
+technology
+Study on a common
+19521202 Nguyễn Quang Anh Nghiên cứu mô hình giao tiếp https://drive.google.com/o
+communication model for
+chung cho thiết bị IoT thuộc pen?id=1VnYg3gwmq9w
+9 multiple-manufacturers IoT TS. Đoàn Duy CLC-VN 9h20
+nhiều nhà sản xuất trong ứng y2A_VlQ2j_D3ak-
+devices in smart home
+19521297 Châu Chí Cường dụng nhà thông minh KKG6KS
+applications
+Nguyễn Đăng Minh
+19521500 CLC-VN
+Hiếu Nghiên cứu và thiết kế thiết bị https://drive.google.com/o
+Study on IoT Device for ĐCCT không có
+10 IoT hỗ trợ chuẩn đoán nguy cơ TS. Đoàn Duy 9h30 pen?id=1xf38oslx9lFuOR
+Diabetes Risk Predition thông tin ngày
+tiểu đường rCqfTjVf1S11beOj15
+19521333 Ngô Mẫn Đạt tháng năm
+19521805 Vũ Đức Long https://drive.google.com/o
+11 Hệ thống bãi xe công nghệ IoT IoT-based car park system TS. Đỗ Trí Nhựt CQĐT 9h40 pen?id=1rv5x1NOZ4OFfn
+Nguyễn Cao Quốc
+19520401 8FJ8Q8o1iXH4EQ-jHv5
+Bảo
+https://drive.google.com/o
+19522043 Nguyễn Võ Hữu Phúc Implementation of obstacle
+Hiện thực mô hình phát hiện và ThS. Trần Hoàng pen?id=1vmh3Ol6B8ZGO
+12 detection and handling on CLC-VN 9h50
+xử lý vật cản trên xe tự Lộc DknGj3IdFoXQvG96B_A
+auto-driving car
+19522084 Phạm Minh Quân c
+https://drive.google.com/o
+19520928 Viên Minh Tân Research and implement
+Nghiên cứu và xây dựng mô ThS. Nguyễn pen?id=1FabfaHkUrdN0b
+13 serving robot for coffee CQĐT 10h00
+hình robot phục vụ quán cà phê Thanh Thiện WKdvOzo3IBFpW4otG
+shop
+19520036 Phạm Quốc Đăng WN
+https://drive.google.com/o
+Hiện thực mạng cảm biến Implementation of Wireless
+ThS. Lầu Phi CQĐT pen?id=1o1dOb0XZeMzc
+14 18521380 Huỳnh Quang Thái không dây chạy trên hệ điều sensor network ported on 10h10
+Tường Không ĐKHP U3NJ3smeMRm3kAq6Z
+hành Contiki-NG OS Contiki-NG OS
+Gzy
+Page 2 of 6
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+Phòng E6.3
+CQĐT https://drive.google.com/o
+19520887 Phạm Trung Quốc
+Máy bay không người lái vận Drones transporting medical ThS. Phạm Minh ĐCCT không có pen?id=1A-
+1 8h00
+chuyển vật tư y tế supplies Quân chữ ký của wQhc880v6l4NIIZo9uJo
+19521651 Phạm Trọng Huỳnh
+GVHD ULcqtlc38p
+Design and implement
+Thiết kế và hiện thực kiến trúc https://drive.google.com/o
+hardware architecture for
+phần cứng mạng máy tính ThS. Phạm Minh pen?id=1kYaLxj7RN0W
+2 19521022 Nguyễn Văn Tín embedded computer – CLC-VN 8h10
+nhúng – vi điều khiển cho xe tự Quân Dm_kVBxjpEglO_Q3lNL
+microcontroller network on
+hành JJ
+autonomous vehicle
+https://drive.google.com/o
+Design a software
+Thiết kế phần mềm mô phỏng ThS. Phạm Minh pen?id=1XMxEKMPtFMr
+3 19521387 Cao Phan Tiến Dũng simulation of automatic CLC-VN 8h20
+chuyển động của xe tự hành Quân RGT-
+vehicles
+CiTsesrLiCPVyCKSI
+https://drive.google.com/o
+19520963 Nguyễn Ngọc Thao
+Robot di động tránh chướng Lidar-based obstacle ThS. Phan Đình pen?id=1zWBInDR3sDFi
+4 CQĐT 8h30
+ngại vật sử dụng lidar avoidance mobile robot Duy fXC9y7nUHz1tCgWYyL
+19520520 Danh Quốc Hào
+v-
+Nguyễn Ngọc Thùy https://drive.google.com/o
+19520057
+Dương Hệ thống nhận diện vật thể Object detection system on ThS. Phan Đình pen?id=1CFulBL_Z8QL8
+5 CQĐT 8h40
+bằng FPGA FPGA Duy aFAeueAsGOzT1yk-
+19522376 Quách Ngọc Trâm
+8tWG
+19522034 Lưu Phúc https://drive.google.com/o
+Nghiên cứu và thiết kế gương Research and design smart ThS. Phan Đình
+6 CQĐT 8h50 pen?id=12qnL9vggrFGuG
+thông minh mirror Duy
+19522493 Nguyễn Bách Tùng sqkahTAR9WcGpIoa3X7
+https://drive.google.com/o
+ThS. Phan Đình
+7 19522229 Lê Đình Thành Nhà thông minh Smart home CQĐT 9h00 pen?id=18yxR_n6xtgwcB
+Duy
+lvSMm8NJ7JYLFkqcwq-
+CQĐT https://drive.google.com/o
+19522089 Trần Mạnh Quân
+Thiết kế hệ thống nhận dạng Palmprint recognition TS. Phạm Quốc ĐCCT cần ghi pen?id=1fnksA00sFb9sL
+8 9h10
+lòng bàn tay người system Hùng ngày tháng năm YSp3vnZRgcDA0GGKV
+19521936 Ngô Trọng Nhân
+thời điểm hiện tại Za
+Page 3 of 6
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+19522452 Nguyễn Hoài Tú https://drive.google.com
+Robot vận chuyển hàng tự động Automated delivery robot TS. Phạm Quốc /open?id=1i021IC-
+9 CLC-VN 9h20
+tích hợp cánh tay robot with robotic arm Hùng gUks5uUWIDCjz2d6kp
+19522301 La Quốc Thống FCHUW0Q
+https://drive.google.com/o
+TS. Phạm Quốc pen?id=1CzFqTZl2MtGR
+10 20521349 Phan Nhật Hoàng Hệ thống nhà thông minh Smarthome systerm CLC-VN 9h30
+Hùng D55UN1RiPF63oQ0Qfv6
+r
+19521371 Châu Minh Đức Application of near-infrared https://drive.google.com
+Ứng dụng quang phổ hồng
+spectroscopy (NIR) for the TS. Phạm Quốc /open?id=1RShakNpin
+11 ngoại gần (NIR) để đo đường CLC-VN 9h40
+non-invasive measurement Hùng m6nOpPtFc1NlgfGNyh
+huyết không xâm lấn
+19522537 Trần Quang Vũ of blood glucose M9486
+CLC-VN
+19521831 Vũ Văn Mạnh Mạnh: TTDN,
+Determination of eggs https://drive.google.com/o
+Xác định chất lượng trứng dùng TS. Phạm Quốc lịch sử đảng,
+12 quality using optical sensor 9h50 pen?id=1TLBdlq14x6Dno
+cảm biến quang và AI Hùng TKHTN không
+and AI m8hzOwjtyC_ktMJL_fn
+19521549 Trần Bửu Hội dây, TC tự do
+Hội: TTDN
+CLC-VN
+19521611 Lạc Quốc Huy ThS. Trần Quang https://drive.google.com/o
+Nghiên cứu và mô phỏng cảm Research and simulate gas ĐCCT thiếu chữ
+Nguyên, pen?id=1jLcfnJyQYbzLS
+13 biến khí thông qua phần mềm sensor through comsol ký của 1 sv, thiếu 10h00
+TS. Phạm Quốc YLjF41sNuZJCAtnWnM
+comsol multiphysics multiphysics software thời gian thực
+19521989 Bùi Ngọc Phát Hùng A
+hiện KLTN
+CLC-VN
+Phạm Nguyễn Minh ĐCCT thiếu chữ
+19521669 https://drive.google.com/o
+Khang SCARA robot system for ký SV còn lại,
+Thiết kế hệ thống robot ThS. Trần Quang pen?id=1V5GfZF6HWYk
+14 image classification and Bổ sung thêm 1 10h10
+SCARA phân loại và xử lý ảnh Nguyên RctxWua4i8wNUizxhVP
+Nguyễn Văn Quốc processing GVHD đủ điều
+19521629 mL
+Huy kiện theo quy
+định
+19521837 Lê Tuấn Minh https://drive.google.com/o
+Thiết kế nhà thông minh dựa Design smart home based on ThS. Phan Đình pen?id=1vk0DS-
+15 CQĐT 10h20
+trên công nghệ LoRa LoRa technology Duy bZ6NfJzvV3-
+19521342 Nguyễn Tiến Đạt A13Cb_VzxLnj52B
+Page 4 of 6
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+Phòng E6.8
+18520927 Nguyễn Minh Khoa Design and implementation https://drive.google.com/o
+Thiết kế và chế tạo trạm mặt
+of ground station using for pen?id=1kRMpPt4enSzx
+1 đất dùng trong giao tiếp vệ tinh TS. Trịnh Lê Huy CLC-VN 8h00
+leo satellite communication HfnaJo-
+leo dựa trên công nghệ lora
+19522302 Lê Minh Thông based on lora technology rM8WdxcZ58vDR
+19521838 Lê Xuân Minh Nghiên cứu và thiết kế bảng giá Research and design the CQĐT
+https://drive.google.com/o
+điện tử ứng dụng trong siêu thị electronic shelf label in the ĐCCT không có
+2 TS. Trịnh Lê Huy 8h10 pen?id=178lDbtjgaB8hxQ
+thông minh dựa trên công nghệ smart supermarket based on thông tin ngày
+FGKcd71uP0YHUsr8Up
+19522142 Trần Quốc Sơn LoRa LoRa technology tháng năm
+https://drive.google.com
+Thiết kế và chế tạo thiết bị định Design and implementation
+/open?id=1jjFIEVsXSIB
+3 19520539 Lê Minh Đức Hiếu vị trong nhà sử dụng công nghệ of indoor positioning system TS. Trịnh Lê Huy CQĐT 8h20
+yhbnd80q8729tgDAqtY
+lora using lora technology
+Tr
+Research, design and
+19522048 Vũ Đình Bảo Phúc Nghiên cứu, thiết kế và hiện CLC-EN https://drive.google.com/o
+implementation of
+thực thiết bị đo đạc và hệ thống ĐCCT thiếu pen?id=1HS0Ty0fGTYH
+4 measuring device and lora TS. Trịnh Lê Huy 8h30
+hiển thị mức độ bao phủ của thông tin ngày wWr8pANgwIGCzjvAkft
+gateway's coverage display
+19522338 Nguyễn Quang Tiến gateway lorawan tháng năm V-
+system
+Nghiên cứu, thiết kế và hiện
+Research, design, practical
+19522345 Vũ Thủy Tiên thực giải pháp định hướng cho https://drive.google.com/o
+solution for 3 integral
+3 antenna tích hợp trong pen?id=11mXIK7ae3cZR
+5 antennas in LoRaWan Relay TS. Trịnh Lê Huy CQĐT 8h40
+LoRaWan Relay và khảo sát 4YDn8FASxLg5ZJYnzY
+and survey on collection
+19520359 Võ Thị Tường Vy khả năng thu nhập năng lượng Lq
+capacity of solid solar panel
+của tấm pin mặt trời dẻo
+Design and implement a risc-
+18521357 Cao Tài Thiết kế và hiện thực lõi vi xử https://drive.google.com/o
+v rv64if processor with 4-
+lý risc-v rv64if hỗ trợ 4-way set ThS. Phạm Thanh pen?id=1MzdCaqNSvWO
+6 way set associative cache CQĐT 8h50
+associative cache và branch Hùng DBv7q2_K0K-HufziGwz-
+and branch prediction on
+18520424 Lê Hoài Ân prediction trên fpga c
+fpga
+Thiết kế và hiện thực lõi vi xử Design and implement a
+19520408 Cao Thanh Bình
+lý RISC-V RV32IF hỗ trợ 4- RISC-V RV32IF Processor https://drive.google.com/o
+ThS. Phạm Thanh
+7 Way Set Associative Cache và with 4-Way Set Associative CLC-VN 9h00 pen?id=1dlvo18VkXIZau
+Hùng
+bộ tạo số ngẫu nhiên thực trên Cache and True Random vJQxYhMsTpJ2zh8MbLu
+19520573 Đặng Phi Hùng
+FPGA Number Generator on FPGA
+Page 5 of 6
+
+TÊN ĐỀ TÀI TIẾNG TÊN CB HƯỚNG THỜI
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT GHI CHÚ Link Đề cương chi tiết
+ANH DẪN GIAN
+Design and implement a
+Thiết kế và hiện thực lõi vi xử
+19520673 Phạm Thanh Lâm superscalar RISC-V https://drive.google.com/o
+lý RISC-V RV64IM theo kiến
+RV64IM processor with 4- ThS. Phạm Thanh pen?id=1ApqAv785FsBg
+8 trúc superscalar, hỗ trợ 4-way CQĐT 9h10
+way set asscosiative cache Hùng CpVQCL-aJjLIqm1WN-
+set asscosiative cache và
+19521687 Trần Tuấn Khanh and branch prediction on j7
+Branch Prediction trên FPGA
+FPGA
+Thiết kế và hiện thực phần https://drive.google.com/o
+Design and implementation
+cứng tăng tốc giải thuật integer pen?id=1drDSbF-
+9 19520859 Nguyễn Hoàng Phước of hevc integer motion TS. Lâm Đức Khải CQĐT 9h20
+motion estimation trong hệ hVNMfDc62u-
+estimation on hardware
+thống nén video hevc 6JNs64qSI2iYQW
+19521125 Võ Đăng Nhật Vỹ FPGA-Based
+Hiện thực phương thức định https://drive.google.com/o
+Implementation Of
+10 hướng tự động cho xe tự hành TS. Lâm Đức Khải CQĐT 9h30 pen?id=1erV-4PtCJrdgy-
+Automatic Orientation For
+Phạm Xuân Tuấn bằng FPGA BkYWV6xvTah-IF8gn9
+19521208 Autonomous Car
+Anh
+Nguyễn Thị Cẩm
+19521594 Implementation of lossless CLC-VN https://drive.google.com/o
+Hướng
+Hiện thực hóa kỹ thuật nén ảnh image compression by ĐCCT không có pen?id=1FiV61XqD8Mxz
+11 TS. Lâm Đức Khải 9h40
+Dynamic Huffman Coding Dynamic Huffman Coding thông tin ngày sDhYrbAaSa3QUQwpbu
+Trần Thạch Tuấn
+19522014 algorithm tháng năm RU
+Phong
+19520158 Lê Hoàng Minh https://drive.google.com/o
+Thiết kế và hiện thực mô hình Design and implement deep
+ThS. Trương Văn pen?id=1IUcEl8bKWmx
+12 học sâu cho bài toán phân loại learning model for image CQĐT 9h50
+Cương XCujxbqYCGgDiuUA_5a
+Nguyễn Trần Trí hình ảnh trên FPGA classification in FPGA
+19521007 z0
+Thức
+Thuật toán Cascade Cascade Association and
+https://drive.google.com/o
+Association và thuật toán bù Camera-motion
+ThS. Trương Văn pen?id=1C5uQhG7hRUI
+13 19522491 Đỗ Thanh Tùng đắp chuyển động camera dựa compensation based Kalman CQĐT 10h00
+Cương XQYS8v5gmO4kburGma
+trên Kalman Filter cho bài toán filter for multi-object
+Ow3
+theo dấu đa đối tượng tracking.
+19521653 Nguyễn Đức Hy Thiết kế và triển khai thuật toán Design and implement https://drive.google.com/o
+mật mã trên RISC-V: Đánh giá cryptography on RISC-V: ThS. Hồ Ngọc pen?id=1kcOHQ1D5csPv
+14 CQĐT 10h10
+hiệu suất của các thuật toán đã Performance evaluation of Diễm mTm-
+19520353 Trần Duy Quốc Việt
+được chuẩn hóa standardized algorithms LdVwKGpyFFucbsuw
+Page 6 of 6

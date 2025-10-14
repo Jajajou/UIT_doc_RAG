@@ -1,0 +1,67 @@
+Ý TƯỞNG CUỘC THI THIẾT KẾ VI MẠCH:
+LLÕÕII MMÃÃ HHÓÓAA AASSCCOONN TTỐỐII ƯƯUU CCHHOO TTHHIIẾẾTT BBỊỊ IIOOTT
+NNgguuyyễễnn HHữữuu HHọọcc 2222552200448866 .. NNgguuyyễễnn ĐĐììnnhh LLêê MMạạnnhh 2222552200884488
+LLưươơnngg ttrrùùnngg DDưươơnngg 2222552200330011 .. LLêê TTrrọọnngg ĐĐiiềềnn 2222552200224466
+1. TỔNG QUAN Ý TƯỞNG 3. QUY TRÌNH THỰC HIỆN
+Ý tưởng của chúng tôi là thiết kế một lõi vi mạch Giai đoạn 1: Nghiên cứu và lên ý tưởng chi tiết
+chuyên dụng (Hardware IP Core) để tăng tốc mã Phân tích yêu cầu: Xác định rõ đối tượng thiết bị
+hóa và giải mã sử dụng thuật toán ASCON. Lõi IoT , yêu cầu về thông lượng, độ trễ, diện tích
+này sẽ tích hợp liền mạch vào các hệ thống trên chip và ngân sách năng lượng.
+chip (SoC) của thiết bị IoT, cung cấp khả năng Nghiên cứu thuật toán ASCON: Đọc kỹ tài liệu
+bảo mật mạnh mẽ mà vẫn đảm bảo hiệu suất cao chính thức của NIST về ASCON-AEAD128 và
+và tiêu thụ năng lượng thấp, phù hợp với môi ASCON-AEAD128a.
+trường hạn chế của IoT.
+Giai đoạn 2: Thiết kế RTL (REGISTER-TRANSFER
+LEVEL)
+2. LÝ DO THỰC HIỆN
+Xây dựng cấu trúc module: Chia lõi ASCON
+thành các module nhỏ, dễ quản lý và kiểm tra.
+aa)) ĐĐưượợcc NNIISSTT LLựựaa CChhọọnn llààmm TTiiêêuu CChhuuẩẩnn MMớớii::
+ASCON là người chiến thắng chính thức trong
+cuộc thi Lightweight Cryptography của NIST
+Giai đoạn 3: Mô phỏng và xác minh chức năng
+(Viện Tiêu chuẩn và Công nghệ Quốc gia Hoa
+Viết Testbench
+Kỳ). Điều này khẳng định tính bảo mật đã được
+Sử dụng Test Vector.
+kiểm chứng, hiệu suất tối ưu và khả năng chấp
+Mô phỏng hồi quy (Regression Simulation)
+nhận rộng rãi trong tương lai, giảm thiểu rủi ro
+Đo lường độ bao phủ (Coverage Analysis)
+khi triển khai.
+Giai đoạn 4: Thiết kế máy gia tốc ASSCON-P
+bb)) HHiiệệuu SSuuấấtt VVưượợtt TTrrộộii ttrrêênn TTààii NNgguuyyêênn HHạạnn CChhếế::
+ASCON được thiết kế đặc biệt để hoạt động Tổng hợp (Synthesis): Dùng công cụ EDA (ví
+hiệu quả trên các vi điều khiển 8-bit, 16-bit và dụ:Cadence genus) để chuyển đổi mã RTL thành
+32-bit. Khi được triển khai bằng phần cứng, nó netlist (mạng các cổng logic) dựa trên một thư
+có thể đạt được viện công nghệ cụ thể (ví dụ: 65nm, 40nm, 28nm
+cho IoT). Đặt các ràng buộc về tần số hoạt động,
+cc)) BBảảoo MMậậtt TTooàànn DDiiệệnn ((AAuutthheennttiiccaatteedd EEnnccrryyppttiioonn diện tích chip và tiêu thụ năng lượng để tối ưu
+ww iitt hh AA ss ss oo cc ii aa tt ee dd DD aa tt aa -- AA EE AA DD )) :: TTíínnhh bbảảoo mmậậtt ddữữ hóa.
+lliiệệuu ((CCoonnffiiddeennttiiaalliittyy)):: ĐĐảảmm bbảảoo tthhôônngg ttiinn kkhhôônngg bbịị
+Giai đoạn 5: Kiểm tra và đánh giá thực tế
+đđọọcc ttrrộộmm.. XXáácc tthhựựcc ddữữ lliiệệuu vvàà ttíínnhh ttooàànn vvẹẹnn ((AAuu--
+(POST-SILICON VALIDATION)
+tthheennttiiccaattiioonn && IInntteeggrriittyy)):: ĐĐảảmm bbảảoo ddữữ lliiệệuu kkhhôônngg
+bbịị tthhaayy đđổổii vvàà đđếếnn ttừừ nngguuồồnn đđáánngg ttiinn ccậậyy.. KKhhảả Kiểm tra tính hợp lệ của bố cục (DRC/LVS): Đảm
+nnăănngg AAEEAADD nnààyy ggiiúúpp đđơơnn ggiiảảnn hhóóaa ggiiaaoo tthhứứcc bbảảoo bảo bố cục tuân thủ các quy tắc thiết kế của
+mmậậtt vvàà ggiiảảmm tthhiiểểuu oovveerrhheeaadd ssoo vvớớii vviiệệcc ssửử ddụụnngg xưởng đúc chip và khớp với netlist.
+rriiêênngg rrẽẽ mmãã hhóóaa vvàà MMAACC..
+44.. KKẾẾTT LLUUẬẬNN
+dd)) KKhhảả NNăănngg CChhốốnngg TTấấnn CCôônngg KKêênnhh PPhhụụ
+TThhiiếếtt kkếế llõõii mmãã hhóóaa AASSCCOONN kkhhôônngg cchhỉỉ llàà mmộộtt bbààii
+((SS ii dd ee -- CC hh aa nn nn ee ll AA tt tt aa cc kk -- SS CC AA )) :: AASSCCOONN đđưượợcc tthhiiếếtt
+ttooáánn kkỹỹ tthhuuậậtt mmàà ccòònn llàà mmộộtt bbưướớcc ttiiếếnn qquuaann
+kkếế vvớớii ccáácc đđặặcc ttíínnhh ggiiúúpp cchhốốnngg llạạii ccáácc ccuuộộcc ttấấnn
+ttrrọọnngg ttrroonngg vviiệệcc nnâânngg ccaaoo bbảảoo mmậậtt cchhoo hhệệ ssiinnhh
+ccôônngg kkêênnhh pphhụụ ((nnhhưư pphhâânn ttíícchh ccôônngg ssuuấấtt,, pphhâânn
+tthhááii IIooTT.. BBằằnngg ccáácchh ccuunngg ccấấpp mmộộtt ggiiảảii pphháápp mmãã
+ttíícchh tthhờờii ggiiaann)) –– nnhhữữnngg mmốốii đđee ddọọaa tthhựựcc ttếế đđốốii
+hhóóaa hhiiệệuu qquuảả,, nnhhỏỏ ggọọnn vvàà aann ttooàànn,, ddựự áánn nnààyy ssẽẽ
+vvớớii ccáácc tthhiiếếtt bbịị nnhhúúnngg.. VViiệệcc ttrriiểểnn kkhhaaii pphhầầnn ccứứnngg
+ggóópp pphhầầnn xxââyy ddựựnngg mmộộtt ttưươơnngg llaaii nnơơii ddữữ lliiệệuu IIooTT
+ccóó tthhểể ttậậnn ddụụnngg vvàà ccủủnngg ccốố tthhêêmm ccáácc bbiiệệnn pphháápp
+đđưượợcc ttrruuyyềềnn ttảảii vvàà xxửử llýý mmộộtt ccáácchh đđáánngg ttiinn ccậậyy,,
+cchhốốnngg SSCCAA..
+nnggaayy ccảả ttrroonngg ccáácc mmôôii ttrrưườờnngg ttààii nngguuyyêênn hhạạnn
+cchhếế nnhhấấtt..

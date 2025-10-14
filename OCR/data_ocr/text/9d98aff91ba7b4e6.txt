@@ -1,0 +1,96 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+TRƯỜNG ĐẠI HỌC Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+Tp. Hồ Chí Minh, ngày tháng năm 20
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: Chương trình đào tạo hệ Kỹ sư chính quy
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Kỹ Thuật Máy tính
+Loại hình đào tạo: Chính quy
+Khóa đào tạo: 2009-2014 (Khóa 4)
+Tổng số tín chỉ của chương trình đào tạo (9 học kỳ) : 143 tín chỉ
+Giai đoạn 1 : Chương trình chung các khoa.
+Tổng số tín chỉ các học kỳ 1, 2, 3, 4 : 64 tín ch
+STT Mã môn Tên môn học Số LT TH Ghi chú
+học TC
+CSC01 Tin học đại cương 4 3 1
+MAT01 Toán cao cấp A1 3 3 0
+MAT02 Toán cao cấp A2 3 3 0
+PHY01 Vật lý đại cương A1 3 3 0
+ENG01 Anh văn 1 Tính riêng
+MEDU1 Giáo dục Quốc phòng Tính riêng
+Học kỳ PEDU1 Giáo dục thể chất 1 Tính riêng
+1 Cộng 13 TC
+Cấu trúc dữ liệu và giải
+DSAL1 thuật 4 3 1
+CARC1 Kiến trúc máy tính 3 3 0
+PHY02 Vật lý đại cương A2 3 3 0
+LIA01 Đại số tuyến tính 3 3 0
+Những nguyên lý cơ bản của
+PHIL1 chủ nghĩa Marx Lenin 5 5 0
+ENG02 Anh văn 2 Tính riêng
+Học kỳ PEDU2 Giáo dục thể chất 2 Tính riêng
+2 Cộng 18TC
+OOPT1 Lập trình hướng đối tượng 4 3 1
+OSYS1 Hệ điều hành 4 3 1
+DBSS1 Cơ sở dữ liệu 4 3 1
+Đường lối cách mạng của
+VCPL1 Đảng CSVN 3 3 0
+
+Nhập môn quản trị doanh
+ITEM1 nghiệp 2 2 0
+Học kỳ ITEM1 Anh văn 3 Tính riêng
+3 Cộng 17 TC
+HCMT1 Tư tưởng HCM 2 2 0
+ITEW1 Nhập môn công tác kỹ sư 2 2 0
+WINP1 Lập trình trên Windows 4 3 1
+MAT04 Cấu trúc rời rạc 4 4 0
+CNET1 Mạng máy tính 4 3 1
+Học kỳ ENG04 Anh văn 4 Tính riêng
+4 Cộng 16 TC
+Giai đoạn 2 : Chương trình ngành Kỹ thuật máy tính
+Tổng số tín chỉ các học kỳ 5, 6, 7, 8, 9 : 79 tín
+STT Mã môn Tên môn học Số LT TH Ghi chú
+học TC
+Học kỳ CE103 Vi xử lý-vi điều khiển 4 3 1
+5 CE104 Các thiết bị và mạch điện tử 3 3 0
+CE105 Xử lý tín hiệu số 4 3 1
+CE102 Hệ thống số 4 3 1
+CE101 Lý thuyết mạch điện 4 4 0
+CE117 Thực hành điện-điện tử cơ bản 1 0 1
+Cộng 20 TC
+Học kỳ CE107 Hệ thống nhúng 4 3 1
+6 CE106 Thiết kế mạch với HDL 4 3 1
+CE110 Lập trình hệ thống với Java 4 3 1
+CE111 Kiến trúc máy tính nâng cao 3 2 1
+CE113 Điều khiển tự động 3 3 0
+Cộng 18 TC
+CE108 Hệ điều hành nâng cao 3 3 0
+Môn tự
+CE202 An toàn mạng máy tính 3 3 0 chọn
+Môn tự
+CE204 Thiết kế và Lập trình Web 3 3 0 chọn
+CE109 Lập trình nhúng căn bản 3 2 1
+CE112 Đồ án môn học thiết kế mạch 2 0 2
+Học kỳ CE115 Thiết kế Mạng 4 3 1
+7 Cộng 15 TC
+CE116 Đồ án môn học ngành KTMT 2 0 2
+
+Chuyên
+CE302 Thiết kế vi mạch 3 2 1 ngành 1
+Chuyên
+CE301 Hệ thống chứng thực số 3 3 0 ngành 1
+Phương pháp luận sáng tạo
+SMET2 KH-CN 2 2 0
+Lập trình trên thiết bị di
+CE114 động 3 2 1
+Học kỳ CE502 Thực tập doanh nghiệp 3 0 3
+8 Cộng 13 TC
+Học kỳ 3 0 Chuyên
+9 CE312 Hệ thống thời gian thực 3 ngành 2
+3 0 Chuyên
+CE314 Trình biên dịch 3 ngành 2
+CE505 Khóa luận tốt nghiệp 10
+Cộng 13 TC
+HIỆU TRƯỞNG
+HOÀNG VĂN KIẾM

@@ -1,0 +1,97 @@
+
+============================================================
+SHEET: KLTN-1
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | KLTN-1
+--------------------------------------------------------------------------------
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA…………………….. | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH SINH VIÊN THỰC HIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt:                - Năm học:
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI TIẾNG VIỆT | TÊN ĐỀ TÀI TIẾNG ANH | TÊN CB HƯỚNG DẪN | GHI CHÚ
+1
+2
+3
+TRƯỞNG KHOA
+
+============================================================
+SHEET: KLTN-2
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | KLTN-2
+--------------------------------------------------------------------------------
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA…………………….. | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH SINH VIÊN THỰC HIỆN KHÓA LUẬN TỐT NGHIỆP
+BÁO CÁO TIẾN ĐỘ GIỮA KỲ
+Đợt:                - Năm học:
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI TIẾNG VIỆT | TÊN ĐỀ TÀI TIẾNG ANH | TÊN CBHD | XÁC NHẬN CỦA CBHD | LÝ DO DỪNG
+TIẾP TỤC | DỪNG 
+1
+2
+3
+Ghi chú: CBHD ký tên xác nhận vào cột Tiếp tục hoặc Dừng
+TRƯỞNG KHOA
+
+============================================================
+SHEET: KLTN-4
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | KLTN-4
+--------------------------------------------------------------------------------
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA…………………….. | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH KHÓA LUẬN TỐT NGHIỆP THAY ĐỔI TÊN
+Đợt:              Năm học: 
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI CŨ | TÊN ĐỀ TÀI MỚI | TÊN ĐỀ TÀI MỚI TIẾNG ANH | CB HƯỚNG DẪN | GHI CHÚ
+1
+2
+3
+TRƯỞNG KHOA
+
+============================================================
+SHEET: KLTN-5
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | KLTN-5
+--------------------------------------------------------------------------------
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA…………………….. | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH SINH VIÊN BẢO VỆ KHÓA LUẬN TỐT NGHIỆP
+Đợt:                - Năm học:
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI TIẾNG VIỆT | TÊN ĐỀ TÀI TIẾNG ANH | TÊN CB HƯỚNG DẪN | CHỮ KÝ CBHD | GHI CHÚ
+1
+2
+3
+TRƯỞNG KHOA
+
+============================================================
+SHEET: KLTN-6
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | KLTN-6 | Unnamed: 9 | Unnamed: 10
+--------------------------------------------------------------------------------
+TRƯỜNG ĐH CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA …………… | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH HỘI ĐỒNG BẢO VỆ KHÓA LUẬN TỐT NGHIỆP
+Đợt:            Năm học:                    Thời gian bảo vệ:
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI TIẾNG VIỆT | TÊN ĐỀ TÀI TIẾNG ANH | CÁN BỘ HƯỚNG DẪN | CÁN BỘ PHẢN BIỆN | HỘI ĐỒNG CHẤM KHOÁ LUẬN
+(Ghi rõ chức vụ trong HĐ) | GHI CHÚ | NỘP ĐƠN | Đổi tên ĐT
+1
+2
+3
+TRƯỞNG KHOA
+
+============================================================
+SHEET: KLTN-9
+============================================================
+
+Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | KLTN-9
+--------------------------------------------------------------------------------
+TRƯỜNG ĐH CÔNG NGHỆ THÔNG TIN | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA …………… | Độc lập - Tự do - Hạnh phúc
+BẢNG ĐIỂM KHÓA LUẬN TỐT NGHIỆP
+Đợt:            Năm học:                    Thời gian bảo vệ:
+STT | MSSV | HỌ TÊN | TÊN ĐỀ TÀI TIẾNG VIỆT | TÊN ĐỀ TÀI TIẾNG ANH | CÁN BỘ  HƯỚNG DẪN | CÁN BỘ PHẢN BIỆN | ĐIỂM | CHI CHÚ
+TRƯỞNG KHOA

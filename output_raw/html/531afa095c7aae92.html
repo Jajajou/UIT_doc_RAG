@@ -1,0 +1,75 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">define("discourse/plugins/discourse-presence/discourse/components/composer-presence-display",["exports","@glimmer/component","@glimmer/tracking","@ember/service","truth-helpers","discourse/components/user-link","discourse/helpers/avatar","discourse/helpers/helper-fn","discourse-i18n","@ember/component","@ember/template-factory"],function(e,s,t,r,n,i,c,o,p,l,a){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+class u extends s.default{static#e=(()=&gt;dt7948.g(this.prototype,"presence",[r.service]))()
+#s=(()=&gt;{dt7948.i(this,"presence")})()
+static#t=(()=&gt;dt7948.g(this.prototype,"composerPresenceManager",[r.service]))()
+#r=(()=&gt;{dt7948.i(this,"composerPresenceManager")})()
+static#n=(()=&gt;dt7948.g(this.prototype,"currentUser",[r.service]))()
+#i=(()=&gt;{dt7948.i(this,"currentUser")})()
+static#c=(()=&gt;dt7948.g(this.prototype,"siteSettings",[r.service]))()
+#o=(()=&gt;{dt7948.i(this,"siteSettings")})()
+static#p=(()=&gt;dt7948.g(this.prototype,"replyChannel",[t.tracked]))()
+#l=(()=&gt;{dt7948.i(this,"replyChannel")})()
+static#a=(()=&gt;dt7948.g(this.prototype,"whisperChannel",[t.tracked]))()
+#u=(()=&gt;{dt7948.i(this,"whisperChannel")})()
+static#d=(()=&gt;dt7948.g(this.prototype,"editChannel",[t.tracked]))()
+#h=(()=&gt;{dt7948.i(this,"editChannel")})()
+setupReplyChannel=(()=&gt;(0,o.default)((e,s)=&gt;{const{topic:t}=this.args.model
+if(!t||!this.isReply)return
+const r=`/discourse-presence/reply/${t.id}`,n=this.presence.getChannel(r)
+this.replyChannel=n,n.subscribe(),s.cleanup(()=&gt;n.unsubscribe())}))()
+setupWhisperChannel=(()=&gt;(0,o.default)((e,s)=&gt;{const{topic:t}=this.args.model,{whisperer:r}=this.currentUser
+if(!t||!this.isReply||!r)return
+const n=`/discourse-presence/whisper/${t.id}`,i=this.presence.getChannel(n)
+this.whisperChannel=i,i.subscribe(),s.cleanup(()=&gt;i.unsubscribe())}))()
+setupEditChannel=(()=&gt;(0,o.default)((e,s)=&gt;{const{post:t}=this.args.model
+if(!t||!this.isEdit)return
+const r=`/discourse-presence/edit/${t.id}`,n=this.presence.getChannel(r)
+this.editChannel=n,n.subscribe(),s.cleanup(()=&gt;n.unsubscribe())}))()
+notifyState=(()=&gt;(0,o.default)((e,s)=&gt;{const{topic:t,post:r,replyDirty:n}=this.args.model,i=this.isEdit?r:t
+if(i){const e=`/discourse-presence/${this.state}/${i.id}`
+this.composerPresenceManager.notifyState(e,n)}s.cleanup(()=&gt;this.composerPresenceManager.leave())}))()
+get isReply(){return"reply"===this.state||"whisper"===this.state}get isEdit(){return"edit"===this.state}get state(){const{editingPost:e,whisper:s,replyingToTopic:t}=this.args.model
+return e?"edit":s?"whisper":t?"reply":void 0}static#m=(()=&gt;dt7948.n(this.prototype,"state",[t.cached]))()
+get users(){let e
+if(this.isEdit)e=this.editChannel?.users||[]
+else{e=[...this.replyChannel?.users||[],...this.whisperChannel?.users||[]]}return e.filter(e=&gt;e.id!==this.currentUser.id).slice(0,this.siteSettings.presence_max_users_shown)}static#g=(()=&gt;dt7948.n(this.prototype,"users",[t.cached]))()
+static#f=(()=&gt;(0,l.setComponentTemplate)((0,a.createTemplateFactory)({id:"yT15VqnX",block:'[[[1,"\\n"],[41,[30,0,["currentUser"]],[[[1,"      "],[1,[30,0,["setupReplyChannel"]]],[1,"\\n      "],[1,[30,0,["setupWhisperChannel"]]],[1,"\\n      "],[1,[30,0,["setupEditChannel"]]],[1,"\\n      "],[1,[30,0,["notifyState"]]],[1,"\\n\\n"],[41,[28,[32,0],[[30,0,["users","length"]],0],null],[[[1,"        "],[10,0],[14,0,"presence-users"],[12],[1,"\\n          "],[10,0],[14,0,"presence-avatars"],[12],[1,"\\n"],[42,[28,[31,2],[[28,[31,2],[[30,0,["users"]]],null]],null],null,[[[1,"              "],[8,[32,1],null,[["@user"],[[30,1]]],[["default"],[[[[1,"\\n                "],[1,[28,[32,2],[[30,1]],[["imageSize"],["small"]]]],[1,"\\n              "]],[]]]]],[1,"\\n"]],[1]],null],[1,"          "],[13],[1,"\\n\\n          "],[10,1],[14,0,"presence-text"],[12],[1,"\\n            "],[10,1],[14,0,"description"],[12],[41,[30,0,["isReply"]],[[[1,[28,[32,3],["presence.replying"],[["count"],[[30,0,["users","length"]]]]]]],[]],[[[1,[28,[32,3],["presence.editing"],[["count"],[[30,0,["users","length"]]]]]]],[]]],[13],[1,"\\n            "],[10,1],[14,0,"wave"],[12],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n            "],[13],[1,"\\n          "],[13],[1,"\\n        "],[13],[1,"\\n"]],[]],null]],[]],null],[1,"  "]],["user"],false,["if","each","-track-array"]]',moduleName:"/var/www/discourse/app/assets/javascripts/discourse/discourse/plugins/discourse-presence/discourse/components/composer-presence-display.js",scope:()=&gt;[n.gt,i.default,c.default,p.i18n],isStrictMode:!0}),this))()}e.default=u}),define("discourse/plugins/discourse-presence/discourse/components/topic-presence-display",["exports","@glimmer/component","@glimmer/tracking","@ember/service","truth-helpers","discourse/components/user-link","discourse/helpers/avatar","discourse/helpers/helper-fn","discourse-i18n","@ember/component","@ember/template-factory"],function(e,s,t,r,n,i,c,o,p,l,a){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+class u extends s.default{static#e=(()=&gt;dt7948.g(this.prototype,"presence",[r.service]))()
+#s=(()=&gt;{dt7948.i(this,"presence")})()
+static#t=(()=&gt;dt7948.g(this.prototype,"currentUser",[r.service]))()
+#i=(()=&gt;{dt7948.i(this,"currentUser")})()
+static#n=(()=&gt;dt7948.g(this.prototype,"replyChannel",[t.tracked]))()
+#l=(()=&gt;{dt7948.i(this,"replyChannel")})()
+static#c=(()=&gt;dt7948.g(this.prototype,"whisperChannel",[t.tracked]))()
+#u=(()=&gt;{dt7948.i(this,"whisperChannel")})()
+setupReplyChannel=(()=&gt;(0,o.default)((e,s)=&gt;{const{topic:t}=this.args
+if(!t)return
+const r=`/discourse-presence/reply/${t.id}`,n=this.presence.getChannel(r)
+this.replyChannel=n,n.subscribe(),s.cleanup(()=&gt;n.unsubscribe())}))()
+setupWhisperChannel=(()=&gt;(0,o.default)((e,s)=&gt;{const{topic:t}=this.args,{whisperer:r}=this.currentUser
+if(!t||!r)return
+const n=`/discourse-presence/whisper/${t.id}`,i=this.presence.getChannel(n)
+this.whisperChannel=i,i.subscribe(),s.cleanup(()=&gt;i.unsubscribe())}))()
+get users(){return[...this.replyChannel?.users||[],...this.whisperChannel?.users||[]].filter(e=&gt;e.id!==this.currentUser.id)}static#p=(()=&gt;dt7948.n(this.prototype,"users",[t.cached]))()
+static#a=(()=&gt;(0,l.setComponentTemplate)((0,a.createTemplateFactory)({id:"EVHiquID",block:'[[[1,"\\n"],[41,[30,0,["currentUser"]],[[[1,"      "],[1,[30,0,["setupReplyChannel"]]],[1,"\\n      "],[1,[30,0,["setupWhisperChannel"]]],[1,"\\n\\n"],[41,[28,[32,0],[[30,0,["users","length"]],0],null],[[[1,"        "],[10,0],[14,0,"presence-users"],[12],[1,"\\n          "],[10,0],[14,0,"presence-avatars"],[12],[1,"\\n"],[42,[28,[31,2],[[28,[31,2],[[30,0,["users"]]],null]],null],null,[[[1,"              "],[8,[32,1],null,[["@user"],[[30,1]]],[["default"],[[[[1,"\\n                "],[1,[28,[32,2],[[30,1]],[["imageSize"],["small"]]]],[1,"\\n              "]],[]]]]],[1,"\\n"]],[1]],null],[1,"          "],[13],[1,"\\n\\n          "],[10,1],[14,0,"presence-text"],[12],[1,"\\n            "],[10,1],[14,0,"description"],[12],[1,"\\n              "],[1,[28,[32,3],["presence.replying_to_topic"],[["count"],[[30,0,["users","length"]]]]]],[1,"\\n            "],[13],[1,"\\n            "],[10,1],[14,0,"wave"],[12],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n              "],[10,1],[14,0,"dot"],[12],[1,"."],[13],[1,"\\n            "],[13],[1,"\\n          "],[13],[1,"\\n        "],[13],[1,"\\n"]],[]],null]],[]],null],[1,"  "]],["user"],false,["if","each","-track-array"]]',moduleName:"/var/www/discourse/app/assets/javascripts/discourse/discourse/plugins/discourse-presence/discourse/components/topic-presence-display.js",scope:()=&gt;[n.gt,i.default,c.default,p.i18n],isStrictMode:!0}),this))()}e.default=u}),define("discourse/plugins/discourse-presence/discourse/connectors/before-composer-controls/presence",["exports","discourse/plugins/discourse-presence/discourse/components/composer-presence-display","@ember/component","@ember/template-factory","@ember/component/template-only"],function(e,s,t,r,n){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+const i=(0,t.setComponentTemplate)((0,r.createTemplateFactory)({id:"ic5m4qg5",block:'[[[1,"\\n  "],[10,0],[14,0,"before-composer-controls-outlet presence"],[12],[1,"\\n    "],[8,[32,0],null,[["@model"],[[30,1,["model"]]]],null],[1,"\\n  "],[13],[1,"\\n"]],["@outletArgs"],false,[]]',moduleName:"/var/www/discourse/app/assets/javascripts/discourse/discourse/plugins/discourse-presence/discourse/connectors/before-composer-controls/presence.js",scope:()=&gt;[s.default],isStrictMode:!0}),(0,n.default)(void 0,"presence:Presence"))
+e.default=i}),define("discourse/plugins/discourse-presence/discourse/connectors/topic-above-footer-buttons/presence",["exports","discourse/plugins/discourse-presence/discourse/components/topic-presence-display","@ember/component","@ember/template-factory","@ember/component/template-only"],function(e,s,t,r,n){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+const i=(0,t.setComponentTemplate)((0,r.createTemplateFactory)({id:"cMRyU8Bw",block:'[[[1,"\\n  "],[10,0],[14,0,"topic-above-footer-buttons-outlet presence"],[12],[1,"\\n    "],[8,[32,0],null,[["@topic"],[[30,1,["model"]]]],null],[1,"\\n  "],[13],[1,"\\n"]],["@outletArgs"],false,[]]',moduleName:"/var/www/discourse/app/assets/javascripts/discourse/discourse/plugins/discourse-presence/discourse/connectors/topic-above-footer-buttons/presence.js",scope:()=&gt;[s.default],isStrictMode:!0}),(0,n.default)(void 0,"presence:Presence"))
+e.default=i}),define("discourse/plugins/discourse-presence/discourse/services/composer-presence-manager",["exports","@ember/runloop","@ember/service","discourse/lib/environment"],function(e,s,t,r){"use strict"
+Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0
+class n extends t.default{static#e=(()=&gt;dt7948.g(this.prototype,"currentUser",[t.service]))()
+#i=(()=&gt;{dt7948.i(this,"currentUser")})()
+static#t=(()=&gt;dt7948.g(this.prototype,"presence",[t.service]))()
+#s=(()=&gt;{dt7948.i(this,"presence")})()
+static#n=(()=&gt;dt7948.g(this.prototype,"siteSettings",[t.service]))()
+#o=(()=&gt;{dt7948.i(this,"siteSettings")})()
+notifyState(e){let t=arguments.length&gt;2&amp;&amp;void 0!==arguments[2]?arguments[2]:1e4
+if(!(!(arguments.length&gt;1&amp;&amp;void 0!==arguments[1])||arguments[1]))return void this.leave()
+const n=this.siteSettings.allow_users_to_hide_profile,i=this.currentUser.user_option.hide_presence
+n&amp;&amp;i||this._name!==e&amp;&amp;(this.leave(),this._name=e,this._channel=this.presence.getChannel(e),this._channel.enter(),(0,r.isTesting)()||(this._autoLeaveTimer=(0,s.debounce)(this,this.leave,t)))}leave(){this._autoLeaveTimer&amp;&amp;((0,s.cancel)(this._autoLeaveTimer),this._autoLeaveTimer=null),this._channel?.leave(),this._channel=null,this._name=null}}e.default=n})
+
+//# sourceMappingURL=discourse-presence-f8ebc9d1.map</pre></body></html>

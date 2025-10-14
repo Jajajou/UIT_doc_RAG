@@ -1,0 +1,271 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2024 - 2025 - Thời gian bảo vệ: 14-15/07/2025
+ST TÊN ĐỀ TÀI TIẾNG CÁN BỘ Thời
+MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT CB HƯỚNG DẪN Ghi chú Ngày Phòng Thứ tự
+T ANH PHẢN BIỆN gian
+Phòng E6.1
+ThS. Nguyễn Duy
+21520558 Đỗ Duy Anh
+Xử lí ảnh nhận diện lỗi hư Container damage detection Xuân Bách, TS. Đỗ Trí
+1 CLC-VN 15/07/2025 E6.1 S1 8h00
+hỏng của container using image processing PGS. TS. Trịnh Lê Nhựt
+21521011 Phạm Lê Minh Khôi Huy
+ThS. Nguyễn Duy
+21521296 Phan Hoàng Phúc Embedded system for
+Hệ thống chăm sóc, giám sát Xuân Bách, TS. Đỗ Trí
+2 monitoring swiftlet CLC-VN 15/07/2025 E6.1 S2 8h30
+nhà yến PGS. TS. Trịnh Lê Nhựt
+Nguyễn Phan Quang birdhouses
+21521675 Huy
+Vinh
+ThS. Nguyễn Duy
+Phân biệt người trầm cảm Depression detection using Xuân Bách, TS. Đỗ Trí
+3 21521337 Lê Công Quang CLC-VN 15/07/2025 E6.1 S3 9h00
+bằng tín hiệu sóng não EEG signals PGS. TS. Trịnh Lê Nhựt
+Huy
+Lê Đặng Thiên ThS. Nguyễn Duy
+21521459
+(CQĐT) Hệ thống giám sát nhịp tim từ Family remote heart beat Xuân Bách, TS. Đỗ Trí
+4 CLC-VN 15/07/2025 E6.1 S4 9h30
+xa cho gia đình monitoring system PGS. TS. Trịnh Lê Nhựt
+21522060 Lê Văn Hiển Huy
+21522381 Nguyễn Tiến Ngọc
+Vacuum cleaner robot using ThS. Phan Đình ThS. Phạm
+5 Robot hút bụi sử dụng lidar CQĐT 15/07/2025 E6.1 S5 10h00
+lidar Duy Minh Quân
+21522390 Nguyễn Bảo Nguyên
+Non-invasive egg quality
+Xác định chất lượng trứng
+measurement with optical TS. Phạm Quốc ThS. Trần
+6 21521058 Phan Hoài Lâm không xấm lấn bằng cảm biến CLC-VN 15/07/2025 E6.1 C1 13h30
+sensor and machine Hùng Ngọc Đức
+quang và kỹ thuật máy học
+learning
+Page 1 of 5
+
+ST TÊN ĐỀ TÀI TIẾNG CÁN BỘ Thời
+MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT CB HƯỚNG DẪN Ghi chú Ngày Phòng Thứ tự
+T ANH PHẢN BIỆN gian
+Measuring sweetness level
+21521085 Đinh Hữu Lộc Đo độ ngọt cà chua bi sử
+of cherry tomato using near- TS. Phạm Quốc ThS. Trần
+7 dụng quang phổ cận hồng CLC-VN 15/07/2025 E6.1 C2 14h00
+infrared spectroscopy and Hùng Ngọc Đức
+ngoại và mô hình học máy
+21521672 Lâm Huỳnh Việt machine learning
+TS. Phạm Quốc
+21522564 Lưu Tuấn Tài Mô hình hồ nước tự động Automatic temperature
+Hùng, ThS. Trần
+8 điều chỉnh nhiệt độ dựa trên controller for water tank CQĐT 15/07/2025 E6.1 C3 14h30
+Trần Đặng Toàn KS. Nguyễn Thành Ngọc Đức
+21522688 logic mờ based on fuzzy logic
+(CLC) Nhân
+ThS. Phan Đình
+Đề xuất phương pháp sử dụng Proposal of a method
+Duy, ThS. Trần
+9 21520655 Nguyễn Lê Chương đặc trưng đa góc nhìn cho bài utilizing multi-view features CQĐT 15/07/2025 E6.1 C4 15h00
+KS. Chế Quang Ngọc Đức
+toán tái định danh con người for person re-identification
+Huy
+Phòng E6.3
+Nghiên cứu và thử nghiệm
+Research and testing
+các phương pháp lượng tử ThS. Phan Đình ThS. Phạm
+1 21522768 Huỳnh Bảo Tùng quantization methods for AI CQĐT 15/07/2025 E6.3 S1 8h00
+hóa cho mô hình AI trên Duy Minh Quân
+models on embedded boards
+board nhúng.
+21522293 Nguyễn Minh Lộc Ứng dụng ROS2 trong xây Study on applying ROS2 to
+ThS. Phạm
+2 dựng robot tự hành và vẽ bản indoor space mapping and TS. Đoàn Duy CLC-VN 15/07/2025 E6.3 S2 8h30
+Minh Quân
+21522568 Nguyễn Thành Tài đồ không gian trong nhà autonomous robot designing
+Nguyễn Thanh
+21522459 Nghiên cứu và thiết kế mô Study on designing a model
+Phong
+hình xe tự hành ngoài trời có of outdoor autonomous ThS. Phạm
+3 TS. Đoàn Duy CLC-VN 15/07/2025 E6.3 S3 9h00
+hướng dẫn sử dụng kỹ thuật guided vehicles using Multi- Minh Quân
+21521436 Đặng Minh Thành Multi-sensor Fusion sensor Fusion technique
+Nghiện cứu và xây dựng Research and development ThS. Nguyễn
+4 21522209 Nguyễn Nhã Khanh robot tự động khám phá môi of autonomous exploration ThS. Tạ Trí Đức Duy Xuân CQĐT 15/07/2025 E6.3 S4 9h30
+trường robots Bách
+21522251 Bành Trí Kiệt Hiện thực thiết bị camera tự Implementation of camera ThS. Nguyễn
+ThS. Trần Hoàng
+5 động theo dõi diễn giả trong device for speaker auto- Duy Xuân CQĐT 15/07/2025 E6.3 S5 10h00
+Lộc
+21520152 Mai Hoàng Gia Bảo buổi hội thảo, thuyết trình tracking in conferences Bách
+Page 2 of 5
+
+ST TÊN ĐỀ TÀI TIẾNG CÁN BỘ Thời
+MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT CB HƯỚNG DẪN Ghi chú Ngày Phòng Thứ tự
+T ANH PHẢN BIỆN gian
+Nghiên cứu và thiết kế hệ Research and design of a
+thống định vị quán tính-thị Visual-Inertial Odometry ThS. Nguyễn CQĐT
+6 21521927 Đặng Tấn Đạt giác (VIO) cho xe robot sử (VIO) system for a robot car TS. Đỗ Trí Nhựt Duy Xuân Đổi tên 15/07/2025 E6.3 C1 13h30
+dụng cảm biến IMU và using IMU and monocular Bách đề tài
+camera đơn camera
+21522015 Võ Duy Thiết kế và điều khiển robot 5 Design and control 5 axis
+TS. Trần Quang TS. Phạm
+7 trục DOF- ứng dụng vẽ chân robot for human portrait CLC-VN 15/07/2025 E6.3 C2 14h00
+Nguyên Quốc Hùng
+21521275 Trần Nguyên Phong dung người drawing
+Thiết kế và tự động hóa hệ Design and automation of
+21522061 Liêu Xuân Hiền
+lắng đọng hơi hóa học (CVD - chemical vapor deposition
+TS. Trần Quang TS. Phạm
+8 chemical vapor depostion) - (CVD) system for black CLC-VN 15/07/2025 E6.3 C3 14h30
+Nguyên Quốc Hùng
+ứng dụng trong quy trình tổng phosphorus material
+21522233 Trần Anh Khoa
+hợp vật liệu phốt pho đen synthesis
+Designing and implementing
+Thiết kế và xây dựng chatbox CLC-VN
+a bilingual English- TS. Phạm
+9 21521854 Nguyễn Hoàng Bảo song ngữ Anh-Việt dựa trên TS. Đỗ Trí Nhựt Đổi tên 15/07/2025 E6.3 C4 15h00
+Vietnamese voice-based Quốc Hùng
+giọng nói đề tài
+chatbox
+Phòng E4.4
+Phân tích sóng phát ra từ cây Analyze the waves emitted
+ThS. Nguyễn Duy ThS. Phan
+1 21520622 Phạm Trần Gia Bảo xanh và giải mã tình trạng cây from trees and decode the CQĐT 15/07/2025 E4.4 S1 8h00
+Xuân Bách Đình Duy
+xanh condition of trees
+Development of a low-cost
+Trần Nguyễn Nhựt Xây dựng trạm quan trắc môi
+21520441 local environmental ThS. Nguyễn Duy
+Tâm trường cục bộ chi phí thấp và
+monitoring station and Xuân Bách, ThS. Lê Hoài
+2 hệ thống lưu trữ dữ liệu thời CLC-VN 15/07/2025 E4.4 S2 8h30
+weather data storage system PGS. TS. Trịnh Lê Nghĩa
+tiết cho mục đích nghiên cứu
+21521068 Trương Tuấn Lân for research and forecasting Huy
+và phát triển dự báo
+purposes
+TS. Phạm Quốc ThS. Lê Hoài
+3 21520608 Lê Trần Thái Bảo Robot 6 chân Robot hexapod CLC-VN 15/07/2025 E4.4 S3 9h00
+Hùng Nghĩa
+Danh Nguyễn Thành
+21522585
+Thắng Xây dựng hệ thống điểm danh Attendance system using in PGS. TS. Trịnh Lê ThS. Lê Hoài
+4 CLC-VN 15/07/2025 E4.4 S4 9h30
+ứng dụng trong phòng học class Huy Nghĩa
+21521822 Lê Nguyên Anh
+Page 3 of 5
+
+ST TÊN ĐỀ TÀI TIẾNG CÁN BỘ Thời
+MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT CB HƯỚNG DẪN Ghi chú Ngày Phòng Thứ tự
+T ANH PHẢN BIỆN gian
+Ước lượng khoảng cách đến Distance estimation to the
+21521960 Huỳnh Hữu Đức
+xe phía trước bằng camera front vehicle using ThS. Lê Hoài
+5 TS. Đỗ Trí Nhựt CLC-VN 15/07/2025 E4.4 S5 10h00
+đơn sử dụng Pose Estimation monocular camera with Pose Nghĩa
+Trần Văn Dương
+21520763 và RANSAC Estimation and RANSAC
+(CQĐT)
+Trương Hữu Trường Hệ thống quản lý nhà thông
+21522559 Integrated smart home
+Sơn minh tích hợp: Điều khiển
+management system: Voice TS. Phạm Quốc ThS. Trần
+6 bằng giọng nói, ứng dụng di CLC-VN 15/07/2025 E4.4 C1 13h30
+control, mobile app, and Hùng Hoàng Lộc
+Phạm Phương Minh động và giám sát qua trang
+21522708 web-based monitoring
+Trí web
+ThS. Trương Văn
+Thiết kế trình giả lập mạch Design of quantum circuit TS. Trần
+7 21522408 Phan Trọng Nhân Cương, CLC-VN 15/07/2025 E4.4 C2 14h00
+lượng tử trên FPGA emulator on FPGA Quang Nguyên
+TS. Đỗ Trí Nhựt
+21522805 Phạm Long Vũ Nghiên cứu, thiết kế và hiện Research, design and ThS. Trương Văn
+TS. Trần
+8 thực lõi IP lọc nhiễu âm thanh implementation of an audio Cương, CLC-VN 15/07/2025 E4.4 C3 14h30
+Quang Nguyên
+trên phần cứng FPGA denoise IP core on FPGA TS. Đỗ Trí Nhựt
+21522640 Nguyễn Ngọc Thọ
+21520686 Ninh Công Danh Tái cấu hình hệ điều hành Linux OS reconfiguration CLC-VN
+TS. Nguyễn Minh TS. Trần
+9 Linux cho hệ thống SoC với for SoC with RV32I and Đổi tên 15/07/2025 E4.4 C4 15h00
+Sơn Quang Nguyên
+21520918 Nguyễn Đăng Huy lõi IP RV32I và AES-128 AES-128 IPs đề tài
+Design and implementation
+21522606 Trương Công Thành Thiết kế và hiện thực thuật
+of the SHA-256 security TS. Phạm Quốc TS. Trần
+10 toán bảo mật SHA-256 và bộ CLC-VN 15/07/2025 E4.4 C5 15h30
+algorithm and RISC-V core Hùng Quang Nguyên
+21522554 Nguyễn Đình Sơn xử lý RISC-V trên FPGA
+on FPGA
+Phòng E11.2
+Design and analysis of
+Thiết kế và khảo sát các tính
+temperature sensor TS. Trần Quang ThS. Trần Văn
+1 21522668 Đoàn Minh Tiến chất của cảm biến nhiệt độ CQĐT 15/07/2025 E11.2 S1 8h00
+properties by using Comsol Nguyên Quang
+bằng phần mềm Comsol
+software
+Nghiên cứu, thiết kế và triển
+Nguyễn Lê Hoàng Design a fire detection ThS. Trương Văn ThS. Trần Văn
+2 21521613 khai mô hình dự báo cháy CQĐT 15/07/2025 E11.2 S2 8h30
+Tú model for edge devices Cương Quang
+trên thiết bị biên
+Page 4 of 5
+
+ST TÊN ĐỀ TÀI TIẾNG CÁN BỘ Thời
+MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT CB HƯỚNG DẪN Ghi chú Ngày Phòng Thứ tự
+T ANH PHẢN BIỆN gian
+Research and
+21521910 Vòng Chí Cường Nghiên cứu và hiện thực hệ
+implementation of a fire
+thống cảnh báo cháy nổ sử ThS. Trương Văn ThS. Trần Văn
+3 alarm system using a CQĐT 15/07/2025 E11.2 S3 9h00
+dụng mạng lưới cảm biến Cương Quang
+bluetooth low energy sensor
+21521909 Trần Văn Cường bluethooth low energy
+mesh network
+21521950 Phan Tuấn Đạt Thiết kế mô hình xác minh
+Design of a face verification ThS. Trương Văn ThS. Trần Văn
+4 khuôn mặt dựa trên SoC- CQĐT 15/07/2025 E11.2 S4 9h30
+model based on SoC-FPGA Cương Quang
+21521499 Huỳnh Hiếu Thuận FPGA
+Design and implementation
+Thiết kế và hiện thực mô hình ThS. Trương Văn CLC-VN
+of a neural network model TS. Phạm
+5 21522526 Nguyễn Anh Quốc nơ-ron cho bài toán phân loại Cương, Đổi tên 15/07/2025 E11.2 S5 10h00
+for fire classification on Quốc Hùng
+lửa trên phần cứng TS. Đỗ Trí Nhựt đề tài
+hardware
+21521048 Nguyễn Trần Gia Kỳ Nghiên cứu và cải tiến mô
+Study on applying a speech
+hình nhận dạng giọng nói ThS. Phan
+6 recognition with big data for TS. Đoàn Duy CQĐT 15/07/2025 E11.2 C1 13h30
+tiếng Việt với dữ liệu lớn trên Đình Duy
+embedded systems
+21520938 Trần Quang Huy nền tảng hệ thống nhúng
+21522796 Hoàng Anh Vũ Thiết kế hệ thống hỗ trợ đặt Designing an Electronic
+ThS. Phan
+7 thức ăn và thanh toán điện tử Food Ordering and Payment TS. Đoàn Duy CQĐT 15/07/2025 E11.2 C2 14h00
+Đình Duy
+21520864 Đặng Vũ Hoàng cho căn tin System for Canteen
+ThS. Nguyễn
+Implementing violence
+Hiện thực phát hiện bạo lực Thanh Thiện, ThS. Phan
+8 21521346 Nguyễn Minh Quang detection on embedded CQĐT 15/07/2025 E11.2 C3 14h30
+trên hệ thống nhúng KS. Thân Thế Đình Duy
+system
+Tùng
+21522766 Vũ Anh Tuấn Xây dựng hệ thống điểm danh
+Building a smart attendance TS. Phạm Quốc ThS. Trần
+9 ứng dụng trong phòng học CLC-VN 15/07/2025 E11.2 C4 15h00
+Thái Bình Dương system Hùng Hoàng Lộc
+21521206 thông minh
+Nguyên
+Hệ thống phát hiện ổ gà trên A real-time pothole
+đường đi theo thời gian thực detection system on the road ThS. Phan Đình ThS. Nguyễn
+10 21522773 Cù Thanh Tường CQĐT 15/07/2025 E11.2 C5 15h30
+sử dụng kỹ thuật lượng tử hóa using quantization Duy Thanh Thiện
+trên Raspberry Pi techniques on Raspberry Pi
+Page 5 of 5

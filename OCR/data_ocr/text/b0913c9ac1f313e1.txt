@@ -1,0 +1,157 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 1 - Năm học: 2022-2023 - Thời gian bảo vệ: 20/02/2023
+Thời
+TÊN CB HƯỚNG CÁN BỘ PHẢN Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Phòng gian
+DẪN BIỆN tự
+bảo vệ
+Phòng E6.1
+Thiết kế và hiện thực IP Design and implementation TS. Đoàn Duy,
+ThS. Phạm
+1 18520702 Nguyễn Ngọc Hải Ethernet 1Gbit/s trên Ethernet IP 1Gbit/s on ThS. Ngô Hiếu CLC E6.1 S1 8h00
+Thanh Hùng
+FPGA FPGA Trường
+Thiết kế AXI bus và kiểm
+Design AXI bus and verify ThS. Phạm
+2 17520842 Phạm Đình Nhân tra bằng phương pháp TS. Đoàn Duy CQĐT E6.1 S2 8h30
+with UVM Thanh Hùng
+UVM
+Nhận diện làn đường và Lane detection and TS. Đoàn Duy,
+3 18520706 Trần Long Hải điều hướng cho xe tự navigation for autonomous ThS. Ngô Hiếu ThS. Tạ Trí Đức CLC E6.1 S3 9h00
+hành trên FPGA vehicles on FPGA Trường
+Hệ thống định lượng chất
+Nguyễn Minh Fats quantification system
+18520801, béo trong sản phẩm xúc ThS. Phan Đình
+4 Hưng, in sausage products based TS. Phạm Quốc Hùng CLC E6.1 S4 9h30
+18520772 xích dựa trên cảm biến Duy
+Nguyễn Đức Hoàn on NIR spectroscopy
+quang phổ cận hồng ngoại
+Xây dựng hệ thống nhận Palmprint recognition ThS. Phan Đình
+5 18521526 Lương Văn Trí TS. Phạm Quốc Hùng CLC E6.1 S5 10h00
+dạng lòng bàn tay system Duy
+Thiết kế và xây dựng bộ Design a semi-automatic
+điều khiển hệ máy glovebox machine ThS. Trần Quang
+ThS. Phan Đình
+6 18521246 Nguyễn Trí Phú glovebox - ứng dụng chế controller and an Nguyên, CLC E6.1 S6 10h30
+Duy
+tạo màng vật liệu cho cảm application to make films ThS. Hồ Ngọc Diễm
+biến khí for gas-sensitive materials
+Page 1 of 3
+
+Thời
+TÊN CB HƯỚNG CÁN BỘ PHẢN Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Phòng gian
+DẪN BIỆN tự
+bảo vệ
+Hiện thực phương pháp
+Design hardware for
+18521593, Đỗ Chí Tuấn, nén ảnh mất mát Discrete ThS. Trương
+7 Discrete Cosine Transform TS. Lâm Đức Khải CLC E6.1 C1 13h30
+18521400 Chế Minh Thành Cosine Transform (DCT) Văn Cương
+image compression
+trên phần cứng
+Nghiên cứu, hiện thực
+Nguyễn Ngọc FPGA implementation of a ThS. Trương
+8 19520165 giải thuật phát hiện khuôn ThS. Phan Đình Duy CQĐT E6.1 C2 14h00
+Minh face detection Văn Cương
+mặt trên FPGA
+Cải thiện về năng lượng Improvement power
+Nguyễn Tuấn
+18520928, cho bộ tăng tốc AI tích performance for AI TS. Nguyễn Minh
+9 Khoa, TS. Đỗ Trí Nhựt CLC E6.1 C3 14h30
+18521109 hợp trên Ultra96-V2 cho accelerator on Ultra96-V2 Sơn
+Trần Doãn Minh
+smart camera for smart camera
+Tối ưu streaming cho bộ Streaming optimization for
+Võ Phúc Vinh
+17520621, tăng tốc AI tích hợp trên AI acceleration on FPGA TS. Nguyễn Minh
+10 Khang, TS. Đỗ Trí Nhựt CLC E6.1 C4 15h00
+18520770 Ultra96-v2 cho smart Ultra96-v2 for smart Sơn
+Lê Hoài
+camera camera
+Phòng E6.3
+Thiết kế và xây dựng cánh Design and construction
+Nguyễn Đăng ThS. Trần Quang
+18521296, tay robot delta ứng dụng delta robot arm application TS. Nguyễn
+1 Quang, Nguyên, CLC E6.3 S1 8h00
+18521416 trong phân loại sản phẩm in product classification by Hoài Nhân
+Văn Vĩ Thành ThS. Hồ Ngọc Diễm
+theo màu sắc color
+Designing a robotic hand
+Thiết kế bàn tay robot tích
+18521175, Ngô Thanh Nhân, with integrated camera to TS. Nguyễn
+2 hợp camera mô phỏng bàn TS. Đoàn Duy CQĐT E6.3 S2 8h30
+18521472 Trương Tài Thuận simulate human hand Hoài Nhân
+tay người
+behaviors
+Land cover classification
+Phân loại bề mặt đất bằng
+by designing and
+Trần Cao Khải, mạng nơ ron tích chập ThS. Phạm Thanh
+18520877, implementing TS. Trịnh Lê
+3 Nguyễn Hoàng hiện thực trên FPGA sử Hùng, CLC E6.3 S3 9h00
+18521143 convolutional neural Huy
+Nghĩa dụng kiến trúc ThS. Hồ Ngọc Diễm
+network on FPGA using
+DeeplabV3+
+DeeplabV3+ architecture
+Page 2 of 3
+
+Thời
+TÊN CB HƯỚNG CÁN BỘ PHẢN Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Phòng gian
+DẪN BIỆN tự
+bảo vệ
+Automatic mini shop
+Máy bán hàng siêu thị
+vending machine:
+mini tự động: Tính toán,
+18521049, Phạm Gia Long, Calculation, design, TS. Nguyễn Hoài
+4 thiết kế, lập trình điều TS. Đoàn Duy CLC E6.3 S4 9h30
+18521264 Trần Hoàng Phước programing of control and Nhân
+khiển và thực hiện giao
+implementation of
+dịch tự động
+automatic transactions
+Xây dựng hệ thống giám Building remote
+Nguyễn Kim sát, điều khiển từ xa các monitoring and control
+18521310,
+5 Quốc, thiết bị nhà thông minh system of Zigbee smart ThS. Phan Đình Duy TS. Đoàn Duy CQĐT E6.3 S5 10h00
+18521513
+Nguyễn Tấn Tới Zigbee thông qua website home devices using
+và giọng nói website and voice
+Tích hợp tính toán biên và
+Edge-to-cloud integration
+máy chủ cho bài toán tìm
+for vehicle and person ThS. Trương Văn ThS. Ngô Hiếu
+6 18520819 Chế Quang Huy kiếm phương tiện và con CQĐT E6.3 C1 13h30
+search problems on smart Cương Trường
+người trên khuôn khổ
+camera framework.
+camera thông minh.
+Thiết kế hệ thống tìm Design and implementation
+18520127, Mai Anh Phong, ThS. Trương Văn ThS. Ngô Hiếu
+7 kiếm khuôn mặt trên of face search engine on CQĐT E6.3 C2 14h00
+18520151 Lưu Quyết Thắng Cương Trường
+FPGA FPGA
+Deploy autonomous
+Triển khai các tác vụ nhận
+vehicles perception and
+dạng và lập kế hoạch cho ThS. Phạm Minh TS. Phạm Quốc
+8 18520331 Lý Hồng Phong planning tasks on an CQĐT E6.3 C3 14h30
+xe tự hành trên hệ thống Quân Hùng
+embedded multi-computers
+đa máy tính nhúng
+system
+Ứng dụng nền tảng
+Applying android
+android automotive trong
+automotive to design TS. Đoàn Duy TS. Phạm Quốc
+9 18520756 Trịnh Trọng Hiếu thiết kế ứng dụng camera CLC E6.3 C4 15h00
+camera application for 2 ThS. Bùi Lê Thuận Hùng
+cho đồng hồ số của xe hai
+wheelers cluster
+bánh
+Page 3 of 3

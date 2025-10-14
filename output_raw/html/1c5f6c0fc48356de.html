@@ -1,0 +1,33 @@
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">(function ($) {
+	Drupal.behaviors.backtotop = {
+		attach: function(context) {
+			var exist= jQuery('#backtotop').length;
+      if(exist == 0) {
+        $("body", context).once(function() {
+          $(this).append("&lt;button id='backtotop'&gt;"+Drupal.t(Drupal.settings.back_to_top.back_to_top_button_text)+"&lt;/button&gt;");
+        });
+      }
+			$(window).scroll(function() {
+				if($(this).scrollTop() &gt; Drupal.settings.back_to_top.back_to_top_button_trigger) {
+					$('#backtotop').fadeIn();
+				} else {
+					$('#backtotop').stop(true).fadeOut();
+				}
+			});
+
+      $('#backtotop', context).once(function() {
+			  $(this).click(function() {
+			    $("html, body").bind("scroll mousedown DOMMouseScroll mousewheel keyup", function() {
+            $('html, body').stop();
+          });
+          $('html,body').animate({ scrollTop: 0 }, 1200, 'easeOutQuart', function() {
+            $("html, body").unbind("scroll mousedown DOMMouseScroll mousewheel keyup");
+          });
+          return false;
+			  });
+			});
+		}
+	};
+})(jQuery);
+;
+</pre></body></html>

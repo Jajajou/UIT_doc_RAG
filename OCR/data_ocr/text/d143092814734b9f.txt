@@ -1,0 +1,71 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+DANH SÁCH SINH VIÊN BÁO CÁO ĐỀ CƯƠNG KHÓA LUẬN TỐT NGHIỆP
+Học kỳ 1 - Năm học: 2025 - 2026
+Thời gian bắt đầu hội đồng: Sáng từ 9h30, thứ Tư, ngày 17/09/2025
+Địa điểm: Phòng E6.3
+Thời gian tối đa cho 1 đề tài là 15 phút: 5 phút SV báo cáo (từ 5-7 slide báo cáo) + 10 phút hội đồng góp ý
+Giảng viên Hệ đào Thời Link đề cương chi
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú
+hướng dẫn tạo gian tiết
+Phòng E6.3 - Buổi sáng
+TS. Nguyễn Minh Sơn, TS. Đoàn Duy, ThS. Phan Đình Duy
+Nguyễn Phạm
+21521856 https://drive.google.co
+Quốc Bảo ThS. Đinh
+Phát triển AI bot trong trò chơi Develop AI Bot in First-Person CLC- m/open?id=1FQnBT0
+1 Nguyễn Anh 9h30
+bắn súng góc nhìn thứ nhất (FPS) Shooter (FPS) Games VN DAregB7_OWC04wx
+Nguyễn Trần Dũng
+21521836 wfrmKZXu78v
+Phương Anh
+21520228 Nguyễn Minh Hiền Hệ thống phát hiện ổ gà trên A real-time pothole detection https://drive.google.co
+đường đi theo thời gian thực sử system on the road using ThS. Phan Đình m/open?id=1qBb2irgb
+2 CQĐT 9h45
+dụng kỹ thuật lượng tử hóa trên quantization techniques on Duy MsU8d8CYJ8isYYO
+21520825 Vũ Ngọc Hạnh Raspberry Pi 5 Raspberry Pi 5 MmDocu32P
+Phát triển mô hình YOLO phát Development of YOLO-based https://drive.google.co
+hiện té ngã và xây dựng hệ thống fall detection with real-time ThS. Phan Đình m/open?id=1hG7suj8P
+3 22520077 Trần Ngọc Ánh CQĐT 10h00
+giám sát thời gian thực tích hợp monitoring system on Raspberry Duy kIK20ZtsfO15rUSfTlJ
+Raspberry Pi 5 Pi 5 TUo5A
+https://drive.google.co
+Hiện thực thiết bị quạt thông Implementation of a smart fan ThS. Trần CLC- m/open?id=1S4ZVMR
+4 21522551 Đỗ Thanh Sơn 10h15
+minh ứng dụng mô hình KWS device using a KWS model Hoàng Lộc VN Fa04NpNPxe1VSJlGo
+nW-EWxpwc
+https://drive.google.co
+Nguyễn Lê Hoàng Phát triển mô hình ngôn ngữ thị Design a efficient vision m/open?id=10fi0nr1oa
+5 21521613 TS. Đỗ Trí Nhựt CQĐT 10h30
+Tú giác tiếng Việt language model for Vietnamese guWGE1PKTXQHyS
+8JqqhaHJC
+Page 1 of 2
+
+Giảng viên Hệ đào Thời Link đề cương chi
+STT MSSV Họ tên sinh viên Tên đề tài tiếng việt Tên đề tài tiếng anh Ghi chú
+hướng dẫn tạo gian tiết
+https://drive.google.co
+Design and implementation of an
+Thiết kế hiện thực chip tích hợp m/open?id=1XX-
+integrated RISC-V chip with TS. Nguyễn CLC-
+6 21522147 Lê Quang Huy RISC-V với thuật toán hậu lượng 10h45 oCFD3o1-
+post-quantum algorithm Kyber- Minh Sơn VN
+tử Kyber-512 trên FPGA eMw__RflGjiFpmLuD
+512 on FPGA
+un7n
+https://drive.google.co
+22521307 Nguyễn Nhật Tân Nghiên cứu và thiết kế bộ đồng Research and implementation of m/open?id=1rch6f-
+TS. Nguyễn
+7 xử lý FPU 64-bit theo kiến trúc a 64-bit FPU Coprocessor based CQĐT 11h00 ta9rD-
+Minh Sơn
+22520774 Nguyễn Văn Linh RISC-V on RISC-V architecture hH513TzhIpoTQpAsA-
+dy
+Nguyễn Công Research and development of an https://drive.google.co
+Nghiên cứu và chế tạo xe robot Nộp trễ, đề cương
+21521828 Tuấn Anh autonomous firefighting robot CLC- m/open?id=1Jpmnkaw
+8 chữa cháy tự động ứng dụng TS. Đoàn Duy chi tiết không có ký 11h15
+using SLAM and computer VN 8mgxRE2hYGHbIiGF
+Nguyễn·Quang SLAM và thị giác máy tính duyệt của GVHD
+vision nSgQ8Ca_j
+21522157 Huy
+Page 2 of 2

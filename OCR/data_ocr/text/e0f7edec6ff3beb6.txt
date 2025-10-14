@@ -1,0 +1,217 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 1 - NĂM HỌC 2024-2025
+CHƯƠNG TRÌNH CHẤT LƯỢNG CAO
+Thời gian bắt đầu Hội đồng chấm TTDN CLC: Sáng từ 7h40, thứ Ba ngày 14/01/2025
+Địa điểm: Phòng E3.2, E3.3 và E6.3
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút/ đề tài 1-2 SV. Sinh viên có mặt trước giờ báo cáo 15 phút để chuẩn bị.
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Phòng E3.2
+STT 1
+1 19521440 Nguyễn Văn Duyên Thiết kế vật lý vi mạch cơ bản - NIC ASIC Lab ThS. Hồ Ngọc Diễm
+7h40
+Tìm hiểu luồng thiết kế ASIC và kỹ thuật STT 2
+2 20520932 Nguyễn Lê Thảo Faraday Technology Việt Nam ThS. Hồ Ngọc Diễm
+thiết kế kiểm tra 7h50
+STT 3
+3 20521055 Trần Đình An Design Verification Asic Lab khoa Kỹ thuật máy tính ThS. Hồ Ngọc Diễm
+8h00
+Khóa đào tạo “Thiết kế Vật lý Vi mạch VLSI STT 4
+4 20521851 Võ Văn Sơn Trường Đại Học Công Nghệ Thông Tin ThS. Hồ Ngọc Diễm
+cơ bản” 8h10
+STT 5
+5 20521939 Hoàng An Thế Design verification ASICS LAB ThS. Hồ Ngọc Diễm
+8h20
+Nguyễn Đoàn Thanh Khóa đào tạo kỹ thuật thiết kế vật lý VLSI cơ Khoa Kỹ thuật Máy tính, Trường Đại học STT 6
+6 20521949 ThS. Hồ Ngọc Diễm
+Thiên bản Công nghệ Thông tin 8h30
+Nghiên cứu quy trình thiết kế vật lý STT 7
+7 20521969 Trần Quốc Thịnh Faraday Technology Việt Nam ThS. Hồ Ngọc Diễm
+vi mạch tích hợp 8h40
+STT 8
+8 20521989 Võ Thị Anh Thư Advanced eXtensible Interface Slave Uniquify ThS. Hồ Ngọc Diễm
+8h50
+Page 1 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+STT 9
+9 20522170 Võ Lê Vũ Information Security Công ty Cổ Phần An Ninh Mạng THD ThS. Hồ Ngọc Diễm
+9h00
+Trung tâm Dữ liệu Đại học Quốc gia STT 10
+10 21520558 Đỗ Duy Anh Bộ tính thời gian drone racing ThS. Hồ Ngọc Diễm
+Thành phố Hồ Chí Minh 9h10
+Thiết kế vật lý cho chip xử lý tín hiệu đa tần Khoa Kỹ thuật Máy tính, Trường Đại học STT 11
+11 21520686 Ninh Công Danh ThS. Hồ Ngọc Diễm
+hai âm Công nghệ Thông tin 9h20
+Nguyễn Huỳnh Tuấn STT 12
+12 19522121 ThS. Hồ Ngọc Diễm
+Sang 9h30
+Làm chung
+Design Verification ASIC Lab Khoa Kỹ Thuật Máy Tính
+đề tài
+STT 13
+13 20520138 Trần Lê Anh ThS. Hồ Ngọc Diễm
+9h40
+STT 14
+14 20521078 Phạm Tuấn Anh ThS. Hồ Ngọc Diễm
+9h50
+Làm chung STT 15
+15 20521195 Nguyễn Anh Đức Design Verification Asic Lab khoa Kỹ thuật máy tính ThS. Hồ Ngọc Diễm
+đề tài 10h00
+STT 16
+16 20521283 Trần Văn Hải ThS. Hồ Ngọc Diễm
+10h10
+Kiểm tra thiết bị - Asics Lab STT 17
+17 20522060 Lê Bá Gia Trình Phòng thí nghiệm Asics Lab ThS. Hồ Ngọc Diễm
+và khóa học kiểm tra thiết kế 10h20
+Nộp BCTT
+STT 18
+18 20520500 Đỗ Quang Hiếu Nghiên cứu an toàn định tuyến Chi nhánh trung tâm Internet Việt Nam ThS. Hồ Ngọc Diễm trễ
+10h30
+10/01/2025
+Phòng E3.3
+Kiểm thử phần mềm tại bộ phận phát triển túi Bosch Global Software Technologies STT 1
+1 21521984 Trần Thị Thanh Dung TS. Phạm Quốc Hùng
+khí xe hơi Vietnam 7h40
+STT 2
+2 21522012 Trần Quang Duy Viettel Internship Digital Talent Viettel TS. Phạm Quốc Hùng
+7h50
+Page 2 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Nghiên cứu và tìm hiểu về hệ điều hành, STT 3
+3 21522015 Võ Duy Công ty Cổ phần Bản Viên TS. Phạm Quốc Hùng
+nhân Linux và dự án Yocto 8h00
+Nghiên cứu và phát triển các mô hình trí tuệ Bosch Global Software Technologies STT 4
+4 21522061 Liêu Xuân Hiền TS. Phạm Quốc Hùng
+nhân tạo trên xe ô tô Company Limited 8h10
+Nghiên cứu và đề xuất phương pháp lưu trữ
+VIỆN KHOA HỌC VÀ CÔNG NGHỆ STT 5
+5 21522073 Lê Trần Xuân Hiếu hiệu quả về bộ nhớ cho bộ tăng tốc mô TS. Phạm Quốc Hùng
+NARA. 8h20
+phỏng lượng tử với gate fusion trên FPGA
+STT 6
+6 21522091 Mai Lê Việt Hoàng Thực tập doanh nghiệp Công ty Cổ phần Optima Robotics TS. Phạm Quốc Hùng
+8h30
+Chuẩn đoán tính năng cho hệ thống nhúng Bosch Global Software Technologies STT 7
+7 21522103 Võ Huy Hoàng TS. Phạm Quốc Hùng
+trong xe ô tô Vietnam 8h40
+STT 8
+8 21522206 Nguyễn Đăng Khánh Design Verification ASIC Lab TS. Phạm Quốc Hùng
+8h50
+STT 9
+9 21522214 Trần Gia Khánh Analog Layout XLINK TS. Phạm Quốc Hùng
+9h00
+Phát triển nền tảng mô phỏng hệ thống lái Bosch Global Software Technologies STT 10
+10 21522233 Trần Anh Khoa TS. Phạm Quốc Hùng
+trong ô tô Company Limited 9h10
+Phan Nguyễn Trung Nghiên cứu phát triển ứng dụng trên môi STT 11
+11 21522248 Oryza Systems TS. Phạm Quốc Hùng
+Kiên trường Qt với C++ 9h20
+Khoa Kỹ thuật Máy tính, Trường Đại học STT 12
+12 21522408 Phan Trọng Nhân Thiết kế vật lý IC thu tín hiệu DTMF TS. Phạm Quốc Hùng
+Công nghệ Thông tin 9h30
+CÔNG TY CỔ PHẦN CÔNG NGHỆ STT 13
+13 21522523 Nguyễn Phú Quí Phát triển website Upnewskill TS. Phạm Quốc Hùng
+XONE 9h40
+STT 14
+14 21522550 Đào Cao Sơn Design Verification ASIC LAB TS. Phạm Quốc Hùng
+9h50
+Ứng dụng và phát triển các kỹ thuật kiểm thử
+Bosch Global Software Technologies STT 15
+15 21522568 Nguyễn Thành Tài phần mềm trong Autosar cho dự án của các TS. Phạm Quốc Hùng
+Company Limited 10h00
+nhà sản xuất ô tô
+Page 3 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Thiết kế và hiện thực thuật toán bảo mật Tập đoàn Công nghiệp - Viễn thông Quân Nợ nhận STT 16
+16 21522606 Trương Công Thành TS. Phạm Quốc Hùng
+SHA-256 trên FPGA đội (Viettel Group) xét công ty 10h10
+STT 17
+17 21522612 Bùi Văn Thi Physical design flow SVC Technologies TS. Phạm Quốc Hùng
+10h20
+STT 18
+18 21522631 Dương Gia Thiều Thiết kế vật lý vi mạch cơ bản VLSI ASIC LAB TS. Phạm Quốc Hùng
+10h30
+PHÒNG THÍ NGHIỆM ASIC KHOA KỸ STT 19
+19 21522640 Nguyễn Ngọc Thọ Thiết kế kiểm tra RISC_V TS. Phạm Quốc Hùng
+THUẬT MÁY TÍNH 10h40
+Kiểm thử phần mềm hệ thống túi khí trên xe Bosch Global Software Technologies STT 20
+20 21522664 Trần Thị Ngọc Thúy TS. Phạm Quốc Hùng
+ô tô VietNam 10h50
+STT 21
+21 21522688 Trần Đặng Toàn Proxy xử lý cuộc gọi TMA Solutions TS. Phạm Quốc Hùng
+11h00
+Phòng E6.3
+STT 1
+1 21520746 Nguyễn Tuấn Dũng Tìm hiểu kỹ thuật thiết kế analog layout Công ty TNHH XLINK IC Việt Nam ThS. Ngô Hiếu Trường
+7h40
+Thiết kế vật lý cho chip dual tone multiple Khoa Kỹ thuật Máy tính, Trường Đại học STT 2
+2 21520918 Nguyễn Đăng Huy ThS. Ngô Hiếu Trường
+frequency Công nghệ Thông tin 7h50
+STT 3
+3 21520979 Nguyễn Duy Khanh Kiểm thử phần mềm cho central gateway Bosch Global Software Technologies ThS. Ngô Hiếu Trường
+8h00
+Thiết kế vật lý cho chip dual tone multiple Trung tâm Đổi mới sáng tạo Quốc gia STT 4
+4 21521004 Trần Nguyễn Anh Khoa ThS. Ngô Hiếu Trường
+frequency Việt Nam 8h10
+Tìm hiểu và kiểm tra chức năng hoạt động Công ty TNHH Ampere Computing STT 5
+5 21521085 Đinh Hữu Lộc ThS. Ngô Hiếu Trường
+của các nền tảng máy chủ Vietnam 8h20
+Page 4 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Thiết kế IP chuyển đổi dữ liệu đa mặt phẳng
+STT 6
+6 21521104 Võ Thành Long cho luồng dữ liệu tuần tự từ camera và cảm BOS Semiconductors ThS. Ngô Hiếu Trường
+8h30
+biến trong chip ô tô
+Tìm hiểu và ứng dụng giao thức jtag với bộ STT 7
+7 21521157 Lê Nguyễn Nhựt Nam Uniquify ThS. Ngô Hiếu Trường
+truyền nhận bất đồng bộ 8h40
+Tìm hiểu nghiên cứu về Unit Test trong phát STT 8
+8 21521275 Trần Nguyên Phong Bosch Global Software Technologies ThS. Ngô Hiếu Trường
+triển phần mềm nhúng trên ô tô 8h50
+Nguyễn Đoàn Hoàng CÔNG TY TNHH SYNOPSYS VIỆT STT 9
+9 21521290 Tìm hiểu tổng quan về quá trình thiết kế chip ThS. Ngô Hiếu Trường
+Phúc NAM 9h00
+Tự động hóa quá trình kiểm thử thiết bị trên Bosch Global Software Technologies STT 10
+10 21521296 Phan Hoàng Phúc ThS. Ngô Hiếu Trường
+xe hơi Company Limited 9h10
+Quy trình thiết kế ASIC và hệ thống quản lí STT 11
+11 21521357 Lê Đại Quốc BOS Semiconductors ThS. Ngô Hiếu Trường
+power reset clock trong hệ thống SoC 9h20
+Tìm hiểu nghiên cứu về vi điều khiển STT 12
+12 21521387 Lương Đình Sơn Công ty cổ phần cơ điện tử Đại Thành ThS. Ngô Hiếu Trường
+Arduino Uno 9h30
+STT 13
+13 21521393 Khưu Thành Tài Quy trình thiết kế ASIC Synopsys ThS. Ngô Hiếu Trường
+9h40
+Tìm hiểu và xây dựng môi trường STT 14
+14 21521500 Lâm Duy Thuận Công ty TNHH XLINK IC Việt Nam ThS. Ngô Hiếu Trường
+SystemVerilog 9h50
+Ứng dụng VBA trong việc tạo các báo cáo STT 15
+15 21521672 Lâm Huỳnh Việt Bosch Global Software Technologies ThS. Ngô Hiếu Trường
+tổng hợp 10h00
+Nguyễn Phan Quang Công ty Cổ phần Thương Mại Dịch Vụ STT 16
+16 21521675 Hệ thống chăm sóc nhà yến ThS. Ngô Hiếu Trường
+Vinh Xuất Nhập Khẩu Phan Trần 10h10
+Page 5 of 6
+
+STT MSSV Họ và tên SV Tên đề tài thực tập Tên công ty thực tập GVHD Ghi chú STT báo cáo
+Tìm hiểu về cấu tạo, nguyên lý hoạt động
+STT 17
+17 21521822 Lê Nguyên Anh máy in và quá trình khởi động của máy in SMYOU ThS. Ngô Hiếu Trường
+10h20
+laser
+Công Ty TNHH Công nghệ Tầm nhìn Chưa nộp STT 18
+18 21521854 Nguyễn Hoàng Bảo Xây dựng hệ thống màn nước nghệ thuật ThS. Ngô Hiếu Trường
+thông minh SmartVision BCTT giấy 10h30
+STT 19
+19 21521960 Huỳnh Hữu Đức Android automotive OS integration Bosch Global Software Technologies ThS. Ngô Hiếu Trường
+10h40
+Nghiên cứu và phát triển hệ thống chipyard STT 20
+20 21521970 Trương Duy Đức VNCHIP ThS. Ngô Hiếu Trường
+cho tái sử dụng SoC 10h50
+Page 6 of 6

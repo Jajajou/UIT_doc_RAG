@@ -1,0 +1,1220 @@
+Mẫu số 01
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+----------------
+BẢN ĐĂNG KÝ XÉT CÔNG NHẬN ĐẠT TIÊU
+CHUẨN
+CHỨC DANH: Phó giáo sư
+Mã hồ sơ:.............
+(Nội dung đúng ở ô nào thì đánh dấu vào ô đó: ✓ ; Nội dung không đúng thì để trống: ✓ )
+Đối tượng đăng ký: Giảng viên ✓ ; Giảng viên thỉnh giảng ✓
+Ngành: Công nghệ Thông tin; Chuyên ngành: Khoa học Máy tính
+A. THÔNG TIN CÁ NHÂN
+1. Họ và tên người đăng ký: Nguyễn Tấn Trần Minh Khang
+2. Ngày tháng năm sinh: 11/12/1974; Nam ✓ ; Nữ ✓ ; Quốc tịch: Vietnam;
+Dân tộc: Kinh; Tôn giáo: Không
+3. Đảng viên Đảng Cộng sản Việt Nam: ✓
+4. Quê quán: xã/phường, huyện/quận, tỉnh/thành phố: Điện Phước, Điện Bàn, Quảng Nam
+5. Nơi đăng ký hộ khẩu thường trú (số nhà, phố, phường, quận, thành phố hoặc xã, huyện, tỉnh):
+225/15 Nguyễn Đình Chiểu, Phường 5, Quận 3, TP. Hồ Chí Minh
+6. Địa chỉ liên hệ (ghi rõ, đầy đủ để liên hệ được qua Bưu điện): 225/15 Nguyễn Đình Chiểu, Phường
+5, Quận 3, TP. Hồ Chí Minh
+Điện thoại nhà riêng: 0908601801; Điện thoại di động: 0908601801 ;
+E-mail: khangnttm@uit.edu.vn
+7. Quá trình công tác (công việc, chức vụ, cơ quan):
+Từ 09/1996 đến 01/2012: Giảng Viên tại Trường Đại học Khoa học Tự nhiên, Đại học Quốc gia Thành
+phố Hồ Chí Minh
+Từ 02/2012 đến 06/2025: Giảng Viên Chính tại Trường Đại học Công nghệ Thông tin, Đại học Quốc
+gia Thành phố Hồ Chí Minh
+
+Từ 07/2017 đến 06/2025: Phó Hiệu Trưởng tại Trường Đại học Công nghệ Thông tin, Đại học Quốc
+gia Thành phố Hồ Chí Minh
+Chức vụ hiện nay: Phó Hiệu Trưởng; Chức vụ cao nhất đã qua: Phó Hiệu Trưởng
+Cơ quan công tác hiện nay: Trường Đại học Công nghệ Thông tin, Đại học Quốc gia Thành phố Hồ
+Chí Minh
+Địa chỉ cơ quan: Khu phố 6, Phường Linh Trung, TP. Thủ Đức, TP. Hồ Chí Minh
+Điện thoại cơ quan: (028) 372 520
+Thỉnh giảng tại cơ sở giáo dục đại học (nếu có):
+8. Đã nghỉ hưu từ tháng ... năm ...
+Nơi làm việc sau khi nghỉ hưu (nếu có):
+Tên cơ sở giáo dục đại học nơi hợp đồng thỉnh giảng 3 năm cuối (tính đến thời điểm hết hạn nộp hồ
+sơ):
+9. Trình độ đào tạo:
+- Được cấp bằng ĐH [3] ngày 17 tháng 08 năm 1996, số văn bằng: A102333, ngành: Công nghệ thông
+tin, chuyên ngành: Khoa học máy tinh
+Nơi cấp bằng ĐH [3] (trường, nước): Trường Đại học Khoa học Tự nhiên, ĐHQG-HCM, Việt Nam
+- Được cấp bằng ThS [4] ngày 17 tháng 04 năm 2001, số văn bằng: 18733, ngành: Công nghệ thông
+tin, chuyên ngành: Khoa học máy tinh
+Nơi cấp bằng ThS [4] (trường, nước): Bộ Giáo dục và Đào tạo, Việt Nam
+- Được cấp bằng TS [5] ngày 03 tháng 06 năm 2014, số văn bằng: Số đăng ký: 464, QS:
+06155/33KH2/2013, ngành: Công nghệ thông tin, chuyên ngành: Khoa học máy tính
+Nơi cấp bằng TS [5] (trường, nước): Đại học Quốc gia Thành phố Hồ Chí Minh, Việt Nam
+10. Đã được bổ nhiệm/công nhận chức danh PGS ngày ... tháng ... năm ..., ngành: ...
+11. Đăng ký xét đạt tiêu chuẩn chức danh Phó giáo sư tại HĐGS cơ sở: Trường Đại học Công nghệ
+Thông tin, Đại học Quốc gia Thành phố Hồ Chí Minh
+12. Đăng ký xét đạt tiêu chuẩn chức danh Phó giáo sư tại HĐGS ngành, liên ngành: Công nghệ thông
+tin
+13. Các hướng nghiên cứu chủ yếu:
+Ứng viên tập trung vào hai lĩnh vực chính:
+1) Sắp xếp thời khóa biểu sử dụng cách tiếp cận theo hướng metaheuristic
+2) Thị giác máy tính.
+
+Trong đó, bài toán sắp xếp thời khóa biểu được nghiên cứu trước và trong giai đoạn làm nghiên cứu
+sinh của ứng viên. Các bài toán thuộc lĩnh vực thị giác máy tính được ứng viên quan tâm và nghiên
+cứu ở giai đoạn sau Tiến sĩ.
+14. Kết quả đào tạo và nghiên cứu khoa học:
+- Đã hướng dẫn (số lượng) 0 NCS bảo vệ thành công luận án TS;
+- Đã hướng dẫn (số lượng) 5 HVCH/CK2/BSNT bảo vệ thành công luận án ThS/CK2/BSNT (ứng
+viên chức danh GS không cần kê khai nội dung này);
+- Đã hoàn thành đề tài NCKH từ cấp cơ sở trở lên: 3 cấp Bộ; 1 cấp Cơ sở;
+- Đã công bố (số lượng) 75 bài báo khoa học, trong đó 11 bài báo khoa học trên tạp chí quốc tế có uy
+tín;
+- Đã được cấp (số lượng) 0 bằng độc quyền sáng chế, giải pháp hữu ích;
+- Số lượng sách đã xuất bản 0, trong đó 0 thuộc nhà xuất bản có uy tín;
+- Số lượng tác phẩm nghệ thuật, thành tích huấn luyện, thi đấu thể dục, thể thao đạt giải thưởng quốc
+gia, quốc tế: 0
+15. Khen thưởng (các huân chương, huy chương, danh hiệu):
+TT Tên khen thưởng Cấp khen thưởng Năm khen thưởng
+Không có
+16. Kỷ luật (hình thức từ khiển trách trở lên, cấp ra quyết định, số quyết định và thời hạn hiệu lực của
+quyết định):
+Thời hạn
+TT Tên kỷ luật Cấp ra quyết định Số quyết định
+hiệu lực
+Không có
+B. TỰ KHAI THEO TIÊU CHUẨN CHỨC DANH GIÁO SƯ/PHÓ GIÁO SƯ
+1. Tự đánh giá về tiêu chuẩn và nhiệm vụ của nhà giáo:
+Trong suốt thời gian công tác, ứng viên luôn hoàn thành tốt nhiệm vụ giảng dạy, nghiên cứu theo quy
+định.
+2. Thời gian, kết quả tham gia đào tạo, bồi dưỡng từ trình độ đại học trở lên:
+- Tổng số năm thực hiện nhiệm vụ đào tạo: 27 năm 3 tháng
+- Khai cụ thể ít nhất 06 năm học, trong đó có 03 năm học cuối liên tục tính đến ngày hết hạn nộp hồ
+sơ (ứng viên GS chỉ khai 3 năm cuối liên tục sau khi được công nhận PGS):
+Số lượng Số đồ Số giờ chuẩn Tổng số giờ chuẩn
+Số lượng NCS
+TT Năm học ThS/CK2/BSNT án, khóa gd trực tiếp gd trực tiếp trên
+đã hướng dẫn
+đã hướng dẫn luận tốt trên lớp lớp/số giờ chuẩn gd
+
+nghiệp quy đổi/số giờ
+Chính Phụ ĐH đã ĐH SĐH chuẩn định mức (*)
+HD
+1 2019-2020 1 1 212 212/473,22/64
+2 2020-2021 2 166.5 166.5/336.62/64
+3 2021-2022 1 3 214 214/384/70
+03 năm học cuối
+4 2022-2023 1 1 183 183/390.9/70
+5 2023-2024 172 172/357.9/70
+6 2024-2025 225 225/338.11/70
+(*) - Trước ngày 25/3/2015, theo Quy định chế độ làm việc đối với giảng viên ban hành kèm theo
+Quyết định số 64/2008/QĐ-BGDĐT ngày 28/11/2008, được sửa đổi bổ sung bởi Thông tư số
+36/2010/TT-BGDĐT ngày 15/12/2010 và Thông tư số 18/2012/TT-BGDĐT ngày 31/5/2012 của Bộ
+trưởng Bộ GD&ĐT.
+- Từ 25/3/2015 đến nay, theo Quy định chế độ làm việc đối với giảng viên ban hành kèm theo Thông
+tư số 47/2014/TT-BGDĐT ngày 31/12/2014 của Bộ trưởng Bộ GD&ĐT.
+- Từ ngày 11/9/2020 đến nay, theo Quy định chế độ làm việc của giảng viên cơ sở giáo dục đại học
+ban hành kèm theo Thông tư số 20/2020/TT-BGDĐT ngày 27/7/2020 của Bộ trưởng Bộ GD&ĐT;
+định mức giờ chuẩn giảng dạy theo quy định của thủ trưởng cơ sở giáo dục đại học, trong đó định
+mức của giảng viên thỉnh giảng được tính trên cơ sở định mức của giảng viên cơ hữu.
+3. Ngoại ngữ
+3.1. Ngoại ngữ thành thạo phục vụ chuyên môn: Tiếng Anh
+a) Được đào tạo ở nước ngoài ✓ :
+- Học ĐH ✓ ; Tại nước: ; Từ năm đến năm
+- Bảo vệ luận văn ThS ✓ hoặc luận án TS ✓ hoặc TSKH ✓ ; Tại nước: năm
+b) Được đào tạo ngoại ngữ trong nước ✓ :
+- Trường ĐH cấp bằng tốt nghiệp ĐH ngoại ngữ: số bằng: ; năm cấp:
+c) Giảng dạy bằng tiếng nước ngoài ✓ :
+- Giảng dạy bằng ngoại ngữ:
+- Nơi giảng dạy (cơ sở đào tạo, nước):
+d) Đối tượng khác ✓ ; Diễn giải:
+3.2. Tiếng Anh (văn bằng, chứng chỉ): Trình độ C
+4. Hướng dẫn NCS, HVCH/CK2/BSNT đã được cấp bằng/có quyết định cấp bằng
+
+Trách Ngày,
+Đối tượng nhiệm tháng,
+Thời gian
+hướng dẫn năm được
+Họ tên NCS hoặc hướng Cơ sở
+TT cấp
+HVCH/CK2/BSNT dẫn từ ... đào tạo
+bằng/có
+NCS HVCH/CK2/BSNT Chính Phụ đến ...
+quyết định
+cấp bằng
+Trường
+09/2019 Đại học
+1 Nguyễn Thành Hiệp X X đến Công 04/11/2020
+03/2020 nghệ
+Thông tin
+Trường
+08/2020 Đại học
+2 Dương Phi Long X X đến Công 19/05/2021
+02/2021 nghệ
+Thông tin
+Trường
+03/2021 Đại học
+3 Lương Văn Song X X đến Công 07/12/2021
+09/2021 nghệ
+Thông tin
+Trường
+10/2021 Đại học
+4 Nguyễn Hoàn Mỹ X X đến Công 25/05/2022
+04/2021 nghệ
+Thông tin
+Trường
+12/2022 Đại học
+5 Trương Quốc Dũng X X đến Công 06/11/2023
+06/2023 nghệ
+Thông tin
+Ghi chú: Ứng viên chức danh GS chỉ kê khai thông tin về hướng dẫn NCS.
+5. Biên soạn sách phục vụ đào tạo đại học và sau đại học trở lên
+Phần Xác nhận của cơ
+Loại sách Nhà xuất
+Số tác Chủ biên sở GDĐH (Số văn
+TT Tên sách (CK, GT, bản và năm
+giả biên soạn bản xác nhận sử
+TK, HD) xuất bản
+(từ dụng sách)
+
+trang
+... đến
+trang)
+Không có
+Trong đó, số lượng (ghi rõ các số TT) sách chuyên khảo do nhà xuất bản có uy tín xuất bản và chương
+sách do nhà xuất bản có uy tín trên thế giới xuất bản, mà ứng viên là chủ biên sau PGS/TS: 0 ()
+Lưu ý:
+- Chỉ kê khai các sách được phép xuất bản (Giấy phép XB/Quyết định xuất bản/số xuất bản), nộp lưu
+chiểu, ISBN (nếu có).
+- Các chữ viết tắt: CK: sách chuyên khảo; GT: sách giáo trình; TK: sách tham khảo; HD: sách hướng
+dẫn; phần ứng viên biên soạn cần ghi rõ từ trang…. đến trang…… (ví dụ: 17-56; 145-329).
+6. Thực hiện nhiệm vụ khoa học và công nghệ đã nghiệm thu
+Thời gian
+nghiệm thu
+Tên nhiệm vụ khoa học và công Mã số và Thời gian thực
+TT CN/PCN/TK (ngày, tháng,
+nghệ (CT, ĐT...) cấp quản lý hiện
+năm) / Kết
+quả
+Sau khi bảo vệ học vị tiến sĩ
+Phân tích nội dung ảnh sử dụng C2018-26- 16/04/2018 đến 08/12/2020
+1 CN
+mạng học sâu 03, cấp Bộ 08/12/2020 /Tốt
+Phát hiện đối tượng trong không DS2021-26- 05/02/2021 đến 08/12/2022 /
+2 CN
+ảnh sử dụng mạng học sâu 01, cấp Bộ 08/12/2022 Tốt
+Phát hiện phương tiện và nhận
+B2023-26- 23/02/2023 đến 09/01/2025 /
+3 biết bất thường giao thông trong CN
+01, cấp Bộ 09/01/2025 Xuất sắc
+không ảnh
+Đánh giá các phương pháp dò tìm
+D2-2017-02, 02/12/2017 đến 05/10/2018 /
+4 đối tượng hiện đại nhất cho việc CN
+cấp Cơ sở 05/10/2018 Khá
+hiểu ảnh tài liệu
+- Các chữ viết tắt: CT: Chương trình; ĐT: Đề tài; CN: Chủ nhiệm; PCN: Phó chủ nhiệm; TK: Thư ký.
+7. Kết quả nghiên cứu khoa học và công nghệ đã công bố (bài báo khoa học, báo cáo khoa học, sáng
+chế/giải pháp hữu ích, giải thưởng quốc gia/quốc tế):
+7.1.a. Bài báo khoa học, báo cáo khoa học đã công bố
+Số lần
+Loại Tạp trích
+Tên tạp chí hoặc
+Tên bài Số Là tác chí quốc tế dẫn Tháng,
+kỷ yếu khoa Tập, số,
+TT báo/báo cáo tác giả uy tín: ISI, (không năm công
+học/ISSN hoặc trang
+KH giả chính Scopus (IF, tính tự bố
+ISBN
+Qi) trích
+dẫn)
+
+Trước khi bảo vệ học vị tiến sĩ
+2010 IEEE RIVF
+International
+Conference on
+Automating a
+Computing &
+Real-World
+Communication
+University
+Technologies,
+1 Timetabling 4 Có - Scopus 16 1-6 11/2010
+Research,
+Problem with
+Innovation, and
+Tabu Search
+Vision for the
+Algorithm
+Future (RIVF).
+Electronic ISBN:
+978-1-4244-8075-3
+Simulated 2010 Second
+Annealing- International
+Based Conference on
+Algorithm for a Knowledge and
+2 5 Có - Scopus 8 125-130 10/2010
+Real-World Systems
+High School Engineering. Print
+Timetabling ISBN: 978-1-4244-
+Problem 8334-1
+Advances in
+intelligent
+Using tabu information and
+search for database systems,
+- Scopus
+solving a high Part of the book
+3 4 Có IF: 0.93, 31 305 - 313 11/2010
+school series: Studies in
+Q4
+timetabling Computational
+problem Intelligence.
+Electronic ISBN:
+978-3-642-12090-9
+Memetic Informatics in
+- Scopus
+algorithm for a Control, Automation
+4 4 Có IF: 0.36, 8 1, 67-71 01/2011
+University and Robotics, Part
+Q4
+Course of the book series:
+
+Timetabling Lecture Notes in
+Problem Electrical
+Engineering.
+Electronic ISBN:
+978-3-642-25899-2
+2011 International
+A new hybrid
+Conference on
+GA-Bees
+Intelligent
+algorithm for a
+Computation and
+5 real-world 3 Không - Scopus 11 321-326 12/2011
+Bio-Medical
+university
+Instrumentation.
+timetabling
+Electronic ISBN:
+problem
+978-1-4577-1151-0
+Automated
+Journal of Technical
+Systems for
+Education Science.
+6 Educational 2 Có 6, 2, 1-10 06/2011
+Print ISSN: 2615-
+Timetabling
+9740
+Problems
+2011 IEEE
+The Bees
+International
+Algorithm for a
+Conference on
+Practical
+Computer Science
+7 University 3 Có - Scopus 14 4, 42-47 06/2011
+and Automation
+Timetabling
+Engineering.
+Problem in
+Electronic ISBN:
+Vietnam
+978-1-4244-8728-8
+Variable
+2011 Third
+Neighborhood
+International
+Search for a
+Conference on
+Real-World
+Knowledge and
+8 Curriculum- 5 Có - Scopus 7 157-162 10/2011
+Systems
+based
+Engineering. Print
+University
+ISBN: 978-1-4577-
+Timetabling
+1848-9
+Problem
+
+A hybrid
+algorithm of International Journal
+harmony of Computer
+search and bees Science Issues
+9, 1, 12-
+9 algorithm for a 3 Có (IJCSI) Print ISSN: 39 01/2012
+17
+university 1694-0814
+course Electronic ISSN:
+timetabling 1694-0784
+problem
+2013 International
+Conference on Soft
+Re-Ranking for Computing and
+10 Person Re- 6 Không Pattern Recognition - Scopus 18 304-308 12/2013
+Identification (SoCPaR).
+Electronic ISBN:
+978-1-4799-3400-3
+Sau khi bảo vệ học vị tiến sĩ
+2016 14th
+Exploiting
+International
+generic multi-
+Conference on
+level
+Control,
+convolutional
+11 3 Không Automation, - Scopus 14 1-6 11/2016
+neural
+Robotics and
+networks for
+Vision. Electronic
+scene
+ISBN: 978-1-5090-
+understanding
+3549-6
+Empirical
+Kỷ yếu Hội nghị
+Evaluation Of
+Khoa học Công
+State-Of-The-
+nghệ Quốc gia lần
+Art Object
+thứ X về Nghiên
+12 Detection 4 Không 1 180-184 08/2017
+cứu Cơ bản và Ứng
+Methods For
+dụng Công nghệ
+Document
+Thông tin
+Image
+(FAIR’10). Print
+Understanding
+
+ISBN: 978-604-913-
+614-6
+Vietnam Journal of
+Person re- Tạp chí
+Computer Science.
+identification quốc tế uy
+13 4 Không Print ISSN: 2196- 5 233-244 11/2017
+with mutual re- tín - ESCI
+8888 Electronic
+ranking IF: 0.6, Q3
+ISSN: 2196-8896
+Graph-based 2017 9th
+visual instance International
+mining with Conference on
+geometric Knowledge and
+14 4 Không - Scopus 2 263-268 10/2017
+matching and Systems
+nearest Engineering (KSE).
+candidates Electronic ISBN:
+selection 978-1-5386-3576-6
+12th International
+Conference on
+Ensemble of Ubiquitous
+Deep Object Information
+15 Detectors for 4 Không Management and - Scopus 39 1-6 01/2018
+Page Object Communication
+Detection (IMCOM '18).
+Electronic ISBN:
+978-1-4503-6385-3
+12th International
+Conference on
+Denser Ubiquitous
+trajectories of Information
+16 anchor points 3 Không Management and - Scopus 5 1-8 01/2018
+for action Communication
+recognition (IMCOM '18).
+Electronic ISBN:
+978-1-4503-6385-3
+You always Journal of Visual Tạp chí 60, 206-
+17 5 Không 11 04/2019
+look again: Communication and quốc tế uy 216
+
+Learning to Image tín - SCIE
+detect the Representation. IF: 3.1, Q1
+unseen objects Print ISSN: 1047-
+3203
+Phát hiện xe Hội thảo quốc gia
+hai-ba bánh lần thứ XXII (2019):
+theo thời gian Một số vấn đề chọn
+18 thực sử dụng 3 Không lọc của Công nghệ 234-239 06/2019
+phương pháp thông tin và truyền
+học sâu thông. Print ISBN:
+YOLOv3 978-1-604-67-1287
+Hội thảo quốc gia
+Phát hiện đối lần thứ XXII (2019):
+tượng từ không Một số vấn đề chọn
+19 ảnh sử dụng 4 Không lọc của Công nghệ 227-233 06/2019
+phương pháp thông tin và truyền
+Faster R-CNN thông. Print ISBN:
+978-1-604-67-1287
+Hội thảo quốc gia
+lần thứ XXII (2019):
+SSD For
+Một số vấn đề chọn
+Object
+20 4 Không lọc của Công nghệ 286-292 06/2019
+Detection In
+thông tin và truyền
+Aerial Videos
+thông. Print ISBN:
+978-1-604-67-1287
+YADA: you Multimedia Tools
+Tạp chí
+always dream and Applications. 78, 19,
+quốc tế uy
+21 again for better 5 Không Print ISSN: 1380- 8 28189- 10/2019
+tín - Scopus
+object 7501 Electronic 28208
+IF: 3.0, Q1
+detection ISSN: 1573-7721
+Deep feature Hội thảo khoa học
+extractors for Quốc gia về Công
+22 tiny object 4 Không nghệ Thông tin và 1-8 09/2019
+detection in Ứng dụng trong các
+aerial images lĩnh vực lần thứ 8
+
+(CITA2019). Print
+ISBN: 978-604-84-
+4453-2
+Hội thảo khoa học
+Quốc gia về Công
+Phát hiện
+nghệ Thông tin và
+phương tiện
+Ứng dụng trong các
+23 giao thông 4 Không 182-189 09/2019
+lĩnh vực lần thứ 8
+trong không
+(CITA2019). Print
+ảnh
+ISBN: 978-604-84-
+4453-2
+2020 RIVF
+International
+Data
+Conference on
+Augmentation
+Computing and
+Analysis in
+24 6 Không Communication - Scopus 23 367-369 10/2020
+Vehicle
+Technologies
+Detection from
+(RIVF). Electronic
+Aerial Videos
+ISBN: 978-1-7281-
+5377-3
+Kỷ yếu Hội nghị
+Khoa học Công
+Phát hiện bảng
+nghệ Quốc gia lần
+trong tài liệu
+thứ XIII về Nghiên
+dạng ảnh sử
+25 5 Không cứu cơ bản và ứng 3 461-468 10/2020
+dụng phương
+dụng Công nghệ
+pháp định vị
+thông tin (FAIR’
+góc CornerNet
+2020). Print ISBN:
+978-604-913-614-6
+The Effects of 2020 7th
+Super- NAFOSTED
+Resolution on Conference on
+26 3 Không - Scopus 3 256-260 11/2020
+Object Information and
+Detection Computer Science
+Performance in (NICS). Electronic
+
+an Aerial ISBN: 978-1-7281-
+Image 2506-0
+2020 7th
+NAFOSTED
+Conference on
+Vehicle
+Information and
+27 Detection at 4 Không - Scopus 14 250-255 11/2020
+Computer Science
+Night Time
+(NICS). Electronic
+ISBN: 978-1-7281-
+2506-0
+Hội thảo Quốc gia
+Phát hiện
+lần thứ XXIII
+phương tiện
+(2020) về Một số
+giao thông tại
+vấn đề chọn lọc của
+28 các trung tâm 6 Không 344-349 11/2020
+Công nghệ thông tin
+thành phố lớn
+và Truyền thông.
+với phương
+Print ISBN: 978-
+pháp YOLOv4
+604-67-1744-7
+Hội thảo Quốc gia
+Thử nghiệm
+lần thứ XXIII
+đánh giá một
+(2020) về Một số
+số phương
+vấn đề chọn lọc của
+29 pháp phát hiện 4 Không 441-446 11/2020
+Công nghệ thông tin
+đối tượng trong
+và Truyền thông.
+điều kiện trời
+Print ISBN: 978-
+mưa
+604-67-1744-7
+2021 RIVF
+MC-OCR International
+Challenge Conference on
+2021: Deep Computing and
+30 Learning 4 Không Communication - Scopus 23 94-99 08/2021
+Approach for Technologies
+Vietnamese (RIVF). Electronic
+Receipts OCR ISBN: 978-1-6654-
+0435-8
+
+International
+Conference on
+Parsing Computer Analysis
+Digitized of Images and
+- Scopus
+Vietnamese Patterns, Part of the
+31 5 Không IF: 1.53, 13 382-392 10/2021
+Paper book series: Lecture
+Q2
+Documents Notes in Computer
+Documents Science. Online
+ISBN: 978-3-030-
+89128-2
+Khai Phá Hàm
+Chi Phí Cho Kỷ yếu Hội nghị
+Phát Hiện Khoa học công nghệ
+Phương Tiện Quốc gia lần thứ
+Giao Thông XIV về Nghiên cứu
+32 Trong Không 4 Không Cơ bản và Ứng dụng 128-135 12/2021
+Ảnh Hiện Công nghệ thông tin
+Phương Tiện (FAIR’2021). Print
+Giao Thông ISBN: 978-604-
+Trong Không 9988-60-8
+Ảnh
+hử Nghiệm Hệ
+Kỷ yếu Hội nghị
+Thống Nhận
+Khoa học công nghệ
+Diện Khuôn
+Quốc gia lần thứ
+Mặt Trên
+XIV về Nghiên cứu
+Video Được
+33 3 Không Cơ bản và Ứng dụng 575-580 12/2021
+Stream Từ
+Công nghệ thông tin
+Drone Mặt
+(FAIR’2021). Print
+Trên Video
+ISBN: 978-604-
+Được Stream
+9988-60-8
+Từ Drone
+2021 8th
+Page Object
+NAFOSTED
+34 Detection with 6 Không - Scopus 10 205-210 12/2021
+Conference on
+YOLOF
+Information and
+
+Computer Science
+(NICS). Electronic
+ISBN:978-1-6654-
+1001-4
+Guided
+Anchoring 2021 8th
+Cascade R- NAFOSTED
+CNN: An Conference on
+Intensive Information and
+35 6 Không 8 188-193 12/2021
+Improvement Computer Science
+of R-CNN in (NICS). Electronic
+Vietnamese ISBN:978-1-6654-
+Document 1001-4
+Detection
+2021 8th
+An Augmented
+NAFOSTED
+Embedding
+Conference on
+Spaces
+Information and
+36 Approach for 4 Không - Scopus 172-176 12/2021
+Computer Science
+Text-Based
+(NICS). Electronic
+Image
+ISBN:978-1-6654-
+Captioning
+1001-4
+2021 8th
+UIT-Anomaly: NAFOSTED
+A Modern Conference on
+Vietnam Video Information and
+37 4 Không - Scopus 2 352-357 12/2021
+Dataset for Computer Science
+Annomaly (NICS). Electronic
+Detection ISBN:978-1-6654-
+1001-4
+UIT- 2021 8th
+DroneFog: NAFOSTED
+38 Toward High- 4 Không Conference on - Scopus 4 290-295 12/2021
+Performance Information and
+Object Computer Science
+
+Detection via (NICS). Electronic
+High-Quality ISBN:978-1-6654-
+Aerial Foggy 1001-4
+Dataset
+2021 8th
+VNAnomaly:
+NAFOSTED
+A novel
+Conference on
+Vietnam
+Information and
+39 surveillance 5 Không 266-271 12/2021
+Computer Science
+video dataset
+(NICS). Electronic
+for anomaly
+ISBN: 978-1-6654-
+detection
+1001-4
+Phân Loại Journal of Science
+Phương Tiện and Technology on
+Giao Thông Information and
+40 5 Có 32-39 09/2021
+Việt Nam Communications.
+Trong Không Print ISSN: 2525-
+Ảnh 2224
+TNU Journal of
+Trích Chọn Science and
+Đặc Trưng Và Technology. Print 266, 07,
+41 3 Không 1 05/2021
+Phân Loại Ảnh ISSN: 1859-2171 182-189
+X-Quang Phổi Electronic ISSN:
+2615-9562
+2022 9th
+Foggy-DOTA: NAFOSTED
+An adverse Conference on
+weather dataset Information and
+42 5 Không - Scopus 1 269-274 10/2022
+for object Computer Science
+detection in (NICS). Electronic
+aerial images ISBN: 978-1-6654-
+5422-3
+Empirical 2022 9th
+43 Study One- 4 Có NAFOSTED - Scopus 1 264-268 10/2022
+stage Object Conference on
+
+Detection Information and
+methods for Computer Science
+RoboCup (NICS). Electronic
+Small Size ISBN: 978-1-6654-
+League 5422-3
+2022 9th
+A Multi-scale
+NAFOSTED
+Approach for
+Conference on
+Vietnamese
+Information and
+44 Image 4 Không - Scopus 1 142-147 10/2022
+Computer Science
+Captioning in
+(NICS). Electronic
+Healthcare
+ISBN: 978-1-6654-
+Domain
+5422-3
+2022 9th
+Page Object
+NAFOSTED
+Detection in
+Conference on
+Vietnamese
+Information and
+45 Document 3 Không - Scopus 1 181-186 10/2022
+Computer Science
+Images with
+(NICS). Electronic
+Novel
+ISBN: 978-1-6654-
+Approach
+5422-3
+International
+Towards High Conference on
+Performance Multimedia
+Object Modeling, Part of - Scopus
+46 Detection in 5 Không the book series: IF: 1.53, 9 431-442 06/2022
+Vietnamese Lecture Notes in Q2
+Documents Computer Science.
+Images Electronic ISSN:
+1611-3349
+ACM Computing Tạp chí
+Anomaly
+Surveys (CSUR). quốc tế uy
+Analysis in 55, 7, 1-
+47 5 Không Print ISSN: 0360- tín - SCIE 23 06/2022
+Images and 37
+0300 Electronic IF: 23.8,
+Videos: A
+ISSN: 1557-7341 Q1
+
+Comprehensive
+Review
+DLAFS
+Journal of Computer
+CASCADE R-
+Science and
+CNN An object
+Cybernetics. Print 38, 2,
+48 detector based 3 Có 1 06/2022
+ISSN: 1813-9663 131-145
+on dynamic
+Electronic ISSN:
+label
+2815-5939
+assignment
+Phát hiện bất
+thường dự
+đoán khung
+Tạp chí khoa học
+hình tương lai
+Đại học Cần Thơ.
+kết hợp sota 58, 5A,
+49 3 Không Print ISSN: 1859- 10/2022
+optical-flow 60-68
+2333 Electronic
+model và cải
+ISSN: 2815-5599
+tiến hàm lỗi
+dựa trên
+FenceGan
+Vi-DRSNet A 2022 International
+Novel Hybrid Conference on
+Model for Multimedia
+Vietnamese Analysis and Pattern
+50 5 Không - Scopus 1 1-6 10/2022
+Image Recognition
+Captioning in (MAPR). Electronic
+Healthcare ISBN:978-1-6654-
+Domain 7410-8
+GaDocNet 2022 International
+Rethinking the Conference on
+Anchoring Multimedia
+Scheme and Analysis and Pattern
+51 4 Không - Scopus 1-6 10/2022
+Loss Function Recognition
+in Vietnamese (MAPR). Electronic
+Document ISBN:978-1-6654-
+Images 7410-8
+
+A Vietnamese CTU Journal of
+benchmark for Innovation and
+vehicle Sustainable
+14, 3, 45-
+52 detection and 2 Có Development. Print 3 11/2022
+52
+real-time ISSN: 1939-1404
+empirical Electronic ISSN:
+evaluation 2815-6412
+Empirical
+Journal of Computer
+study of feature
+Science and
+extraction
+Cybernetics. Print 38(4)
+53 approaches for 1 Có 1 12/2022
+ISSN: 1813-9663 327-346
+image
+Electronic ISSN:
+captioning in
+2815-5939
+Vietnamese
+Evaluating the
+influence of Vietnam Journal of
+backbone Science and
+network Technology. Print 61, 4,
+54 1 Có 04/2023
+architectures ISSN: 2525-2518 708-722
+for object Electronic ISSN:
+detection in 2815-5874
+aerial images
+International Journal
+A brief review
+on Document
+of state-of-the-
+Analysis and Tạp chí
+art object
+Recognition quốc tế uy 26, 4,
+55 detectors on 5 Có 8 04/2023
+(IJDAR). Print tín - SCIE 433-451
+benchmark
+ISSN: 1433-2833 IF: 1.8, Q1
+document
+Electronic ISSN:
+images datasets
+1433-2825
+IEEE Journal of
+UIT-ADrone A Tạp chí
+Selected Topics in
+Novel Drone quốc tế uy 16, 5590-
+56 4 Có Applied Earth 22 06/2023
+Dataset for tín - SCIE 5601
+Observations and
+Traffic IF: 4.7, Q1
+Remote Sensing.
+
+Anomaly Print ISSN: 1939-
+Detection 1404 Electronic
+ISSN: 2151-1535
+The Object
+detection by
+the
+CTU Journal of
+combination of
+Innovation and
+generic roi
+Sustainable
+extractor and 15, 1, 49-
+57 5 Không Development. Print 08/2023
+dynamic R- 57
+ISSN: 1939-1404
+CNN with
+Electronic ISSN:
+side-aware
+2815-6412
+boundary
+localization in
+aerial images
+Kỷ yếu Hội nghị
+Khoa học công nghệ
+Nghiên cứu sử
+Quốc gia lần thứ
+dụng mô hình
+XVI về Nghiên cứu
+DETR với bài
+58 3 Có cơ bản và ứng dụng 413-419 09/2023
+toán phát hiện
+Công nghệ thông tin
+đối tượng trong
+(FAIR’2023). Print
+không ảnh
+ISBN: 978-604-357-
+201-8
+Kỷ yếu Hội nghị
+Phát hiện đối Khoa học công nghệ
+tượng nhỏ Quốc gia lần thứ
+trong ảnh từ XVI về Nghiên cứu
+59 trên không sử 3 Có cơ bản và ứng dụng 428-434 09/2023
+dụng phương Công nghệ thông tin
+pháp Oriented (FAIR’2023). Print
+RepPoints ISBN: 978-604-357-
+201-8
+Phát hiện Kỷ yếu Hội nghị
+60 2 Không 435-441 09/2023
+phương tiện Khoa học công nghệ
+
+giao thông Quốc gia lần thứ
+trong không XVI về Nghiên cứu
+ảnh bằng mô cơ bản và ứng dụng
+hình YOLOv5 Công nghệ thông tin
+nhỏ gọn (FAIR’2023). Print
+ISBN: 978-604-357-
+201-8
+CASQ:
+Enhancing 2023 International
+Human-Object Conference on
+Interaction Multimedia
+Detection via Analysis and Pattern
+61 4 Không - Scopus 1-6 10/2023
+Supplementary Recognition
+Semantic (MAPR). Electronic
+Information for ISBN: 979-8-3503-
+Interaction 2741-0
+Queries
+Improving
+human–object
+interaction Pattern Recognition
+Tạp chí
+with auxiliary Letters. Print ISSN:
+quốc tế uy 175, 38-
+62 semantic 4 Có 0167-8655 3 11/2023
+tín - SCIE 43
+information Electronic ISSN:
+IF: 3.9, Q1
+and enhanced 1872-7344
+instance
+representation
+SOICT '23:
+Optimizing Proceedings of the
+Results in 12th International
+Aerial Images Symposium on
+63 through Post- 4 Không Information and - Scopus 1 409-414 12/2023
+Processing Communication
+Techniques on Technology.
+YOLOv7 Electronic ISBN:
+979-8-4007-0891-6
+
+Science and
+64 Feature
+Technology
+extraction
+Development
+semilearning
+Journal (Journal of 26, 4,
+and augmented
+64 1 Có Viet Nam National 3128- 12/2023
+representation
+University Ho Chi 3138
+for image
+Minh City, Viet
+captioning in
+Nam). Print ISSN:
+crowd scenes
+1859-0128
+Data Journal of Computer
+augmentation Science and
+analysis of Cybernetics. Print
+65 1 Có 1 291-312 10/2023
+vehicle ISSN: 1813-9663
+detection in Electronic ISSN:
+aerial images 2815-5939
+Transformer-
+IEEE Transactions
+based Spatio-
+on Circuits and
+Temporal Tạp chí
+Systems for Video
+Unsupervised quốc tế uy 14, 8, 1-
+66 4 Có Technology. Print 14 03/2024
+Traffic tín - SCIE 19
+ISSN: 1051-8215
+Anomaly IF: 8.3, Q1
+Electronic ISSN:
+Detection in
+1558-2205
+Aerial Videos
+UIT-
+MLReceipts: A
+Multilingual REV Journal on
+Benchmark for Electronics and
+67 Detecting and 1 Có Communications. 1 14, 1, 1-9 03/2024
+Recognizing Print ISSN: 1859-
+Key 378X
+Information in
+Receipts
+Improving 2024 Tenth
+68 Human-Object 5 Không International - Scopus 504-509 07/2024
+Interaction Conference on
+
+Detection via Communications
+Streamlining and Electronics
+Matching (ICCE). Electronic
+Procedure and ISBN: 979-8-3503-
+Enhancing 7979-2
+Interaction
+Query
+Kỷ yếu Hội nghị
+Phân tích ảnh
+Khoa học công nghệ
+hưởng của thời
+Quốc gia lần thứ
+tiết bất lợi đối
+XVII về Nghiên cứu
+với phát hiện
+69 3 Không cơ bản và ứng dụng 08/2024
+bất thường
+Công Nghệ thông
+trong giao
+tin (FAIR’2024).
+thông từ video
+Print ISBN: 978-
+trên không
+604-357-304-6
+2024 International
+ICViT:
+Conference on
+Integrated
+Multimedia
+Framework for
+Analysis and Pattern
+70 Complexity 3 Không - Scopus 1-6 08/2024
+Recognition
+Reduction in
+(MAPR). Electronic
+Vision
+ISBN: 979-8-3503-
+Transformer
+6843-7
+Transformer
+with multi- Machine Vision and
+Tạp chí
+level grid Applications Print
+quốc tế uy
+71 features and 3 Có ISSN: 0932-8092 35, 5, 118 09/2024
+tín - SCIE
+depth pooling Electronic ISSN:
+IF: 2.4, Q2
+for image 1432-1769
+captioning
+An Empirical 2024 13th
+Study of a International
+72 7 Không - Scopus 1-6 11/2024
+Shape- Conference on
+Adaptive Control, Automation
+
+Approach in and Information
+Aerial Object Sciences (ICCAIS).
+Detection Electronic ISBN:
+979-8-3315-4204-7
+Information and
+Communication
+Technology: 13th
+International
+Traffic
+Symposium (SOICT
+Anomaly
+2024), Part of the - Scopus
+Detection
+73 3 Có book series: IF: 0.58, 235-245 12/2024
+Under Extreme
+Communications in Q4
+Weather from
+Computer and
+Aerial Images
+Information
+Science. Online
+ISBN: 978-981-96-
+4285-4
+YOSCA:
+Vietnam Journal of
+Confidence Tạp chí
+Computer Science.
+Adjustment for quốc tế uy
+74 2 Có Print ISSN: 2196- 1-20 12/2024
+Better Object tín - ESCI
+8888 Electronic
+Detection in IF: 0.6, Q3
+ISSN: 2196-8896
+Aerial Images
+A
+Tạp chí
+comprehensive Computer Science
+quốc tế uy
+review of few- Review. Print ISSN: 57,
+75 8 Có tín - SCIE 01/2025
+shot object 1574-0137 Online 100760
+IF: 13.3,
+detection on ISSN: 1876-7745
+Q1
+aerial imagery
+- Trong đó: Số lượng (ghi rõ các số TT) bài báo khoa học đăng trên tạp chí khoa học quốc tế có uy tín
+mà ƯV là tác giả chính sau PGS/TS: 7 ( [55] [56] [62] [66] [71] [74] [75] )
+7.1.b. Bài báo khoa học, báo cáo khoa học đã công bố (Dành cho các chuyên ngành thuộc ngành KH
+An ninh và KH Quân sự được quy định tại Quyết định số 25/2020/QĐ-TTg)
+Tên bài Là tác Tên tạp chí hoặc kỷ Tháng,
+Số tác Thuộc danh Tập, số,
+TT báo/báo cáo giả yếu khoa học/ISSN năm
+giả mục tạp chí trang
+KH chính hoặc ISBN công bố
+
+uy tín của
+ngành
+Không có
+- Trong đó: Số lượng (ghi rõ các số TT) bài báo khoa học đăng trên tạp chí khoa học uy tín của ngành
+mà ƯV là tác giả chính sau PGS/TS: 0
+7.2. Bằng độc quyền sáng chế, giải pháp hữu ích
+Tác giả
+Tên bằng độc quyền sáng chế, giải Tên cơ quan Ngày tháng Số tác
+TT chính/ đồng
+pháp hữu ích cấp năm cấp giả
+tác giả
+Không có
+- Trong đó: Số lượng (ghi rõ các số TT) bằng độc quyền sáng chế, giải pháp hữu ích được cấp, là tác
+giả chính sau PGS/TS:
+7.3. Tác phẩm nghệ thuật, thành tích huấn luyện, thi đấu thể dục thể thao đạt giải thưởng quốc gia,
+quốc tế (đối với ngành Văn hóa, nghệ thuật, thể dục thể thao)
+Tên tác phẩm nghệ thuật, Cơ quan/tổ Văn bản công nhận
+Giải thưởng cấp Số tác
+TT thành tích huấn luyện, thi chức công (số, ngày, tháng,
+Quốc gia/Quốc tế giả
+đấu TDTT nhận năm)
+Không có
+- Trong đó: Số lượng (ghi rõ các số TT) tác phẩm nghệ thuật, thành tích huấn luyện, thi đấu đạt giải
+thưởng quốc tế, là tác giả chính/hướng dẫn chính sau PGS/TS:
+8. Chủ trì hoặc tham gia xây dựng, phát triển chương trình đào tạo hoặc chương trình/dự án/đề tài
+nghiên cứu, ứng dụng khoa học công nghệ của cơ sở giáo dục đại học đã được đưa vào áp dụng thực
+tế:
+Chương trình đào
+Vai trò ƯV Văn bản giao Cơ quan thẩm Văn bản đưa
+tạo, chương trình
+TT (Chủ trì/ nhiệm vụ (số, định, đưa vào vào áp dụng Ghi Chú
+nghiên cứu ứng
+Tham gia) ngày, tháng, năm) sử dụng thực tế
+dụng KHCN
+Không có
+9. Các tiêu chuẩn không đủ so với quy định, đề xuất công trình khoa học (CTKH) thay thế*:
+a) Thời gian được bổ nhiệm PGS
+Được bổ nhiệm PGS chưa đủ 3 năm: thiếu (số lượng năm, tháng):
+b) Hoạt động đào tạo
+- Thâm niên đào tạo chưa đủ 6 năm (ƯV PGS), còn thiếu (số lượng năm, tháng):
+- Giờ giảng dạy
++ Giờ chuẩn giảng dạy trực tiếp trên lớp không đủ, còn thiếu (năm học/số giờ thiếu):
++ Giờ chuẩn giảng dạy quy đổi không đủ, còn thiếu (năm học/số giờ thiếu):
+- Hướng dẫn chính NCS/HVCH,CK2/BSNT:
++ Đã hướng dẫn chính 01 NCS đã có Quyết định cấp bằng TS (ƯV chức danh GS) ✓
+
+Đề xuất CTKH để thay thế tiêu chuẩn hướng dẫn 01 NCS được cấp bằng TS bị thiếu:
++ Đã hướng dẫn chính 01 HVCH/CK2/BSNT đã có Quyết định cấp bằng ThS/CK2/BSNT (ƯV chức
+danh PGS) ✓
+Đề xuất CTKH để thay thế tiêu chuẩn hướng dẫn 01 HVCH/CK2/BSNT được cấp bằng
+ThS/CK2/BSNT bị thiếu:
+c) Nghiên cứu khoa học
+- Đã chủ trì 01 nhiệm vụ KH&CN cấp Bộ (ƯV chức danh GS) ✓
+Đề xuất CTKH để thay thế tiêu chuẩn chủ trì 01 nhiệm vụ KH&CN cấp Bộ bị thiếu:
+- Đã chủ trì không đủ 01 nhiệm vụ KH&CN cấp cơ sở (ƯV chức danh PGS) ✓
+Đề xuất CTKH để thay thế tiêu chuẩn chủ trì 01 nhiệm vụ KH&CN cấp cơ sở bị thiếu:
+- Không đủ số CTKH là tác giả chính sau khi được bổ nhiệm PGS hoặc được cấp bằng TS:
++ Đối với ứng viên chức danh GS, đã công bố được: 03 CTKH ✓ ; 04 CTKH ✓
+Đề xuất sách CKUT/chương sách của NXB có uy tín trên thế giới là tác giả chính thay thế cho việc
+ƯV không đủ 05 CTKH là tác giả chính theo quy định:
++ Đối với ứng viên chức danh PGS, đã công bố được: 02 CTKH ✓
+Đề xuất sách CKUT/chương sách NXB có uy tín trên thế giới là tác giả chính thay thế cho việc ƯV
+không đủ 03 CTKH là tác giả chính theo quy định:
+Chú ý: Đối với các chuyên ngành bí mật nhà nước thuộc ngành KH An ninh và KH Quân sự, các tiêu
+chuẩn không đủ về hướng dẫn, đề tài khoa học và công trình khoa học sẽ được bù bằng điểm từ các
+bài báo khoa học theo quy định tại Quyết định số 25/2020/QĐ-TTg.
+d) Biên soạn sách phục vụ đào tạo (đối với ứng viên GS)
+- Không đủ điểm biên soạn sách phục vụ đào tạo:
+- Không đủ điểm biên soạn giáo trình và sách chuyên khảo:
+C. CAM ĐOAN CỦA NGƯỜI ĐĂNG KÝ XÉT CÔNG NHẬN ĐẠT TIÊU CHUẨN CHỨC
+DANH:
+Tôi cam đoan những điều khai trên là đúng, nếu sai tôi xin chịu trách nhiệm trước pháp luật.
+TP. Hồ Chí Minh, ngày 27 tháng 06 năm 2025
+Người đăng ký
+(Ký và ghi rõ họ tên)
+Nguyễn Tấn Trần Minh Khang

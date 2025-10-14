@@ -1,0 +1,30 @@
+# OCR and PDF Processing Requirements
+# Install with: pip install -r requirements_ocr.txt
+
+# PDF Text Extraction
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# OCR (Optical Character Recognition)
+pytesseract>=0.3.10
+pdf2image>=1.16.3
+Pillow>=10.0.0
+
+# Additional Notes:
+# 
+# For Windows users, you also need to install:
+# 
+# 1. Tesseract OCR Engine:
+#    Download from: https://github.com/UB-Mannheim/tesseract/wiki
+#    Install and add to PATH, or set path in script
+#    Default: C:\Program Files\Tesseract-OCR\tesseract.exe
+#
+# 2. Poppler (for pdf2image):
+#    Download from: https://github.com/oschwartz10612/poppler-windows/releases/
+#    Extract and add bin\ folder to PATH
+#    Example: C:\poppler-xx.xx\Library\bin
+#
+# For Vietnamese OCR support:
+#    Download Vietnamese language data for Tesseract:
+#    https://github.com/tesseract-ocr/tessdata/blob/main/vie.traineddata
+#    Place in: C:\Program Files\Tesseract-OCR\tessdata\

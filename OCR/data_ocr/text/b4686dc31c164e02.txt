@@ -1,0 +1,319 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH HỘI ĐỒNG CHẤM KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2024 - 2025 - Thời gian bảo vệ: 14-15/07/2025
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+Phòng E6.1
+Design of a RISC-V 32-bit
+21521391 Đào Phước Tài Thiết kế hệ thống SoC dựa trên
+processor-based SoC with ThS. Ngô Hiếu ThS. Hồ Ngọc
+1 bộ xử lý RISC-V 32-bit với mã CQĐT 14/07/2025 E6.1 S1 8h00
+H.264 intra-frame encoding on Trường Diễm
+21520301 Nguyễn Anh Khôi hoá H.264 nội khung trên FPGA
+FPGA
+Research on the
+21522597 Mai Đức Thành
+Nghiên cứu triển khai và đánh giá implementation and evaluation CQĐT
+ThS. Ngô Hiếu ThS. Hồ Ngọc
+2 thuật toán nén ảnh tối ưu cho lưu of an optimal image Đổi tên đề 14/07/2025 E6.1 S2 8h30
+Trường Diễm
+trữ trên FPGA compression algorithm for tài
+21521985 Nguyễn Văn Dược
+storage on FPGA
+21520603 Đỗ Trí Gia Bảo
+Tối ưu hóa mô hình YOLO v3- Optimizing the YOLO v3-tiny ThS. Ngô Hiếu ThS. Hồ Ngọc
+3 CQĐT 14/07/2025 E6.1 S3 9h00
+tiny sử dụng DPU trên FPGA model using DPU on FPGA Trường Diễm
+21520615 Nguyễn Minh Bảo
+Nguyễn Hà Nhật
+21521343
+Quang Tối ưu hóa mô hình CNNs trên Optimizing CNN models on ThS. Ngô Hiếu ThS. Hồ Ngọc
+4 CQĐT 14/07/2025 E6.1 S4 9h30
+Nguyễn Minh FPGA sử dụng OpenVINO FPGA using OpenVINO Trường Diễm
+21520412
+Quân
+Hardware implementation for
+Hiện thực phần cứng hệ thống
+Lê Công Khởi traffic sign classification TS. Lâm Đức ThS. Tạ Trí
+5 21520752 phân loại biển báo giao thông sử CQĐT 14/07/2025 E6.1 S5 10h00
+Dương system using convolutional Khải Đức
+dụng mạng nơ ron tích chập
+neural network
+21521966 Phạm Trí Đức
+Thiết kế bộ vi xử lý 2 lõi dựa trên Designing a dual-core CPU CLC-VN
+ThS. Phạm TS. Trần Thị
+6 kiến trúc tập lệnh RISC-V based-on the RISC-V Đổi tên đề 14/07/2025 E6.1 C1 13h30
+Minh Quân Điểm
+RV32ICMFA RV32ICMFA instruction set tài
+21521393 Khưu Thành Tài
+Page 1 of 6
+
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+Designing and implementing
+Thiết kế và hiện thực mô hình
+an efficient model for drivable CLC-VN
+phân đoạn làn đường và nhận ThS. Phạm TS. Trần Thị
+7 21522703 Lê Đức Trí area segmentation and lane Đổi tên đề 14/07/2025 E6.1 C2 14h00
+diện vạch kẻ đường theo thời gian Minh Quân Điểm
+detection on real-time edge tài
+thực trên thiết bị biên
+devices
+Nghiên cứu và triển khai hệ thống Research and build a secure
+TS. Nguyễn ThS. Trương
+8 21520416 Trần Hải Quang SoC bảo mật với AES-128 trên SoC system with AES-128 on CQĐT 14/07/2025 E6.1 C3 14h30
+Minh Sơn Văn Cương
+nền tảng RISC-V the RISC-V platform
+21521811 Nguyễn Thành An CQĐT
+Nghiên cứu và phát triển bộ kiểm Research and development of a TS. Nguyễn ThS. Trương
+9 Đổi tên đề 14/07/2025 E6.1 C4 15h00
+Nguyễn Đặng Anh thử RISC-V SoC test suite for RISC-V SoC Minh Sơn Văn Cương
+21520312 tài
+Kiệt
+21521640 Vũ Hoàng Tuấn Design of a 32-bit RISC-V
+Thiết kế vi điều khiển 32 bit lõi ThS. Trương
+10 core microcontroller with ThS. Tạ Trí Đức CQĐT 14/07/2025 E6.1 C5 15h30
+Trần Hoàng Gia RISC-V tích hợp mã hóa NTRU Văn Cương
+21520936 NTRU encryption
+Huy
+Phòng E6.3
+Applying the Inception
+Ứng dụng mô hình mạng
+Lê Nguyễn Nhựt Network Model for Heartbeat TS. Trần Thị TS. Nguyễn
+1 21521157 Inception để phân loại nhịp tim CLC-VN 14/07/2025 E6.3 S1 8h00
+Nam Classification on an SoC- Điểm Hoài Nhân
+trên SoC-FPGA
+FPGA
+ThS. Phạm
+Nguyễn Gia Bảo Minh Quân, TS. Nguyễn
+2 21520366 Phát triển trình mô phỏng SoC SoC simulator development CQĐT 14/07/2025 E6.3 S2 8h30
+Ngọc KS. Trần Đại Hoài Nhân
+Dương
+Hoàng Phan Thành ThS. Phạm
+21520599 Thiết kế và hiện thực bộ tăng tốc Designing and implementing CQĐT
+Bách Minh Quân, TS. Nguyễn
+3 phần cứng trên FPGA phục vụ an FPGA-based hardware Đổi tên đề 14/07/2025 E6.3 S3 9h00
+Nguyễn Thanh KS. Trần Đại Hoài Nhân
+21520293 quá trình mô phỏng gene accelerator for gene simulation tài
+Khoa Dương
+Nguyễn Quốc Designing a cache coherence ThS. Phạm
+21521810 Thiết kế bộ điều khiển đồng bộ CQĐT
+Trường An controller for multiprocessor Minh Quân, TS. Nguyễn
+4 cache cho hệ thống đa vi xử lý Đổi tên đề 14/07/2025 E6.3 S4 9h30
+Dương Hoàng systems based on RISC-V KS. Trần Đại Hoài Nhân
+21522750 dựa trên lõi CPU RISC-V RV32I tài
+Tuấn RV32I CPU core Dương
+Page 2 of 6
+
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+Nguyễn Bính ThS. Phạm
+21522216 Designing a CPU core using CQĐT
+Khiêm Thiết kế vi xử lý dựa trên kiến Minh Quân, TS. Nguyễn
+5 the RISC-V RV32IV Đổi tên đề 14/07/2025 E6.3 S5 10h00
+trúc tập lệnh RISC-V RV32IV KS. Trần Đại Hoài Nhân
+21521612 Nguyễn Đức Tú instruction set tài
+Dương
+Nguyễn Minh
+21521330 Research, hardware design of
+Quân Nghiên cứu, thiết kế ASIP cho TS. Lâm Đức ThS. Tạ Trí
+6 ASIP for Deep Learning CQĐT 14/07/2025 E6.3 C1 13h30
+Nguyễn Trần Xuân bài toán Deep Learning Khải Đức
+21520601 application.
+Bách
+TS. Phạm Hoài
+Phát triển bộ đồng xử lý mật mã Developing a RISC-V-based
+Lê Nguyễn Hương Luân, ThS. Tạ Trí
+7 21521521 hậu lượng tử dựa trên RISC-V post-quantum cryptographic CQĐT 14/07/2025 E6.3 C2 14h00
+Tiên TS. Lâm Đức Đức
+trên FPGA coprocessor on FPGA
+Khải
+Phát triển bộ tăng tốc mô phỏng Developing a power-efficient, TS. Phạm Hoài
+Đặng Quỳnh lượng tử dựa trên hàm sóng có configurable wave function- Luân, ThS. Tạ Trí
+8 21522016 CQĐT 14/07/2025 E6.3 C3 14h30
+Duyên thể cấu hình, tiết kiệm năng lượng based quantum simulation TS. Lâm Đức Đức
+trên FPGA accelerator on FPGA Khải
+TS. Phạm Hoài
+Phát triển bộ tăng tốc mô phỏng Developing an energy-efficient
+Luân, TS. Trần Thị
+9 21522073 Lê Trần Xuân Hiếu lượng tử tiết kiệm năng lượng quantum simulation CLC-VN 14/07/2025 E6.3 C4 15h00
+TS. Lâm Đức Điểm
+trên FPGA accelerator on FPGA
+Khải
+Developing a high-speed TS. Phạm Hoài
+Phát triển bộ tăng tốc mã hóa hậu
+SPHINCS+ post-quantum Luân, TS. Trần Thị
+10 21522261 Phạm Anh Kiệt lượng tử SPHINCS+ tốc độ cao CLC-VN 14/07/2025 E6.3 C5 15h30
+cryptography accelerator on TS. Lâm Đức Điểm
+trên FPGA
+FPGA Khải
+Phòng E4.4
+Evaluating the efficiency of
+Đánh giá hiệu quả thiết kế CNN CLC-VN
+CNN design on SoC system TS. Trần Thị PGS. TS. Trịnh
+1 21521913 Lương Văn Đại trên hệ thống SoC qua phương Đổi tên đề 14/07/2025 E4.4 S1 8h00
+through self-design and HLS Điểm Lê Huy
+pháp tự thiết kế và HLS tài
+methods
+CLC-VN
+Phát triển bộ kiểm thử cho CPU Developing a test suite for ThS. Phạm PGS. TS. Trịnh
+2 20521078 Phạm Tuấn Anh Đổi tên đề 14/07/2025 E4.4 S2 8h30
+RISC-V RV32SI RISC-V RV32SI CPU Minh Quân Lê Huy
+tài
+Page 3 of 6
+
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+21522550 Đào Cao Sơn
+Thiết kế bộ xử lý ngoại lệ cho bộ Designing exception handling ThS. Phạm PGS. TS. Trịnh
+3 CLC-VN 14/07/2025 E4.4 S3 9h00
+Trần Thái Nhật xử lý RISC-V RV32i for an RV32i processor Minh Quân Lê Huy
+21521060
+Lâm
+Implement a RISC-V ThS. Tạ Trí
+Thiết kế vi điều khiển RISC-V
+Nguyễn Đoàn microcontroller with hardware Đức, PGS. TS. Trịnh
+4 21521290 tích hợp mã hóa cứng hướng đến CLC-VN 14/07/2025 E4.4 S4 9h30
+Hoàng Phúc encryption aimed at reducing ThS. Phạm Lê Huy
+tiết kiệm năng lượng
+power consumption Minh Quân
+Nguyễn Thường
+21522498 ThS. Phạm
+Quân
+Thiết kế bộ tăng tốc xử lý lượng Design quantum processing Minh Quân, ThS. Trương
+5 CQĐT 14/07/2025 E4.4 S5 10h00
+tử operator accelerator KS. Trần Đại Văn Cương
+Nguyễn Vũ Anh
+21520350 Dương
+Minh
+Nguyễn Thân Chí
+21520745 Thiết kế phần cứng phát hiện Hardware design for abnormal
+Dũng
+nhịp tim bất thường trong tín hiệu beat detection in ECG signal TS. Trần Thị ThS. Ngô Hiếu
+6 CQĐT 14/07/2025 E4.4 C1 13h30
+điện tâm đồ dựa trên thuật toán base on template cluster Điểm Trường
+Nguyễn Thành
+21522793 phân cụm mẫu algorithm
+Vinh
+Design of an Optimized RISC-
+Thiết kế vi xử lý RISC-V tối ưu
+V Processor for Convolutional TS. Trần Thị ThS. Ngô Hiếu
+7 21521254 Nguyễn Quốc Pháp cho bài toán mạng thần kinh tích CQĐT 14/07/2025 E4.4 C2 14h00
+Neural Network Tasks on Điểm Trường
+chập trên FPGA
+FPGA
+Tổng hợp bậc cao từ Python đến High-level synthesis from
+TS. Trần Thị ThS. Ngô Hiếu
+8 21521351 Võ Văn Quang RTL cho mạng nơ-ron sâu trên hệ Python to RTL for deep neural CQĐT 14/07/2025 E4.4 C3 14h30
+Điểm Trường
+thống SoC network on SoC system
+Implementation of an ECG
+21522580 Kha Quốc Thái
+Hiện thực ứng dụng phân loại tín Signal Classification
+TS. Trần Thị ThS. Ngô Hiếu
+9 hiệu ECG dựa trên mạng học sâu Application Based on Deep CQĐT 14/07/2025 E4.4 C4 15h00
+Điểm Trường
+Nguyễn Hoàng từ mức logic đến mức vật lý Learning from the Logic Level
+21520447
+Thân to the Physical Level
+Thiết kế và mô phỏng mô hình Comsol multiphysics software
+21521970 Trương Duy Đức TS. Trần Quang
+điện di ion ngược bằng phần mềm application in modeling ThS. Nguyễn
+Nguyên,
+10 Comsol dựa trên phương pháp reverse iontophoresis for Duy Xuân CLC-VN 14/07/2025 E4.4 C5 15h30
+TS. Phạm Quốc
+Nguyễn Phúc Song theo dõi đường huyết không xâm noninvasive glycemic Bách
+21522686 Hùng
+Toàn (CQĐT) lấn monitoring
+Page 4 of 6
+
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+Phòng E11.2
+Design of a verification
+Thiết kế môi trường kiểm định CLC-VN
+environment for RISC-V TS. Trần Thị
+1 21522012 Trần Quang Duy CPU RISC-V RV64I với bộ mở TS. Đoàn Duy Đổi tên đề 14/07/2025 E11.2 S1 8h00
+RV64I CPU with I, M, and C Điểm
+rộng I, M, C tài
+extensions
+ThS. Phan Đình
+Nghiên cứu và thiết kế vi mạch
+Nguyễn Xuân Study on designing a test chip Duy,
+2 21521649 phục vụ quá trình kiểm tra chip TS. Đoàn Duy CQĐT 14/07/2025 E11.2 S2 8h30
+Tùng for memory testing process ThS. Hồ Nam
+bộ nhớ
+Tịnh (Fadaday)
+TS. Phạm Quốc
+21522602 Phạm Công Thành Nghiên cứu và thiết kế vi mạch
+Study on designing a test chip Hùng,
+3 phục vụ quá trình kiểm tra chip TS. Đoàn Duy CLC-VN 14/07/2025 E11.2 S3 9h00
+Trần Thị Ngọc for memory testing process ThS. Hồ Nam
+21522664 bộ nhớ
+Thúy Tịnh (Fadaday)
+Nguyễn Duy Non-invasive pH measurement
+21520979 Đo pH không xâm lấn trong nước
+Khanh in water using near-infrared TS. Phạm Quốc
+4 sử dụng quang phổ cận hồng TS. Đoàn Duy CLC-EN 14/07/2025 E11.2 S4 9h30
+spectroscopy and machine Hùng
+21520240 Hà Việt Hoàng ngoại và học máy
+learning
+ThS. Tạ Trí
+21522612 Bùi Văn Thi
+Thiết kế vật lý hệ thống trên chip Physical design of system on Đức,
+5 TS. Đoàn Duy CLC-VN 14/07/2025 E11.2 S5 10h00
+sử dụng lõi RISC-V chip using RISC-V core TS. Trần Quang
+21522631 Dương Gia Thiều
+Nguyên
+Trần Lê Minh Hệ thống phát hiện và phân loại Wrong-lane vehicle detection
+21520684
+Đăng phương tiện đi sai làn đường sử and classification system using ThS. Phan Đình ThS. Nguyễn
+6 CQĐT 14/07/2025 E11.2 C1 13h30
+dụng kỹ thuật lượng tử hóa sau post-training quantization Duy Thanh Thiện
+21520697 Lê Hữu Đạt
+huấn luyện trên Raspberry Pi technique on Raspberry Pi
+Nghiên cứu và thử nghiệm
+phương pháp lượng tử hóa trong Research and testing
+Phan Châu Thanh ThS. Phan Đình ThS. Nguyễn
+7 21522769 huấn luyện (Quantization-aware quantization-aware training CQĐT 14/07/2025 E11.2 C2 14h00
+Tùng Duy Thanh Thiện
+Training) cho mô hình AI trên kit method on Raspberry Pi kit
+Raspberry Pi
+Development of Intelligent
+Phát triển hệ thống hiển thị thông ThS. Phan Đình ThS. Nguyễn
+8 21522230 Nguyễn Phan Khoa Display Systems CQĐT 14/07/2025 E11.2 C3 14h30
+minh Duy Thanh Thiện
+Page 5 of 6
+
+Thời
+CB HƯỚNG CÁN BỘ Thứ
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH Ghi chú Ngày Phòng gian
+DẪN PHẢN BIỆN tự
+bảo vệ
+21521860 Phùng Đức Bảo
+Thiết kế và hiện thực bộ hiển thị Design and implementation of ThS. Phan Đình ThS. Trần
+9 CQĐT 14/07/2025 E11.2 C4 15h00
+đa chức năng a multifunctional display unit Duy Hoàng Lộc
+21522727 Trần Triều Trung
+Research and Application of
+Hoàng Trọng Nghiên cứu và ứng dụng công ThS. Phan Đình ThS. Trần
+10 21521988 BLE Technology in Smart CQĐT 14/07/2025 E11.2 C5 15h30
+Dương nghệ BLE vào smarthome Duy Hoàng Lộc
+Homes
+Page 6 of 6

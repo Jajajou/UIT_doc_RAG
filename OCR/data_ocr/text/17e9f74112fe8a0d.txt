@@ -1,0 +1,171 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN
+KHOA KỸ THUẬT MÁY TÍNH
+HỘI ĐỒNG THỰC TẬP DOANH NGHIỆP HỌC KỲ 1 (2023-2024)
+CHÍNH QUY ĐẠI TRÀ - CE502.O11
+Thời gian bắt đầu Hội đồng chấm TTDN CQĐT: Sáng từ 8h00, ngày 22/01/2023 (Thứ 2)
+Hình thức báo cáo: báo cáo trực tiếp tại hội đồng. Địa điểm: E6.3, E6.1
+Thời gian báo cáo tối đa+demo(nếu có)/1 đề tài: 10 phút
+ST Mã số Sinh GV hướng dẫn thực Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên tập Báo cáo
+1 Nguyễn Hồng Phúc 18521257 Phòng ASIC Lab (E6.1) ThS.Trần Hoàng Lộc
+THỰC HIỆN TÌM HIỂU BỘ
+Nguyễn Văn Thiện KIT ARTERY AT32F403A Phòng Asic Lab khoa E6.1-STT 01
+2 18521369 ThS.Trần Hoàng Lộc
+Tâm VIẾT VÀ CHẠY CHƯƠNG KTMT (08g00)
+TRÌNH TRÊN KIT
+Phòng Asic Lab khoa
+3 Nguyễn Quốc Hiếu 19520544 ThS.Trần Hoàng Lộc
+KTMT
+Công ty TNHH Công
+Tìm hiểu và thực hiện cánh tay E6.1-STT 02
+4 Lê Tuấn Vũ 18521667 Nghệ Phần Mềm ThS.Trần Hoàng Lộc
+Robot (08g10)
+SHAREWORK
+THIẾT KẾ CÁC MẠCH BẰNG E6.1-STT 03
+5 Nguyễn Quốc Viễn 19521103 Truechip Vietnam ThS.Trần Hoàng Lộc
+NGÔN NGỮ VERILOG (08g20)
+6 Nguyễn Thành Long 19521793 ASICLAB - Trường Đại ThS.Trần Hoàng Lộc
+E6.1-STT 04
+Thiết kế bộ vi xử lý RISC-V 32I học Công Nghệ Thông
+(08g30)
+7 Vũ Anh Đức 19521384 Tin ThS.Trần Hoàng Lộc
+Đóng ngắt máy bơm công nghiệp Công ty TNHH VNS E6.1-STT 05
+8 Phạm Nhật Minh 19521850 ThS.Trần Hoàng Lộc
+bằng Arduino Farm (08g40)
+Hội đồng TTDN-CQĐT-HK 1(2023-2024) CE502.011 1
+
+ST Mã số Sinh GV hướng dẫn thực Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên tập Báo cáo
+CÔNG TY CỔ PHẦN E6.1-STT 06
+9 Ngô Trọng Nhân 19521936 Thực hành AutoSAR và CAN ThS.Trần Hoàng Lộc
+SHAREWORK (08g50)
+Công ty ADTechnology E6.1-STT 07
+10 Lê Ngọc Sơn 19522134 Place and Route Design Flow ThS.Trần Hoàng Lộc
+& SNST Vietnam (09g00)
+FARADAY VIỆT
+11 Nguyễn Tấn Thiên 19522266 ThS.Trần Hoàng Lộc
+THỰC HÀNH STATIC TIMING NAM
+E6.1-STT 08
+VÀ QUY TRÌNH THIẾT KẾ
+(09g10)
+PHYSICAL DESIGN FARADAY VIỆT
+12 Đào Công Nhật Tân 19522168 ThS.Trần Hoàng Lộc
+NAM
+Thiết kế và kiểm thử firmware E6.1-STT 09
+13 Tạ Điền Minh Trí 20520326 Combros Technology ThS.Trần Hoàng Lộc
+R&D (09g20)
+14 Đỗ Ngọc Quang Anh 20520381 Khoa Kỹ thuật Máy tính ThS.Trần Hoàng Lộc
+Tìm hiểu và thực hành trên bộ E6.1-STT 10
+Kit AT-START-F403A (09g30
+15 Nguyễn Xuân Tuấn 20522123 Khoa Kỹ thuật Máy tính ThS.Tạ Trí Đức
+Tìm hiểu về Memory Circuit FARADAY VIỆT E6.1-STT 11
+16 Trần Tuấn Đạt 20520438 ThS.Trần Hoàng Lộc
+Design NAM (09g40
+BÁO CÁO QUÁ TRÌNH THỰC
+Lê Nguyễn Quang E6.1-STT 12
+17 20520467 TẬP DOANH NGHIỆP TẠI VNetwork ThS.Trần Hoàng Lộc
+Duy (09g50
+VNETWORK
+Nguyễn Công Trí E6.1-STT 13 SV không nộp
+18 15520567 Lập trình mainframe CapgeminiVN ThS.Trần Hoàng Lộc
+Nhân (10g00 cuốn báo cáo
+Nguyễn Trần Hoàng E6.1-STT 14 SV không nộp
+19 18520902 ThS.Trần Hoàng Lộc
+Khánh (10g10 cuốn báo cáo
+Hội đồng TTDN-CQĐT-HK 1(2023-2024) CE502.011 2
+
+ST Mã số Sinh GV hướng dẫn thực Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên tập Báo cáo
+DEK Technologies Việt
+20 Nguyễn Hoàng Tân 20520752 ThS.Trần Hoàng Lộc
+Nam E6.3-STT 01
+RADIO BASE STATION
+(08g00)
+21 Lê Thị Thu Huyền 20521422 ThS.Tạ Trí Đức
+VNCHIP Technology
+22 Lê Thế Thông 20520788 ThS.Tạ Trí Đức
+Basic steps for design
+Joint Stock Company
+E6.3-STT 02
+verification using SystemVerilog
+(08g10)
+testbench and UVM
+23 Bùi Sỹ Quân 20521784 ThS.Tạ Trí Đức
+CƠ BẢN VỀ QUY TRÌNH ASIC
+SYNOPSYS VIỆT E6.3-STT 03
+24 Phạm Ngọc Lan Anh 20520882 VÀ CHI TIẾT VỀ FLOORPLAN ThS.Tạ Trí Đức
+NAM (08g20)
+VÀ SIGNOFF (PDV)
+NGHIÊN CỨU VỀ KIT AT – E6.3-STT 04
+25 Nguyễn Thành Trung 20520946 Khoa Kỹ thuật Máy tính ThS.Tạ Trí Đức
+START - A403C (08g30)
+Technical: IP cameras, AI
+E6.3-STT 05
+26 Trần Quang Chuyên 20521142 cameras, NVR embedded, IoT HikVision ThS.Tạ Trí Đức 10/01/2024
+(08g40)
+Devices
+PHÁT TRIỂN DỰ ÁN CÔNG SV nộp file ko
+E6.3-STT 06
+27 Vũ Thành Đạt 20521181 NGHỆ THÔNG TIN BẰNG Precio Fishbone ThS.Tạ Trí Đức nghiêm túc, nộp
+(08g50)
+PHƯƠNG PHÁP AGILE ỨNG trễ, thiếu
+SYNOPSYS VIỆT
+28 Ngô Xuân Lợi 20521557 BASIC OF ASIC DESIGN ThS.Tạ Trí Đức
+NAM E6.3-STT 07
+FLOW DETAIL ABOUT PnR
+Huỳnh Lưu Hữu SYNOPSYS VIỆT (09g00)
+29 20521651 AND PDV ThS.Tạ Trí Đức
+Nghĩa NAM
+Register Programming for E6.3-STT 08 Thiếu nhận xét
+30 Phạm Văn Mạnh 20521595 FPT Software ThS.Tạ Trí Đức
+Microcontroller S32K144 (09g10) của công ty
+ASIC CONSULTANT FARADAY VIỆT E6.3-STT 09
+31 Phan Lê Min 20521596 ThS.Tạ Trí Đức
+ENGINEER NAM (09g20)
+Hội đồng TTDN-CQĐT-HK 1(2023-2024) CE502.011 3
+
+ST Mã số Sinh GV hướng dẫn thực Địa điểm-STT
+Họ và tên Sinh viên Tên đề tài Thực tập Tên Công ty thực tập Ghi chú
+T viên tập Báo cáo
+EXPLORING PHYSICAL
+FARADAY VIỆT E6.3-STT 10
+32 Trần Bảo Nhung 20521727 DESIGN - DETAILED PNR ThS.Tạ Trí Đức
+NAM (09g30)
+FLOW
+Công ty Cổ phần Công
+33 Mai Xuân Phú 20521754 BASIC STEPS FOR DESIGN ThS.Tạ Trí Đức
+nghệ VNCHIP
+VERIFICATION USING E6.3-STT
+SYSTEMVERILOG 11(09g40)
+Công ty Cổ phần Công
+34 Lê Nguyễn Tín Huy 20521395 TESTBENCH AND UVM ThS.Tạ Trí Đức
+nghệ VNCHIP
+Functional Verification Using FARADAY VIỆT E6.3-STT 12
+35 Đặng Thái Thạch 20521883 ThS.Tạ Trí Đức
+UVM NAM (09g50)
+Vehicle Tire Blow-out Handling Bosch Global Software
+E6.3-STT 13
+36 Lê Hữu Truyền 20522094 System (Hệ thống ổn định xe nổ Technologies Company ThS.Tạ Trí Đức
+(10g00)
+lốp) Limited
+APPLICATION OF THE
+E6.3-STT 14
+37 Huỳnh Thanh Tú 20522097 UNMANNED AERIAL Wisdom Robotics ThS.Tạ Trí Đức
+(10g10)
+VEHICLES IN AGRICULTURE
+Bosch Global Software
+Automation Testing for ECM E6.3-STT 15
+38 Võ Đình Ngọc Uyển 20522141 Technologies Company ThS.Tạ Trí Đức
+Basic Software (10g20)
+Limited
+Design Verification Engineer E6.3-STT 16
+39 Trần Hoàng Việt 20522154 TRUECHIP VIETNAM ThS.Tạ Trí Đức
+Basic-to-Advanced Training (10g30)
+TP.Hồ Chí Minh, ngày 16 tháng 01 năm 2024
+TRƯỞNG KHOA
+(đã ký)
+Nguyễn Minh Sơn
+Hội đồng TTDN-CQĐT-HK 1(2023-2024) CE502.011 4

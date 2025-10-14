@@ -1,0 +1,441 @@
+ĐẠI HỌC QUỐC GIA CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ HỒ CHÍ MINH Độc lập - Tự do - Hạnh phúc
+Số: 1916/ĐHQG-ĐT Thành phố Hồ Chí Minh, ngày 30 tháng 08 năm 2025
+V/v phổ biến Khung năng lực
+giảng dạy số của giảng viên
+Kính gửi: Các đơn vị thành viên
+Một trong những mục tiêu và giải pháp cụ thể được Đại học Quốc gia Thành phố
+Hồ Chí Minh (ĐHQG-HCM) xác định trong Chiến lược phát triển ĐHQG-HCM giai
+đoạn 2021-2030, tầm nhìn đến năm 2045 là “Thực hiện chuyển đổi số toàn diện trong
+công tác tuyển sinh, đào tạo và đảm bảo chất lượng”.
+Để hiện thực hóa mục tiêu này, ĐHQG-HCM giới thiệu và phổ biến đến các đơn
+vị thành viên thông tin về Khung năng lực giảng dạy số của giảng viên tại ĐHQG-
+HCM (đính kèm) để làm tài liệu tham khảo (nếu cần) khi xây dựng, phát triển và bồi
+dưỡng năng lực giảng dạy số cho đội ngũ làm công tác giảng dạy tại đơn vị.
+Các đơn vị chủ động lựa chọn và vận dụng các nội dung của Khung năng lực số
+để xây dựng kế hoạch, lộ trình và giải pháp riêng để phát triển năng lực giảng dạy số
+cho giảng viên vào các hoạt động như thiết kế các chương trình đào tạo, bồi dưỡng
+chuyên môn; đổi mới phương pháp dạy - học và kiểm tra phù hợp với đặc thù của đơn
+vị.
+Trân trọng./.
+Nơi nhận: TL. GIÁM ĐỐC
+- Như trên; KT. TRƯỞNG BAN ĐÀO TẠO
+- Ban Giám đốc ĐHQG-HCM (để b/c);
+- Lưu: VT, ĐT.
+PHÓ TRƯỞNG BAN
+Huỳnh Khả Tú
+
+ĐẠI HỌC QUỐC GIA CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ HỒ CHÍ MINH Độc lập - Tự do - Hạnh phúc
+Phụ lục
+KHUNG NĂNG LỰC GIẢNG DẠY SỐ CỦA GIẢNG VIÊN
+TẠI ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH
+(Kèm theo Công văn số … /ĐHQG-ĐT ngày … tháng 8 năm 2025
+của Đại học Quốc gia Thành phố Hồ Chí Minh)
+I. Mục đích
+1. Là tài liệu tham chiếu để xây dựng và phát triển các chương trình đào tạo, bồi
+dưỡng nhằm nâng cao năng lực giảng dạy số cho đội ngũ giảng viên tại đơn vị mình.
+2. Hỗ trợ giảng viên tự đánh giá, xây dựng kế hoạch học tập, phát triển chuyên
+môn, nâng cao chất lượng và hiệu quả giảng dạy trong kỷ nguyên số.
+3. Các đơn vị tham khảo khung năng lực này để làm một trong các cơ sở cho xây
+dựng công cụ đánh giá, phục vụ công tác quản lý, phát triển đội ngũ và đảm bảo chất
+lượng đào tạo trong nội bộ.
+II. Đối tượng sử dụng
+1. Giảng viên đang công tác tại các đơn vị thành viên và trực thuộc ĐHQG-HCM.
+2. Lãnh đạo các đơn vị, phòng/ban chức năng liên quan đến công tác đào tạo,
+quản lý và phát triển đội ngũ giảng viên.
+3. Các đơn vị, tổ chức thực hiện công tác bồi dưỡng, tập huấn chuyên môn,
+nghiệp vụ cho giảng viên.
+III. Giải thích từ ngữ
+Trong văn bản này, các thuật ngữ dưới đây được hiểu như sau:
+1. Năng lực giảng dạy số là tập hợp kiến thức, kỹ năng và thái độ cần thiết mà
+người dạy cần có để tích hợp hiệu quả công nghệ số vào quá trình giảng dạy, nhằm nâng
+cao chất lượng giảng dạy và đạt được mục tiêu giáo dục đã được đề ra.
+2. Hệ thống quản lý học tập (LMS) là hệ thống thông tin cho phép tổ chức, lưu
+trữ, chuyển tải học liệu; giao nhiệm vụ, kiểm tra, đánh giá và theo dõi, hỗ trợ người học
+trong môi trường trực tuyến.
+3. Học liệu số là bất kỳ loại nội dung nào tồn tại dưới dạng dữ liệu số, có thể
+được tạo, xem, phân phối, sửa đổi và lưu trữ bằng máy tính và công nghệ kỹ thuật số.
+Bao gồm video bài giảng, slide, tài liệu đọc, câu hỏi tương tác, v.v..
+4. Trí tuệ nhân tạo (AI) tạo sinh là một lĩnh vực của trí tuệ nhân tạo, tập trung
+vào việc tạo ra dữ liệu mới như văn bản, hình ảnh, âm thanh hoặc video dựa trên dữ liệu
+đã có.
+IV. Khung năng lực giảng dạy số của giảng viên
+1. Cấu trúc Khung năng lực giảng dạy số
+Khung năng lực giảng dạy số của giảng viên được cấu trúc gồm: 05 miền năng lực
+với 17 năng lực thành phần. Mỗi năng lực thành phần được mô tả theo 03 cấp độ thể
+hiện mức độ thành thạo sơ cấp (cấp độ 1), trung cấp (cấp độ 2) và cao cấp (cấp độ 3).
+
+2
+2. Bảng mô tả các miền năng lực và năng lực thành phần của khung năng
+lực giảng dạy số của giảng viên
+Năng lực
+Miền năng Mô tả tổng
+STT thành Mô tả năng lực
+lực quát
+phần
+Xác định, đánh giá và lựa
+Chọn lọc
+chọn các nội dung số phục vụ
+nội dung số
+cho hoạt động dạy học.
+Biên tập nội
+dung số phù hợp
+với mục tiêu học Phát triển và hiệu chỉnh các
+Phát triển
+tập, đối tượng nội dung số đã có giấy phép
+và hiệu
+người học và mở hoặc các nội dung số khác
+chỉnh nội
+phong cách được phép sử dụng phục vụ
+Sáng tạo nội dung số
+1 giảng dạy; đồng cho hoạt động dạy học.
+dung số
+thời, tuân thủ
+các quy định về
+quyền riêng tư, Quản lý, bảo vệ và chia sẻ nội
+giấy phép và dung số một cách an toàn,
+Quản lý,
+bản quyền của tuân thủ quy định về quyền
+bảo vệ và
+nội dung số. riêng tư, giấy phép và bản
+chia sẻ nội
+quyền; đồng thời ghi nhận
+dung số
+nguồn gốc đầy đủ khi sử dụng
+giấy phép mở.
+Lên kế hoạch và tích hợp các
+công cụ, nội dung số vào quá
+trình giảng dạy để nâng cao
+Giảng dạy hiệu quả, quản lý chiến lược
+Thiết kế, triển
+giảng dạy hợp lý, thử nghiệm
+khai và giám sát
+và phát triển các chiến lược
+hoạt động dạy
+giảng dạy mới.
+học trực tuyến,
+Tăng cường tương tác và hỗ
+đáp ứng nhu cầu
+trợ người học thông qua công
+hướng dẫn của
+Hướng dẫn nghệ số, cung cấp hướng dẫn
+Tổ chức hoạt người học,
+kịp thời và phát triển các hình
+2 động dạy học khuyến khích
+thức hỗ trợ mới.
+trực tuyến học tập hợp tác,
+Sử dụng công nghệ số để thúc
+tự điều chỉnh ở
+đẩy hợp tác giữa người học,
+người học,
+Học tập tăng cường giao tiếp, làm việc
+nhằm xây dựng
+hợp tác nhóm, cùng xây dựng và
+cộng đồng học
+đồng sáng tạo dữ liệu, tài
+tập trực tuyến
+nguyên và kiến thức.
+hiệu quả.
+Hỗ trợ người học tự lập kế
+Học tập tự hoạch, theo dõi, đánh giá quá
+điều chỉnh trình học tập và sáng tạo giải
+pháp thông qua công nghệ số.
+
+3
+Năng lực
+Miền năng Mô tả tổng
+STT thành Mô tả năng lực
+lực quát
+phần
+Sử dụng AI trong hoạt động
+Sử dụng AI
+dạy học một cách có đạo đức
+tạo sinh
+và trách nhiệm.
+Áp dụng được Áp dụng công nghệ số trong
+Đánh giá
+các hình thức đánh giá kết quả học tập, đa
+kết quả học
+đánh giá trực dạng hóa các dạng bài kiểm
+tập
+tuyến khác tra trực tuyến.
+nhau, phân tích
+Thu thập, phân tích và đánh
+dữ liệu số liên
+giá dữ liệu số về hoạt động,
+Phân tích
+quan đến người
+kết quả và tiến trình học tập
+Đánh giá trực
+dữ liệu số
+3 học, cung cấp
+tuyến của người học để hỗ trợ cho
+phản hồi kịp
+hoạt động dạy học.
+thời thông qua
+Sử dụng công nghệ số để
+công nghệ số,
+Phản hồi và cung cấp phản hồi cho người
+nhằm đưa ra các
+lập kế học; qua đó, điều chỉnh hoạt
+quyết định điều
+hoạch động giảng dạy sao cho phù
+chỉnh hoạt động
+hợp dựa trên dữ liệu số.
+dạy học kịp thời.
+Đảm bảo tất cả người học,
+bao gồm cả những người có
+nhu cầu đặc biệt, đều có thể
+Khả năng
+sử dụng nội dung số và tham
+tiếp cận và
+gia các hoạt động học tập;
+hòa nhập
+Sử dụng công đồng thời, đáp ứng kỳ vọng
+nghệ số để cá và khả năng sử dụng công
+nhân hóa học nghệ của người học trong mọi
+tập, khuyến điều kiện khác nhau.
+Trao quyền
+khích sự tham
+cho người học
+4 gia chủ động, Sử dụng công nghệ số để đáp
+trong môi
+đồng thời đảm Phân hóa ứng nhu cầu học tập đa dạng,
+trường số
+bảo sự bình và cá nhân hỗ trợ người học tiến bộ theo
+đẳng và tiếp cận hóa lộ trình, mục tiêu và tốc độ
+công bằng cho học tập cá nhân.
+mọi người học.
+Ứng dụng công nghệ số để
+Thúc đẩy khuyến khích người học tham
+sự tham gia gia tích cực, phát triển tư duy
+của người phản biện, năng lực sáng tạo
+học và kết nối học tập trong các
+bối cảnh thực tiễn.
+Thúc đẩy năng Thúc đẩy Tích hợp các hoạt động học
+Thúc đẩy lực số cho người sự hiểu biết tập, bài tập và đánh giá yêu
+5 năng lực số học, giúp họ sử thông tin và cầu người học rèn luyện năng
+của người học dụng công nghệ sử dụng lực tìm kiếm, phân tích, đánh
+số một cách hiệu công nghệ giá nội dung số và ứng dụng
+
+4
+Năng lực
+Miền năng Mô tả tổng
+STT thành Mô tả năng lực
+lực quát
+phần
+quả, sáng tạo và có trách công nghệ số trong học tập
+có trách nhiệm. nhiệm của một cách an toàn và có trách
+người học nhiệm.
+Tích hợp các hoạt động học
+tập, bài tập và bài kiểm tra
+Thúc đẩy yêu cầu người học sử dụng
+khả năng các công cụ công nghệ để thể
+sáng tạo hiện ý tưởng, chỉnh sửa và tạo
+nội dung số nội dung ở nhiều định dạng;
+của người đồng thời, hướng dẫn người
+học học cách áp dụng bản quyền,
+giấy phép và trích dẫn nguồn
+của nội dung số.
+Thúc đẩy
+Hướng dẫn người học sử
+khả năng
+dụng AI trong học tập, làm
+sử dụng AI
+việc và cuộc sống một cách
+tạo sinh của
+có đạo đức và trách nhiệm.
+người học
+3. Tiêu chí đánh giá năng lực giảng dạy số của giảng viên theo cấp độ
+3.1. Bảng Tiêu chí đánh giá miền năng lực số “Sáng tạo nội dung số”
+N1.3. Quản lý, bảo vệ
+Mức N1.1. Chọn lọc nội dung N1.2. Tạo và hiệu
+và chia sẻ nội dung
+độ số chỉnh nội dung số
+số
+Nhận thức và sử dụng các Sử dụng các công cụ Sử dụng các công cụ
+công cụ công nghệ cơ bản công nghệ cơ bản (ví công nghệ cơ bản (ví
+(ví dụ: công cụ tìm kiếm dụ: Google Docs, dụ: Google Drive) để
+Google) để tìm kiếm nội Microsoft Word hoặc quản lý và chia sẻ nội
+Sơ cấp dung số có liên quan. Canva) để tạo và hiệu dung số.
+chỉnh nội dung số với
+các tính năng đơn
+giản.
+Xác định, đánh giá và lựa Sử dụng các công cụ Quản lý, bảo vệ và
+chọn nội dung số qua các công nghệ để tạo và chia sẻ nội dung số
+công cụ công nghệ nâng hiệu chỉnh nội dung số một cách chuyên
+cao như công cụ AI (ví dụ: với các tính năng nâng nghiệp (ví dụ: LMS),
+Trung
+ChatGPT hoặc cao (ví dụ: Adobe phù hợp với các quy
+cấp
+Perplexity), cơ sở dữ liệu Spark, PowerPoint định về quyền riêng
+học thuật hoặc công cụ hoặc Canva Pro), phù tư, giấy phép và bản
+quản lý nội dung (ví dụ: hợp với bối cảnh học quyền của nội dung
+Wakelet). tập cụ thể. số.
+Xác định, đánh giá và lựa Sử dụng các công cụ Xuất bản và chia sẻ
+Cao
+chọn nội dung số một cách công nghệ tiên tiến nội dung số tự tạo một
+cấp
+toàn diện qua các công cụ như AI, VR để tạo, cách chuyên nghiệp,
+
+5
+công nghệ nâng cao, có đồng sáng tạo và hiệu đảm bảo tuân thủ tiêu
+xem xét đến nhiều khía chỉnh nội dung số có chuẩn an toàn dữ liệu
+cạnh (ví dụ: chất lượng, tính tương tác cao, GDPR/FERPA và
+tính bao hàm, khả năng sử phù hợp với bối cảnh giấy phép Creative
+dụng, v.v.). học tập. Commons.
+3.2. Bảng tiêu chí đánh giá miền năng lực số “Tổ chức hoạt động dạy học trực
+tuyến”
+N2.4. Học N2.5. Sử
+N2.1. Giảng N2.2. N2.3. Học
+tập tự điều dụng AI tạo
+Cấp độ dạy trực Hướng dẫn tập hợp tác
+chỉnh trực sinh
+tuyến trực tuyến trực tuyến
+tuyến
+Sử dụng các Sử dụng các Sử dụng Khuyến khích Hiểu các
+công cụ công công cụ công các công cụ người học sử nguyên lý cơ
+nghệ cơ bản nghệ cơ bản công nghệ dụng các bản về cách
+(ví dụ: MS (ví dụ: cơ bản (ví công cụ công AI hoạt động,
+Teams hoặc email, ứng dụ: Google nghệ cơ bản lợi ích và hạn
+Google dụng nhắn Docs) để (ví dụ: Trello, chế của AI
+Sơ cấp
+Meet) để tổ tin) để tương tương tác Google đối với hoạt
+chức các tác với người với người Calendar) để động dạy học.
+hoạt động học. học. tự quản lý các
+giảng dạy. hoạt động học
+tập.
+Sử dụng các Sử dụng các Triển khai Sử dụng các Sử dụng và
+công cụ công công cụ công môi trường công cụ công ứng dụng các
+nghệ (ví dụ: nghệ với các số để hỗ trợ nghệ nâng công cụ AI để
+LMS) có tính năng các hoạt cao (ví dụ: tinh chỉnh, lặp
+mục đích và nâng cao (ví động học LMS hoặc lại và/hoặc
+chiến lược dụ: MS tập hợp tác Kahoot) để cải tiến các
+để nâng cao Teams, bằng cách thiết kế các hoạt động dạy
+hiệu quả Zoom hoặc sử dụng các hoạt động học học, nhằm tối
+giảng dạy Google Meet công cụ tập tự điều ưu hóa hiệu
+như truyền với tính năng công nghệ chỉnh. quả giáo dục.
+Trung
+tải nội dung chia phòng, nâng cao
+cấp
+và tương tác. bảng tương (ví dụ:
+tác, v.v.) để LMS,
+tăng cường Padlet hoặc
+việc tương Miro)
+tác, giám sát
+và hướng
+dẫn người
+học.
+Sử dụng các Sử dụng các Sử dụng Sử dụng các Phân tích và
+Cao công cụ công công cụ công các công cụ công cụ công đánh giá các
+cấp nghệ tiên nghệ tiên công nghệ nghệ tiên tiến vấn đề liên
+tiến như AI tiến như AI tiên tiến như AI để đổi quan đến
+
+6
+(ví dụ: hệ (ví dụ: như AI để mới các hoạt thiên kiến,
+thống thích chatbot, trợ đổi mới các động học tập đạo đức và
+ứng) để đổi lý ảo) để đổi hoạt động tự điều chỉnh. những ứng
+mới hoạt mới việc học tập hợp dụng quan
+động giảng cung cấp tác. trọng khác
+dạy. hướng dẫn của AI trong
+và hỗ trợ hoạt động dạy
+người học. học.
+3.3. Bảng tiêu chí đánh giá miền năng lực số “Đánh giá trực tuyến”
+N3.1. Đánh giá trực N3.2. Phân tích dữ N3.3. Phản hồi và lập
+Cấp độ
+tuyến liệu số kế hoạch
+Sử dụng công cụ soạn Đánh giá dữ liệu số cơ Sử dụng các công cụ
+thảo văn bản cơ bản (ví bản về hoạt động và công nghệ cơ bản (ví
+dụ: Google Docs, hiệu suất của người dụ: email, ứng dụng
+Microsoft Word) để tạo học (ví dụ: điểm số). tin nhắn) để cung cấp
+Sơ cấp
+bài kiểm tra, nhưng chủ thông tin phản hồi và
+yếu triển khai đánh giá lập kế hoạch cho
+theo hình thức trực tiếp người học.
+tại lớp học.
+Sử dụng các công cụ Tạo và đánh giá các Sử dụng dữ liệu số và
+công nghệ nâng cao (ví nguồn dữ liệu số đa các công cụ công nghệ
+dụ: LMS) để thiết kế các dạng để cung cấp nâng cao (ví dụ: LMS)
+dạng bài kiểm tra, đánh thông tin phục vụ việc để tối ưu hóa việc
+Trung
+giá trực tuyến. xây dựng các chiến cung cấp phản hồi và
+cấp
+lược dạy học (ví dụ: lập kế hoạch dạy học.
+tiến độ học tập, nhu
+cầu hỗ trợ của người
+học).
+Sử dụng các công cụ Sử dụng các công cụ Sử dụng dữ liệu số và
+công nghệ tiên tiến như công nghệ tiên tiến các công cụ công nghệ
+AI (ví dụ: hệ thống thích như AI để phân tích tiên tiến như AI để cá
+Cao cấp ứng) để đổi mới các dạng dữ liệu số chuyên sâu nhân hóa phản hồi cho
+bài kiểm tra, đánh giá về các mô hình học người học và điều
+trực tuyến. tập và chiến lược chỉnh hoạt động dạy
+giảng dạy. học.
+3.4. Bảng tiêu chí đánh giá miền năng lực số “Trao quyền cho người học trong
+môi trường số”
+N4.3. Thúc đẩy sự
+N4.1. Khả năng tiếp N4.2. Phân hóa và cá
+Cấp độ tham gia của người
+cận và hòa nhập nhân hóa
+học
+Nhận thức về các vấn đề Nhận thức về tiềm Sử dụng các công cụ
+liên quan đến khả năng năng của công nghệ số công nghệ cơ bản (ví
+tiếp cận và hòa nhập của trong việc phân hóa và dụ: Mentimeter, Poll
+Sơ cấp
+người học trong môi cá nhân hóa. Everywhere) để thu
+trường trực tuyến. hút sự tham gia của
+người học.
+
+7
+Sử dụng các công cụ Sử dụng các công cụ Sử dụng nhiều công
+công nghệ (ví dụ: công nghệ (ví dụ: cụ công nghệ đa dạng
+Immersive Readers, LMS) để phân hóa và để cải thiện sự tham
+Trung
+Screen Magnifiers) để cá nhân hóa học tập, gia và cộng tác của
+cấp
+giải quyết các vấn đề về đáp ứng nhu cầu đa người học (ví dụ:
+khả năng tiếp cận và hòa dạng của người học. Padlet, Miro,
+nhập của người học. Kahoot).
+Đổi mới các chiến lược Đổi mới các chiến Đổi mới các chiến
+phù hợp với Thiết kế lược phân hóa và cá lược thúc đẩy sự tham
+phổ quát (Universal nhân hóa thông qua gia tích cực của người
+Cao cấp Design for Learning - các công cụ công nghệ học thông qua các
+UDL) để tăng cường khả tiên tiến. công cụ công nghệ
+năng tiếp cận và hòa tiên tiến.
+nhập.
+3.5. Bảng tiêu chí đánh giá miền năng lực số “Thúc đẩy năng lực số của người
+học”
+N5.1. Thúc đẩy sự hiểu
+N5.2. Thúc đẩy khả
+biết thông tin và sử N5.3. Thúc đẩy khả
+năng sáng tạo nội
+Cấp độ dụng công nghệ có năng sử dụng AI tạo
+dung số của người
+trách nhiệm của người sinh của người học
+học
+học
+Nhận thức về cách sử Sử dụng các công cụ Hiểu vai trò cơ bản, tác
+dụng nội dung số an công nghệ cơ bản (ví động, lợi ích và hạn
+toàn, hợp pháp, có đạo dụ: Google Docs, chế của AI trong giáo
+Sơ cấp đức và trách nhiệm, bao Canva) để tạo các nội dục.
+gồm cách sử dụng các dung số đơn giản,
+công cụ trích dẫn (ví dụ: chẳng hạn như văn bản
+Zotero). hoặc hình ảnh cơ bản.
+Xác thực và phân tích Sử dụng các công cụ Sử dụng và ứng dụng
+thông tin; đồng thời, công nghệ nâng cao (ví các công cụ AI để hỗ
+triển khai các biện pháp dụ: Adobe Spark, trợ việc học, tư duy
+Trung bảo mật (ví dụ: bảo vệ Capcut) để tạo nội phản biện và giải quyết
+cấp bằng mật khẩu, mã hóa dung đa phương tiện, các nhiệm vụ cụ thể.
+cơ bản). như video, bài thuyết
+trình hoặc đồ họa phức
+tạp hơn.
+Phát triển các chính sách Đổi mới các chiến lược Phân tích và đánh giá
+và chiến lược để quản lý, sáng tạo nội dung số, nguồn thông tin được
+phân tích và bảo vệ dữ sử dụng các công nghệ cung cấp bởi AI trên
+Cao
+liệu một cách có trách tiên tiến như AI, VR các khía cạnh minh
+cấp
+nhiệm (ví dụ: tuân thủ hoặc AR để phát triển bạch, an toàn và đạo
+GDPR). nội dung tương tác và đức.
+thu hút cao.

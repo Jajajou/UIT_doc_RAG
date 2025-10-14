@@ -1,0 +1,325 @@
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+KHOA KỸ THUẬT MÁY TÍNH Độc lập - Tự do - Hạnh phúc
+DANH SÁCH PHẢN BIỆN KHÓA LUẬN TỐT NGHIỆP
+Đợt: 2 - Năm học: 2023 - 2024
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+ThS. Tạ Trí Đức,
+Thiết kế vật lý bộ vi xử lý RISC-V hỗ Physical design of RISC-V processor
+1 20521608 Nguyễn Hải Minh ThS. Phạm Minh TS. Trần Thị Điểm CLC-VN
+trợ branch prediction with branch prediction
+Quân
+ThS. Tạ Trí Đức,
+20521836, Phan Trường Sinh, Thiết kế bộ tăng tốc phần cứng với Design hardward accelerator with
+2 ThS. Phạm Minh TS. Trần Thị Điểm CLC-VN
+20521886 Lâm Sơn Nhật Thái RISC-V RISC-V processor
+Quân
+Ứng dụng bộ lọc Kalman mở rộng và Application of extended Kalman filter
+ThS. Phạm Minh
+xây dựng các tầng cao hơn của CAN and design higher layers of controller
+3 20520217 Đặng Anh Khoa Quân, TS. Đỗ Trí Nhựt CQĐT
+cho hệ thống điều khiển xe tự hành area network for GPS-based
+ThS. Tạ Trí Đức
+dựa trên định vị GPS autonomous vehicle control system
+Nghiên cứu, thiết kế và mô phỏng vi Research, design and simulate 32-bit
+4 19521793 Nguyễn Thành Long điều khiển 32-bit có tích hợp mã hóa microcontroller with intergrated ThS. Tạ Trí Đức TS. Trần Thị Điểm CQĐT
+phần cứng hardware-based encrytion
+20520933, Võ Ngọc Thiện, Hệ thống phát hiện và nhận diện biển Detecting and classifying road traffic ThS. Ngô Hiếu ThS. Nguyễn Thanh
+5 CQĐT
+20521216 Lê Dương báo giao thông đường bộ signs system. Trường Thiện
+20521485, Phan Mạnh Khương, Hệ thống phát hiện theo dõi người The system for detecting and tracking ThS. Ngô Hiếu ThS. Nguyễn Thanh
+6 CQĐT
+20521564 Lê Ngọc Long trên SoC-FPGA people on SoC-FPGA Trường Thiện
+Ứng dụng thuật toán phát hiện đối
+20521651, Huỳnh Lưu Hữu Nghĩa, Application of object detection ThS. Ngô Hiếu ThS. Trương Văn
+7 tượng trên SoC-FPGA sử dụng CQĐT
+20521883 Đặng Thái Thạch algorithm on SoC-FPGA using OpenCL Trường Cương
+OpenCL
+Page 1 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Nguyễn Hoàng Tân, Design and control of automated teller
+20520752, Thiết kế và điều khiển thiết bị quản TS. Nguyễn Hoài
+8 Nguyễn Đình Nhật machine for management and selling of ThS. Phan Đình Duy CQĐT
+20521607 lý và bán hàng tự động Nhân
+Minh goods
+Điều khiển thiết bị robot tự động gắp Robot control for picking and placing TS. Nguyễn Hoài
+9 19521850 Phạm Nhật Minh ThS. Phan Đình Duy CQĐT
+và lắp ráp linh kiện điện tử of electronic component Nhân
+Thiết kế phần cứng cho việc phát
+Hardware design for abnormal beat
+20521550, Phạm Duy Lộc, hiện nhịp tim bất thường trong tín
+10 detection in ECG signal based on TS. Trần Thị Điểm ThS. Phan Đình Duy CQĐT
+20521930 Văn Ngọc Thành hiệu điện tâm đồ dựa trên thuật toán
+template cluster algorithm
+phân cụm mẫu
+Thiết kế bộ gia tốc trên FPGA cho An accelerator on FPGA for
+ThS. Trương Văn
+11 20521117 Ngô Tấn Bình mạng nơ-ron tích chập dựa trên tính convolutional neural network based TS. Trần Thị Điểm CLC-VN
+Cương
+toán ngẫu nhiên with stochastic computing
+Xây dựng hệ thống lưu kho tự động Established automatic storage system
+19520377, Đào Tuấn Anh, TS. Trần Quang
+12 bằng phương pháp quét mã QR thông by scanning QR code through TS. Đỗ Trí Nhựt CLC-VN
+19521424 Nguyễn Bách Duy Nguyên
+qua camera giám sát surveillance camera
+Võ Đông Hưng (CLC),
+20521376, Thiết kế IP cho bộ tính toán FFT sử IP design for FFT caculation base on TS. Trần Quang
+13 Lê Nguyễn Tín Huy TS. Lâm Đức Khải CLC-VN
+20521395 dụng thuật toán Butterfly Butterfly algorithm Nguyên
+(CQĐT)
+Thiết kế hệ thống phát hiện các lỗi Design the error detection system in
+TS. Trần Quang
+14 20520788 Lê Thế Thông thiếu linh kiện trên board mạch sử missing components on board using TS. Đỗ Trí Nhựt CQĐT
+Nguyên
+dụng camera cameras
+Tùy chỉnh và phát triển bộ tăng tốc Customizing and developing a flexible
+TS. Phạm Hoài Luân,
+15 19521103 Nguyễn Quốc Viễn dựa trên CGRA linh hoạt và nhanh and fast CGRA-based accelerator for ThS. Hồ Ngọc Diễm CQĐT
+TS. Lâm Đức Khải
+chóng cho mạng thần kinh tích chập. convolutional neural networks.
+Page 2 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Nguyễn Văn Duy Research, hardware design and
+20521007, Nghiên cứu, thiết kế và hiện thực IP
+16 Phông, implementation of IP hardware for lane TS. Lâm Đức Khải ThS. Tạ Trí Đức CQĐT
+20521557 phần cứng phát hiện làn đường
+Ngô Xuân Lợi detection
+Nghiên cứu và xây dựng mô hình xử Research and development of a CQĐT
+TS. Lâm Đức Khải, ThS. Phạm Minh
+17 20521766 Nguyễn Đình Phúc lý đồng thời đa tác vụ cho bài toán xe simultaneous multi-tasking model for Đổi tên đề
+KS. Chế Quang Huy Quân
+tự hành autonomous vehicle problems tài
+Thiết kế và hiện thực bộ đồng xử lý
+20521048, Lê Đức Hồng Ân, Design and implementation high-speed TS. Phạm Hoài Luân,
+18 RISC-V tốc độ cao hỗ trợ các thuật ThS. Hồ Ngọc Diễm CLC-VN
+20521063 Hồ Viết Anh RISC-V cryptographic co-processor TS. Lâm Đức Khải
+toán mật mã hóa
+Thiết kế bộ đồng xử lý mật mã dựa Design high-throughput RISC-V based
+TS. Phạm Hoài Luân, ThS. Phạm Thanh
+19 20521369 Nguyễn Ngọc Hưng trên RISC-V thông lượng cao dành cryptographic co-processor for CLC-VN
+TS. Lâm Đức Khải Hùng
+cho Lightweight Cryptography Lightweight Cryptography
+Bộ tăng tốc đa chế độ hiệu suất cao High-performance multimode
+TS. Phạm Hoài Luân, ThS. Phạm Thanh
+20 20521707 Nguyễn Đình Nhất cho mật mã hậu lượng tử accelerator for post-quantum CLC-VN
+TS. Lâm Đức Khải Hùng
+CRYSTALS-Kyber cryptography CRYSTALS-Kyber
+Phát triển bộ tăng tốc mật mã thế hệ Developing a flexible and fast next-
+tiếp theo linh hoạt và nhanh chóng generation cryptographic accelerator TS. Phạm Hoài Luân,
+21 20521299 Nguyễn Hải Hậu ThS. Hồ Ngọc Diễm CLC-VN
+dựa trên mảng có thể cấu hình lại chi based on a coarse-grained TS. Lâm Đức Khải
+tiết thô reconfigurable array
+Hiện thực khối floating point tích Implementation RISC-V 32-bit
+22 20521991 Đỗ Tuấn Thuận ThS. Hồ Ngọc Diễm TS. Lâm Đức Khải CLC-VN
+hợp vào bộ xử lý RISC-V 32-bit processor with floating point unit
+TS. Trần Quang ThS. Trương Văn
+23 20521754 Mai Xuân Phú Thiết kế IP cho bộ đệm video IP design for video frame buffer CQĐT
+Nguyên Cương
+Page 3 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+20521784, Bùi Sỹ Quân, Xây dựng robot 3 trục - ứng dụng Implementation of 3-axis robot - TS. Trần Quang TS. Nguyễn Hoài
+24 CQĐT
+20522141 Võ Đình Ngọc Uyển trong quy trình xử lý wafer application in wafer handling process Nguyên Nhân
+TS. Đỗ Trí Nhựt,
+TS. Nguyễn Hoài
+25 20521807 Nguyễn Hồng Quang Thiết kế mạch báo cháy đa năng Design multi-function fire alarm circuit ThS. Trương Văn CLC-VN
+Nhân
+Cương
+Nhận diện khuôn mặt real-time dùng Real-time face recognition using HOG- PGS.TS. Vũ Đức
+ThS. Nguyễn Duy
+26 20521739 Phạm Nguyễn Tấn Phát HOG-SVM ứng dụng trong việc điều SVM architecture for room door Lung, CLC-VN
+Xuân Bách
+khiển cửa phòng application ThS. Phan Đình Duy
+Hệ thống phân loại và phát hiện
+Lane-change violation detection and ThS. Phan Đình Duy, ThS. Nguyễn Duy
+27 20521165 Dương Thành Đạt phương tiện giao thông di chuyển sai CLC-VN
+classification TS. Phạm Quốc Hùng Xuân Bách
+làn đường
+TS. Phạm Quốc
+Hệ thống IoT quản lý vườn cây thông A smart IoT system for garden ThS. Nguyễn Duy
+28 20521448 Lê Hoàng Khanh Hùng, CLC-VN
+minh management Xuân Bách
+ThS. Phan Đình Duy
+Nguyễn Phạm Thanh TS. Phạm Quốc
+20521647, Xây dựng hệ thống điểm danh ứng Implementation of attendance system in
+29 Ngân, Hùng, ThS. Trần Hoàng Lộc CLC-VN
+20521664 dụng trong phòng học thông minh smart classrooms
+Nguyễn Kim Ngọc ThS. Phan Đình Duy
+TS. Phạm Quốc
+20520642, Nguyễn Hải Nam, Thiết kế hệ thống tưới cây sử dụng Design an irrigation system for smart
+30 Hùng, ThS. Trần Hoàng Lộc CLC-VN
+20521944 Cao Hoàng Thiện cho vườn thông minh gardens
+ThS. Phan Đình Duy
+TS. Phạm Quốc
+20521616, Trần Anh Minh, Ứng dụng công nghệ định vị đồng Simultaneous localization and mapping ThS. Phạm Minh
+31 Hùng, CLC-VN
+20521619 Văn Nhật Minh thời lập bản đồ trên robot (SLAM) in mobile robots Quân
+ThS. Phan Đình Duy
+Page 4 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Ứng dựng các thiết bị IoT vào thực tế
+32 20520665 Chu Thành Nhân IoT in Metaverse ThS. Phan Đình Duy ThS. Trần Hoàng Lộc CQĐT
+ảo Metaverse
+Hệ thống điểm danh kết hợp thẻ Attendance system combines RFID
+ThS. Phạm Minh
+33 20521215 Võ Sỹ Dũng RFID và nhận diện khuôn mặt sử card and face recognition using CNN, ThS. Phan Đình Duy CQĐT
+Quân
+dụng CNN, Facenet, SVM Facenet, SVM
+Tích hợp tính toán biên và máy chủ Integrating edge computing and server
+ThS. Phan Đình Duy,
+34 20522094 Lê Hữu Truyền cho hệ thống nhận diện khuôn mặt đa for multi-authentication facial TS. Phạm Quốc Hùng CQĐT
+KS. Chế Quang Huy
+xác thực recognition system
+Nghiên cứu và thiết kế mô hình robot ThS. Nguyễn Thanh
+35 19520544 Nguyễn Quốc Hiếu Research and design patrol robot TS. Phạm Quốc Hùng CQĐT
+tuần tra Thiện
+Thiết kế và xây dựng hệ thống đo Thiết kế và xây dựng hệ thống đo nồng CLC-VN
+20521606, Nguyễn Anh Minh, TS. Trần Quang TS. Nguyễn Hoài
+36 nồng độ CO2, nhiệt độ và độ ẩm dựa độ CO2, nhiệt độ và độ ẩm dựa trên Đổi tên đề
+20521950 Nguyễn Hoàn Thiện Nguyên Nhân
+trên hiện tượng quang xúc tác hiện tượng quang xúc tác tài
+Hệ thống thu thập tín hiệu sóng não Brain wave signal collection system ThS. Nguyễn Duy
+37 20521615 Thân Nhật Minh ThS. Phan Đình Duy CQĐT
+với module Nano 33 BLE with Nano 33 BLE module Xuân Bách
+ThS. Nguyễn Duy
+20521843, Nguyễn Hồng Sơn, Xây dựng thiết bị đọc đồng hồ nước Building an electronic mechanical Xuân Bách, ThS. Ngô Hiếu
+38 CLC-VN
+20522053 Phạm Minh Trí cơ bằng điện tử water meter reading device ThS. Phạm Minh Trường
+Quân
+ThS. Trần Hoàng
+20521365, Mai Lê Vĩnh Hưng, ThS. Phạm Minh
+39 Hệ thống phòng thi thông minh Smart exam room system Lộc, CLC-VN
+20521406 Nguyễn Tấn Huy Quân
+TS. Phạm Quốc Hùng
+Page 5 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Hệ thống nhận diện cử chỉ tay để Hand gesture recognition system for
+40 20520946 Nguyễn Thành Trung ThS. Trần Hoàng Lộc TS. Phạm Quốc Hùng CQĐT
+điều khiển slide trình chiếu controlling presentation slides
+Thiết kế, thi công hệ thống điểm
+41 20521497 Nguyễn Anh Kiệt IoT-based QR code checking system. TS. Đỗ Trí Nhựt TS. Phạm Quốc Hùng CLC-VN
+danh bằng mã QR
+Thiết kế - Thi công hệ thống định vị IMU-based wearable indoor navigation
+42 19522150 Đỗ Hữu Tài TS. Đỗ Trí Nhựt TS. Phạm Quốc Hùng CLC-VN
+bằng thiết bị đeo IMU system
+Design a system for determining and
+Thiết kế hệ thống nhận diện và phân
+43 19522388 Nguyễn Minh Trí classification ripeness of mangoes TS. Đoàn Duy ThS. Trần Hoàng Lộc CLC-VN
+loại độ chín của các loại xoài
+based on the color of fruit
+Thiết kế thiết bị nhận dạng bàn tay hỗ
+20521333, Ngô Lê Tuyết Hoa, Implementing a finger detection box ThS. Nguyễn Thanh
+44 trợ phát triển các giải pháp điều TS. Đoàn Duy CLC-VN
+20521630 Nguyễn Hữu Nam for automated control applications Thiện
+khiển tự động
+Applying machine learning techniques
+20522155, Võ Quốc Việt, Ứng dụng kỹ thuật máy học để trích ThS. Nguyễn Thanh
+45 to extract medical information from TS. Đoàn Duy CLC-VN
+20522172 Nguyễn Quốc Vương xuất thông tin toa thuốc từ ảnh chụp Thiện
+image of prescription
+Thiết kế giải pháp hỗ trợ tra cứu Design an application for drug store
+20521806, Lê Ngọc Quang, ThS. Trương Văn
+46 điểm bán thuốc dựa trên ảnh chụp toa searching using image of medical TS. Đoàn Duy CLC-VN
+20521819 Nguyễn Mạnh Quyền Cương
+thuốc prescription
+20520326, Tạ Điền Minh Trí, Thiết kế hệ thống mô phỏng đánh giá Designing a simulation system for TS. Nguyễn Hoài
+47 TS. Đoàn Duy CQĐT
+20520349 Lê Hữu Vinh mật độ giao thông trong đô thị traffic density evaluating in urban areas Nhân
+Page 6 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Thiết kế và chế tạo hệ thống gắp thả
+20521682, Thân Quán Nguyên, Design and build pick and place TS. Trần Quang ThS. Ngô Hiếu
+48 linh kiện trong quy trình làm mạch CLC-VN
+20521757 Vũ Hoàng Thiên Phú component in creating electronic circuit Nguyên Trường
+điện tử
+Nghiên cứu tích hợp công nghệ tính Research the integration of edge
+20520614, Phan Ái Linh, TS. Nguyễn Minh
+49 toán biên cho thiết bị bục giảng trong computing technology for lectern TS. Trịnh Lê Huy CQĐT
+20521422 Lê Thị Thu Huyền Sơn
+lớp học Hybrid device in the Hybrid classroom
+16521558, Hoàng Anh Minh, Cải tiến giải thuật Deep Q-Network Update Deep Q-Network (DQN) TS. Nguyễn Minh
+50 TS. Trịnh Lê Huy CLC-VN
+19522212 Nguyễn Văn Thắng (DQN) sử dụng công nghệ SoC algorithm using SoC technology Sơn
+Võ Phan Hoàng Kha
+20521428, Mô phỏng và hiện thực hệ thống SoC Simulation and implementation SoC TS. Nguyễn Minh
+51 (CLC), TS. Trịnh Lê Huy CLC-VN
+20521596 với RISC-V 32-bit CPU trên FPGA with 32-bit RISC-V CPU on FPGA Sơn
+Phan Lê Min (CQĐT)
+Nghiên cứu tích hợp thuật toán nhận
+Research on itegrating license plate
+dạng biển số xe trong nhà xe trên TS. Nguyễn Minh
+52 20521983 Thái Quốc Thông recognition in garage algorithms on ThS. Hồ Ngọc Diễm CLC-VN
+camera thông minh sử dụng công Sơn
+smart camera using SoC technology
+nghệ SoC
+Nghiên cứu hành vi học sinh và tích Research about student behavior and
+20521948, Nguyễn Chí Thiện, TS. Nguyễn Minh
+53 hợp trong bộ điều khiển của bàn học implement into the controller of smart TS. Đỗ Trí Nhựt CLC-VN
+20522045 Đào Ngọc Minh Trí Sơn
+thông minh desk
+Research and development a test and
+Nghiên cứu phát triển bộ kiểm tra TS. Nguyễn Minh TS. Trần Quang
+54 17521248 Nguyễn Bá Văn evaluation suite for the RISC-V Core CLC-VN
+đánh giá hệ thống RISC-V Core Sơn Nguyên
+system
+Hiện thực một NOC (network on Implementing a NOC (network on ThS. Phạm Thanh
+Nguyễn Đức Duy
+20521435, chip) sử dụng lõi vi xử lý RISC-V chip) using RISC-V RV32IMF Hùng, TS. Trần Quang
+55 Khang, CLC-VN
+20521638 RV32IMF thông qua giao thức processor core with TileLink protocol TS. Trần Phước Nguyên
+Trương Trần Hoài Nam
+TileLink trên FPGA on FPGA Xuân (TG)
+Page 7 of 8
+
+CÁN BỘ PHẢN
+STT MSSV HỌ TÊN TÊN ĐỀ TÀI TIẾNG VIỆT TÊN ĐỀ TÀI TIẾNG ANH CB HƯỚNG DẪN Ghi chú
+BIỆN
+Thiết kế lõi vi xử ký RISC-V RV32I Design RISC-V RV32I microprocessor ThS. Phạm Thanh
+20522059, Hồ Khả Trình, tích hợp khối điều khiển JTAG ứng core integrated JTAG controller block Hùng, TS. Trần Quang
+56 CLC-VN
+20522088 Nguyễn Nhựt Trường dụng vào việc nạp lệnh chương trình applying to program instruction code TS. Trần Phước Nguyên
+trên FPGA on FPGA Xuân (TG)
+ThS. Phạm Thanh
+Hiện thực một hệ thống SoC tích hợp Implementing a SoC integrated an
+20522131, Nguyễn Thanh Tùng, Hùng, TS. Trần Quang
+57 lõi IP ethernet 1 GBPS hỗ trợ giao ethernet IP core 1 GBPS supporting CLC-VN
+20522143 Lê Hoàng Văn TS. Trần Phước Nguyên
+thức ICMP trên FPGA ICMP protocol on FPGA
+Xuân (TG)
+Hiện thực lõi IP thuật toán chữ ký số ThS. Phạm Thanh
+Implement IP of Digital signaltrure
+20520932, Nguyễn Lê Thảo, (DSA) sử dụng hệ mật mã đường Hùng,
+58 algrorithm using elliptic cure ThS. Trần Văn Quang CLC-VN
+20521338 Trần Xuân Ngọc Hoan cong ELLIPTIC kết hợp thuật toán TS. Trần Phước
+crytigraphy and sha-256 on FPGA
+băm SHA-256 trên FPGA Xuân (TG)
+20521302, Trần Đăng Hậu, Nghiên cứu và hiện thực IP Research and implementation of ThS. Trương Văn
+59 ThS. Trần Văn Quang CQĐT
+20521744 Lê Quang Phong ShuffleNet ShuffleNet IP Cương
+Researching and implementation of a
+Nghiên cứu thiết kế và hiện thực mô ThS. Trương Văn
+verification environment for a
+60 16520347 Ngô Thái Anh Hào hình kiểm tra cho một thiết kế mạng Cương, ThS. Trần Văn Quang CLC-VN
+convolutional neural network
+nơ-ron tích chập ThS. Hồ Ngọc Diễm
+intellectual property
+Page 8 of 8

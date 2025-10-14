@@ -1,0 +1,165 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TRƯỜNG ĐẠI HỌC Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN Tp. Hồ Chí Minh, ngày tháng năm 2009
+CHƯƠNG TRÌNH ĐÀO TẠO
+Chươngtrình
+Tên chương trình: đàotạoKỹsư
+Tin học
+Trình độ đào tạo: Đại học
+Kỹ sư Hệ
+Chuyên ngành đào tạo: thống thông
+tin
+Chính quy
+Loại hình đào tạo:
+tập trung
+Mã ngành đào tạo: 52480104
+Khóa đào tạo: 2006-2011 (Khóa 1)
+Tổng số tín chỉ của chương trình đào tạo ( 9 học kỳ) : 160 tín chỉ
+Giai đoạn 1 : Chương trình chung các khoa.
+Tổng số tín chỉ các học kỳ 1, 2, 3 : 61 tín
+(không tính các môn Giáo dục thể chất, Giáo dục quốc phòng, Anh Văn)
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+Học kỳ 1 Kiến trúc máy
+CARC1 tính 3 3 0 Bắt buộc
+Tin học đại
+CSC21 cương (TE) 5 4 1 Bắt buộc
+Toán cao cấp
+MAT21 A1 (TE) 4 4 0 Bắt buộc
+Triết học Mác-
+PHIL2 Lênin 5 5 0 Bắt buộc
+Vật lý đại
+PHY01 cương A1 3 3 0 Bắt buộc
+Giáo dục quốc
+phòng Bắt buộc
+Anh văn 1
+Bắt buộc
+
+PEDU1 Giáo dục thể
+chất 1 Bắt buộc
+Cộng 20 TC
+Học kỳ 2
+DBSS1 Cơ sở dữ liệu 4 3 1 Bắt buộc
+Cấu trúc dữ liệu
+DSAL1 và giải thuật 4 3 1 Bắt buộc
+Đại số tuyến
+MAT23 tính 4 4 0 Bắt buộc
+Lập trình hướng
+OOPT1 đối tượng 4 3 1 Bắt buộc
+Vật lý đại
+PHY22 cương A2 (TE1) 4 4 0 Bắt buộc
+PEDU2 Giáo dục thể
+chất 2 Bắt buộc
+Anh văn 2
+Cộng 20 TC
+Học kỳ 3 CNET1 Mạng máy tính 4 3 1 Bắt buộc
+Toán cao cấp
+MAT22 A2 (TE) 4 4 0 Bắt buộc
+Kinh tế chính
+trị Mác-Lênin
+MLPE2 (TE1) 5 5 0 Bắt buộc
+OSYS1 Hệ điều hành 4 4 0 Bắt buộc
+Lập trình trên
+WINP1 Windows 4 3 1 Bắt buộc
+Anh văn 3 Bắt buộc
+Cộng 21 TC
+Giai đoạn 2 : Chương trình ngành Hệ Thống Thông Tin
+học kỳ 4, 5, 6, 7, 8, 9 : 99 tín chỉ
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+Thiết kế cơ sở
+IS101 dữ liệu 4 3 1 Bắt buộc
+Nhập môn
+IS202 công nghệ 4 3 1 Bắt buộc
+Lập trình cơ
+IS203 sở dữ liệu 4 3 1 Bắt buộc
+Cấu trúc rời
+MAT04 rạc 4 4 0 Bắt buộc
+
+Xác suất thống
+STA01 kê 3 3 0 Bắt buộc
+Lịch sử Đảng
+VCPH1 CSVN 3 3 0 Bắt buộc
+Anh văn 4 Bắt buộc
+Học kỳ 4 Cộng 22 TC
+Các hệ cơ sở
+IS102 tri thức 3 3 0 Bắt buộc
+Hệ quản trị cơ
+IS103 sở dữ liệu 4 3 1 Bắt buộc
+Phân tích thiết
+kế hệ thống
+IS201 thông tin 4 3 1 Bắt buộc
+Nhập môn Hệ
+thống thông
+IS204 tin địa lý 4 3 1 Bắt buộc
+Học kỳ 5 Lập trình ứng
+IS206 dụng Web với 4 3 1 Bắt buộc
+Nhập môn
+quản trị doanh
+ITEM1 nghiệp 2 2 0 Bắt buộc
+Cộng 21 TC
+Tư tưởng Hồ
+HCMT1 Chí Minh 3 3 0 Bắt buộc
+Cơ sở dữ liệu
+IS104 phân tán 4 3 1 Bắt buộc
+Học kỳ 6
+Hệ quản trị cơ
+sở dữ liệu
+IS105 Oracle 4 3 1 Bắt buộc
+kế hướng đối
+tượng với
+IS205 UML 4 3 1 Bắt buộc
+Quản lý dự án
+công nghệ
+IS208 thông tin 4 3 1 Bắt buộc
+Cộng 19 TC
+Khai thác dữ
+IS106 liệu 4 3 1 Bắt buộc
+Hệ thống
+thông tin kế
+IS107 toán 5 5 0 Bắt buộc
+Phát triển ứng
+IS207 dụng web 4 3 1 Bắt buộc
+
+Đồ án xây
+dựng một hệ
+IS311 thống thông tin 3 3 0 Bắt buộc
+Chủ nghĩa xã
+SOCI1 hội khoa học 3 3 0 Bắt buộc
+Học kỳ 7 Cộng 19 TC
+Phương pháp
+luận sáng tạo
+SMET2 KH - CN 2 2 0 Bắt buộc
+Thực tập tốt
+IS501 nghiệp 3 3 0 Bắt buộc
+IS 30* Tự chọn
+Môn tự chọn
+(*)
+( Sinh viên
+chọn các môn
+sau đây) 3
+IS301:Thương
+mại điện tử 3 3 0
+IS302: Phân
+tích không gian 4 3 1
+IS303: Hệ cơ
+sở dữ liệu
+không gian 4 3 1
+IS304: Kho dữ
+liệu và OLAP 4 3 1
+IS305 :An
+toàn và bảo
+mật HTTT 3 3 0
+IS306 :Hệ
+thống thông
+tin quản lý 3 3 0
+Học kỳ 8 Cộng 08 TC
+Khóa luận tốt
+nghiệp (IS505)
+hoặc thi các
+môn chuyên
+IS505 đề tốt nghiệp 10 10 Bắt buộc
+Học kỳ 9 Cộng 10 TC
+Tổng số tín chỉ tích lũy toàn khóa : 160
+Ghi chú (*) : Nhóm môn học tự chọn (tổng cộng 3 tín chỉ)
+
+HIỆU TRƯỞNG
+HOÀNG VĂN KIẾM

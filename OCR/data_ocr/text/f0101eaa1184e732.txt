@@ -1,0 +1,102 @@
+ĐẠI HỌC QUỐC GIA TP.HCM CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT
+TRƯỜNG ĐẠI HỌC Độc lập - Tự do - Hạnh phúc
+CÔNG NGHỆ THÔNG TIN
+Tp. Hồ Chí Minh, ngày 26 tháng 02 năm
+CHƯƠNG TRÌNH GIÁO DỤC ĐẠI HỌC
+Tên chương trình: Chương trình đào tạo hệ Kỹ sư chính quy
+Trình độ đào tạo: Đại học
+Ngành đào tạo: Kỹ Thuật Máy tính
+Loại hình đào tạo: Chính quy
+Khóa đào tạo: 2006-2011 (Khóa 1)
+Tổng số tín chỉ của chương trình đào tạo (9 học kỳ) : 153 tín chỉ
+Giai đoạn 1 : Chương trình chung các khoa.
+Tổng số tín chỉ các học kỳ 1, 2, 3 : 61 tín chỉ
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+Học kỳ 1 CARC1 Kiến trúc máy tính 3 3 0
+CSC21 Tin học đại cương (TE) 5 4 1
+MAT21 Toán cao cấp A1 (TE) 4 4 0
+PHIL2 Triết học Mác-Lênin 5 5 0
+PHY01 Vật lý đại cương A1 3 3 0
+Giáo dục quốc phòng
+Anh văn 1
+Giáo dục thể chất 1
+Cộng 20 TC
+Học kỳ 2 DBSS1 Cơ sở dữ liệu 4 3 1
+3 1
+Cấu trúc dữ liệu và giải
+DSAL1 thuật 4
+MAT23 Đại số tuyến tính 4 4 0
+3 1
+OOPT1 Lập trình hướng đối tượng 4
+Vật lý đại cương A2 4 0
+PHY22 (TE1) 4
+Giáo dục thể chất 2
+Anh văn 2
+Cộng 20 TC
+Học kỳ 3 CNET1 Mạng máy tính 4 3 1
+MAT22 Toán cao cấp A2 (TE) 4 4 0
+
+5 0
+Kinh tế chính trị Mác-
+MLPE2 Lênin (TE1) 5
+OSYS1 Hệ điều hành 4 4 0
+WINP1 Lập trình trên Windows 4 3 1
+Cộng 21 TC
+Giai đoạn 2 : Chương trình ngành Kỹ thuật máy tính
+Tổng số tín chỉ các học kỳ 4, 5, 6, 7, 8, 9 : 92 tín
+STT Mã môn học Tên môn học Số TC LT TH Ghi chú
+CE101 Lý thuyết mạch điện 4 4 0
+CE102 Hệ thống số 4 3 1
+CE108 Hệ điều hành nâng cao 3 3 0
+MAT04 Cấu trúc rời rạc 4 4 0
+Đường lối cách mạng của
+VCPL1 Đảng CSVN 3 3 0
+Học kỳ 4 Cộng 18 TC
+Học kỳ 5 CE103 Vi xử lý-vi điều khiển 4 3 1
+3 0
+Các thiết bị và mạch điện
+CE104 tử 3
+CE105 Xử lý tín hiệu số 4 3 1
+3 1
+CE106 Thiết kế mạch với HDL 4
+HCMT1 Tư tưởng Hồ Chí Minh 2 2 0
+Cộng 17 TC
+Học kỳ 6 CE107 Hệ thống nhúng 4 3 1
+CE109 Lập trình nhúng căn bản 3 2 1
+Lập trình hệ thống với
+CE110 Java 4 3 1
+Kiến trúc máy tính nâng
+CE111 cao 3 2 1
+Đồ án môn học thiết kế
+CE112 mạch 2 0 2
+CE113 Điều khiển tự động 3 3 0
+Cộng 19 TC
+Lập trình trên thiết bị di 2 1
+CE114 động 3
+CE202 An toàn mạng máy tính 3 3 0 Môn tự chọn
+3 0 Môn tự chọn
+CE204 Thiết kế và Lập trình Web 3
+2 0
+ITEW1 Nhập môn công tác kỹ sư 2
+
+CE115 Thiết kế Mạng 4 3 1
+3 0
+SOCI1 Chủ nghĩa xã hội khoa học 3
+Học kỳ 7 C ộng 15 TC
+CE116 KTMT 2 0 2
+Chuyên ngành 1
+CE302 Thiết kế vi mạch 3 2 1
+Chuyên ngành 1
+CE301 Hệ thống chứng thực số 3 3 0
+Phương pháp luận sáng
+SMET2 tạo KH-CN 2 2 0
+CE502 Thực tập doanh nghiệp 3 0 3
+Học kỳ 8 Cộng 10 TC
+Học kỳ 9 3 0 Chuyên ngành 2
+CE312 Hệ thống thời gian thực 3
+3 0 Chuyên ngành 2
+CE314 Trình biên dịch 3
+CE505 Khóa luận tốt nghiệp 10
+Cộng 13 TC
+HIỆU TRƯỞNG
+HOÀNG VĂN KIẾM

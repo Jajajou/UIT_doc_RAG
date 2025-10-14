@@ -1,0 +1,24 @@
+{
+  "url": "http://dreamspark.uit.edu.vn/",
+  "fetched_at": "2025-10-14T01:56:27.172917",
+  "status": null,
+  "content_type": null,
+  "file_path": null,
+  "html_path": "output_raw\\html\\8965e1cd4233d6d8.html",
+  "out_links": [
+    "internal",
+    "external",
+    "/",
+    "./Client/assets/images/favicon.ico",
+    "styles.9f43b52702d1d35bdb3f.css",
+    "main.f75bf360838e8df5ad81.css",
+    "https://lptag.liveperson.net/tag/tag.js?site=",
+    "https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js",
+    "runtime.a66f828dca56eeb90e02.js",
+    "polyfills.7a1bb57858a53505b8ea.js",
+    "scripts.0de1cce421b0a9edf48b.js",
+    "main.59684bea91572682a8f4.js"
+  ],
+  "domain": null,
+  "notes": null
+}

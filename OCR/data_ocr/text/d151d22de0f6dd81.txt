@@ -1,0 +1,187 @@
+
+============================================================
+SHEET: Canh bao
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 | Unnamed: 11
+--------------------------------------------------------------------------------
+PHÒNG ĐÀO TẠO ĐẠI HỌC | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH DỰ KIẾN CẢNH BÁO HỌC KỲ 2 VÀ HÈ NĂM HỌC 2023-2024
+KHOA KTMT-CHÍNH QUY ĐẠI TRÀ
+STT | MASV | Họ và tên | Lý do | TCTL | Điểm TBHK 2,3 | Điểm TBHK 1 | Lớp sinh hoạt | Tên cố vấn học tập | MH Nợ | Có ĐKHP | Nợ HP
+1 | 19520965 | Phạm Ngọc Thanh Thảo | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 135 | 6.6 | 5.86 | KTMT0001 | Đoàn Duy
+2 | 19521532 | Hồ Nam Hoàng | Bị Cảnh báo vì: 
+  -ĐTB 2 học kỳ liên tiếp < 4 | 56 | 3.77 | 2.57 | KTMT0001 | Đoàn Duy
+3 | 19521717 | Nguyễn Công Kiên | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 125 | 1.13 | 6.33 | KTMT0001 | Đoàn Duy | CE502.P11, CE222.P11, CE222.P11.1
+4 | 19521903 | Ứng Trọng Nghĩa | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-05-15 | 134 | 5.19 | 6.06 | KTMT0001 | Đoàn Duy | CE437.P11, CE437.P11.2
+5 | 19521936 | Ngô Trọng Nhân | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-01-31 | 134 | 0 | 7 | KTMT0001 | Đoàn Duy
+6 | 19522089 | Trần Mạnh Quân | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-01-31 | 138 | 0 | 5.2 | KTMT0001 | Đoàn Duy
+7 | 20520467 | Lê Nguyễn Quang Duy | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 118 | 4.4 | 6.9 | KTMT2020 | Đoàn Duy | CE222.P11, CE222.P11.1
+8 | 20520503 | Huỳnh Trí Hiếu | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 116 | 0.3 | 6.24 | KTMT2020 | Đoàn Duy | CE206.P11, CE412.P11, CE502.P11
+9 | 20521302 | Trần Đăng Hậu | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 126 | 8.75 | 8.5 | KTMT2020 | Đoàn Duy
+10 | 20521727 | Trần Bảo Nhung | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 120 | 0 | 7.87 | KTMT2020 | Đoàn Duy
+11 | 20522029 | Vũ Đức Toàn | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-01-31 | 96 | 0 | 5.43 | KTMT2020 | Đoàn Duy
+12 | 21520580 | Nguyễn Tuấn Anh | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 63 | 0.06 | 0.95 | KTMT2021 | Thân Thế Tùng
+13 | 21521346 | Nguyễn Minh Quang | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 110 | 7 | 5.47 | KTMT2021 | Thân Thế Tùng | CE201.P11, CE206.P11, CE502.P11
+14 | 21522314 | Nguyễn Đức Lưu | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 93 | 8.7 | 5.2 | KTMT2021 | Thân Thế Tùng | CE124.P11, CE124.P11.1, CE206.P11, CE222.P11, CE222.P11.1, CE412.P11, IE106.P12, IE106.P12.1, TLH025.P12
+15 | 21522567 | Nguyễn Hữu Tài | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 74 | 5.76 | 5.72 | KTMT2021 | Thân Thế Tùng | CE118.P15, CE118.P15.1, CE124.P11, CE124.P11.1, CE201.P11, SS010.P13
+16 | 21522715 | Kiều Thị Hiền Trinh | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 104 | 6.93 | 6.95 | KTMT2021 | Thân Thế Tùng | CE206.P11, CE502.P11, IE106.P12, IE106.P12.1
+17 | 21522793 | Nguyễn Thành Vinh | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 112 | 6.46 | 7.03 | KTMT2021 | Thân Thế Tùng | CE118.P12, CE118.P12.1, CE206.P11, CS116.P11, CS116.P11.1
+18 | 22520032 | Trịnh Hoàng An | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+ | 46 | 1.9 | 4.88 | KTMT2022.1 | Phạm Minh Quân | CE224.P15, CE224.P15.1, IT004.P13, IT004.P13.2, PE012.P13, SS009.P16
+19 | 22520388 | Nguyễn Thanh Hải | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 37 | 2.38 | 4.83 | KTMT2022.1 | Phạm Minh Quân | IT003.P15, IT003.P15.1, IT004.P110, IT004.P110.1, IT007.P11, IT007.P11.1
+20 | 22520532 | Nguyễn Kim Bằng Hữu | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 31 | 5.17 | 3.91 | KTMT2022.1 | Phạm Minh Quân | CE119.P11.2, ENG03.P120, IT001.P125, IT001.P125.1, MA006.P126
+21 | 22520576 | Trần Minh Huy | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-05-15 | 76 | 6.52 | 6.46 | KTMT2022.1 | Phạm Minh Quân | CE118.P15, CE118.P15.1, CE124.P14, CE124.P14.1, CE201.P11, CE224.P13, CE224.P13.1, CE437.P11, CE437.P11.1, SS006.P17
+22 | 22520866 | Lê Lâm Bảo Minh | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-05-15 | 42 | 1.13 | 6.19 | KTMT2022.2 | Phạm Minh Quân | IT004.P11.CNVN, IT004.P11.CNVN.2, IT007.P111, IT007.P111.2, PE012.P12
+23 | 22520990 | Trương Lê Hoàng Thanh Nguyên | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 69 | 5.7 | 6.19 | KTMT2022.2 | Phạm Minh Quân | CE118.P14, CE118.P14.1, CE124.P13, CE124.P13.1, CE224.P15, CE224.P15.1, MA004.P11.CNVN
+24 | 22521018 | Lê Nho Nguyên Nhật | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-05-15 | 58 | 4.1 | 5.93 | KTMT2022.2 | Phạm Minh Quân | ENG03.P113, IT003.P15, IT003.P15.1, IT004.P17, IT004.P17.1, PE012.P11, SS008.P11, SS010.P11
+25 | 22521154 | Lâm Xuân Phước | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 80 | 8.69 | 8.2 | KTMT2022.2 | Phạm Minh Quân | CE118.P14, CE118.P14.1, CE124.P12, CE124.P12.1, IT007.P16, IT007.P16.2
+26 | 22521634 | Phan Minh Thanh Tuyền | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 22 | 2.08 | 6.96 | KTMT2022.2 | Phạm Minh Quân
+27 | 23520050 | Lương Tuấn Anh | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 12 | 2.86 | 4.31 | KTMT2023.1 | Trần Hoàng Lộc | ENG02.P119, IT003.P17, IT003.P17.2, SS003.P16, SS009.P16
+28 | 23520095 | Đỗ Nguyễn Gia Bảo | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 0 | 0 | 0.67 | KTMT2023.1 | Trần Hoàng Lộc
+29 | 23520212 | Vũ Linh Cường | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 0 | 0.37 | 1.13 | KTMT2023.1 | Trần Hoàng Lộc
+30 | 23520836 | Phù Hoàng Lâm | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 27 | 4.1 | 4.2 | KTMT2023.1 | Trần Hoàng Lộc | IT003.P16, IT003.P16.1, IT005.P118, IT005.P118.2, MA006.P126, SS003.P11, SS006.P17
+31 | 23520841 | Vũ Thị Vân Lam | Bị Cảnh báo vì: 
+  -ĐTB 2 học kỳ liên tiếp < 4 | 26 | 3.95 | 3.59 | KTMT2023.2 | Trần Hoàng Lộc | CE119.P12.2, IT002.P13, IT002.P13.1, IT003.P17, IT003.P17.1, IT004.P119, IT004.P119.2, IT005.P117, IT005.P117.1, IT006.P12, SS003.P16, SS004.P12
+32 | 23521180 | Đỗ Xuân Phú | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 46 | 7.54 | 7.71 | KTMT2023.2 | Trần Hoàng Lộc | CE119.P11.1, IT003.P13, IT003.P13.1, IT005.P116, IT005.P116.1, IT006.P11, SS004.P17, SS010.P14
+33 | 23521426 | Nguyễn Quốc Thắng | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 12 | 1.63 | 4.59 | KTMT2023.2 | Trần Hoàng Lộc | ENG03.P119, IT001.P125, IT001.P125.1, MA005.P13, MA006.P126, SS007.P16
+34 | 23521569 | Đặng Bảo Tiến | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 13 | 0 | 3.64 | KTMT2023.2 | Trần Hoàng Lộc
+35 | 23521798 | Trần Danh Vinh | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 38 | 6.86 | 6.03 | KTMT2023.2 | Trần Hoàng Lộc | CE119.P12.1, IT001.P127, IT001.P127.1, IT003.P11, IT003.P11.2, IT005.P119, IT005.P119.1, IT006.P12
+36 | 20520688 | Ngô Tạ Đình Phong | Bị Cảnh báo vì: 
+  -ĐTB 2 học kỳ liên tiếp < 4 | 81 | 3.95 | 3.63 | MTIO2020 | Đoàn Duy | CE118.P11, CE118.P11.1, CE124.P11, CE124.P11.1, CE206.P11, CE222.P11, CE222.P11.1, IT005.P112, IT005.P112.1, SS006.P19
+37 | 20520789 | Phan Duy Thông | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 124 | 2.13 | 5.56 | MTIO2020 | Đoàn Duy | CE437.P11, CE437.P11.1
+38 | 21520825 | Vũ Ngọc Hạnh | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-05-15 | 100 | 6.43 | 5.79 | MTIO2021 | Phan Đình Duy  | CE206.P11
+39 | 21522271 | Mạch Tuấn Lạc | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-01-31 | 62 | 1.41 | 5.31 | MTIO2021 | Phan Đình Duy  | CE118.P12, CE118.P12.1, CS116.P11, CS116.P11.1, IT003.P14, IT003.P14.1, SS007.P13
+40 | 21522421 | Võ Quang Nhật | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-05-15 | 60 | 5.79 | 5.55 | MTIO2021 | Phan Đình Duy  | IT002.P13, IT002.P13.1, IT003.P14, IT003.P14.1, IT004.P11, IT004.P11.1
+41 | 22520169 | Nguyễn Thành Công | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 78 | 6.91 | 8.03 | MTIO2022 | Trương Văn Cương | CE118.P13, CE118.P13.1, CE124.P13, CE124.P13.1, CE224.P13, CE224.P13.1, SS008.P15, SS010.P12
+42 | 23520274 | Trần Thiện Đạt | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 34 | 5.95 | 5.86 | MTVM2023 | Tạ Trí Đức | CE119.P11.2, IT001.P125, IT001.P125.2, IT003.P16, IT003.P16.2, IT005.P116, IT005.P116.2, IT006.P14, SS009.P13
+43 | 23520301 | Lý Quang Duẩn | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3
+  -Đóng học phí trể - 2024-01-31 | 5 | 0 | 4.01 | MTVM2023 | Tạ Trí Đức | IT001.P125, IT001.P125.2, MA004.P12.CNVN, MA006.P126, SS007.P16
+44 | 23520459 | Lê Vũ Minh Hiển | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 31 | 2.68 | 7.22 | MTVM2023 | Tạ Trí Đức | CE119.P13.1, IT002.P12, IT002.P12.1, IT003.P16, IT003.P16.1, IT005.P118, IT005.P118.2, IT006.P14, SS003.P16, SS007.P13
+45 | 23520679 | Trần Minh Khải | Bị Cảnh báo vì: 
+  -Đóng học phí trể - 2024-01-31 | 44 | 8.5 | 7.13 | MTVM2023 | Tạ Trí Đức | CE119.P11.1, IT003.P13, IT003.P13.1, IT004.P11, IT004.P11.1, IT005.P11.CNVN, IT005.P11.CNVN.2, IT006.P11
+46 | 23521614 | Nguyễn Hoàng Quí Trâm | Bị Cảnh báo vì: 
+  -ĐTB học kỳ 2,3 < 3 | 18 | 2.45 | 3.96 | MTVM2023 | Tạ Trí Đức | CE119.P11.2, IT003.P17, IT003.P17.2, IT004.P119, IT004.P119.2, IT005.P118, IT005.P118.2, MA005.P11, MA006.P126, SS003.P16, SS004.P13
+
+============================================================
+SHEET: Buoc thoi hoc
+============================================================
+
+TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM  | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 | Unnamed: 11
+--------------------------------------------------------------------------------
+PHÒNG ĐÀO TẠO ĐẠI HỌC | Độc lập - Tự do - Hạnh phúc
+DANH SÁCH DỰ KIẾN BUỘC THÔI HỌC HỌC KỲ 2 VÀ HÈ NĂM HỌC 2023-2024
+KHOA HỆ THỐNG THÔNG TIN
+STT | MASV | Họ và tên | Lý do | TCTL | Điểm TBHK 2,3 | Điểm TBHK 1 | Lớp sinh hoạt | Tên cố vấn học tập | MH Nợ | Có ĐKHP | Nợ HP
+1 | 15520192 | Trần Lâm Hân | Hết hạn đào tạo 9 năm | 140 | 6.46 | KTMT0001 |  Đoàn Duy
+2 | 15520317 | Trần Lê Vĩnh Huy | Hết hạn đào tạo 9 năm | 120 | 7.59 | KTMT0001 |  Đoàn Duy
+3 | 15520567 | Nguyễn Công Trí Nhân | Hết hạn đào tạo 9 năm | 138 | 6.47 | KTMT0001 |  Đoàn Duy
+4 | 15520755 | Đinh Đức Tâm | Hết hạn đào tạo 9 năm | 108 | 6.18 | KTMT0001 |  Đoàn Duy
+5 | 15520991 | Lê Đức Tuyên | Hết hạn đào tạo 9 năm | 139 | 6.82 | KTMT0001 |  Đoàn Duy
+6 | 15521004 | Nguyễn Hoàng Vĩ | Hết hạn đào tạo 9 năm | 139 | 6.99 | KTMT0001 |  Đoàn Duy
+7 | 18520424 | Lê Hoài Ân | Điểm TB 2 học kỳ liên tiếp = 0 | 134 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+8 | 18520605 | Nguyễn Văn Đô | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Buộc thôi học được Hội đồng xem xét hạ mức
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 2&hè < 3
+- Đóng học phí trễ | 92 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 8460000
+9 | 18520755 | Trần Văn Hiếu | Điểm TB 2 học kỳ liên tiếp = 0 | 52 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 3000000
+10 | 18521257 | Nguyễn Hồng Phúc | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 124 | 2.94 | 2.53 | KTMT0001 |  Đoàn Duy | CE222.P11, CE222.P11.1, CE407.P11, IT004.P110, IT004.P110.1, MA005.P11 | Nợ : 12805000
+11 | 18521369 | Nguyễn Văn Thiện Tâm | Hết hạn đào tạo 6 năm | 126 | KTMT0001 |  Đoàn Duy
+12 | 18521667 | Lê Tuấn Vũ | Hết hạn đào tạo 6 năm | 136 | KTMT0001 |  Đoàn Duy
+13 | 19520036 | Phạm Quốc Đăng | Điểm TB 2 học kỳ liên tiếp = 0 | 143 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+14 | 19520191 | Trần Kim Khôi Nguyên | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 72 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 2100000
+15 | 19520353 | Trần Duy Quốc Việt | Điểm TB 2 học kỳ liên tiếp = 0 | 139 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 1500000
+16 | 19520520 | Danh Quốc Hào | Điểm TB 2 học kỳ liên tiếp = 0 | 131 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 900000
+17 | 19520542 | Nguyễn Đình Đức Hiếu | Điểm TB 2 học kỳ liên tiếp = 0 | 137 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+18 | 19520928 | Viên Minh Tân | Điểm TB 2 học kỳ liên tiếp = 0 | 139 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+19 | 19521716 | Lê Hữu Kiên | Điểm TB 2 học kỳ liên tiếp = 0 | 137 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+20 | 19522000 | Phạm Huỳnh Tấn Phát | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3
+ - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình 2 học kỳ liên tiếp < 4
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 92 | 2.92 | 3.9 | KTMT0001 |  Đoàn Duy | Nợ : 900000
+21 | 19522229 | Lê Đình Thành | Điểm TB 2 học kỳ liên tiếp = 0 | 126 | 0 | 0 | KTMT0001 |  Đoàn Duy | Nợ : 0
+22 | 21520496 | Phạm Minh Trí | Điểm TB 2 học kỳ liên tiếp = 0 | 71 | 0 | 0 | KTMT2021 | Thân Thế Tùng  | Không có thông tin học phí
+23 | 21521126 | Lê Hoàng Minh | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB 2 học kỳ liên tiếp < 4
+ - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 55 | 3.66 | 1.81 | KTMT2021 | Thân Thế Tùng  | CE118.P12, CE118.P12.1, CE124.P11, CE124.P11.1, CE224.P12, CE224.P12.1, PE012.P14, SS010.P13 | Nợ : 3840000
+24 | 22520152 | Nguyễn Lâm Chí | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB 2 học kỳ liên tiếp < 4
+ - Học kỳ trước (2/2023): Bị cảnh báo vì:
+- Điểm trung bình học kỳ 1 < 3
+- Đóng học phí trễ
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 26 | 3.23 | 2.25 | KTMT2022.1 | Phạm Minh Quân  | CE119.P13.1, ENG02.P11, IT006.P12, SS003.P14, SS007.P14, SS010.P13 | Nợ : 13720000
+25 | 22520676 | Nguyễn Chí Khoa | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 4 | 0 | 0 | KTMT2022.1 | Phạm Minh Quân  | Nợ : 9445000
+26 | 22521069 | Lương Gia Phát | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: ĐTB học kỳ 2,3 < 3Đóng học phí trể - 2024-01-31
+ - Học kỳ trước (2/2023): Buộc thôi học được Hội đồng xem xét hạ mức
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 13 | 0.39 | 0.3 | KTMT2022.2 | Phạm Minh Quân  | Không có thông tin học phí
+27 | 21520391 | Võ Tá Phát | 3 HK cảnh báo liên tiếp: 
+ - HK đang xét: Đóng học phí trể - 2024-01-31
+ - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+ - Học kỳ trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 70 | 5.42 | 2.78 | MTIO2021 | Phan Đình Duy  | CE124.P12, CE124.P12.1, CE222.P11, CE222.P11.1, CE224.P12, CE224.P12.1 | Nợ : 12150000
+28 | 22521210 | Huỳnh Tấn Quốc | 3 HK liên tiếp: 
+  - Học kỳ hiện tại : Điểm TB 2 học kỳ liên tiếp = 0
+  - Học kỳ trước (2/2023): Bị cảnh báo vì Điểm trung bình học kỳ 1 < 3
+  - Học kỳ trước trước (1/2023): Bị cảnh báo vì Điểm trung bình học kỳ 2&hè < 3 | 13 | 0 | 0 | MTIO2022 | Trương Văn Cương  | Nợ : 3720000
